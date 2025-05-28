@@ -29,8 +29,8 @@ Give the component a the name you added to the pnpm-workspace.yaml - "new-compon
 
 For the framework, select React:
 
-(/docs/images/select_react.png)
+![Screenshot of selecting React for the framework.](/docs/images/select_react.png)
 
 For variant, select "TypeScript + SWC"
 
-(/docs/images/select_ts_swc.png)
+![Screenshot of selecting "TypeScript + SWC" as the variant](/docs/images/select_ts_swc.png)
