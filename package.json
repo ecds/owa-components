@@ -1,0 +1,13 @@
+{
+  "name": "owa-components",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev-neighborhood-map": "npx pnpm --filter neighborhood-map dev"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "packageManager": "pnpm@10.10.0"
+}
