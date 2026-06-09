@@ -81,7 +81,7 @@ A live preview of every component is available at:
 ```bash
 cd apps
 pnpm create vite
-# framework: React, variant: TypeScript + SWC
+# framework: React, variant: TypeScript
 ```
 
 2. Add `@owa-components/vite-config` as a devDependency in the new app's `package.json`:

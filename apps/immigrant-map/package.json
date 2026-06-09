@@ -1,0 +1,30 @@
+{
+  "name": "immigrant-map",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc -b && vite build",
+    "lint": "eslint .",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@owa-components/ui": "workspace:*",
+    "@owa-components/utils": "workspace:*",
+    "@turf/turf": "^7.3.5",
+    "dev": "^0.1.5",
+    "react": "^19.2.7",
+    "react-dom": "^19.2.7"
+  },
+  "devDependencies": {
+    "@openhistoricalmap/maplibre-gl-dates": "^1.3.0",
+    "@owa-components/vite-config": "workspace:*",
+    "@types/node": "^24.13.1",
+    "@types/react": "^19.2.17",
+    "@types/react-dom": "^19.2.3",
+    "maplibre-gl": "^5.24.0",
+    "typescript": "~5.9.3",
+    "vite": "^7.3.5"
+  }
+}
