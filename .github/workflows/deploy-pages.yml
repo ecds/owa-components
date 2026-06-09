@@ -1,0 +1,101 @@
+name: Deploy to GitHub Pages
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: pnpm/action-setup@v4
+        with:
+          version: 10
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: pnpm
+
+      - run: pnpm install
+
+      - name: Build apps
+        run: |
+          REPO=owa-components
+          ORG=ecds
+          BASE_URL=https://${ORG}.github.io/${REPO}
+
+          for app in apps/*/; do
+            name=$(basename "$app")
+            VITE_WP_BASE="${BASE_URL}/apps/${name}/" \
+              pnpm --filter "$name" build
+          done
+
+      - name: Collect dist folders
+        run: |
+          mkdir -p _site
+          for app in apps/*/; do
+            name=$(basename "$app")
+            if [ -d "$app/dist" ]; then
+              cp -r "$app/dist" "_site/$name"
+            fi
+          done
+
+      - name: Add index page
+        run: |
+          cat > _site/index.html << 'EOF'
+          <!DOCTYPE html>
+          <html lang="en">
+          <head>
+            <meta charset="UTF-8">
+            <title>OWA Components</title>
+            <style>
+              body { font-family: sans-serif; max-width: 600px; margin: 3rem auto; padding: 0 1rem; }
+              ul { line-height: 2; }
+            </style>
+          </head>
+          <body>
+            <h1>Open World Atlanta Components</h1>
+            <ul id="list"></ul>
+            <script>
+              const apps = APPS_LIST;
+              const ul = document.getElementById('list');
+              apps.forEach(name => {
+                const li = document.createElement('li');
+                li.innerHTML = `<a href="${name}/">${name}</a>`;
+                ul.appendChild(li);
+              });
+            </script>
+          </body>
+          </html>
+          EOF
+
+          # Inject the real app list
+          apps=$(ls _site/ | grep -v index.html | python3 -c "import sys,json; print(json.dumps(sys.stdin.read().split()))")
+          sed -i "s|APPS_LIST|${apps}|" _site/index.html
+
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: _site
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4

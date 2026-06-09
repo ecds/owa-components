@@ -1,18 +1,12 @@
-
-  {
-  "compilerOptions": {
-    "target": "es2016",
-    "module": "commonjs",
-    "esModuleInterop": true,
-    "forceConsistentCasingInFileNames": true,
-    "strict": true,
-    "skipLibCheck": true
-    
-  },
-  "include": [
-    "neighborhood-map/**/*",
-    "neighborhood-map/**/.server/**/*",
-    "neighborhood-map/**/.client/**/*",
-    "server/**/*"
+{
+  "files": [],
+  "references": [
+    { "path": "./apps/neighborhood-map" },
+    { "path": "./apps/reynoldstown-wpf-map" },
+    { "path": "./apps/cabbagetown-1928" },
+    { "path": "./apps/cabbagetown-current" },
+    { "path": "./apps/buildings-1928" },
+    { "path": "./packages/ui" },
+    { "path": "./packages/utils" }
   ]
 }

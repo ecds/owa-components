@@ -18,7 +18,7 @@ export const positron: StyleSpecification = {
     ...neighborhoodLabels.sources,
     georgia: {
       type: "vector",
-      url: "https://d3j4mgzjrheeg2.cloudfront.net/georgia.json",
+      url: "https://d3j4mgzjrheeg2.cloudfront.net/us_georgia.json",
       attribution:
         '<a href="https://www.openstreetmap.org/copyright" target="_blank">&copy; OpenStreetMap contributors</a>',
     },
@@ -32,6 +32,10 @@ export const positron: StyleSpecification = {
       encoding: "terrarium",
       tileSize: 256,
       maxzoom: 13,
+    },
+    terrain: {
+      type: "raster-dem",
+      url: `https://api.maptiler.com/tiles/terrain-rgb-v2/tiles.json?key=uXfXuebPlkoPXiY3TPcv`,
     },
   },
   layers: [
@@ -47,7 +51,27 @@ export const positron: StyleSpecification = {
       "source-layer": "park",
       filter: ["==", "$type", "Polygon"],
       layout: { visibility: "visible" },
-      paint: { "fill-color": "rgb(230, 233, 229)" },
+      paint: { "fill-color": "rgb(231, 245, 229)" },
+    },
+    {
+      id: "park_grass",
+      type: "fill",
+      source: "georgia",
+      minzoom: 14,
+      "source-layer": "landcover",
+      filter: ["==", "class", "grass"],
+      layout: { visibility: "visible" },
+      paint: {
+        "fill-color": [
+          "interpolate",
+          ["exponential", 1.2],
+          ["zoom"],
+          14,
+          "rgb(231, 240, 229)",
+          18,
+          "rgb(231, 255, 229)",
+        ],
+      },
     },
     {
       id: "water",
@@ -153,6 +177,11 @@ export const positron: StyleSpecification = {
       paint: { "line-color": "hsl(195, 17%, 78%)" },
     },
     ...neighborhoods.layers,
+    {
+      id: "hillshading",
+      source: "terrain",
+      type: "hillshade",
+    },
 
     {
       id: "water_name",
@@ -194,7 +223,17 @@ export const positron: StyleSpecification = {
         visibility: "visible",
       },
       paint: {
-        "line-color": "rgb(213, 213, 213)",
+        "line-color": [
+          "interpolate",
+          ["exponential", 1.2],
+          ["zoom"],
+          6,
+          "rgb(213, 213, 213)",
+          11,
+          "hsla(0, 0%, 85%, 0.69)",
+          16,
+          "rgb(153, 153, 153)",
+        ],
         "line-opacity": 1,
         "line-width": [
           "interpolate",
@@ -227,7 +266,18 @@ export const positron: StyleSpecification = {
         visibility: "visible",
       },
       paint: {
-        "line-color": "rgb(234,234,234)",
+        "line-color": [
+          "interpolate",
+          ["exponential", 1.2],
+          ["zoom"],
+          6,
+          "rgb(234,234,234)",
+          11,
+          "hsla(0, 0%, 85%, 0.69)",
+          16,
+          "rgb(153, 153, 153)",
+        ],
+
         "line-width": [
           "interpolate",
           ["exponential", 1.4],
@@ -416,7 +466,7 @@ export const positron: StyleSpecification = {
       metadata: { "mapbox:group": "b6371a3f2f5a9932464fa3867530a2e5" },
       source: "georgia",
       "source-layer": "transportation",
-      minzoom: 8,
+      minzoom: 13,
       filter: [
         "all",
         ["==", "$type", "LineString"],
@@ -428,14 +478,22 @@ export const positron: StyleSpecification = {
         visibility: "visible",
       },
       paint: {
-        "line-color": "hsl(0, 0%, 88%)",
-        "line-opacity": 0.9,
+        "line-color": "rgb(153, 153, 153)",
+        "line-opacity": [
+          "interpolate",
+          ["exponential", 1.2],
+          ["zoom"],
+          11,
+          0.25,
+          16,
+          1,
+        ],
         "line-width": [
           "interpolate",
           ["exponential", 1.55],
           ["zoom"],
           13,
-          1,
+          0,
           20,
           12,
         ],
@@ -459,7 +517,15 @@ export const positron: StyleSpecification = {
         visibility: "visible",
       },
       paint: {
-        "line-color": "rgb(213, 213, 213)",
+        "line-color": [
+          "interpolate",
+          ["exponential", 1.2],
+          ["zoom"],
+          11,
+          "hsla(0, 0%, 85%, 0.69)",
+          16,
+          "rgb(153, 153, 153)",
+        ],
         "line-dasharray": [12, 0],
         "line-width": [
           "interpolate",
@@ -490,7 +556,24 @@ export const positron: StyleSpecification = {
         visibility: "visible",
       },
       paint: {
-        "line-color": "#fff",
+        "line-color": [
+          "interpolate",
+          ["exponential", 1.2],
+          ["zoom"],
+          11,
+          "hsla(0, 0%, 85%, 0.69)",
+          16,
+          "rgb(153, 153, 153)",
+        ],
+        // "line-opacity": [
+        //   "interpolate",
+        //   ["exponential", 1.2],
+        //   ["zoom"],
+        //   11,
+        //   0.25,
+        //   16,
+        //   1,
+        // ],
         "line-width": [
           "interpolate",
           ["exponential", 1.3],
@@ -550,7 +633,17 @@ export const positron: StyleSpecification = {
         visibility: "visible",
       },
       paint: {
-        "line-color": "rgb(213, 213, 213)",
+        "line-color": [
+          "interpolate",
+          ["exponential", 1.2],
+          ["zoom"],
+          6,
+          "rgb(213, 213, 213)",
+          11,
+          "hsla(0, 0%, 85%, 0.69)",
+          16,
+          "rgb(153, 153, 153)",
+        ],
         "line-dasharray": [2, 0],
         "line-opacity": 1,
         "line-width": [
@@ -564,15 +657,6 @@ export const positron: StyleSpecification = {
           20,
           20,
         ],
-
-        // "line-width": {
-        //   base: 1.4,
-        //   stops: [
-        //     [5.8, 0],
-        //     [6, 3],
-        //     [20, 40],
-        //   ],
-        // },
       },
     },
     {
@@ -604,8 +688,13 @@ export const positron: StyleSpecification = {
           5.8,
           "hsla(0, 0%, 85%, 0.53)",
           6,
-          "#fff",
+          "rgb(213, 213, 213)",
+          11,
+          "hsla(0, 0%, 85%, 0.69)",
+          16,
+          "rgb(153, 153, 153)",
         ],
+
         "line-width": [
           "interpolate",
           ["exponential", 1.4],
@@ -637,7 +726,18 @@ export const positron: StyleSpecification = {
         visibility: "visible",
       },
       paint: {
-        "line-color": "hsla(0, 0%, 85%, 0.53)",
+        "line-color": [
+          "interpolate",
+          ["exponential", 1.2],
+          ["zoom"],
+          6,
+          "hsla(0, 0%, 85%, 0.53)",
+          11,
+          "hsla(0, 0%, 85%, 0.69)",
+          16,
+          "rgb(153, 153, 153)",
+        ],
+
         "line-width": [
           "interpolate",
           ["exponential", 1.4],
@@ -789,7 +889,17 @@ export const positron: StyleSpecification = {
         visibility: "visible",
       },
       paint: {
-        "line-color": "rgb(213, 213, 213)",
+        "line-color": [
+          "interpolate",
+          ["exponential", 1.2],
+          ["zoom"],
+          6,
+          "rgb(213, 213, 213)",
+          11,
+          "hsla(0, 0%, 85%, 0.69)",
+          16,
+          "rgb(153, 153, 153)",
+        ],
         "line-dasharray": [2, 0],
         "line-opacity": 1,
         "line-width": [
@@ -830,8 +940,13 @@ export const positron: StyleSpecification = {
           5.8,
           "hsla(0, 0%, 85%, 0.53)",
           6,
-          "#fff",
+          "rgb(213, 213, 213)",
+          11,
+          "hsla(0, 0%, 85%, 0.69)",
+          16,
+          "rgb(153, 153, 153)",
         ],
+
         "line-width": [
           "interpolate",
           ["exponential", 1.4],
@@ -897,35 +1012,6 @@ export const positron: StyleSpecification = {
           18,
           "center",
         ],
-        // "text-offset": [
-        //   "interpolate",
-        //   ["exponential", 1.2],
-        //   ["zoom"],
-        //   15,
-        //   [
-        //     "match",
-        //     ["get", "class"],
-        //     "aerialway",
-        //     ["literal", [0, -0.7]],
-        //     ["literal", [0, 0]],
-        //   ],
-        //   16,
-        //   [
-        //     "match",
-        //     ["get", "class"],
-        //     "aerialway",
-        //     ["literal", [0, -0.9]],
-        //     ["literal", [0, 0]],
-        //   ],
-        //   20,
-        //   [
-        //     "match",
-        //     ["get", "class"],
-        //     "aerialway",
-        //     ["literal", [0, -1.5]],
-        //     ["literal", [0, 0]],
-        //   ],
-        // ],
       },
       paint: {
         "text-color": chroma("rgb(153, 153, 153)").darken(3).hex(),

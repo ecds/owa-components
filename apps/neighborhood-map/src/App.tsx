@@ -1,14 +1,10 @@
 import { useEffect, useRef, useState } from "react";
 import { baseMap, query } from "@owa-components/utils";
 import { MapTooltip } from "@owa-components/ui";
-import {
-  FilterSpecification,
-  LngLat,
-  Map,
-  MapGeoJSONFeature,
-  type MapLayerMouseEvent,
-} from "maplibre-gl";
+import { FilterSpecification, MapGeoJSONFeature } from "maplibre-gl";
 import "maplibre-gl/dist/maplibre-gl.css";
+import type { Map, MapLayerMouseEvent } from "maplibre-gl";
+
 const source = "atl-neighborhoods";
 const sourceLayer = "atl_neighborhoods";
 const linkedLayer = `linked-${source}-fill`;
@@ -25,7 +21,7 @@ function App() {
     useState<string[]>();
   const [linkedNeighborhoods, setLinkedNeighborhoods] = useState();
   const mapRef = useRef<Map>(null);
-  const containerRef = useRef<HTMLDivElement>(null);
+  const containerRef = useRef<HTMLDivElement>(document.createElement("div"));
   const activeNeighborhoodRef = useRef<MapGeoJSONFeature | undefined>(
     undefined
   );
@@ -115,7 +111,6 @@ function App() {
     };
 
     const onClick = ({ features }: MapLayerMouseEvent) => {
-      console.log("🚀 ~ onClick ~ features:", features);
       if (!features) return;
       const clickedNeighborhood = linkedNeighborhoods.find(
         (neighborhood) =>

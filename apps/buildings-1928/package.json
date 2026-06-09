@@ -1,0 +1,27 @@
+{
+  "name": "buildings-1928",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc -b && vite build",
+    "lint": "eslint .",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@owa-components/ui": "workspace:*",
+    "@owa-components/utils": "workspace:*",
+    "react": "^19.2.0",
+    "react-dom": "^19.2.0"
+  },
+  "devDependencies": {
+    "@owa-components/vite-config": "workspace:*",
+    "@types/node": "^24.10.0",
+    "@types/react": "^19.2.2",
+    "@types/react-dom": "^19.2.2",
+    "maplibre-gl": "^5.12.0",
+    "typescript": "~5.9.3",
+    "vite": "^7.2.2"
+  }
+}

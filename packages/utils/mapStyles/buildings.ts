@@ -4,7 +4,7 @@ import { roadColor } from "./colors";
 
 export const labelColor = "#2F323A";
 export const buildingColor = "#dfdfdf";
-const minZoom = 16;
+const minZoom = 14;
 
 export const buildings: LayerSpecification[] = [
   {
@@ -13,6 +13,7 @@ export const buildings: LayerSpecification[] = [
     source: "georgia",
     "source-layer": "building",
     minzoom: minZoom - 2,
+    maxzoom: minZoom + 3,
     paint: {
       "fill-color": chroma(buildingColor).brighten(1).hex(),
       "fill-opacity": [
@@ -43,18 +44,18 @@ export const buildings: LayerSpecification[] = [
         "interpolate",
         ["exponential", 1.2],
         ["zoom"],
-        minZoom + 2,
+        minZoom,
         0,
-        minZoom + 3,
+        minZoom + 1,
         ["get", "render_height"],
       ],
       "fill-extrusion-opacity": [
         "interpolate",
         ["exponential", 1.2],
         ["zoom"],
-        minZoom + 2,
+        minZoom,
         0,
-        minZoom + 3,
+        minZoom + 1,
         1,
       ],
     },

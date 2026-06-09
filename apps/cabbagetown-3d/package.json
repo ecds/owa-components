@@ -1,0 +1,19 @@
+{
+  "name": "cabbagetown-3d",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "@owa-components/vite-config": "workspace:*",
+    "cesium": "^1.130.0",
+    "mersennetwister": "^0.2.3",
+    "typescript": "~5.8.3",
+    "vite": "^6.3.5",
+    "vite-plugin-cesium": "^1.2.23"
+  }
+}

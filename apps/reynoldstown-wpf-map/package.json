@@ -1,0 +1,30 @@
+{
+  "name": "reynoldstown-wpf-map",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "lint": "eslint .",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@owa-components/ui": "workspace:*",
+    "@owa-components/utils": "workspace:*",
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0"
+  },
+  "devDependencies": {
+    "@owa-components/vite-config": "workspace:*",
+    "@tailwindcss/vite": "^4.1.8",
+    "@types/geojson": "^7946.0.16",
+    "@types/maplibre-gl": "^1.14.0",
+    "@types/react": "^19.1.2",
+    "@types/react-dom": "^19.1.2",
+    "maplibre-gl": "^5.5.0",
+    "tailwindcss": "^4.1.8",
+    "typescript": "~5.8.3",
+    "vite": "^6.3.5"
+  }
+}

@@ -1,0 +1,11 @@
+@import "tailwindcss";
+
+.content h2,
+.content h3 {
+  font-size: 1.5rem;
+  margin-bottom: 0.5rem;
+}
+
+.content p {
+  margin-bottom: 1rem;
+}
