@@ -19,7 +19,6 @@
     "@owa-components/vite-config": "workspace:*",
     "@tailwindcss/vite": "^4.1.8",
     "@types/geojson": "^7946.0.16",
-    "@types/maplibre-gl": "^1.14.0",
     "@types/react": "^19.1.2",
     "@types/react-dom": "^19.1.2",
     "maplibre-gl": "^5.5.0",
