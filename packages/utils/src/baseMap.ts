@@ -1,6 +1,6 @@
 import { LngLat, LngLatBounds, Map } from "maplibre-gl";
 import { positron } from "../mapStyles/positron";
-import type { MapOptions, StyleSpecification } from "maplibre-gl";
+import type { MapOptions } from "maplibre-gl";
 
 export const baseMap = (mapOptions: MapOptions) => {
   const options = {

@@ -1,6 +1,5 @@
 import { useEffect, useRef, useState } from "react";
 import { atlas, baseMap } from "@owa-components/utils";
-import { LngLat } from "maplibre-gl";
 import "maplibre-gl/dist/maplibre-gl.css";
 import type { Map } from "maplibre-gl";
 
@@ -26,7 +25,7 @@ const App = () => {
 
   useEffect(() => {
     if (!mapLoaded) return;
-    mapRef.current.on("click", "landcover", ({ features }) => {
+    mapRef.current?.on("click", "landcover", ({ features }) => {
       console.log(features);
     });
   }, [mapLoaded]);

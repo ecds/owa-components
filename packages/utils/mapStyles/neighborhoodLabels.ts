@@ -1,9 +1,4 @@
-import chroma from "chroma-js";
-import type {
-  DataDrivenPropertyValueSpecification,
-  StyleSpecification,
-} from "maplibre-gl";
-import { neighborhoodColor, neighborhoodHighlight } from "./neighborhoodFills";
+import type { DataDrivenPropertyValueSpecification, StyleSpecification } from "maplibre-gl";
 
 const textSize: DataDrivenPropertyValueSpecification<number> = [
   "interpolate",

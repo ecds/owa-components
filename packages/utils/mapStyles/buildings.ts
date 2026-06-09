@@ -1,6 +1,5 @@
 import chroma from "chroma-js";
 import type { LayerSpecification } from "maplibre-gl";
-import { roadColor } from "./colors";
 
 export const labelColor = "#2F323A";
 export const buildingColor = "#dfdfdf";

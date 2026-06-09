@@ -46,7 +46,7 @@ export const recordsByType = async ({
   return data.hits.hits;
 };
 
-export const query = async ({ body, index }) => {
+export const query = async ({ body, index }: { body: unknown; index: string }) => {
   const response = await fetch(`${host}/${index}/_search`, {
     method: "POST",
     body: JSON.stringify(body),
@@ -54,5 +54,5 @@ export const query = async ({ body, index }) => {
   });
 
   const data = await response.json();
-  return data.hits.hits.map((hit) => hit._source);
+  return data.hits.hits.map((hit: { _source: unknown }) => hit._source);
 };
