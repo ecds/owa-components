@@ -1,11 +1,7 @@
 import chroma from "chroma-js";
 import { backgroundColor } from "./colors";
 import { neighborhoods } from "./neighborhoodFills";
-import type {
-  DataDrivenPropertyValueSpecification,
-  FilterSpecification,
-  StyleSpecification,
-} from "maplibre-gl";
+import type { DataDrivenPropertyValueSpecification, StyleSpecification } from "maplibre-gl";
 
 export const neighborhoodColor = "#A35FDD";
 export const borderColor = "#273435";
