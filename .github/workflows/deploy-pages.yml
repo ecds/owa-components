@@ -129,15 +129,16 @@ jobs:
           chmod 600 ~/.ssh/id_rsa
           ssh-keyscan "${{ secrets.WP_HOST }}" >> ~/.ssh/known_hosts
 
+          SSH_OPTS="-i ~/.ssh/id_rsa -o IdentitiesOnly=yes -o StrictHostKeyChecking=no"
           DEST="${{ secrets.WP_SSH_USER }}@${{ secrets.WP_HOST }}:${{ secrets.WP_PLUGIN_PATH }}/owa-components"
 
           # Deploy the plugin file
-          rsync -az owa-components.php "${DEST}/"
+          rsync -az -e "ssh ${SSH_OPTS}" owa-components.php "${DEST}/"
 
           # Deploy each app's built assets
           for app in apps/*/; do
             name=$(basename "$app")
             if [ -d "$app/dist" ]; then
-              rsync -az --delete "$app/dist/" "${DEST}/${name}/"
+              rsync -az --delete -e "ssh ${SSH_OPTS}" "$app/dist/" "${DEST}/${name}/"
             fi
           done
