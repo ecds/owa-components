@@ -15,7 +15,7 @@ packages/
 ## Requirements
 
 - Node 20+
-- pnpm
+- pnpm (installed globally)
 
 ## Common commands
 
