@@ -24,7 +24,7 @@ jobs:
 
       - uses: actions/setup-node@v4
         with:
-          node-version: 20
+          node-version: 24
           cache: pnpm
 
       - run: pnpm install
@@ -88,7 +88,7 @@ jobs:
         with:
           path: _site
 
-  deploy:
+  deploy-pages:
     needs: build
     runs-on: ubuntu-latest
     environment:
@@ -97,3 +97,47 @@ jobs:
     steps:
       - id: deployment
         uses: actions/deploy-pages@v4
+
+  deploy-wp:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: pnpm/action-setup@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 24
+          cache: pnpm
+
+      - run: pnpm install
+
+      - name: Build apps for WordPress
+        run: |
+          WP_PLUGIN_BASE=/wp-content/plugins/owa-components
+
+          for app in apps/*/; do
+            name=$(basename "$app")
+            VITE_WP_BASE="${WP_PLUGIN_BASE}/${name}/" \
+              pnpm --filter "$name" build
+          done
+
+      - name: Deploy to WordPress server
+        run: |
+          mkdir -p ~/.ssh
+          echo "${{ secrets.SSH_PRIVATE_KEY }}" > ~/.ssh/id_rsa
+          chmod 600 ~/.ssh/id_rsa
+          ssh-keyscan "${{ secrets.WP_HOST }}" >> ~/.ssh/known_hosts
+
+          DEST="${{ secrets.WP_SSH_USER }}@${{ secrets.WP_HOST }}:${{ secrets.WP_PLUGIN_PATH }}/owa-components"
+
+          # Deploy the plugin file
+          rsync -az owa-components.php "${DEST}/"
+
+          # Deploy each app's built assets
+          for app in apps/*/; do
+            name=$(basename "$app")
+            if [ -d "$app/dist" ]; then
+              rsync -az --delete "$app/dist/" "${DEST}/${name}/"
+            fi
+          done
