@@ -15,7 +15,7 @@ const worldRotate = [Math.PI / 2, 0, 0];
 // Calculate mercator coordinates and scale
 const worldOriginMercator = MercatorCoordinate.fromLngLat(
   worldOrigin,
-  worldAltitude
+  worldAltitude,
 );
 const worldScale = worldOriginMercator.meterInMercatorCoordinateUnits();
 
@@ -25,13 +25,13 @@ const worldMatrix = BABYLON.Matrix.Compose(
   BABYLON.Quaternion.FromEulerAngles(
     worldRotate[0],
     worldRotate[1],
-    worldRotate[2]
+    worldRotate[2],
   ),
   new BABYLON.Vector3(
     worldOriginMercator.x,
     worldOriginMercator.y,
-    worldOriginMercator.z
-  )
+    worldOriginMercator.z,
+  ),
 );
 
 // configuration of the custom layer for a 3D model per the CustomLayerInterface
@@ -46,7 +46,7 @@ export const model = {
       {
         useHighPrecisionMatrix: true, // Important to prevent jitter at mercator scale
       },
-      true
+      true,
     );
     this.scene = new BABYLON.Scene(this.engine);
     /**
@@ -75,14 +75,14 @@ export const model = {
     this.camera = new BABYLON.Camera(
       "Camera",
       new BABYLON.Vector3(0, 0, 0),
-      this.scene
+      this.scene,
     );
 
     // create simple light
     const light = new BABYLON.HemisphericLight(
       "light1",
       new BABYLON.Vector3(0, 0, 100),
-      this.scene
+      this.scene,
     );
     light.intensity = 0.7;
 
@@ -91,9 +91,9 @@ export const model = {
 
     // load GLTF model in to the scene
     BABYLON.SceneLoader.LoadAssetContainerAsync(
-      "/models/cabbagetown.glb",
+      "https://atlmaps-prod.s3.us-east-1.amazonaws.com/cabbagetown.glb",
       "",
-      this.scene
+      this.scene,
     ).then((modelContainer) => {
       modelContainer.addAllToScene();
 
@@ -114,7 +114,7 @@ export const model = {
   },
   render(gl, args) {
     const cameraMatrix = BABYLON.Matrix.FromArray(
-      args.defaultProjectionData.mainMatrix
+      args.defaultProjectionData.mainMatrix,
     );
 
     // world-view-projection matrix

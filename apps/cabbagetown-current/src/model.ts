@@ -14,7 +14,7 @@ const modelRotate = [Math.PI / 2, 0, 0];
 
 const modelAsMercatorCoordinate = MercatorCoordinate.fromLngLat(
   modelOrigin,
-  modelAltitude
+  modelAltitude,
 );
 
 // transformation parameters to position, rotate and scale the 3D model onto the map
@@ -69,9 +69,12 @@ export const model = {
 
     // use the three.js GLTF loader to add the 3D model to the three.js scene
     const loader = new GLTFLoader();
-    loader.load("/models/cabbagetown.glb", (gltf) => {
-      scene.add(gltf.scene);
-    });
+    loader.load(
+      "https://atlmaps-prod.s3.us-east-1.amazonaws.com/cabbagetown.glb",
+      (gltf) => {
+        scene.add(gltf.scene);
+      },
+    );
     _map = map;
 
     // use the MapLibre GL JS map canvas for three.js
@@ -86,32 +89,32 @@ export const model = {
   render(_: WebGL2RenderingContext, args: CustomRenderMethodInput) {
     const rotationX = new THREE.Matrix4().makeRotationAxis(
       new THREE.Vector3(1, 0, 0),
-      modelTransform.rotateX
+      modelTransform.rotateX,
     );
     const rotationY = new THREE.Matrix4().makeRotationAxis(
       new THREE.Vector3(0, 1, 0),
-      modelTransform.rotateY
+      modelTransform.rotateY,
     );
     const rotationZ = new THREE.Matrix4().makeRotationAxis(
       new THREE.Vector3(0, 0, 1),
-      modelTransform.rotateZ
+      modelTransform.rotateZ,
     );
 
     const m = new THREE.Matrix4().fromArray(
-      args.defaultProjectionData.mainMatrix
+      args.defaultProjectionData.mainMatrix,
     );
     const l = new THREE.Matrix4()
       .makeTranslation(
         modelTransform.translateX,
         modelTransform.translateY,
-        modelTransform.translateZ
+        modelTransform.translateZ,
       )
       .scale(
         new THREE.Vector3(
           modelTransform.scale,
           -modelTransform.scale,
-          modelTransform.scale
-        )
+          modelTransform.scale,
+        ),
       )
       .multiply(rotationX)
       .multiply(rotationY)
