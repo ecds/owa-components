@@ -41,6 +41,39 @@ Each app builds to `apps/<name>/dist/` with stable filenames (`index.js`, `index
 VITE_WP_BASE=/wp-content/plugins/my-plugin/dist/ pnpm --filter <app-name> build
 ```
 
+## Using a component in WordPress
+
+Components are embedded with the `[owa_component]` shortcode. The `name` must match the app directory name under `apps/`.
+
+```
+[owa_component name="neighborhood-map"]
+[owa_component name="buildings-1928"]
+[owa_component name="cabbagetown-current"]
+[owa_component name="reynoldstown-wpf-map"]
+```
+
+Use the `height` attribute to control the component height (default `500px`):
+
+```
+[owa_component name="neighborhood-map" height="700px"]
+```
+
+### First-time setup
+
+The **OWA Components** plugin must be activated before shortcodes will work:
+
+1. Go to **WP Admin → Plugins**
+2. Find **OWA Components** and click **Activate**
+
+The plugin is deployed automatically on every push to `main`. New components are available as shortcodes immediately after the deploy completes — no plugin changes required.
+
+### Previewing components
+
+A live preview of every component is available at:
+**https://ecds.github.io/owa-components/**
+
+---
+
 ## Add a new component
 
 1. Scaffold with Vite inside `apps/`:
@@ -84,7 +117,19 @@ export { default } from "../../eslint.config.base.js";
 }
 ```
 
-6. Run `pnpm install` from the repo root to wire up workspace links.
+6. Update `src/main.tsx` to mount to a div ID matching the app name:
+
+```tsx
+createRoot(document.getElementById("your-app-name")!).render(...)
+```
+
+And update `index.html` to use the same ID:
+
+```html
+<div id="your-app-name" style="width: 100vw; height: 100vh"></div>
+```
+
+7. Run `pnpm install` from the repo root to wire up workspace links.
 
 ## Add/install dependencies for a component
 
