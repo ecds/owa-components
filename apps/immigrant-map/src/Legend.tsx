@@ -62,9 +62,11 @@ const Legend = ({ map }: { map: Map | undefined }) => {
               display: "flex",
               gap: "1rem",
               marginBottom: "1rem",
-              backgroundColor: "inherit",
+              backgroundColor:
+                selectedGroup === group ? "lightgray" : "inherit",
               border: "none",
               cursor: "pointer",
+              padding: "0.25rem",
             }}
             onClick={() => handleClick(group)}
           >
