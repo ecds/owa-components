@@ -18,13 +18,13 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v6
 
-      - uses: pnpm/action-setup@v4
+      - uses: pnpm/action-setup@v6
 
-      - uses: actions/setup-node@v4
+      - uses: actions/setup-node@v6
         with:
-          node-version: 20
+          node-version: 24
           cache: pnpm
 
       - run: pnpm install
@@ -43,11 +43,11 @@ jobs:
 
       - name: Collect dist folders
         run: |
-          mkdir -p _site
+          mkdir -p _site/apps
           for app in apps/*/; do
             name=$(basename "$app")
             if [ -d "$app/dist" ]; then
-              cp -r "$app/dist" "_site/$name"
+              cp -r "$app/dist" "_site/apps/$name"
             fi
           done
 
@@ -72,7 +72,7 @@ jobs:
               const ul = document.getElementById('list');
               apps.forEach(name => {
                 const li = document.createElement('li');
-                li.innerHTML = `<a href="${name}/">${name}</a>`;
+                li.innerHTML = `<a href="apps/${name}/">${name}</a>`;
                 ul.appendChild(li);
               });
             </script>
@@ -81,14 +81,14 @@ jobs:
           EOF
 
           # Inject the real app list
-          apps=$(ls _site/ | grep -v index.html | python3 -c "import sys,json; print(json.dumps(sys.stdin.read().split()))")
+          apps=$(ls _site/apps/ | python3 -c "import sys,json; print(json.dumps(sys.stdin.read().split()))")
           sed -i "s|APPS_LIST|${apps}|" _site/index.html
 
-      - uses: actions/upload-pages-artifact@v3
+      - uses: actions/upload-pages-artifact@v5
         with:
           path: _site
 
-  deploy:
+  deploy-pages:
     needs: build
     runs-on: ubuntu-latest
     environment:
@@ -96,4 +96,56 @@ jobs:
       url: ${{ steps.deployment.outputs.page_url }}
     steps:
       - id: deployment
-        uses: actions/deploy-pages@v4
+        uses: actions/deploy-pages@v5
+
+  deploy-wp:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v6
+
+      - uses: pnpm/action-setup@v6
+
+      - uses: actions/setup-node@v6
+        with:
+          node-version: 24
+          cache: pnpm
+
+      - run: pnpm install
+
+      - name: Build apps for WordPress
+        run: |
+          WP_PLUGIN_BASE=/wp-content/plugins/owa-components
+
+          for app in apps/*/; do
+            name=$(basename "$app")
+            VITE_WP_BASE="${WP_PLUGIN_BASE}/${name}/" \
+              pnpm --filter "$name" build
+          done
+
+      - name: Add SSH key
+        env:
+          SSH_AUTH_SOCK: /tmp/ssh_agent.sock
+        run: |
+          mkdir -p /home/runner/.ssh
+          ssh-keyscan "${{ secrets.WP_HOST }}" >> /home/runner/.ssh/known_hosts
+          echo "${{ secrets.SSH_PRIVATE_KEY }}" > /home/runner/.ssh/github_actions
+          chmod 600 /home/runner/.ssh/github_actions
+          ssh-agent -a $SSH_AUTH_SOCK > /dev/null
+          ssh-add /home/runner/.ssh/github_actions
+
+      - name: Deploy to WordPress server
+        env:
+          SSH_AUTH_SOCK: /tmp/ssh_agent.sock
+        run: |
+          DEST="${{ secrets.WP_SSH_USER }}@${{ secrets.WP_HOST }}:${{ secrets.WP_PLUGIN_PATH }}/owa-components"
+
+          # Deploy the plugin file
+          rsync -ae "ssh" owa-components.php "${DEST}/"
+
+          # Deploy each app's built assets
+          for app in apps/*/; do
+            name=$(basename "$app")
+            if [ -d "$app/dist" ]; then
+              rsync -ae "ssh" --delete "$app/dist/" "${DEST}/${name}/"
+            fi
+          done
