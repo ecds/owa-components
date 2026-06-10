@@ -50,6 +50,7 @@ Components are embedded with the `[owa_component]` shortcode. The `name` must ma
 [owa_component name="buildings-1928"]
 [owa_component name="cabbagetown-current"]
 [owa_component name="reynoldstown-wpf-map"]
+[owa_component name="immigrant-map"]
 ```
 
 Use the `height` attribute to control the component height (default `500px`):
