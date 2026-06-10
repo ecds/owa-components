@@ -32,12 +32,10 @@ jobs:
       - name: Build apps
         run: |
           REPO=owa-components
-          ORG=ecds
-          BASE_URL=https://${ORG}.github.io/${REPO}
 
           for app in apps/*/; do
             name=$(basename "$app")
-            VITE_WP_BASE="${BASE_URL}/apps/${name}/" \
+            VITE_WP_BASE="/${REPO}/apps/${name}/" \
               pnpm --filter "$name" build
           done
 
