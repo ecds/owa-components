@@ -122,23 +122,30 @@ jobs:
               pnpm --filter "$name" build
           done
 
-      - name: Deploy to WordPress server
+      - name: Add SSH key
+        env:
+          SSH_AUTH_SOCK: /tmp/ssh_agent.sock
         run: |
-          mkdir -p ~/.ssh
-          echo "${{ secrets.SSH_PRIVATE_KEY }}" > ~/.ssh/id_rsa
-          chmod 600 ~/.ssh/id_rsa
-          ssh-keyscan "${{ secrets.WP_HOST }}" >> ~/.ssh/known_hosts
+          mkdir -p /home/runner/.ssh
+          ssh-keyscan "${{ secrets.WP_HOST }}" >> /home/runner/.ssh/known_hosts
+          echo "${{ secrets.SSH_PRIVATE_KEY }}" > /home/runner/.ssh/github_actions
+          chmod 600 /home/runner/.ssh/github_actions
+          ssh-agent -a $SSH_AUTH_SOCK > /dev/null
+          ssh-add /home/runner/.ssh/github_actions
 
-          SSH_OPTS="-i ~/.ssh/id_rsa -o IdentitiesOnly=yes -o StrictHostKeyChecking=no"
+      - name: Deploy to WordPress server
+        env:
+          SSH_AUTH_SOCK: /tmp/ssh_agent.sock
+        run: |
           DEST="${{ secrets.WP_SSH_USER }}@${{ secrets.WP_HOST }}:${{ secrets.WP_PLUGIN_PATH }}/owa-components"
 
           # Deploy the plugin file
-          rsync -az -e "ssh ${SSH_OPTS}" owa-components.php "${DEST}/"
+          rsync -ae "ssh" owa-components.php "${DEST}/"
 
           # Deploy each app's built assets
           for app in apps/*/; do
             name=$(basename "$app")
             if [ -d "$app/dist" ]; then
-              rsync -az --delete -e "ssh ${SSH_OPTS}" "$app/dist/" "${DEST}/${name}/"
+              rsync -ae "ssh" --delete "$app/dist/" "${DEST}/${name}/"
             fi
           done
