@@ -1,4 +1,6 @@
-export const northwesternEurope = {
+import type { GeoJSON } from "geojson";
+
+export const ne_we = {
   type: "FeatureCollection",
   features: [
     {
@@ -1991,4 +1993,4 @@ export const northwesternEurope = {
       },
     },
   ],
-};
+} satisfies GeoJSON;

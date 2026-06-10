@@ -1,13 +1,72 @@
+import { useEffect, useState } from "react";
 import { immigrantGroups } from "./data/groups";
+import type { Map } from "maplibre-gl";
+import type { ImmigrantGroupKey } from "./data/groups";
+import { immigrantData } from "./styles/immigrant_data";
 
-const Legend = () => {
+const Legend = ({ map }: { map: Map | undefined }) => {
+  const [selectedGroup, setSelectedGroup] = useState<
+    ImmigrantGroupKey | undefined
+  >(undefined);
+
+  useEffect(() => {
+    if (!map) return;
+
+    console.log("🚀 ~ Legend ~ selectedGroup:", selectedGroup);
+    // if (selectedGroup) {
+    for (const groupLayer of immigrantData.layers) {
+      const mapLayer = map.getLayer(groupLayer.id);
+
+      if (!mapLayer) continue;
+
+      if (!selectedGroup || selectedGroup == groupLayer.id) {
+        map.setLayoutProperty(groupLayer.id, "visibility", "visible");
+      } else if (groupLayer.id !== selectedGroup) {
+        map.setLayoutProperty(groupLayer.id, "visibility", "none");
+      }
+    }
+    // } else {}
+  }, [map, selectedGroup]);
+
+  const handleClick = (group: ImmigrantGroupKey) => {
+    console.log("🚀 ~ handleClick ~ group:", group);
+    if (group === selectedGroup) {
+      setSelectedGroup(undefined);
+    } else {
+      setSelectedGroup(group);
+    }
+  };
+
   return (
     <>
-      {Object.keys(immigrantGroups).map((group) => {
+      <button
+        style={{
+          gap: "1rem",
+          marginBottom: "1rem",
+          backgroundColor: "inherit",
+          border: "none",
+          cursor: selectedGroup ? "pointer" : "default",
+          fontSize: "1.1rem",
+          color: "oklab(0 0 0 / 0.8)",
+        }}
+        onClick={() => setSelectedGroup(undefined)}
+        disabled={selectedGroup ? false : true}
+      >
+        {selectedGroup ? "Click for All Groups" : "Click Group to Filter"}
+      </button>
+      {(Object.keys(immigrantGroups) as ImmigrantGroupKey[]).map((group) => {
         return (
-          <div
+          <button
             key={group}
-            style={{ display: "flex", gap: "1rem", marginBottom: "1rem" }}
+            style={{
+              display: "flex",
+              gap: "1rem",
+              marginBottom: "1rem",
+              backgroundColor: "inherit",
+              border: "none",
+              cursor: "pointer",
+            }}
+            onClick={() => handleClick(group)}
           >
             <div
               style={{
@@ -20,7 +79,7 @@ const Legend = () => {
             <div style={{ fontSize: "1.1rem", color: "oklab(0 0 0 / 0.8)" }}>
               {immigrantGroups[group].label}
             </div>
-          </div>
+          </button>
         );
       })}
     </>

@@ -3,13 +3,12 @@ import type { StyleSpecification } from "maplibre-gl";
 export const ohm: StyleSpecification = {
   version: 8,
   name: "ohm-historical",
-  metadata: {
-    "maputnik:renderer": "mbgljs",
-  },
   sources: {
     ohm: {
       type: "vector",
       tiles: ["https://vtiles.openhistoricalmap.org/maps/ohm/{z}/{x}/{y}.pbf"],
+      attribution:
+        '<a href="https://www.openhistoricalmap.org/">OpenHistoricalMap</a>',
     },
     ohm_landcover_hillshade: {
       type: "raster",
@@ -40,6 +39,15 @@ export const ohm: StyleSpecification = {
       maxzoom: 20,
       tiles: [
         "https://geoserver.ecds.emory.edu/gwc/service/wms?layers=ATLMaps:1904&service=WMS&request=GetMap&format=image/png&transparent=true?version=1.1.1&width=256&height=256&srs=EPSG:3857&bbox={bbox-epsg-3857}",
+      ],
+    },
+    atl1895: {
+      type: "raster",
+      tileSize: 256,
+      attribution: "Emory University",
+      maxzoom: 20,
+      tiles: [
+        "https://geoserver.ecds.emory.edu/gwc/service/wms?layers=ATLMaps:2s4d022m&service=WMS&request=GetMap&format=image/png&transparent=true?version=1.1.1&width=256&height=256&srs=EPSG:3857&bbox={bbox-epsg-3857}",
       ],
     },
   },
@@ -961,12 +969,13 @@ export const ohm: StyleSpecification = {
       },
       paint: {
         "fill-color": "rgba(255, 255, 255, 1)",
-        "fill-pattern": {
-          stops: [
-            [12, "cattails_space_60px"],
-            [14, "cattails_space_70px"],
-          ],
-        },
+        "fill-pattern": [
+          "step",
+          ["zoom"],
+          "cattails_space_60px",
+          14,
+          "cattails_space_70px",
+        ],
       },
     },
     {
@@ -7589,6 +7598,16 @@ export const ohm: StyleSpecification = {
       },
     },
     {
+      id: "atl1895",
+      type: "raster",
+      source: "atl1895",
+      maxzoom: 20,
+      paint: {
+        "raster-opacity": 1,
+      },
+      layout: { visibility: "visible" },
+    },
+    {
       id: "atl1904",
       type: "raster",
       source: "atl1904",
@@ -7599,7 +7618,4 @@ export const ohm: StyleSpecification = {
       layout: { visibility: "visible" },
     },
   ],
-  attribution:
-    '<a href="https://www.openhistoricalmap.org/">OpenHistoricalMap</a>',
-  id: "ab271ed3-6fe4-403a-b5ae-07113f8c57ab",
 };

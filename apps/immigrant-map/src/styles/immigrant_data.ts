@@ -1,61 +1,62 @@
 import type { StyleSpecification } from "maplibre-gl";
 import {
-  africa,
-  caribbeanLatinAm,
-  centralEurope,
-  china,
-  greatBritainColonies,
-  ireland,
-  mediterranean,
-  northwesternEurope,
-  russiaPoland,
+  afr,
+  car_lat_am,
+  ce,
+  cn,
+  gbe,
+  irl,
+  med_meast,
+  ne_we,
+  cee,
 } from "../data";
 
-export const immigrantData: StyleSpecification = {
+export const immigrantData = {
   version: 8,
   sources: {
-    africa: {
+    afr: {
       type: "geojson",
-      data: africa,
+      data: afr,
     },
-    caribbean_latin_am: {
+    car_lat_am: {
       type: "geojson",
-      data: caribbeanLatinAm,
+      data: car_lat_am,
     },
-    central_europe: {
+    ce: {
       type: "geojson",
-      data: centralEurope,
+      data: ce,
     },
-    china: {
+    cn: {
       type: "geojson",
-      data: china,
+      data: cn,
     },
-    great_britain_and_colonies: {
+    gbe: {
       type: "geojson",
-      data: greatBritainColonies,
+      data: gbe,
     },
-    ireland: {
+    irl: {
       type: "geojson",
-      data: ireland,
+      data: irl,
     },
-    mediterranean_me: {
+    med_meast: {
       type: "geojson",
-      data: mediterranean,
+      data: med_meast,
     },
-    northwestern_europe: {
+    ne_we: {
       type: "geojson",
-      data: northwesternEurope,
+      data: ne_we,
     },
-    russia_poland: {
+    cee: {
       type: "geojson",
-      data: russiaPoland,
+      data: cee,
     },
   },
   layers: [
     {
-      id: "africa",
-      source: "africa",
+      id: "afr",
+      source: "afr",
       type: "circle",
+      layout: { visibility: "visible" },
       paint: {
         "circle-radius": 6,
         "circle-color": "rgb(247, 129, 191)",
@@ -64,9 +65,10 @@ export const immigrantData: StyleSpecification = {
       },
     },
     {
-      id: "caribbean_latin_am",
-      source: "caribbean_latin_am",
+      id: "car_lat_am",
+      source: "car_lat_am",
       type: "circle",
+      layout: { visibility: "visible" },
       paint: {
         "circle-radius": 6,
         "circle-color": "rgb(255, 255, 51)",
@@ -75,9 +77,10 @@ export const immigrantData: StyleSpecification = {
       },
     },
     {
-      id: "central_europe",
-      source: "central_europe",
+      id: "ce",
+      source: "ce",
       type: "circle",
+      layout: { visibility: "visible" },
       paint: {
         "circle-radius": 6,
         "circle-color": "rgb(255, 127, 0)",
@@ -86,9 +89,10 @@ export const immigrantData: StyleSpecification = {
       },
     },
     {
-      id: "china",
-      source: "china",
+      id: "cn",
+      source: "cn",
       type: "circle",
+      layout: { visibility: "visible" },
       paint: {
         "circle-radius": 6,
         "circle-color": "rgb(228, 26, 28)",
@@ -97,9 +101,10 @@ export const immigrantData: StyleSpecification = {
       },
     },
     {
-      id: "great_britain_and_colonies",
-      source: "great_britain_and_colonies",
+      id: "gbe",
+      source: "gbe",
       type: "circle",
+      layout: { visibility: "visible" },
       paint: {
         "circle-radius": 6,
         "circle-color": "rgb(55, 126, 184)",
@@ -108,9 +113,10 @@ export const immigrantData: StyleSpecification = {
       },
     },
     {
-      id: "ireland",
-      source: "ireland",
+      id: "irl",
+      source: "irl",
       type: "circle",
+      layout: { visibility: "visible" },
       paint: {
         "circle-radius": 6,
         "circle-color": "rgb(59, 237, 119)",
@@ -119,9 +125,10 @@ export const immigrantData: StyleSpecification = {
       },
     },
     {
-      id: "mediterranean_me",
-      source: "mediterranean_me",
+      id: "med_meast",
+      source: "med_meast",
       type: "circle",
+      layout: { visibility: "visible" },
       paint: {
         "circle-radius": 6,
         "circle-color": "rgb(77, 175, 74)",
@@ -130,9 +137,10 @@ export const immigrantData: StyleSpecification = {
       },
     },
     {
-      id: "northwestern_europe",
-      source: "northwestern_europe",
+      id: "ne_we",
+      source: "ne_we",
       type: "circle",
+      layout: { visibility: "visible" },
       paint: {
         "circle-radius": 6,
         "circle-color": "rgb(148, 79, 38)",
@@ -141,9 +149,10 @@ export const immigrantData: StyleSpecification = {
       },
     },
     {
-      id: "russia_poland",
-      source: "russia_poland",
+      id: "cee",
+      source: "cee",
       type: "circle",
+      layout: { visibility: "visible" },
       paint: {
         "circle-radius": 6,
         "circle-color": "rgb(152, 78, 163)",
@@ -152,4 +161,4 @@ export const immigrantData: StyleSpecification = {
       },
     },
   ],
-};
+} satisfies StyleSpecification;

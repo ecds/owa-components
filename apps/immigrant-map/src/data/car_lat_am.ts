@@ -1,4 +1,6 @@
-export const caribbeanLatinAm = {
+import type { GeoJSON } from "geojson";
+
+export const car_lat_am = {
   type: "FeatureCollection",
   features: [
     {
@@ -1877,4 +1879,4 @@ export const caribbeanLatinAm = {
       },
     },
   ],
-};
+} satisfies GeoJSON;

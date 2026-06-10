@@ -1,4 +1,6 @@
-export const ireland = {
+import type { GeoJSON } from "geojson";
+
+export const irl = {
   type: "FeatureCollection",
   features: [
     {
@@ -4772,4 +4774,4 @@ export const ireland = {
       },
     },
   ],
-};
+} satisfies GeoJSON;

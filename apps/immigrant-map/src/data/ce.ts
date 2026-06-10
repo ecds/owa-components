@@ -1,4 +1,6 @@
-export const centralEurope = {
+import type { GeoJSON } from "geojson";
+
+export const ce = {
   type: "FeatureCollection",
   features: [
     {
@@ -12872,4 +12874,4 @@ export const centralEurope = {
       },
     },
   ],
-};
+} satisfies GeoJSON;

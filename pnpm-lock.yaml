@@ -191,6 +191,9 @@ importers:
       '@turf/turf':
         specifier: ^7.3.5
         version: 7.3.5
+      '@types/geojson':
+        specifier: ^7946.0.16
+        version: 7946.0.16
       dev:
         specifier: ^0.1.5
         version: 0.1.5

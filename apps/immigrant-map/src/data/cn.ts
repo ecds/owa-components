@@ -1,4 +1,6 @@
-export const china = {
+import type { GeoJSON } from "geojson";
+
+export const cn = {
   type: "FeatureCollection",
   features: [
     {
@@ -456,4 +458,4 @@ export const china = {
       },
     },
   ],
-};
+} satisfies GeoJSON;

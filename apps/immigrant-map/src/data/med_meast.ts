@@ -1,4 +1,6 @@
-export const mediterranean = {
+import type { GeoJSON } from "geojson";
+
+export const med_meast = {
   type: "FeatureCollection",
   features: [
     {
@@ -1712,4 +1714,4 @@ export const mediterranean = {
       },
     },
   ],
-};
+} satisfies GeoJSON;

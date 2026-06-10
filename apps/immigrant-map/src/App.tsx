@@ -6,7 +6,7 @@ import { ohm } from "@owa-components/utils";
 import { immigrantData } from "./styles/immigrant_data";
 import { dataBounds } from "./data";
 import Legend from "./Legend";
-import Toggle1904 from "./Toggle1904";
+import ToggleVisibility from "./Toggle1904";
 
 const App = () => {
   const mapRef = useRef<maplibregl.Map>(null);
@@ -34,8 +34,8 @@ const App = () => {
 
       _map.fitBounds(dataBounds, { padding: 50 });
 
-      for (const source of Object.keys(immigrantData.sources)) {
-        _map.addSource(source, immigrantData.sources[source]);
+      for (const [source, spec] of Object.entries(immigrantData.sources)) {
+        _map.addSource(source, spec);
       }
 
       for (const layer of immigrantData.layers) {
@@ -68,10 +68,13 @@ const App = () => {
           position: "absolute",
           left: "2rem",
           top: "2rem",
+          display: "flex",
+          flexDirection: "column",
         }}
       >
-        <Legend />
-        <Toggle1904 map={map} />
+        <Legend map={map} />
+        <ToggleVisibility map={map} layerId="atl1895" label="1895 Map" />
+        <ToggleVisibility map={map} layerId="atl1904" label="1904 Map" />
       </div>
     </div>
   );

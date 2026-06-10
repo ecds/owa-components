@@ -3,24 +3,33 @@ import { useEffect, useState } from "react";
 
 interface Props {
   map: Map | undefined;
+  layerId: string;
+  label: string;
 }
 
-const Toggle1904 = ({ map }: Props) => {
-  const [showing1904, setShowing1904] = useState<boolean>(false);
+const ToggleVisibility = ({ map, layerId, label }: Props) => {
+  const [visible, setVisible] = useState<boolean>(false);
 
   useEffect(() => {
     if (!map) return;
-    map.setLayoutProperty(
-      "atl1904",
-      "visibility",
-      showing1904 ? "visible" : "none",
-    );
-  }, [map, showing1904]);
+    map.setLayoutProperty(layerId, "visibility", visible ? "visible" : "none");
+  }, [map, visible, layerId]);
   return (
-    <button onClick={() => setShowing1904(!showing1904)}>
-      {showing1904 ? "Hide" : "Show"} 1904 Map
+    <button
+      style={{
+        display: "flex",
+        gap: "1rem",
+        marginBottom: "1rem",
+        border: "none",
+        cursor: "pointer",
+        fontSize: "1.1rem",
+        color: "oklab(1 0 0 / 0.8)",
+      }}
+      onClick={() => setVisible(!visible)}
+    >
+      {visible ? "Hide" : "Show"} {label}
     </button>
   );
 };
 
-export default Toggle1904;
+export default ToggleVisibility;

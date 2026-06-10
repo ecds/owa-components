@@ -1,4 +1,6 @@
-export const russiaPoland = {
+import type { GeoJSON } from "geojson";
+
+export const cee = {
   type: "FeatureCollection",
   features: [
     {
@@ -5708,4 +5710,4 @@ export const russiaPoland = {
       },
     },
   ],
-};
+} satisfies GeoJSON;

@@ -1,38 +1,54 @@
+export type ImmigrantGroupKey =
+  | "afr"
+  | "car_lat_am"
+  | "ce"
+  | "cn"
+  | "gbe"
+  | "irl"
+  | "med_meast"
+  | "ne_we"
+  | "cee";
+
+type ImmigrantGroup = {
+  label: string;
+  color: string;
+};
+
 export const immigrantGroups = {
-  africa: {
+  afr: {
     label: "Africa",
     color: "rgb(247, 129, 191)",
   },
-  caribbeanLatinAm: {
-    label: "Caribbean and Latin Americal",
+  car_lat_am: {
+    label: "Caribbean and Latin American",
     color: "rgb(255, 255, 51)",
   },
-  centralEurope: {
+  ce: {
     label: "Central Europe",
     color: "rgb(255, 127, 0)",
   },
-  china: {
+  cn: {
     label: "China",
     color: "rgb(228, 26, 28)",
   },
-  greatBritainAndColonies: {
+  gbe: {
     label: "United Kingdom and British Empire",
     color: "rgb(55, 126, 184)",
   },
-  ireland: {
+  irl: {
     label: "Ireland",
     color: "rgb(59, 237, 119)",
   },
-  mediterraneanMe: {
+  med_meast: {
     label: "Mediterranean and Middle East",
     color: "rgb(77, 175, 74)",
   },
-  northwesternEurope: {
+  ne_we: {
     label: "Northern and Western Europe",
     color: "rgb(148, 79, 38)",
   },
-  russiaPoland: {
+  cee: {
     label: "Eastern Europe",
     color: "rgb(152, 78, 163)",
   },
-};
+} satisfies Record<ImmigrantGroupKey, ImmigrantGroup>;
