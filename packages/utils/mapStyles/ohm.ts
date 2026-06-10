@@ -73,7 +73,7 @@ export const ohm: StyleSpecification = {
           0,
           "rgba(185, 228, 228, 1)",
           10,
-          "rgba(126, 218, 218, 1)",
+          "rgb(243 223 174)",
         ],
       },
     },

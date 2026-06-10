@@ -14,6 +14,17 @@ type ImmigrantGroup = {
   color: string;
 };
 
+export type ImmigrantData = {
+  "first name": string;
+  "last name": string;
+  "street #": string;
+  "street name": string;
+  age: string;
+  sex: string;
+  "birth country": string;
+  race: string;
+};
+
 export const immigrantGroups = {
   afr: {
     label: "Africa",
