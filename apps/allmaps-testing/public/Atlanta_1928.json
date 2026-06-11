@@ -1,0 +1,3298 @@
+[
+  {
+    "@context": [
+      "http://iiif.io/api/extension/georef/1/context.json",
+      "http://iiif.io/api/presentation/3/context.json"
+    ],
+    "id": "https://example.org/annotations/Atlanta1928-Sheet51-georef",
+    "type": "AnnotationPage",
+    "items": [
+      {
+        "id": "https://example.org/annotations/Atlanta1928-Sheet51-georef/1",
+        "type": "Annotation",
+        "motivation": "georeferencing",
+        "target": {
+          "type": "SpecificResource",
+          "source": {
+            "id": "https://iiif.ecds.io/iiif/3/Atlanta_1928_Sheet51.tif",
+            "type": "Canvas",
+            "width": 5922,
+            "height": 5854
+          },
+          "selector": {
+            "type": "SvgSelector",
+            "value": "<svg width=\"5922\" height=\"5854\"><polygon points=\"350,440 5339,440 5339,5451 350,5451\" /></svg>"
+          }
+        },
+        "body": {
+          "type": "FeatureCollection",
+          "transformation": {
+            "type": "polynomial",
+            "options": {
+              "order": 1
+            }
+          },
+          "features": [
+            {
+              "type": "Feature",
+              "properties": {
+                "resourceCoords": [
+                  350,
+                  440
+                ]
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  -84.4669636318,
+                  33.8832980458
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "resourceCoords": [
+                  5339,
+                  440
+                ]
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  -84.416843097,
+                  33.8832980458
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "resourceCoords": [
+                  5339,
+                  5451
+                ]
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  -84.416843097,
+                  33.8333304236
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "resourceCoords": [
+                  350,
+                  5451
+                ]
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  -84.4669636318,
+                  33.8333304236
+                ]
+              }
+            }
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "@context": [
+      "http://iiif.io/api/extension/georef/1/context.json",
+      "http://iiif.io/api/presentation/3/context.json"
+    ],
+    "id": "https://example.org/annotations/Atlanta1928-Sheet52-georef",
+    "type": "AnnotationPage",
+    "items": [
+      {
+        "id": "https://example.org/annotations/Atlanta1928-Sheet52-georef/1",
+        "type": "Annotation",
+        "motivation": "georeferencing",
+        "target": {
+          "type": "SpecificResource",
+          "source": {
+            "id": "https://iiif.ecds.io/iiif/3/Atlanta_1928_Sheet52.tif",
+            "type": "Canvas",
+            "width": 5922,
+            "height": 5854
+          },
+          "selector": {
+            "type": "SvgSelector",
+            "value": "<svg width=\"5922\" height=\"5854\"><polygon points=\"350,440 5339,440 5339,5451 350,5451\" /></svg>"
+          }
+        },
+        "body": {
+          "type": "FeatureCollection",
+          "transformation": {
+            "type": "polynomial",
+            "options": {
+              "order": 1
+            }
+          },
+          "features": [
+            {
+              "type": "Feature",
+              "properties": {
+                "resourceCoords": [
+                  350,
+                  440
+                ]
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  -84.416843097,
+                  33.8832980458
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "resourceCoords": [
+                  5339,
+                  440
+                ]
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  -84.3667225622,
+                  33.8832980458
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "resourceCoords": [
+                  5339,
+                  5451
+                ]
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  -84.3667225622,
+                  33.8333304236
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "resourceCoords": [
+                  350,
+                  5451
+                ]
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  -84.416843097,
+                  33.8333304236
+                ]
+              }
+            }
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "@context": [
+      "http://iiif.io/api/extension/georef/1/context.json",
+      "http://iiif.io/api/presentation/3/context.json"
+    ],
+    "id": "https://example.org/annotations/Atlanta1928-Sheet53-georef",
+    "type": "AnnotationPage",
+    "items": [
+      {
+        "id": "https://example.org/annotations/Atlanta1928-Sheet53-georef/1",
+        "type": "Annotation",
+        "motivation": "georeferencing",
+        "target": {
+          "type": "SpecificResource",
+          "source": {
+            "id": "https://iiif.ecds.io/iiif/3/Atlanta_1928_Sheet53.tif",
+            "type": "Canvas",
+            "width": 5922,
+            "height": 5854
+          },
+          "selector": {
+            "type": "SvgSelector",
+            "value": "<svg width=\"5922\" height=\"5854\"><polygon points=\"350,440 5339,440 5339,5451 350,5451\" /></svg>"
+          }
+        },
+        "body": {
+          "type": "FeatureCollection",
+          "transformation": {
+            "type": "polynomial",
+            "options": {
+              "order": 1
+            }
+          },
+          "features": [
+            {
+              "type": "Feature",
+              "properties": {
+                "resourceCoords": [
+                  350,
+                  440
+                ]
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  -84.3667225622,
+                  33.8832980458
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "resourceCoords": [
+                  5339,
+                  440
+                ]
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  -84.3166020274,
+                  33.8832980458
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "resourceCoords": [
+                  5339,
+                  5451
+                ]
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  -84.3166020274,
+                  33.8333304236
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "resourceCoords": [
+                  350,
+                  5451
+                ]
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  -84.3667225622,
+                  33.8333304236
+                ]
+              }
+            }
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "@context": [
+      "http://iiif.io/api/extension/georef/1/context.json",
+      "http://iiif.io/api/presentation/3/context.json"
+    ],
+    "id": "https://example.org/annotations/Atlanta1928-Sheet54-georef",
+    "type": "AnnotationPage",
+    "items": [
+      {
+        "id": "https://example.org/annotations/Atlanta1928-Sheet54-georef/1",
+        "type": "Annotation",
+        "motivation": "georeferencing",
+        "target": {
+          "type": "SpecificResource",
+          "source": {
+            "id": "https://iiif.ecds.io/iiif/3/Atlanta_1928_Sheet54.tif",
+            "type": "Canvas",
+            "width": 5922,
+            "height": 5854
+          },
+          "selector": {
+            "type": "SvgSelector",
+            "value": "<svg width=\"5922\" height=\"5854\"><polygon points=\"350,440 5339,440 5339,5451 350,5451\" /></svg>"
+          }
+        },
+        "body": {
+          "type": "FeatureCollection",
+          "transformation": {
+            "type": "polynomial",
+            "options": {
+              "order": 1
+            }
+          },
+          "features": [
+            {
+              "type": "Feature",
+              "properties": {
+                "resourceCoords": [
+                  350,
+                  440
+                ]
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  -84.3166020274,
+                  33.8832980458
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "resourceCoords": [
+                  5339,
+                  440
+                ]
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  -84.2664814926,
+                  33.8832980458
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "resourceCoords": [
+                  5339,
+                  5451
+                ]
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  -84.2664814926,
+                  33.8333304236
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "resourceCoords": [
+                  350,
+                  5451
+                ]
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  -84.3166020274,
+                  33.8333304236
+                ]
+              }
+            }
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "@context": [
+      "http://iiif.io/api/extension/georef/1/context.json",
+      "http://iiif.io/api/presentation/3/context.json"
+    ],
+    "id": "https://example.org/annotations/Atlanta1928-Sheet55-georef",
+    "type": "AnnotationPage",
+    "items": [
+      {
+        "id": "https://example.org/annotations/Atlanta1928-Sheet55-georef/1",
+        "type": "Annotation",
+        "motivation": "georeferencing",
+        "target": {
+          "type": "SpecificResource",
+          "source": {
+            "id": "https://iiif.ecds.io/iiif/3/Atlanta_1928_Sheet55.tif",
+            "type": "Canvas",
+            "width": 5922,
+            "height": 5854
+          },
+          "selector": {
+            "type": "SvgSelector",
+            "value": "<svg width=\"5922\" height=\"5854\"><polygon points=\"350,440 5339,440 5339,5451 350,5451\" /></svg>"
+          }
+        },
+        "body": {
+          "type": "FeatureCollection",
+          "transformation": {
+            "type": "polynomial",
+            "options": {
+              "order": 1
+            }
+          },
+          "features": [
+            {
+              "type": "Feature",
+              "properties": {
+                "resourceCoords": [
+                  350,
+                  440
+                ]
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  -84.2664814926,
+                  33.8832980458
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "resourceCoords": [
+                  5339,
+                  440
+                ]
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  -84.2163609578,
+                  33.8832980458
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "resourceCoords": [
+                  5339,
+                  5451
+                ]
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  -84.2163609578,
+                  33.8333304236
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "resourceCoords": [
+                  350,
+                  5451
+                ]
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  -84.2664814926,
+                  33.8333304236
+                ]
+              }
+            }
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "@context": [
+      "http://iiif.io/api/extension/georef/1/context.json",
+      "http://iiif.io/api/presentation/3/context.json"
+    ],
+    "id": "https://example.org/annotations/Atlanta1928-Sheet56-georef",
+    "type": "AnnotationPage",
+    "items": [
+      {
+        "id": "https://example.org/annotations/Atlanta1928-Sheet56-georef/1",
+        "type": "Annotation",
+        "motivation": "georeferencing",
+        "target": {
+          "type": "SpecificResource",
+          "source": {
+            "id": "https://iiif.ecds.io/iiif/3/Atlanta_1928_Sheet56.tif",
+            "type": "Canvas",
+            "width": 5922,
+            "height": 5854
+          },
+          "selector": {
+            "type": "SvgSelector",
+            "value": "<svg width=\"5922\" height=\"5854\"><polygon points=\"350,440 5339,440 5339,5451 350,5451\" /></svg>"
+          }
+        },
+        "body": {
+          "type": "FeatureCollection",
+          "transformation": {
+            "type": "polynomial",
+            "options": {
+              "order": 1
+            }
+          },
+          "features": [
+            {
+              "type": "Feature",
+              "properties": {
+                "resourceCoords": [
+                  350,
+                  440
+                ]
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  -84.2664814926,
+                  33.8333304236
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "resourceCoords": [
+                  5339,
+                  440
+                ]
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  -84.2163609578,
+                  33.8333304236
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "resourceCoords": [
+                  5339,
+                  5451
+                ]
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  -84.2163609578,
+                  33.7833628014
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "resourceCoords": [
+                  350,
+                  5451
+                ]
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  -84.2664814926,
+                  33.7833628014
+                ]
+              }
+            }
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "@context": [
+      "http://iiif.io/api/extension/georef/1/context.json",
+      "http://iiif.io/api/presentation/3/context.json"
+    ],
+    "id": "https://example.org/annotations/Atlanta1928-Sheet57-georef",
+    "type": "AnnotationPage",
+    "items": [
+      {
+        "id": "https://example.org/annotations/Atlanta1928-Sheet57-georef/1",
+        "type": "Annotation",
+        "motivation": "georeferencing",
+        "target": {
+          "type": "SpecificResource",
+          "source": {
+            "id": "https://iiif.ecds.io/iiif/3/Atlanta_1928_Sheet57.tif",
+            "type": "Canvas",
+            "width": 5922,
+            "height": 5854
+          },
+          "selector": {
+            "type": "SvgSelector",
+            "value": "<svg width=\"5922\" height=\"5854\"><polygon points=\"350,440 5339,440 5339,5451 350,5451\" /></svg>"
+          }
+        },
+        "body": {
+          "type": "FeatureCollection",
+          "transformation": {
+            "type": "polynomial",
+            "options": {
+              "order": 1
+            }
+          },
+          "features": [
+            {
+              "type": "Feature",
+              "properties": {
+                "resourceCoords": [
+                  350,
+                  440
+                ]
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  -84.3166020274,
+                  33.8333304236
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "resourceCoords": [
+                  5339,
+                  440
+                ]
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  -84.2664814926,
+                  33.8333304236
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "resourceCoords": [
+                  5339,
+                  5451
+                ]
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  -84.2664814926,
+                  33.7833628014
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "resourceCoords": [
+                  350,
+                  5451
+                ]
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  -84.3166020274,
+                  33.7833628014
+                ]
+              }
+            }
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "@context": [
+      "http://iiif.io/api/extension/georef/1/context.json",
+      "http://iiif.io/api/presentation/3/context.json"
+    ],
+    "id": "https://example.org/annotations/Atlanta1928-Sheet58-georef",
+    "type": "AnnotationPage",
+    "items": [
+      {
+        "id": "https://example.org/annotations/Atlanta1928-Sheet58-georef/1",
+        "type": "Annotation",
+        "motivation": "georeferencing",
+        "target": {
+          "type": "SpecificResource",
+          "source": {
+            "id": "https://iiif.ecds.io/iiif/3/Atlanta_1928_Sheet58.tif",
+            "type": "Canvas",
+            "width": 5922,
+            "height": 5854
+          },
+          "selector": {
+            "type": "SvgSelector",
+            "value": "<svg width=\"5922\" height=\"5854\"><polygon points=\"350,440 5339,440 5339,5451 350,5451\" /></svg>"
+          }
+        },
+        "body": {
+          "type": "FeatureCollection",
+          "transformation": {
+            "type": "polynomial",
+            "options": {
+              "order": 1
+            }
+          },
+          "features": [
+            {
+              "type": "Feature",
+              "properties": {
+                "resourceCoords": [
+                  350,
+                  440
+                ]
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  -84.3667225622,
+                  33.8333304236
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "resourceCoords": [
+                  5339,
+                  440
+                ]
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  -84.3166020274,
+                  33.8333304236
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "resourceCoords": [
+                  5339,
+                  5451
+                ]
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  -84.3166020274,
+                  33.7833628014
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "resourceCoords": [
+                  350,
+                  5451
+                ]
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  -84.3667225622,
+                  33.7833628014
+                ]
+              }
+            }
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "@context": [
+      "http://iiif.io/api/extension/georef/1/context.json",
+      "http://iiif.io/api/presentation/3/context.json"
+    ],
+    "id": "https://example.org/annotations/Atlanta1928-Sheet59-georef",
+    "type": "AnnotationPage",
+    "items": [
+      {
+        "id": "https://example.org/annotations/Atlanta1928-Sheet59-georef/1",
+        "type": "Annotation",
+        "motivation": "georeferencing",
+        "target": {
+          "type": "SpecificResource",
+          "source": {
+            "id": "https://iiif.ecds.io/iiif/3/Atlanta_1928_Sheet59.tif",
+            "type": "Canvas",
+            "width": 5922,
+            "height": 5854
+          },
+          "selector": {
+            "type": "SvgSelector",
+            "value": "<svg width=\"5922\" height=\"5854\"><polygon points=\"350,440 5339,440 5339,5451 350,5451\" /></svg>"
+          }
+        },
+        "body": {
+          "type": "FeatureCollection",
+          "transformation": {
+            "type": "polynomial",
+            "options": {
+              "order": 1
+            }
+          },
+          "features": [
+            {
+              "type": "Feature",
+              "properties": {
+                "resourceCoords": [
+                  350,
+                  440
+                ]
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  -84.416843097,
+                  33.8333304236
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "resourceCoords": [
+                  5339,
+                  440
+                ]
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  -84.3667225622,
+                  33.8333304236
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "resourceCoords": [
+                  5339,
+                  5451
+                ]
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  -84.3667225622,
+                  33.7833628014
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "resourceCoords": [
+                  350,
+                  5451
+                ]
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  -84.416843097,
+                  33.7833628014
+                ]
+              }
+            }
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "@context": [
+      "http://iiif.io/api/extension/georef/1/context.json",
+      "http://iiif.io/api/presentation/3/context.json"
+    ],
+    "id": "https://example.org/annotations/Atlanta1928-Sheet60-georef",
+    "type": "AnnotationPage",
+    "items": [
+      {
+        "id": "https://example.org/annotations/Atlanta1928-Sheet60-georef/1",
+        "type": "Annotation",
+        "motivation": "georeferencing",
+        "target": {
+          "type": "SpecificResource",
+          "source": {
+            "id": "https://iiif.ecds.io/iiif/3/Atlanta_1928_Sheet60.tif",
+            "type": "Canvas",
+            "width": 5922,
+            "height": 5854
+          },
+          "selector": {
+            "type": "SvgSelector",
+            "value": "<svg width=\"5922\" height=\"5854\"><polygon points=\"350,440 5339,440 5339,5451 350,5451\" /></svg>"
+          }
+        },
+        "body": {
+          "type": "FeatureCollection",
+          "transformation": {
+            "type": "polynomial",
+            "options": {
+              "order": 1
+            }
+          },
+          "features": [
+            {
+              "type": "Feature",
+              "properties": {
+                "resourceCoords": [
+                  350,
+                  440
+                ]
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  -84.4669636318,
+                  33.8333304236
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "resourceCoords": [
+                  5339,
+                  440
+                ]
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  -84.416843097,
+                  33.8333304236
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "resourceCoords": [
+                  5339,
+                  5451
+                ]
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  -84.416843097,
+                  33.7833628014
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "resourceCoords": [
+                  350,
+                  5451
+                ]
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  -84.4669636318,
+                  33.7833628014
+                ]
+              }
+            }
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "@context": [
+      "http://iiif.io/api/extension/georef/1/context.json",
+      "http://iiif.io/api/presentation/3/context.json"
+    ],
+    "id": "https://example.org/annotations/Atlanta1928-Sheet61-georef",
+    "type": "AnnotationPage",
+    "items": [
+      {
+        "id": "https://example.org/annotations/Atlanta1928-Sheet61-georef/1",
+        "type": "Annotation",
+        "motivation": "georeferencing",
+        "target": {
+          "type": "SpecificResource",
+          "source": {
+            "id": "https://iiif.ecds.io/iiif/3/Atlanta_1928_Sheet61.tif",
+            "type": "Canvas",
+            "width": 5922,
+            "height": 5854
+          },
+          "selector": {
+            "type": "SvgSelector",
+            "value": "<svg width=\"5922\" height=\"5854\"><polygon points=\"350,440 5339,440 5339,5451 350,5451\" /></svg>"
+          }
+        },
+        "body": {
+          "type": "FeatureCollection",
+          "transformation": {
+            "type": "polynomial",
+            "options": {
+              "order": 1
+            }
+          },
+          "features": [
+            {
+              "type": "Feature",
+              "properties": {
+                "resourceCoords": [
+                  350,
+                  440
+                ]
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  -84.5170841666,
+                  33.8333304236
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "resourceCoords": [
+                  5339,
+                  440
+                ]
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  -84.4669636318,
+                  33.8333304236
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "resourceCoords": [
+                  5339,
+                  5451
+                ]
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  -84.4669636318,
+                  33.7833628014
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "resourceCoords": [
+                  350,
+                  5451
+                ]
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  -84.5170841666,
+                  33.7833628014
+                ]
+              }
+            }
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "@context": [
+      "http://iiif.io/api/extension/georef/1/context.json",
+      "http://iiif.io/api/presentation/3/context.json"
+    ],
+    "id": "https://example.org/annotations/Atlanta1928-Sheet63-georef",
+    "type": "AnnotationPage",
+    "items": [
+      {
+        "id": "https://example.org/annotations/Atlanta1928-Sheet63-georef/1",
+        "type": "Annotation",
+        "motivation": "georeferencing",
+        "target": {
+          "type": "SpecificResource",
+          "source": {
+            "id": "https://iiif.ecds.io/iiif/3/Atlanta_1928_Sheet63.tif",
+            "type": "Canvas",
+            "width": 5922,
+            "height": 5854
+          },
+          "selector": {
+            "type": "SvgSelector",
+            "value": "<svg width=\"5922\" height=\"5854\"><polygon points=\"350,440 5339,440 5339,5451 350,5451\" /></svg>"
+          }
+        },
+        "body": {
+          "type": "FeatureCollection",
+          "transformation": {
+            "type": "polynomial",
+            "options": {
+              "order": 1
+            }
+          },
+          "features": [
+            {
+              "type": "Feature",
+              "properties": {
+                "resourceCoords": [
+                  350,
+                  440
+                ]
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  -84.5170841666,
+                  33.7833628014
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "resourceCoords": [
+                  5339,
+                  440
+                ]
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  -84.4669636318,
+                  33.7833628014
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "resourceCoords": [
+                  5339,
+                  5451
+                ]
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  -84.4669636318,
+                  33.7333951792
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "resourceCoords": [
+                  350,
+                  5451
+                ]
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  -84.5170841666,
+                  33.7333951792
+                ]
+              }
+            }
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "@context": [
+      "http://iiif.io/api/extension/georef/1/context.json",
+      "http://iiif.io/api/presentation/3/context.json"
+    ],
+    "id": "https://example.org/annotations/Atlanta1928-Sheet64-georef",
+    "type": "AnnotationPage",
+    "items": [
+      {
+        "id": "https://example.org/annotations/Atlanta1928-Sheet64-georef/1",
+        "type": "Annotation",
+        "motivation": "georeferencing",
+        "target": {
+          "type": "SpecificResource",
+          "source": {
+            "id": "https://iiif.ecds.io/iiif/3/Atlanta_1928_Sheet64.tif",
+            "type": "Canvas",
+            "width": 5922,
+            "height": 5854
+          },
+          "selector": {
+            "type": "SvgSelector",
+            "value": "<svg width=\"5922\" height=\"5854\"><polygon points=\"350,440 5339,440 5339,5451 350,5451\" /></svg>"
+          }
+        },
+        "body": {
+          "type": "FeatureCollection",
+          "transformation": {
+            "type": "polynomial",
+            "options": {
+              "order": 1
+            }
+          },
+          "features": [
+            {
+              "type": "Feature",
+              "properties": {
+                "resourceCoords": [
+                  350,
+                  440
+                ]
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  -84.4669636318,
+                  33.7833628014
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "resourceCoords": [
+                  5339,
+                  440
+                ]
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  -84.416843097,
+                  33.7833628014
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "resourceCoords": [
+                  5339,
+                  5451
+                ]
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  -84.416843097,
+                  33.7333951792
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "resourceCoords": [
+                  350,
+                  5451
+                ]
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  -84.4669636318,
+                  33.7333951792
+                ]
+              }
+            }
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "@context": [
+      "http://iiif.io/api/extension/georef/1/context.json",
+      "http://iiif.io/api/presentation/3/context.json"
+    ],
+    "id": "https://example.org/annotations/Atlanta1928-Sheet65-georef",
+    "type": "AnnotationPage",
+    "items": [
+      {
+        "id": "https://example.org/annotations/Atlanta1928-Sheet65-georef/1",
+        "type": "Annotation",
+        "motivation": "georeferencing",
+        "target": {
+          "type": "SpecificResource",
+          "source": {
+            "id": "https://iiif.ecds.io/iiif/3/Atlanta_1928_Sheet65.tif",
+            "type": "Canvas",
+            "width": 5922,
+            "height": 5854
+          },
+          "selector": {
+            "type": "SvgSelector",
+            "value": "<svg width=\"5922\" height=\"5854\"><polygon points=\"350,440 5339,440 5339,5451 350,5451\" /></svg>"
+          }
+        },
+        "body": {
+          "type": "FeatureCollection",
+          "transformation": {
+            "type": "polynomial",
+            "options": {
+              "order": 1
+            }
+          },
+          "features": [
+            {
+              "type": "Feature",
+              "properties": {
+                "resourceCoords": [
+                  350,
+                  440
+                ]
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  -84.3166020274,
+                  33.7833628014
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "resourceCoords": [
+                  5339,
+                  440
+                ]
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  -84.2664814926,
+                  33.7833628014
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "resourceCoords": [
+                  5339,
+                  5451
+                ]
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  -84.2664814926,
+                  33.7333951792
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "resourceCoords": [
+                  350,
+                  5451
+                ]
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  -84.3166020274,
+                  33.7333951792
+                ]
+              }
+            }
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "@context": [
+      "http://iiif.io/api/extension/georef/1/context.json",
+      "http://iiif.io/api/presentation/3/context.json"
+    ],
+    "id": "https://example.org/annotations/Atlanta1928-Sheet66-georef",
+    "type": "AnnotationPage",
+    "items": [
+      {
+        "id": "https://example.org/annotations/Atlanta1928-Sheet66-georef/1",
+        "type": "Annotation",
+        "motivation": "georeferencing",
+        "target": {
+          "type": "SpecificResource",
+          "source": {
+            "id": "https://iiif.ecds.io/iiif/3/Atlanta_1928_Sheet66.tif",
+            "type": "Canvas",
+            "width": 5922,
+            "height": 5854
+          },
+          "selector": {
+            "type": "SvgSelector",
+            "value": "<svg width=\"5922\" height=\"5854\"><polygon points=\"350,440 5339,440 5339,5451 350,5451\" /></svg>"
+          }
+        },
+        "body": {
+          "type": "FeatureCollection",
+          "transformation": {
+            "type": "polynomial",
+            "options": {
+              "order": 1
+            }
+          },
+          "features": [
+            {
+              "type": "Feature",
+              "properties": {
+                "resourceCoords": [
+                  350,
+                  440
+                ]
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  -84.2664814926,
+                  33.7833628014
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "resourceCoords": [
+                  5339,
+                  440
+                ]
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  -84.2163609578,
+                  33.7833628014
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "resourceCoords": [
+                  5339,
+                  5451
+                ]
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  -84.2163609578,
+                  33.7333951792
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "resourceCoords": [
+                  350,
+                  5451
+                ]
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  -84.2664814926,
+                  33.7333951792
+                ]
+              }
+            }
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "@context": [
+      "http://iiif.io/api/extension/georef/1/context.json",
+      "http://iiif.io/api/presentation/3/context.json"
+    ],
+    "id": "https://example.org/annotations/Atlanta1928-Sheet69-georef",
+    "type": "AnnotationPage",
+    "items": [
+      {
+        "id": "https://example.org/annotations/Atlanta1928-Sheet69-georef/1",
+        "type": "Annotation",
+        "motivation": "georeferencing",
+        "target": {
+          "type": "SpecificResource",
+          "source": {
+            "id": "https://iiif.ecds.io/iiif/3/Atlanta_1928_Sheet69.tif",
+            "type": "Canvas",
+            "width": 5922,
+            "height": 5854
+          },
+          "selector": {
+            "type": "SvgSelector",
+            "value": "<svg width=\"5922\" height=\"5854\"><polygon points=\"350,440 5339,440 5339,5451 350,5451\" /></svg>"
+          }
+        },
+        "body": {
+          "type": "FeatureCollection",
+          "transformation": {
+            "type": "polynomial",
+            "options": {
+              "order": 1
+            }
+          },
+          "features": [
+            {
+              "type": "Feature",
+              "properties": {
+                "resourceCoords": [
+                  350,
+                  440
+                ]
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  -84.2664814926,
+                  33.7333951792
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "resourceCoords": [
+                  5339,
+                  440
+                ]
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  -84.2163609578,
+                  33.7333951792
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "resourceCoords": [
+                  5339,
+                  5451
+                ]
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  -84.2163609578,
+                  33.683427557
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "resourceCoords": [
+                  350,
+                  5451
+                ]
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  -84.2664814926,
+                  33.683427557
+                ]
+              }
+            }
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "@context": [
+      "http://iiif.io/api/extension/georef/1/context.json",
+      "http://iiif.io/api/presentation/3/context.json"
+    ],
+    "id": "https://example.org/annotations/Atlanta1928-Sheet70-georef",
+    "type": "AnnotationPage",
+    "items": [
+      {
+        "id": "https://example.org/annotations/Atlanta1928-Sheet70-georef/1",
+        "type": "Annotation",
+        "motivation": "georeferencing",
+        "target": {
+          "type": "SpecificResource",
+          "source": {
+            "id": "https://iiif.ecds.io/iiif/3/Atlanta_1928_Sheet70.tif",
+            "type": "Canvas",
+            "width": 5922,
+            "height": 5854
+          },
+          "selector": {
+            "type": "SvgSelector",
+            "value": "<svg width=\"5922\" height=\"5854\"><polygon points=\"350,440 5339,440 5339,5451 350,5451\" /></svg>"
+          }
+        },
+        "body": {
+          "type": "FeatureCollection",
+          "transformation": {
+            "type": "polynomial",
+            "options": {
+              "order": 1
+            }
+          },
+          "features": [
+            {
+              "type": "Feature",
+              "properties": {
+                "resourceCoords": [
+                  350,
+                  440
+                ]
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  -84.3166020274,
+                  33.7333951792
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "resourceCoords": [
+                  5339,
+                  440
+                ]
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  -84.2664814926,
+                  33.7333951792
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "resourceCoords": [
+                  5339,
+                  5451
+                ]
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  -84.2664814926,
+                  33.683427557
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "resourceCoords": [
+                  350,
+                  5451
+                ]
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  -84.3166020274,
+                  33.683427557
+                ]
+              }
+            }
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "@context": [
+      "http://iiif.io/api/extension/georef/1/context.json",
+      "http://iiif.io/api/presentation/3/context.json"
+    ],
+    "id": "https://example.org/annotations/Atlanta1928-Sheet71-georef",
+    "type": "AnnotationPage",
+    "items": [
+      {
+        "id": "https://example.org/annotations/Atlanta1928-Sheet71-georef/1",
+        "type": "Annotation",
+        "motivation": "georeferencing",
+        "target": {
+          "type": "SpecificResource",
+          "source": {
+            "id": "https://iiif.ecds.io/iiif/3/Atlanta_1928_Sheet71.tif",
+            "type": "Canvas",
+            "width": 5922,
+            "height": 5854
+          },
+          "selector": {
+            "type": "SvgSelector",
+            "value": "<svg width=\"5922\" height=\"5854\"><polygon points=\"350,440 5339,440 5339,5451 350,5451\" /></svg>"
+          }
+        },
+        "body": {
+          "type": "FeatureCollection",
+          "transformation": {
+            "type": "polynomial",
+            "options": {
+              "order": 1
+            }
+          },
+          "features": [
+            {
+              "type": "Feature",
+              "properties": {
+                "resourceCoords": [
+                  350,
+                  440
+                ]
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  -84.3667225622,
+                  33.7333951792
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "resourceCoords": [
+                  5339,
+                  440
+                ]
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  -84.3166020274,
+                  33.7333951792
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "resourceCoords": [
+                  5339,
+                  5451
+                ]
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  -84.3166020274,
+                  33.683427557
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "resourceCoords": [
+                  350,
+                  5451
+                ]
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  -84.3667225622,
+                  33.683427557
+                ]
+              }
+            }
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "@context": [
+      "http://iiif.io/api/extension/georef/1/context.json",
+      "http://iiif.io/api/presentation/3/context.json"
+    ],
+    "id": "https://example.org/annotations/Atlanta1928-Sheet72-georef",
+    "type": "AnnotationPage",
+    "items": [
+      {
+        "id": "https://example.org/annotations/Atlanta1928-Sheet72-georef/1",
+        "type": "Annotation",
+        "motivation": "georeferencing",
+        "target": {
+          "type": "SpecificResource",
+          "source": {
+            "id": "https://iiif.ecds.io/iiif/3/Atlanta_1928_Sheet72.tif",
+            "type": "Canvas",
+            "width": 5922,
+            "height": 5854
+          },
+          "selector": {
+            "type": "SvgSelector",
+            "value": "<svg width=\"5922\" height=\"5854\"><polygon points=\"350,440 5339,440 5339,5451 350,5451\" /></svg>"
+          }
+        },
+        "body": {
+          "type": "FeatureCollection",
+          "transformation": {
+            "type": "polynomial",
+            "options": {
+              "order": 1
+            }
+          },
+          "features": [
+            {
+              "type": "Feature",
+              "properties": {
+                "resourceCoords": [
+                  350,
+                  440
+                ]
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  -84.416843097,
+                  33.7333951792
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "resourceCoords": [
+                  5339,
+                  440
+                ]
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  -84.3667225622,
+                  33.7333951792
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "resourceCoords": [
+                  5339,
+                  5451
+                ]
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  -84.3667225622,
+                  33.683427557
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "resourceCoords": [
+                  350,
+                  5451
+                ]
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  -84.416843097,
+                  33.683427557
+                ]
+              }
+            }
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "@context": [
+      "http://iiif.io/api/extension/georef/1/context.json",
+      "http://iiif.io/api/presentation/3/context.json"
+    ],
+    "id": "https://example.org/annotations/Atlanta1928-Sheet73-georef",
+    "type": "AnnotationPage",
+    "items": [
+      {
+        "id": "https://example.org/annotations/Atlanta1928-Sheet73-georef/1",
+        "type": "Annotation",
+        "motivation": "georeferencing",
+        "target": {
+          "type": "SpecificResource",
+          "source": {
+            "id": "https://iiif.ecds.io/iiif/3/Atlanta_1928_Sheet73.tif",
+            "type": "Canvas",
+            "width": 5922,
+            "height": 5854
+          },
+          "selector": {
+            "type": "SvgSelector",
+            "value": "<svg width=\"5922\" height=\"5854\"><polygon points=\"350,440 5339,440 5339,5451 350,5451\" /></svg>"
+          }
+        },
+        "body": {
+          "type": "FeatureCollection",
+          "transformation": {
+            "type": "polynomial",
+            "options": {
+              "order": 1
+            }
+          },
+          "features": [
+            {
+              "type": "Feature",
+              "properties": {
+                "resourceCoords": [
+                  350,
+                  440
+                ]
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  -84.4669636318,
+                  33.7333951792
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "resourceCoords": [
+                  5339,
+                  440
+                ]
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  -84.416843097,
+                  33.7333951792
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "resourceCoords": [
+                  5339,
+                  5451
+                ]
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  -84.416843097,
+                  33.683427557
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "resourceCoords": [
+                  350,
+                  5451
+                ]
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  -84.4669636318,
+                  33.683427557
+                ]
+              }
+            }
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "@context": [
+      "http://iiif.io/api/extension/georef/1/context.json",
+      "http://iiif.io/api/presentation/3/context.json"
+    ],
+    "id": "https://example.org/annotations/Atlanta1928-Sheet74-georef",
+    "type": "AnnotationPage",
+    "items": [
+      {
+        "id": "https://example.org/annotations/Atlanta1928-Sheet74-georef/1",
+        "type": "Annotation",
+        "motivation": "georeferencing",
+        "target": {
+          "type": "SpecificResource",
+          "source": {
+            "id": "https://iiif.ecds.io/iiif/3/Atlanta_1928_Sheet74.tif",
+            "type": "Canvas",
+            "width": 5922,
+            "height": 5854
+          },
+          "selector": {
+            "type": "SvgSelector",
+            "value": "<svg width=\"5922\" height=\"5854\"><polygon points=\"350,440 5339,440 5339,5451 350,5451\" /></svg>"
+          }
+        },
+        "body": {
+          "type": "FeatureCollection",
+          "transformation": {
+            "type": "polynomial",
+            "options": {
+              "order": 1
+            }
+          },
+          "features": [
+            {
+              "type": "Feature",
+              "properties": {
+                "resourceCoords": [
+                  350,
+                  440
+                ]
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  -84.5170841666,
+                  33.7333951792
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "resourceCoords": [
+                  5339,
+                  440
+                ]
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  -84.4669636318,
+                  33.7333951792
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "resourceCoords": [
+                  5339,
+                  5451
+                ]
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  -84.4669636318,
+                  33.683427557
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "resourceCoords": [
+                  350,
+                  5451
+                ]
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  -84.5170841666,
+                  33.683427557
+                ]
+              }
+            }
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "@context": [
+      "http://iiif.io/api/extension/georef/1/context.json",
+      "http://iiif.io/api/presentation/3/context.json"
+    ],
+    "id": "https://example.org/annotations/Atlanta1928-Sheet76-georef",
+    "type": "AnnotationPage",
+    "items": [
+      {
+        "id": "https://example.org/annotations/Atlanta1928-Sheet76-georef/1",
+        "type": "Annotation",
+        "motivation": "georeferencing",
+        "target": {
+          "type": "SpecificResource",
+          "source": {
+            "id": "https://iiif.ecds.io/iiif/3/Atlanta_1928_Sheet76.tif",
+            "type": "Canvas",
+            "width": 5922,
+            "height": 5854
+          },
+          "selector": {
+            "type": "SvgSelector",
+            "value": "<svg width=\"5922\" height=\"5854\"><polygon points=\"350,440 5339,440 5339,5451 350,5451\" /></svg>"
+          }
+        },
+        "body": {
+          "type": "FeatureCollection",
+          "transformation": {
+            "type": "polynomial",
+            "options": {
+              "order": 1
+            }
+          },
+          "features": [
+            {
+              "type": "Feature",
+              "properties": {
+                "resourceCoords": [
+                  350,
+                  440
+                ]
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  -84.5170841666,
+                  33.683427557
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "resourceCoords": [
+                  5339,
+                  440
+                ]
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  -84.4669636318,
+                  33.683427557
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "resourceCoords": [
+                  5339,
+                  5451
+                ]
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  -84.4669636318,
+                  33.6334599348
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "resourceCoords": [
+                  350,
+                  5451
+                ]
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  -84.5170841666,
+                  33.6334599348
+                ]
+              }
+            }
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "@context": [
+      "http://iiif.io/api/extension/georef/1/context.json",
+      "http://iiif.io/api/presentation/3/context.json"
+    ],
+    "id": "https://example.org/annotations/Atlanta1928-Sheet77-georef",
+    "type": "AnnotationPage",
+    "items": [
+      {
+        "id": "https://example.org/annotations/Atlanta1928-Sheet77-georef/1",
+        "type": "Annotation",
+        "motivation": "georeferencing",
+        "target": {
+          "type": "SpecificResource",
+          "source": {
+            "id": "https://iiif.ecds.io/iiif/3/Atlanta_1928_Sheet77.tif",
+            "type": "Canvas",
+            "width": 5922,
+            "height": 5854
+          },
+          "selector": {
+            "type": "SvgSelector",
+            "value": "<svg width=\"5922\" height=\"5854\"><polygon points=\"350,440 5339,440 5339,5451 350,5451\" /></svg>"
+          }
+        },
+        "body": {
+          "type": "FeatureCollection",
+          "transformation": {
+            "type": "polynomial",
+            "options": {
+              "order": 1
+            }
+          },
+          "features": [
+            {
+              "type": "Feature",
+              "properties": {
+                "resourceCoords": [
+                  350,
+                  440
+                ]
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  -84.4669636318,
+                  33.683427557
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "resourceCoords": [
+                  5339,
+                  440
+                ]
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  -84.416843097,
+                  33.683427557
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "resourceCoords": [
+                  5339,
+                  5451
+                ]
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  -84.416843097,
+                  33.6334599348
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "resourceCoords": [
+                  350,
+                  5451
+                ]
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  -84.4669636318,
+                  33.6334599348
+                ]
+              }
+            }
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "@context": [
+      "http://iiif.io/api/extension/georef/1/context.json",
+      "http://iiif.io/api/presentation/3/context.json"
+    ],
+    "id": "https://example.org/annotations/Atlanta1928-Sheet78-georef",
+    "type": "AnnotationPage",
+    "items": [
+      {
+        "id": "https://example.org/annotations/Atlanta1928-Sheet78-georef/1",
+        "type": "Annotation",
+        "motivation": "georeferencing",
+        "target": {
+          "type": "SpecificResource",
+          "source": {
+            "id": "https://iiif.ecds.io/iiif/3/Atlanta_1928_Sheet78.tif",
+            "type": "Canvas",
+            "width": 5922,
+            "height": 5854
+          },
+          "selector": {
+            "type": "SvgSelector",
+            "value": "<svg width=\"5922\" height=\"5854\"><polygon points=\"350,440 5339,440 5339,5451 350,5451\" /></svg>"
+          }
+        },
+        "body": {
+          "type": "FeatureCollection",
+          "transformation": {
+            "type": "polynomial",
+            "options": {
+              "order": 1
+            }
+          },
+          "features": [
+            {
+              "type": "Feature",
+              "properties": {
+                "resourceCoords": [
+                  350,
+                  440
+                ]
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  -84.416843097,
+                  33.683427557
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "resourceCoords": [
+                  5339,
+                  440
+                ]
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  -84.3667225622,
+                  33.683427557
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "resourceCoords": [
+                  5339,
+                  5451
+                ]
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  -84.3667225622,
+                  33.6334599348
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "resourceCoords": [
+                  350,
+                  5451
+                ]
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  -84.416843097,
+                  33.6334599348
+                ]
+              }
+            }
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "@context": [
+      "http://iiif.io/api/extension/georef/1/context.json",
+      "http://iiif.io/api/presentation/3/context.json"
+    ],
+    "id": "https://example.org/annotations/Atlanta1928-Sheet79-georef",
+    "type": "AnnotationPage",
+    "items": [
+      {
+        "id": "https://example.org/annotations/Atlanta1928-Sheet79-georef/1",
+        "type": "Annotation",
+        "motivation": "georeferencing",
+        "target": {
+          "type": "SpecificResource",
+          "source": {
+            "id": "https://iiif.ecds.io/iiif/3/Atlanta_1928_Sheet79.tif",
+            "type": "Canvas",
+            "width": 5922,
+            "height": 5854
+          },
+          "selector": {
+            "type": "SvgSelector",
+            "value": "<svg width=\"5922\" height=\"5854\"><polygon points=\"350,440 5339,440 5339,5451 350,5451\" /></svg>"
+          }
+        },
+        "body": {
+          "type": "FeatureCollection",
+          "transformation": {
+            "type": "polynomial",
+            "options": {
+              "order": 1
+            }
+          },
+          "features": [
+            {
+              "type": "Feature",
+              "properties": {
+                "resourceCoords": [
+                  350,
+                  440
+                ]
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  -84.3667225622,
+                  33.683427557
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "resourceCoords": [
+                  5339,
+                  440
+                ]
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  -84.3166020274,
+                  33.683427557
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "resourceCoords": [
+                  5339,
+                  5451
+                ]
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  -84.3166020274,
+                  33.6334599348
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "resourceCoords": [
+                  350,
+                  5451
+                ]
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  -84.3667225622,
+                  33.6334599348
+                ]
+              }
+            }
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "@context": [
+      "http://iiif.io/api/extension/georef/1/context.json",
+      "http://iiif.io/api/presentation/3/context.json"
+    ],
+    "id": "https://example.org/annotations/Atlanta1928-Sheet80-georef",
+    "type": "AnnotationPage",
+    "items": [
+      {
+        "id": "https://example.org/annotations/Atlanta1928-Sheet80-georef/1",
+        "type": "Annotation",
+        "motivation": "georeferencing",
+        "target": {
+          "type": "SpecificResource",
+          "source": {
+            "id": "https://iiif.ecds.io/iiif/3/Atlanta_1928_Sheet80.tif",
+            "type": "Canvas",
+            "width": 5922,
+            "height": 5854
+          },
+          "selector": {
+            "type": "SvgSelector",
+            "value": "<svg width=\"5922\" height=\"5854\"><polygon points=\"350,440 5339,440 5339,5451 350,5451\" /></svg>"
+          }
+        },
+        "body": {
+          "type": "FeatureCollection",
+          "transformation": {
+            "type": "polynomial",
+            "options": {
+              "order": 1
+            }
+          },
+          "features": [
+            {
+              "type": "Feature",
+              "properties": {
+                "resourceCoords": [
+                  350,
+                  440
+                ]
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  -84.3166020274,
+                  33.683427557
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "resourceCoords": [
+                  5339,
+                  440
+                ]
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  -84.2664814926,
+                  33.683427557
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "resourceCoords": [
+                  5339,
+                  5451
+                ]
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  -84.2664814926,
+                  33.6334599348
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "resourceCoords": [
+                  350,
+                  5451
+                ]
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  -84.3166020274,
+                  33.6334599348
+                ]
+              }
+            }
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "@context": [
+      "http://iiif.io/api/extension/georef/1/context.json",
+      "http://iiif.io/api/presentation/3/context.json"
+    ],
+    "id": "https://example.org/annotations/Atlanta1928-Sheet81-georef",
+    "type": "AnnotationPage",
+    "items": [
+      {
+        "id": "https://example.org/annotations/Atlanta1928-Sheet81-georef/1",
+        "type": "Annotation",
+        "motivation": "georeferencing",
+        "target": {
+          "type": "SpecificResource",
+          "source": {
+            "id": "https://iiif.ecds.io/iiif/3/Atlanta_1928_Sheet81.tif",
+            "type": "Canvas",
+            "width": 5922,
+            "height": 5854
+          },
+          "selector": {
+            "type": "SvgSelector",
+            "value": "<svg width=\"5922\" height=\"5854\"><polygon points=\"350,440 5339,440 5339,5451 350,5451\" /></svg>"
+          }
+        },
+        "body": {
+          "type": "FeatureCollection",
+          "transformation": {
+            "type": "polynomial",
+            "options": {
+              "order": 1
+            }
+          },
+          "features": [
+            {
+              "type": "Feature",
+              "properties": {
+                "resourceCoords": [
+                  350,
+                  440
+                ]
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  -84.2664814926,
+                  33.683427557
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "resourceCoords": [
+                  5339,
+                  440
+                ]
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  -84.2163609578,
+                  33.683427557
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "resourceCoords": [
+                  5339,
+                  5451
+                ]
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  -84.2163609578,
+                  33.6334599348
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "resourceCoords": [
+                  350,
+                  5451
+                ]
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  -84.2664814926,
+                  33.6334599348
+                ]
+              }
+            }
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "@context": [
+      "http://iiif.io/api/extension/georef/1/context.json",
+      "http://iiif.io/api/presentation/3/context.json"
+    ],
+    "id": "https://example.org/annotations/Atlanta1928-Sheet84-georef",
+    "type": "AnnotationPage",
+    "items": [
+      {
+        "id": "https://example.org/annotations/Atlanta1928-Sheet84-georef/1",
+        "type": "Annotation",
+        "motivation": "georeferencing",
+        "target": {
+          "type": "SpecificResource",
+          "source": {
+            "id": "https://iiif.ecds.io/iiif/3/Atlanta_1928_Sheet84.tif",
+            "type": "Canvas",
+            "width": 5922,
+            "height": 5854
+          },
+          "selector": {
+            "type": "SvgSelector",
+            "value": "<svg width=\"5922\" height=\"5854\"><polygon points=\"350,440 5339,440 5339,5451 350,5451\" /></svg>"
+          }
+        },
+        "body": {
+          "type": "FeatureCollection",
+          "transformation": {
+            "type": "polynomial",
+            "options": {
+              "order": 1
+            }
+          },
+          "features": [
+            {
+              "type": "Feature",
+              "properties": {
+                "resourceCoords": [
+                  350,
+                  440
+                ]
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  -84.2664814926,
+                  33.933265668
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "resourceCoords": [
+                  5339,
+                  440
+                ]
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  -84.2163609578,
+                  33.933265668
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "resourceCoords": [
+                  5339,
+                  5451
+                ]
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  -84.2163609578,
+                  33.8832980458
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "resourceCoords": [
+                  350,
+                  5451
+                ]
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  -84.2664814926,
+                  33.8832980458
+                ]
+              }
+            }
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "@context": [
+      "http://iiif.io/api/extension/georef/1/context.json",
+      "http://iiif.io/api/presentation/3/context.json"
+    ],
+    "id": "https://example.org/annotations/Atlanta1928-Sheet85-georef",
+    "type": "AnnotationPage",
+    "items": [
+      {
+        "id": "https://example.org/annotations/Atlanta1928-Sheet85-georef/1",
+        "type": "Annotation",
+        "motivation": "georeferencing",
+        "target": {
+          "type": "SpecificResource",
+          "source": {
+            "id": "https://iiif.ecds.io/iiif/3/Atlanta_1928_Sheet85.tif",
+            "type": "Canvas",
+            "width": 5922,
+            "height": 5854
+          },
+          "selector": {
+            "type": "SvgSelector",
+            "value": "<svg width=\"5922\" height=\"5854\"><polygon points=\"350,440 5339,440 5339,5451 350,5451\" /></svg>"
+          }
+        },
+        "body": {
+          "type": "FeatureCollection",
+          "transformation": {
+            "type": "polynomial",
+            "options": {
+              "order": 1
+            }
+          },
+          "features": [
+            {
+              "type": "Feature",
+              "properties": {
+                "resourceCoords": [
+                  350,
+                  440
+                ]
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  -84.3166020274,
+                  33.933265668
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "resourceCoords": [
+                  5339,
+                  440
+                ]
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  -84.2664814926,
+                  33.933265668
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "resourceCoords": [
+                  5339,
+                  5451
+                ]
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  -84.2664814926,
+                  33.8832980458
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "resourceCoords": [
+                  350,
+                  5451
+                ]
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  -84.3166020274,
+                  33.8832980458
+                ]
+              }
+            }
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "@context": [
+      "http://iiif.io/api/extension/georef/1/context.json",
+      "http://iiif.io/api/presentation/3/context.json"
+    ],
+    "id": "https://example.org/annotations/Atlanta1928-Sheet86-georef",
+    "type": "AnnotationPage",
+    "items": [
+      {
+        "id": "https://example.org/annotations/Atlanta1928-Sheet86-georef/1",
+        "type": "Annotation",
+        "motivation": "georeferencing",
+        "target": {
+          "type": "SpecificResource",
+          "source": {
+            "id": "https://iiif.ecds.io/iiif/3/Atlanta_1928_Sheet86.tif",
+            "type": "Canvas",
+            "width": 5922,
+            "height": 5854
+          },
+          "selector": {
+            "type": "SvgSelector",
+            "value": "<svg width=\"5922\" height=\"5854\"><polygon points=\"350,440 5339,440 5339,5451 350,5451\" /></svg>"
+          }
+        },
+        "body": {
+          "type": "FeatureCollection",
+          "transformation": {
+            "type": "polynomial",
+            "options": {
+              "order": 1
+            }
+          },
+          "features": [
+            {
+              "type": "Feature",
+              "properties": {
+                "resourceCoords": [
+                  350,
+                  440
+                ]
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  -84.3667225622,
+                  33.933265668
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "resourceCoords": [
+                  5339,
+                  440
+                ]
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  -84.3166020274,
+                  33.933265668
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "resourceCoords": [
+                  5339,
+                  5451
+                ]
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  -84.3166020274,
+                  33.8832980458
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "resourceCoords": [
+                  350,
+                  5451
+                ]
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  -84.3667225622,
+                  33.8832980458
+                ]
+              }
+            }
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "@context": [
+      "http://iiif.io/api/extension/georef/1/context.json",
+      "http://iiif.io/api/presentation/3/context.json"
+    ],
+    "id": "https://example.org/annotations/Atlanta1928-Sheet87-georef",
+    "type": "AnnotationPage",
+    "items": [
+      {
+        "id": "https://example.org/annotations/Atlanta1928-Sheet87-georef/1",
+        "type": "Annotation",
+        "motivation": "georeferencing",
+        "target": {
+          "type": "SpecificResource",
+          "source": {
+            "id": "https://iiif.ecds.io/iiif/3/Atlanta_1928_Sheet87.tif",
+            "type": "Canvas",
+            "width": 5922,
+            "height": 5854
+          },
+          "selector": {
+            "type": "SvgSelector",
+            "value": "<svg width=\"5922\" height=\"5854\"><polygon points=\"350,440 5339,440 5339,5451 350,5451\" /></svg>"
+          }
+        },
+        "body": {
+          "type": "FeatureCollection",
+          "transformation": {
+            "type": "polynomial",
+            "options": {
+              "order": 1
+            }
+          },
+          "features": [
+            {
+              "type": "Feature",
+              "properties": {
+                "resourceCoords": [
+                  350,
+                  440
+                ]
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  -84.416843097,
+                  33.933265668
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "resourceCoords": [
+                  5339,
+                  440
+                ]
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  -84.3667225622,
+                  33.933265668
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "resourceCoords": [
+                  5339,
+                  5451
+                ]
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  -84.3667225622,
+                  33.8832980458
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "resourceCoords": [
+                  350,
+                  5451
+                ]
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  -84.416843097,
+                  33.8832980458
+                ]
+              }
+            }
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "@context": [
+      "http://iiif.io/api/extension/georef/1/context.json",
+      "http://iiif.io/api/presentation/3/context.json"
+    ],
+    "id": "https://example.org/annotations/Atlanta1928-Sheet88-georef",
+    "type": "AnnotationPage",
+    "items": [
+      {
+        "id": "https://example.org/annotations/Atlanta1928-Sheet88-georef/1",
+        "type": "Annotation",
+        "motivation": "georeferencing",
+        "target": {
+          "type": "SpecificResource",
+          "source": {
+            "id": "https://iiif.ecds.io/iiif/3/Atlanta_1928_Sheet88.tif",
+            "type": "Canvas",
+            "width": 5922,
+            "height": 5854
+          },
+          "selector": {
+            "type": "SvgSelector",
+            "value": "<svg width=\"5922\" height=\"5854\"><polygon points=\"350,440 5339,440 5339,5451 350,5451\" /></svg>"
+          }
+        },
+        "body": {
+          "type": "FeatureCollection",
+          "transformation": {
+            "type": "polynomial",
+            "options": {
+              "order": 1
+            }
+          },
+          "features": [
+            {
+              "type": "Feature",
+              "properties": {
+                "resourceCoords": [
+                  350,
+                  440
+                ]
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  -84.4669636318,
+                  33.933265668
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "resourceCoords": [
+                  5339,
+                  440
+                ]
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  -84.416843097,
+                  33.933265668
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "resourceCoords": [
+                  5339,
+                  5451
+                ]
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  -84.416843097,
+                  33.8832980458
+                ]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {
+                "resourceCoords": [
+                  350,
+                  5451
+                ]
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  -84.4669636318,
+                  33.8832980458
+                ]
+              }
+            }
+          ]
+        }
+      }
+    ]
+  }
+]

@@ -7605,7 +7605,7 @@ export const ohm: StyleSpecification = {
       paint: {
         "raster-opacity": 1,
       },
-      layout: { visibility: "visible" },
+      layout: { visibility: "none" },
     },
     {
       id: "atl1904",
@@ -7615,7 +7615,7 @@ export const ohm: StyleSpecification = {
       paint: {
         "raster-opacity": 1,
       },
-      layout: { visibility: "visible" },
+      layout: { visibility: "none" },
     },
   ],
 };

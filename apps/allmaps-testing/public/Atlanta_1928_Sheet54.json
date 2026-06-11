@@ -1,0 +1,103 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/georef/1/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://example.org/annotations/Atlanta1928-Sheet54-georef",
+  "type": "AnnotationPage",
+  "items": [
+    {
+      "id": "https://example.org/annotations/Atlanta1928-Sheet54-georef/1",
+      "type": "Annotation",
+      "motivation": "georeferencing",
+      "target": {
+        "type": "SpecificResource",
+        "source": {
+          "id": "https://iiif.ecds.io/iiif/3/Atlanta_1928_Sheet54.tif",
+          "type": "Canvas",
+          "width": 5922,
+          "height": 5854
+        },
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg width=\"5922\" height=\"5854\"><polygon points=\"350,440 5339,440 5339,5451 350,5451\" /></svg>"
+        }
+      },
+      "body": {
+        "type": "FeatureCollection",
+        "transformation": {
+          "type": "polynomial",
+          "options": {
+            "order": 1
+          }
+        },
+        "features": [
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [
+                350,
+                440
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                -84.3166020274,
+                33.8832980458
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [
+                5339,
+                440
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                -84.2664814926,
+                33.8832980458
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [
+                5339,
+                5451
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                -84.2664814926,
+                33.8333304236
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [
+                350,
+                5451
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                -84.3166020274,
+                33.8333304236
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}
