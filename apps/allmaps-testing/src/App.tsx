@@ -52,7 +52,7 @@ const App = () => {
     for (const sheet of SHEETS) {
       map.addLayer(warpedMapLayer);
       warpedMapLayer.addGeoreferenceAnnotationByUrl(
-        `/Atlanta_1928_Sheet${sheet}.json`,
+        `${import.meta.env.BASE_URL}Atlanta_1928_Sheet${sheet}.json`,
       );
     }
   }, [map, mapLoaded]);
