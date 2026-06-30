@@ -8,5 +8,12 @@
     { "path": "./apps/buildings-1928" },
     { "path": "./packages/ui" },
     { "path": "./packages/utils" }
-  ]
+  ],
+  "settings": {
+    "import/internal-regex": "^~/",
+    "import/resolver": {
+      "node": { "extensions": [".ts", ".tsx"] },
+      "typescript": { "alwaysTryTypes": true }
+    }
+  }
 }

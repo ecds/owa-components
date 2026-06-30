@@ -1,18 +1,14 @@
 import { useEffect, useRef, useState } from "react";
 import "maplibre-gl/dist/maplibre-gl.css";
 import { filterByDate } from "@openhistoricalmap/maplibre-gl-dates";
-import maplibregl, {
-  LngLat,
-  LngLatBounds,
-  Map,
-  type MapLayerMouseEvent,
-} from "maplibre-gl";
+import maplibregl, { LngLat, LngLatBounds, Map } from "maplibre-gl";
 import { ohm } from "@owa-components/utils";
 import { immigrantData } from "./styles/immigrant_data";
 import { dataBounds } from "./data";
 import Legend from "./Legend";
-import ToggleVisibility from "./Toggle1904";
+import ToggleVisibility from "./ToggleVisibility";
 import { OWAPopup, PropertiesTable } from "@owa-components/ui";
+import type { MapLayerMouseEvent } from "maplibre-gl";
 
 const App = () => {
   const mapRef = useRef<maplibregl.Map>(null);
@@ -52,6 +48,8 @@ const App = () => {
       setMapLoaded(true);
     });
 
+    _map.on("zoomend", () => console.log(_map.getZoom()));
+
     return () => {
       _map.remove();
     };
@@ -63,9 +61,10 @@ const App = () => {
     const handleClick = ({ features }: MapLayerMouseEvent) => {
       const props = features?.[0]?.properties;
       const geom = features?.[0]?.geometry;
-      const coordinates = geom?.type === "Point"
-        ? (geom.coordinates as [number, number])
-        : undefined;
+      const coordinates =
+        geom?.type === "Point"
+          ? (geom.coordinates as [number, number])
+          : undefined;
       setSelectedProperties(props ? (props as Record<string, unknown>) : null);
       setSelectedCoordinates(coordinates);
     };

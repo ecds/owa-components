@@ -35,7 +35,8 @@ export const ohm: StyleSpecification = {
     atl1904: {
       type: "raster",
       tileSize: 256,
-      attribution: "Atlanta History Center",
+      attribution:
+        "<a href='https://www.atlantahistorycenter.com/buildings-and-grounds/kenan-research-center/'>Kenan Research Center</a> at the Atlanta History Center",
       maxzoom: 20,
       tiles: [
         "https://geoserver.ecds.emory.edu/gwc/service/wms?layers=ATLMaps:1904&service=WMS&request=GetMap&format=image/png&transparent=true?version=1.1.1&width=256&height=256&srs=EPSG:3857&bbox={bbox-epsg-3857}",
