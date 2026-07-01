@@ -1,0 +1,7 @@
+/* WordPress-safe Tailwind: theme variables + utilities, no preflight reset */
+@import "tailwindcss/theme";
+@import "tailwindcss/utilities";
+
+button {
+  cursor: pointer;
+}

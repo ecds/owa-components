@@ -1,4 +1,9 @@
-@import "tailwindcss";
+@import "@owa-components/vite-config/base.css";
+
+#reynoldstown-wpf-map {
+  all: initial;
+  font-family: inherit;
+}
 
 .content h2,
 .content h3 {

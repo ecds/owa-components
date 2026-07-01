@@ -8,3 +8,4 @@ export * from "./med_meast";
 export * from "./ne_we";
 export * from "./cee";
 export * from "./data_bounds";
+export * from "./immigrants";

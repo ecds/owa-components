@@ -1,5 +1,6 @@
 import { defineConfig } from "vite";
 import react from "@vitejs/plugin-react";
+import tailwindcss from "@tailwindcss/vite";
 
 /**
  * Base Vite config for WordPress shortcode components.
@@ -18,7 +19,7 @@ export function createWordPressConfig(options = {}) {
 
   return defineConfig({
     base: resolvedBase,
-    plugins: [...(reactless ? [] : [react()]), ...extraPlugins],
+    plugins: [...(reactless ? [] : [react()]), tailwindcss(), ...extraPlugins],
     server: { hmr: true },
     build: {
       target,

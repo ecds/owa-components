@@ -10,6 +10,7 @@ export const afr = {
         coordinates: [-84.413865, 33.745955],
       },
       properties: {
+        id: "fc0d6fca",
         "first name": "S[amuel]",
         "last name": "Mpemba",
         "street #": "",
@@ -18,7 +19,7 @@ export const afr = {
         sex: "male",
         "birth country": '"Africa"',
         race: "C",
-        notes: "from Congo Free State (AtlBapColl 1898)",
+        noes: "from Congo Free State (AtlBapColl 1898)",
       },
     },
     {
@@ -28,6 +29,7 @@ export const afr = {
         coordinates: [-84.412293, 33.74636],
       },
       properties: {
+        id: "f52ba0dd",
         "first name": "Emma",
         "last name": "Youngblood",
         "street #": "",
@@ -36,7 +38,6 @@ export const afr = {
         sex: "female",
         "birth country": '"Africa"',
         race: "C",
-        notes: "1900cen: in dorm at Spelman",
       },
     },
     {
@@ -46,6 +47,7 @@ export const afr = {
         coordinates: [-84.412293, 33.74636],
       },
       properties: {
+        id: "333bbd30",
         "first name": "M[argaret] G",
         "last name": "Rothay [Rattray]",
         "street #": "",
@@ -54,7 +56,6 @@ export const afr = {
         sex: "female",
         "birth country": '"Africa"',
         race: "C",
-        notes: "Margaret Rattray",
       },
     },
     {
@@ -64,6 +65,7 @@ export const afr = {
         coordinates: [-84.3750967, 33.7515595],
       },
       properties: {
+        id: "38987b82",
         "first name": "Jas M",
         "last name": "Droane",
         "street #": "30",
@@ -72,7 +74,6 @@ export const afr = {
         sex: "male",
         "birth country": '"Africa"',
         race: "C",
-        notes: "not in census/cds",
       },
     },
     {
@@ -82,6 +83,7 @@ export const afr = {
         coordinates: [-84.3842708, 33.7609362],
       },
       properties: {
+        id: "453e0d1a",
         "first name": "E",
         "last name": "Dadwell",
         "street #": "81",
@@ -90,7 +92,6 @@ export const afr = {
         sex: "male",
         "birth country": '"Africa"',
         race: "W",
-        notes: "Cyrus Dadswell, organist?",
       },
     },
     {
@@ -100,6 +101,7 @@ export const afr = {
         coordinates: [-84.3913903, 33.7407429],
       },
       properties: {
+        id: "53b28ffb",
         "first name": "Mary",
         "last name": "Mitchell",
         "street #": "242",
@@ -108,7 +110,6 @@ export const afr = {
         sex: "female",
         "birth country": '"Africa"',
         race: "W",
-        notes: "not in census/cds",
       },
     },
   ],

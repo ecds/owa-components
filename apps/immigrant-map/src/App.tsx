@@ -1,3 +1,5 @@
+import chroma from "chroma-js";
+import { Carousel } from "nuka-carousel";
 import { useEffect, useRef, useState } from "react";
 import "maplibre-gl/dist/maplibre-gl.css";
 import { filterByDate } from "@openhistoricalmap/maplibre-gl-dates";
@@ -5,20 +7,23 @@ import maplibregl, { LngLat, LngLatBounds, Map } from "maplibre-gl";
 import { ohm } from "@owa-components/utils";
 import { immigrantData } from "./styles/immigrant_data";
 import { dataBounds } from "./data";
-import Legend from "./Legend";
-import ToggleVisibility from "./ToggleVisibility";
+import Legend from "./components/Legend";
+import ToggleVisibility from "./components/ToggleVisibility";
 import { OWAPopup, PropertiesTable } from "@owa-components/ui";
+import CarouselButtons from "./components/CarouselButtons";
+import { immigrantGroups } from "./data/groups";
 import type { MapLayerMouseEvent } from "maplibre-gl";
+import type { SlideHandle } from "nuka-carousel";
 
 const App = () => {
   const mapRef = useRef<maplibregl.Map>(null);
+  const carouselRef = useRef<SlideHandle>(null);
   const [map, setMap] = useState<Map | undefined>(undefined);
   const containerRef = useRef<HTMLDivElement>(null);
   const [mapLoaded, setMapLoaded] = useState<boolean>(false);
-  const [selectedProperties, setSelectedProperties] = useState<Record<
-    string,
-    unknown
-  > | null>(null);
+  const [selectedProperties, setSelectedProperties] = useState<
+    Record<string, unknown>[] | null
+  >(null);
   const [selectedCoordinates, setSelectedCoordinates] = useState<
     [number, number] | undefined
   >(undefined);
@@ -59,13 +64,15 @@ const App = () => {
     if (!map) return;
 
     const handleClick = ({ features }: MapLayerMouseEvent) => {
-      const props = features?.[0]?.properties;
+      const props = features?.map((f) => f.properties);
       const geom = features?.[0]?.geometry;
       const coordinates =
         geom?.type === "Point"
           ? (geom.coordinates as [number, number])
           : undefined;
-      setSelectedProperties(props ? (props as Record<string, unknown>) : null);
+      setSelectedProperties(
+        props ? (props as Record<string, unknown>[]) : null,
+      );
       setSelectedCoordinates(coordinates);
     };
 
@@ -106,28 +113,72 @@ const App = () => {
     });
   }, [mapLoaded]);
 
+  const handlePopupClose = () => {
+    if (carouselRef.current) carouselRef.current.goToPage(0);
+  };
+
   return (
-    <div ref={containerRef} style={{ width: "100%", height: "100%" }}>
-      <div
-        style={{
-          zIndex: 100,
-          backgroundColor: "oklab(1 0 0 / 0.75)",
-          position: "absolute",
-          left: "2rem",
-          top: "2rem",
-          display: "flex",
-          flexDirection: "column",
-        }}
-      >
+    <div className="flex flex-row h-full bg-white">
+      <div className="">
         <Legend map={map} />
         <ToggleVisibility map={map} layerId="atl1895" label="1895 Map" />
         <ToggleVisibility map={map} layerId="atl1904" label="1904 Map" />
-        {selectedProperties && (
-          <OWAPopup map={map} coordinates={selectedCoordinates}>
-            {" "}
-            <PropertiesTable properties={selectedProperties} />{" "}
-          </OWAPopup>
-        )}
+      </div>
+      <div className="grow">
+        <div ref={containerRef} style={{ width: "100%", height: "100%" }}>
+          <div
+            className="z-10 text-sm"
+            style={{
+              // zIndex: 100,
+              backgroundColor: "oklab(1 0 0 / 0.75)",
+              position: "absolute",
+              left: "2rem",
+              top: "2rem",
+              display: "flex",
+              flexDirection: "column",
+            }}
+          >
+            {selectedProperties && (
+              <OWAPopup
+                map={map}
+                coordinates={selectedCoordinates}
+                onClose={handlePopupClose}
+              >
+                <Carousel
+                  ref={carouselRef}
+                  scrollDistance="screen"
+                  wrapMode="wrap"
+                  showArrows
+                  arrows={<CarouselButtons />}
+                  initialPage={0}
+                >
+                  {selectedProperties.map((personProps) => {
+                    return (
+                      <div style={{ width: "280px" }}>
+                        <PropertiesTable
+                          properties={personProps}
+                          key={personProps.id as string}
+                          style={{
+                            backgroundColor: chroma(
+                              immigrantGroups[personProps.group].color,
+                            ).alpha(0.15),
+                            borderColor:
+                              immigrantGroups[personProps.group].color,
+                            borderWidth: "2px",
+                            borderCollapse: undefined,
+                            borderStyle: "solid",
+                            marginLeft: "auto",
+                            marginRight: "auto",
+                          }}
+                        />
+                      </div>
+                    );
+                  })}
+                </Carousel>
+              </OWAPopup>
+            )}
+          </div>
+        </div>
       </div>
     </div>
   );

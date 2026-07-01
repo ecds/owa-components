@@ -10,6 +10,7 @@ export const irl = {
         coordinates: [-84.3960715, 33.7708312],
       },
       properties: {
+        id: "bac0abf2",
         "first name": "John",
         "last name": "Alexander",
         "street #": "445",
@@ -18,7 +19,6 @@ export const irl = {
         sex: "male",
         "birth country": "Ireland",
         race: "W",
-        "": "",
       },
     },
     {
@@ -28,6 +28,7 @@ export const irl = {
         coordinates: [-84.3820499, 33.7653475],
       },
       properties: {
+        id: "d3ca5416",
         "first name": "Thos",
         "last name": "Ammons",
         "street #": "378",
@@ -36,7 +37,6 @@ export const irl = {
         sex: "male",
         "birth country": "Ireland",
         race: "W",
-        "": "",
       },
     },
     {
@@ -46,6 +46,7 @@ export const irl = {
         coordinates: [-84.3953298, 33.7621686],
       },
       properties: {
+        id: "4d966b88",
         "first name": "Ellen",
         "last name": "Archibald",
         "street #": "202",
@@ -54,7 +55,6 @@ export const irl = {
         sex: "female",
         "birth country": "Ireland",
         race: "W",
-        "": "",
       },
     },
     {
@@ -64,6 +64,7 @@ export const irl = {
         coordinates: [-84.3894408, 33.7316813],
       },
       properties: {
+        id: "237804c0",
         "first name": "Mrs L",
         "last name": "Armstrong",
         "street #": "436",
@@ -72,7 +73,6 @@ export const irl = {
         sex: "female",
         "birth country": "Ireland",
         race: "W",
-        "": "",
       },
     },
     {
@@ -82,6 +82,7 @@ export const irl = {
         coordinates: [-84.3894408, 33.7316813],
       },
       properties: {
+        id: "fbc1594e",
         "first name": "Jennie",
         "last name": "Armstrong",
         "street #": "436",
@@ -90,7 +91,6 @@ export const irl = {
         sex: "female",
         "birth country": "Ireland",
         race: "W",
-        "": "",
       },
     },
     {
@@ -100,6 +100,7 @@ export const irl = {
         coordinates: [-84.3894408, 33.7316813],
       },
       properties: {
+        id: "01a8948d",
         "first name": "Francis",
         "last name": "Armstrong",
         "street #": "436",
@@ -108,7 +109,6 @@ export const irl = {
         sex: "male",
         "birth country": "Ireland",
         race: "W",
-        "": "",
       },
     },
     {
@@ -118,6 +118,7 @@ export const irl = {
         coordinates: [-84.3894408, 33.7316813],
       },
       properties: {
+        id: "4f97f9b8",
         "first name": "Addie",
         "last name": "Armstrong",
         "street #": "436",
@@ -126,7 +127,6 @@ export const irl = {
         sex: "female",
         "birth country": "Ireland",
         race: "W",
-        "": "",
       },
     },
     {
@@ -136,6 +136,7 @@ export const irl = {
         coordinates: [-84.3869087, 33.7457844],
       },
       properties: {
+        id: "fb3dd533",
         "first name": "Mary",
         "last name": "Bashford",
         "street #": "242",
@@ -144,7 +145,6 @@ export const irl = {
         sex: "female",
         "birth country": "Ireland",
         race: "W",
-        "": "",
       },
     },
     {
@@ -154,6 +154,7 @@ export const irl = {
         coordinates: [-84.3744472, 33.7455569],
       },
       properties: {
+        id: "12cb4be5",
         "first name": "Margret",
         "last name": "Beatty",
         "street #": "549",
@@ -162,7 +163,6 @@ export const irl = {
         sex: "female",
         "birth country": "Ireland",
         race: "W",
-        "": "",
       },
     },
     {
@@ -172,6 +172,7 @@ export const irl = {
         coordinates: [-84.3936688, 33.7501185],
       },
       properties: {
+        id: "8b927aac",
         "first name": "J",
         "last name": "Berrie",
         "street #": "136",
@@ -180,7 +181,6 @@ export const irl = {
         sex: "male",
         "birth country": "Ireland",
         race: "W",
-        "": "",
       },
     },
     {
@@ -190,6 +190,7 @@ export const irl = {
         coordinates: [-84.3918184, 33.7482204],
       },
       properties: {
+        id: "6bbfaec1",
         "first name": "C",
         "last name": "Blount",
         "street #": "154",
@@ -198,7 +199,6 @@ export const irl = {
         sex: "female",
         "birth country": "Ireland",
         race: "W",
-        "": "",
       },
     },
     {
@@ -208,6 +208,7 @@ export const irl = {
         coordinates: [-84.3971406, 33.7480521],
       },
       properties: {
+        id: "20c769e3",
         "first name": "Mary",
         "last name": "Bolton",
         "street #": "191",
@@ -216,7 +217,6 @@ export const irl = {
         sex: "female",
         "birth country": "Ireland",
         race: "W",
-        "": "",
       },
     },
     {
@@ -226,6 +226,7 @@ export const irl = {
         coordinates: [-84.4018917, 33.7633934],
       },
       properties: {
+        id: "6e99cd10",
         "first name": "Matilda",
         "last name": "Borowsky",
         "street #": "325",
@@ -234,7 +235,6 @@ export const irl = {
         sex: "female",
         "birth country": "Ireland",
         race: "W",
-        "": "",
       },
     },
     {
@@ -244,6 +244,7 @@ export const irl = {
         coordinates: [-84.3842882, 33.7548118],
       },
       properties: {
+        id: "32352774",
         "first name": "BL",
         "last name": "Bradley",
         "street #": "112",
@@ -252,7 +253,6 @@ export const irl = {
         sex: "male",
         "birth country": "Ireland",
         race: "W",
-        "": "",
       },
     },
     {
@@ -262,6 +262,7 @@ export const irl = {
         coordinates: [-84.3874827, 33.7457666],
       },
       properties: {
+        id: "eaedda6b",
         "first name": "Kate",
         "last name": "Brady",
         "street #": "233",
@@ -270,7 +271,6 @@ export const irl = {
         sex: "female",
         "birth country": "Ireland",
         race: "W",
-        "": "",
       },
     },
     {
@@ -280,6 +280,7 @@ export const irl = {
         coordinates: [-84.3673021, 33.7488585],
       },
       properties: {
+        id: "94a55afc",
         "first name": "JB",
         "last name": "Brenan",
         "street #": "17",
@@ -288,7 +289,6 @@ export const irl = {
         sex: "male",
         "birth country": "Ireland",
         race: "W",
-        "": "",
       },
     },
     {
@@ -298,6 +298,7 @@ export const irl = {
         coordinates: [-84.3787504, 33.7498691],
       },
       properties: {
+        id: "5f158118",
         "first name": "Ellen",
         "last name": "Brogan",
         "street #": "317",
@@ -306,7 +307,6 @@ export const irl = {
         sex: "female",
         "birth country": "Ireland",
         race: "W",
-        "": "",
       },
     },
     {
@@ -316,6 +316,7 @@ export const irl = {
         coordinates: [-84.3892341, 33.75047],
       },
       properties: {
+        id: "8df33517",
         "first name": "T",
         "last name": "Buckley",
         "street #": "85",
@@ -324,7 +325,6 @@ export const irl = {
         sex: "female",
         "birth country": "Ireland",
         race: "W",
-        "": "",
       },
     },
     {
@@ -334,6 +334,7 @@ export const irl = {
         coordinates: [-84.3990861, 33.7645217],
       },
       properties: {
+        id: "5abcfc20",
         "first name": "Martin",
         "last name": "Burke",
         "street #": "30",
@@ -342,7 +343,6 @@ export const irl = {
         sex: "male",
         "birth country": "Ireland",
         race: "W",
-        "": "",
       },
     },
     {
@@ -352,6 +352,7 @@ export const irl = {
         coordinates: [-84.3840872, 33.7380442],
       },
       properties: {
+        id: "d0342373",
         "first name": "Andrew",
         "last name": "Burns",
         "street #": "275",
@@ -360,7 +361,6 @@ export const irl = {
         sex: "male",
         "birth country": "Ireland",
         race: "W",
-        "": "",
       },
     },
     {
@@ -370,6 +370,7 @@ export const irl = {
         coordinates: [-84.3929661, 33.7540638],
       },
       properties: {
+        id: "1f66a63d",
         "first name": "Wm",
         "last name": "Butler",
         "street #": "44",
@@ -378,7 +379,6 @@ export const irl = {
         sex: "male",
         "birth country": "Ireland",
         race: "W",
-        "": "",
       },
     },
     {
@@ -388,6 +388,7 @@ export const irl = {
         coordinates: [-84.3861489, 33.747811],
       },
       properties: {
+        id: "89a92f0a",
         "first name": "J",
         "last name": "Campbell",
         "street #": "27",
@@ -396,7 +397,6 @@ export const irl = {
         sex: "male",
         "birth country": "Ireland",
         race: "W",
-        "": "",
       },
     },
     {
@@ -406,6 +406,7 @@ export const irl = {
         coordinates: [-84.3861489, 33.747811],
       },
       properties: {
+        id: "bacb0d63",
         "first name": "Mary",
         "last name": "Campbell",
         "street #": "27",
@@ -414,7 +415,6 @@ export const irl = {
         sex: "female",
         "birth country": "Ireland",
         race: "W",
-        "": "",
       },
     },
     {
@@ -424,6 +424,7 @@ export const irl = {
         coordinates: [-84.3861215, 33.7507725],
       },
       properties: {
+        id: "0f159695",
         "first name": "Pat",
         "last name": "Campbell",
         "street #": "20",
@@ -432,7 +433,6 @@ export const irl = {
         sex: "male",
         "birth country": "Ireland",
         race: "W",
-        "": "",
       },
     },
     {
@@ -442,6 +442,7 @@ export const irl = {
         coordinates: [-84.3904451, 33.7499154],
       },
       properties: {
+        id: "a4eadc90",
         "first name": "Allen",
         "last name": "Cannon",
         "street #": "98",
@@ -450,7 +451,6 @@ export const irl = {
         sex: "female",
         "birth country": "Ireland",
         race: "W",
-        "": "",
       },
     },
     {
@@ -460,6 +460,7 @@ export const irl = {
         coordinates: [-84.3749841, 33.7511804],
       },
       properties: {
+        id: "6c67167a",
         "first name": "J",
         "last name": "Carlisle",
         "street #": "21",
@@ -468,7 +469,6 @@ export const irl = {
         sex: "male",
         "birth country": "Ireland",
         race: "W",
-        "": "",
       },
     },
     {
@@ -478,6 +478,7 @@ export const irl = {
         coordinates: [-84.3900388, 33.7508893],
       },
       properties: {
+        id: "b299d11d",
         "first name": "MC",
         "last name": "Casey",
         "street #": "61 1/2",
@@ -486,7 +487,6 @@ export const irl = {
         sex: "male",
         "birth country": "Ireland",
         race: "W",
-        "": "",
       },
     },
     {
@@ -496,6 +496,7 @@ export const irl = {
         coordinates: [-84.3831536, 33.7456372],
       },
       properties: {
+        id: "fa52fc05",
         "first name": "MA",
         "last name": "Catley",
         "street #": "322",
@@ -504,7 +505,6 @@ export const irl = {
         sex: "female",
         "birth country": "Ireland",
         race: "W",
-        "": "",
       },
     },
     {
@@ -514,6 +514,7 @@ export const irl = {
         coordinates: [-84.3912299, 33.75433],
       },
       properties: {
+        id: "adca5463",
         "first name": "Ed",
         "last name": "Chapman",
         "street #": "7 1/2",
@@ -522,7 +523,6 @@ export const irl = {
         sex: "male",
         "birth country": "Ireland",
         race: "W",
-        "": "",
       },
     },
     {
@@ -532,6 +532,7 @@ export const irl = {
         coordinates: [-84.3830048, 33.7537118],
       },
       properties: {
+        id: "281f7c91",
         "first name": "FG",
         "last name": "Chesnut",
         "street #": "69",
@@ -540,7 +541,6 @@ export const irl = {
         sex: "male",
         "birth country": "Ireland",
         race: "W",
-        "": "",
       },
     },
     {
@@ -550,6 +550,7 @@ export const irl = {
         coordinates: [-84.388304, 33.768264],
       },
       properties: {
+        id: "56754678",
         "first name": "Bridget",
         "last name": "Clan",
         "street #": "21",
@@ -558,7 +559,6 @@ export const irl = {
         sex: "female",
         "birth country": "Ireland",
         race: "W",
-        "": "",
       },
     },
     {
@@ -568,6 +568,7 @@ export const irl = {
         coordinates: [-84.3902687, 33.7341953],
       },
       properties: {
+        id: "cd3b5bf5",
         "first name": "HJ",
         "last name": "Clarke",
         "street #": "29",
@@ -576,7 +577,6 @@ export const irl = {
         sex: "male",
         "birth country": "Ireland",
         race: "W",
-        "": "",
       },
     },
     {
@@ -586,6 +586,7 @@ export const irl = {
         coordinates: [-84.3664706, 33.7467032],
       },
       properties: {
+        id: "8a97e312",
         "first name": "M",
         "last name": "Coffin",
         "street #": "697",
@@ -594,7 +595,6 @@ export const irl = {
         sex: "female",
         "birth country": "Ireland",
         race: "W",
-        "": "",
       },
     },
     {
@@ -604,6 +604,7 @@ export const irl = {
         coordinates: [-84.3972758, 33.7643063],
       },
       properties: {
+        id: "038fbc13",
         "first name": "L",
         "last name": "Colbert",
         "street #": "413",
@@ -612,7 +613,6 @@ export const irl = {
         sex: "female",
         "birth country": "Ireland",
         race: "W",
-        "": "",
       },
     },
     {
@@ -622,6 +622,7 @@ export const irl = {
         coordinates: [-84.3975829, 33.7694414],
       },
       properties: {
+        id: "5889c16a",
         "first name": "M",
         "last name": "Cole",
         "street #": "81",
@@ -630,7 +631,6 @@ export const irl = {
         sex: "female",
         "birth country": "Ireland",
         race: "W",
-        "": "",
       },
     },
     {
@@ -640,6 +640,7 @@ export const irl = {
         coordinates: [-84.3975829, 33.7694414],
       },
       properties: {
+        id: "0ca9509c",
         "first name": "Mamie",
         "last name": "Cole",
         "street #": "81",
@@ -648,7 +649,6 @@ export const irl = {
         sex: "female",
         "birth country": "Ireland",
         race: "W",
-        "": "",
       },
     },
     {
@@ -658,6 +658,7 @@ export const irl = {
         coordinates: [-84.3975829, 33.7694414],
       },
       properties: {
+        id: "e12e17dc",
         "first name": "MJ",
         "last name": "Cole",
         "street #": "81",
@@ -666,7 +667,6 @@ export const irl = {
         sex: "male",
         "birth country": "Ireland",
         race: "W",
-        "": "",
       },
     },
     {
@@ -676,6 +676,7 @@ export const irl = {
         coordinates: [-84.3901461, 33.7509339],
       },
       properties: {
+        id: "c23f00d3",
         "first name": "Bertha",
         "last name": "Connelly",
         "street #": "58",
@@ -684,7 +685,6 @@ export const irl = {
         sex: "female",
         "birth country": "Ireland",
         race: "W",
-        "": "",
       },
     },
     {
@@ -694,6 +694,7 @@ export const irl = {
         coordinates: [-84.3945377, 33.7406671],
       },
       properties: {
+        id: "074e1361",
         "first name": "Michael",
         "last name": "Corrigan",
         "street #": "365",
@@ -702,7 +703,6 @@ export const irl = {
         sex: "male",
         "birth country": "Ireland",
         race: "W",
-        "": "",
       },
     },
     {
@@ -712,6 +712,7 @@ export const irl = {
         coordinates: [-84.3945377, 33.7406671],
       },
       properties: {
+        id: "aa0b1fca",
         "first name": "Margaret",
         "last name": "Corrigan",
         "street #": "365",
@@ -720,7 +721,6 @@ export const irl = {
         sex: "female",
         "birth country": "Ireland",
         race: "W",
-        "": "",
       },
     },
     {
@@ -730,6 +730,7 @@ export const irl = {
         coordinates: [-84.4030629, 33.7538732],
       },
       properties: {
+        id: "093d6434",
         "first name": "Mrs M",
         "last name": "Cousins",
         "street #": "222.5",
@@ -738,7 +739,6 @@ export const irl = {
         sex: "female",
         "birth country": "Ireland",
         race: "W",
-        "": "",
       },
     },
     {
@@ -748,6 +748,7 @@ export const irl = {
         coordinates: [-84.4021698, 33.7546716],
       },
       properties: {
+        id: "4b4ba4c6",
         "first name": "Jas",
         "last name": "Coyne",
         "street #": "168",
@@ -756,7 +757,6 @@ export const irl = {
         sex: "male",
         "birth country": "Ireland",
         race: "W",
-        "": "",
       },
     },
     {
@@ -766,6 +766,7 @@ export const irl = {
         coordinates: [-84.3878896, 33.7352578],
       },
       properties: {
+        id: "f5cfdee3",
         "first name": "H",
         "last name": "Cranston",
         "street #": "387",
@@ -774,7 +775,6 @@ export const irl = {
         sex: "male",
         "birth country": "Ireland",
         race: "W",
-        "": "",
       },
     },
     {
@@ -784,6 +784,7 @@ export const irl = {
         coordinates: [-84.3644529, 33.7545357],
       },
       properties: {
+        id: "6332908a",
         "first name": "Mary",
         "last name": "Cunningham",
         "street #": "589",
@@ -792,7 +793,6 @@ export const irl = {
         sex: "female",
         "birth country": "Ireland",
         race: "W",
-        "": "",
       },
     },
     {
@@ -802,6 +802,7 @@ export const irl = {
         coordinates: [-84.3846023, 33.7468771],
       },
       properties: {
+        id: "54ad3099",
         "first name": "Alice",
         "last name": "Donehoo",
         "street #": "276",
@@ -810,7 +811,6 @@ export const irl = {
         sex: "female",
         "birth country": "Ireland",
         race: "W",
-        "": "",
       },
     },
     {
@@ -820,6 +820,7 @@ export const irl = {
         coordinates: [-84.382242, 33.746895],
       },
       properties: {
+        id: "6bb0a45b",
         "first name": "MA",
         "last name": "Donell",
         "street #": "337",
@@ -828,7 +829,6 @@ export const irl = {
         sex: "female",
         "birth country": "Ireland",
         race: "W",
-        "": "",
       },
     },
     {
@@ -838,6 +838,7 @@ export const irl = {
         coordinates: [-84.382242, 33.746895],
       },
       properties: {
+        id: "4a4f4bea",
         "first name": "PD",
         "last name": "Donell",
         "street #": "337",
@@ -846,7 +847,6 @@ export const irl = {
         sex: "male",
         "birth country": "Ireland",
         race: "W",
-        "": "",
       },
     },
     {
@@ -856,6 +856,7 @@ export const irl = {
         coordinates: [-84.3908624, 33.7427961],
       },
       properties: {
+        id: "9ba65412",
         "first name": "AV",
         "last name": "Donnally",
         "street #": "233",
@@ -864,7 +865,6 @@ export const irl = {
         sex: "female",
         "birth country": "Ireland",
         race: "W",
-        "": "",
       },
     },
     {
@@ -874,6 +874,7 @@ export const irl = {
         coordinates: [-84.399189, 33.754786],
       },
       properties: {
+        id: "fff28bd5",
         "first name": "MH",
         "last name": "Dooly",
         "street #": "131",
@@ -882,7 +883,6 @@ export const irl = {
         sex: "male",
         "birth country": "Ireland",
         race: "W",
-        "": "",
       },
     },
     {
@@ -892,6 +892,7 @@ export const irl = {
         coordinates: [-84.3947076, 33.7616067],
       },
       properties: {
+        id: "2eb7d964",
         "first name": "Frank",
         "last name": "Dooman",
         "street #": "181",
@@ -900,7 +901,6 @@ export const irl = {
         sex: "male",
         "birth country": "Ireland",
         race: "W",
-        "": "",
       },
     },
     {
@@ -910,6 +910,7 @@ export const irl = {
         coordinates: [-84.3947076, 33.7616067],
       },
       properties: {
+        id: "2f06b252",
         "first name": "Mrs",
         "last name": "Dooman",
         "street #": "181",
@@ -918,7 +919,6 @@ export const irl = {
         sex: "female",
         "birth country": "Ireland",
         race: "W",
-        "": "",
       },
     },
     {
@@ -928,6 +928,7 @@ export const irl = {
         coordinates: [-84.3894408, 33.7316813],
       },
       properties: {
+        id: "7a184d7f",
         "first name": "Mary",
         "last name": "Doonan",
         "street #": "436",
@@ -936,7 +937,6 @@ export const irl = {
         sex: "female",
         "birth country": "Ireland",
         race: "W",
-        "": "",
       },
     },
     {
@@ -946,6 +946,7 @@ export const irl = {
         coordinates: [-84.3944894, 33.744267],
       },
       properties: {
+        id: "991eff4c",
         "first name": "MG",
         "last name": "Doonan",
         "street #": "220",
@@ -954,7 +955,6 @@ export const irl = {
         sex: "female",
         "birth country": "Ireland",
         race: "W",
-        "": "",
       },
     },
     {
@@ -964,6 +964,7 @@ export const irl = {
         coordinates: [-84.3793173, 33.7449395],
       },
       properties: {
+        id: "176af762",
         "first name": "JO",
         "last name": "Douglasrty",
         "street #": "90",
@@ -972,7 +973,6 @@ export const irl = {
         sex: "male",
         "birth country": "Ireland",
         race: "W",
-        "": "",
       },
     },
     {
@@ -982,6 +982,7 @@ export const irl = {
         coordinates: [-84.3940115, 33.7469307],
       },
       properties: {
+        id: "70fe605b",
         "first name": "Margaret",
         "last name": "Doyle",
         "street #": "67",
@@ -990,7 +991,6 @@ export const irl = {
         sex: "female",
         "birth country": "Ireland",
         race: "W",
-        "": "",
       },
     },
     {
@@ -1000,6 +1000,7 @@ export const irl = {
         coordinates: [-84.3830895, 33.7468771],
       },
       properties: {
+        id: "84358e30",
         "first name": "E",
         "last name": "Doyle",
         "street #": "315",
@@ -1008,7 +1009,6 @@ export const irl = {
         sex: "female",
         "birth country": "Ireland",
         race: "W",
-        "": "",
       },
     },
     {
@@ -1018,6 +1018,7 @@ export const irl = {
         coordinates: [-84.4122763, 33.7546894],
       },
       properties: {
+        id: "839c66ad",
         "first name": "Will",
         "last name": "Doyle",
         "street #": "388",
@@ -1026,7 +1027,6 @@ export const irl = {
         sex: "male",
         "birth country": "Ireland",
         race: "W",
-        "": "",
       },
     },
     {
@@ -1036,6 +1036,7 @@ export const irl = {
         coordinates: [-84.3925843, 33.7458112],
       },
       properties: {
+        id: "d6d3721a",
         "first name": "Annie",
         "last name": "Doyle",
         "street #": "109",
@@ -1044,7 +1045,6 @@ export const irl = {
         sex: "female",
         "birth country": "Ireland",
         race: "W",
-        "": "",
       },
     },
     {
@@ -1054,6 +1054,7 @@ export const irl = {
         coordinates: [-84.3926387, 33.7428574],
       },
       properties: {
+        id: "f38cd44b",
         "first name": "T",
         "last name": "Driscoll",
         "street #": "88",
@@ -1062,7 +1063,6 @@ export const irl = {
         sex: "male",
         "birth country": "Ireland",
         race: "W",
-        "": "",
       },
     },
     {
@@ -1072,6 +1072,7 @@ export const irl = {
         coordinates: [-84.3926211, 33.7507109],
       },
       properties: {
+        id: "f22e36f1",
         "first name": "Julia",
         "last name": "Duggon",
         "street #": "15",
@@ -1080,7 +1081,6 @@ export const irl = {
         sex: "female",
         "birth country": "Ireland",
         race: "W",
-        "": "",
       },
     },
     {
@@ -1090,6 +1090,7 @@ export const irl = {
         coordinates: [-84.3852283, 33.7534249],
       },
       properties: {
+        id: "6ad51903",
         "first name": "CH",
         "last name": "Duhme",
         "street #": "36",
@@ -1098,7 +1099,6 @@ export const irl = {
         sex: "female",
         "birth country": "Ireland",
         race: "W",
-        "": "",
       },
     },
     {
@@ -1108,6 +1108,7 @@ export const irl = {
         coordinates: [-84.399578, 33.759101],
       },
       properties: {
+        id: "f27b14d3",
         "first name": "M",
         "last name": "Dunning",
         "street #": "264",
@@ -1116,7 +1117,6 @@ export const irl = {
         sex: "male",
         "birth country": "Ireland",
         race: "W",
-        "": "",
       },
     },
     {
@@ -1126,6 +1126,7 @@ export const irl = {
         coordinates: [-84.3961761, 33.7635845],
       },
       properties: {
+        id: "af81876f",
         "first name": "Jim",
         "last name": "Egan",
         "street #": "265",
@@ -1134,7 +1135,6 @@ export const irl = {
         sex: "male",
         "birth country": "Ireland",
         race: "W",
-        "": "",
       },
     },
     {
@@ -1144,6 +1144,7 @@ export const irl = {
         coordinates: [-84.3748841, 33.7442076],
       },
       properties: {
+        id: "ed108e8a",
         "first name": "CA",
         "last name": "Enright",
         "street #": "148",
@@ -1152,7 +1153,6 @@ export const irl = {
         sex: "female",
         "birth country": "Ireland",
         race: "W",
-        "": "",
       },
     },
     {
@@ -1162,6 +1162,7 @@ export const irl = {
         coordinates: [-84.3877073, 33.7478105],
       },
       properties: {
+        id: "c03b03a8",
         "first name": "C",
         "last name": "Fagan",
         "street #": "42",
@@ -1170,7 +1171,6 @@ export const irl = {
         sex: "male",
         "birth country": "Ireland",
         race: "W",
-        "": "",
       },
     },
     {
@@ -1180,6 +1180,7 @@ export const irl = {
         coordinates: [-84.3914356, 33.7500597],
       },
       properties: {
+        id: "069e2530",
         "first name": "Peter",
         "last name": "Farrell",
         "street #": "46",
@@ -1188,7 +1189,6 @@ export const irl = {
         sex: "male",
         "birth country": "Ireland",
         race: "W",
-        "": "",
       },
     },
     {
@@ -1198,6 +1198,7 @@ export const irl = {
         coordinates: [-84.3864343, 33.7368224],
       },
       properties: {
+        id: "8fdc0611",
         "first name": "Jas",
         "last name": "Finley",
         "street #": "172",
@@ -1206,7 +1207,6 @@ export const irl = {
         sex: "male",
         "birth country": "Ireland",
         race: "W",
-        "": "",
       },
     },
     {
@@ -1216,6 +1216,7 @@ export const irl = {
         coordinates: [-84.3926387, 33.7429198],
       },
       properties: {
+        id: "22b440c8",
         "first name": "Mary",
         "last name": "Fitzgibbon",
         "street #": "76",
@@ -1224,7 +1225,6 @@ export const irl = {
         sex: "female",
         "birth country": "Ireland",
         race: "W",
-        "": "",
       },
     },
     {
@@ -1234,6 +1234,7 @@ export const irl = {
         coordinates: [-84.4044835, 33.74898],
       },
       properties: {
+        id: "6524b482",
         "first name": "Wm",
         "last name": "Flinn",
         "street #": "189",
@@ -1242,7 +1243,6 @@ export const irl = {
         sex: "male",
         "birth country": "Ireland",
         race: "W",
-        "": "",
       },
     },
     {
@@ -1252,6 +1252,7 @@ export const irl = {
         coordinates: [-84.4044835, 33.74898],
       },
       properties: {
+        id: "c83f18fc",
         "first name": "Mrs Wm",
         "last name": "Flinn",
         "street #": "189",
@@ -1260,7 +1261,6 @@ export const irl = {
         sex: "female",
         "birth country": "Ireland",
         race: "W",
-        "": "",
       },
     },
     {
@@ -1270,6 +1270,7 @@ export const irl = {
         coordinates: [-84.3994768, 33.7545021],
       },
       properties: {
+        id: "954998ec",
         "first name": "Mrs. CL",
         "last name": "Flynn",
         "street #": "137",
@@ -1278,7 +1279,6 @@ export const irl = {
         sex: "female",
         "birth country": "Ireland",
         race: "W",
-        "": "",
       },
     },
     {
@@ -1288,6 +1288,7 @@ export const irl = {
         coordinates: [-84.3795319, 33.7472411],
       },
       properties: {
+        id: "a04dbb55",
         "first name": "Lizzie",
         "last name": "Fox",
         "street #": "22",
@@ -1296,7 +1297,6 @@ export const irl = {
         sex: "female",
         "birth country": "Ireland",
         race: "W",
-        "": "",
       },
     },
     {
@@ -1306,6 +1306,7 @@ export const irl = {
         coordinates: [-84.3795319, 33.7472411],
       },
       properties: {
+        id: "422a3310",
         "first name": "Thos",
         "last name": "Fox",
         "street #": "22",
@@ -1314,7 +1315,6 @@ export const irl = {
         sex: "male",
         "birth country": "Ireland",
         race: "W",
-        "": "",
       },
     },
     {
@@ -1324,6 +1324,7 @@ export const irl = {
         coordinates: [-84.3829592, 33.7517434],
       },
       properties: {
+        id: "587aa1d1",
         "first name": "Martha",
         "last name": "Frances",
         "street #": "106",
@@ -1332,7 +1333,6 @@ export const irl = {
         sex: "female",
         "birth country": "Ireland",
         race: "W",
-        "": "",
       },
     },
     {
@@ -1342,6 +1342,7 @@ export const irl = {
         coordinates: [-84.392703, 33.7432232],
       },
       properties: {
+        id: "e4f6cfe5",
         "first name": "Jno",
         "last name": "Gain",
         "street #": "53",
@@ -1350,7 +1351,6 @@ export const irl = {
         sex: "male",
         "birth country": "Ireland",
         race: "W",
-        "": "",
       },
     },
     {
@@ -1360,6 +1360,7 @@ export const irl = {
         coordinates: [-84.392703, 33.7432232],
       },
       properties: {
+        id: "3a3d5e5c",
         "first name": "Mary",
         "last name": "Gain",
         "street #": "53",
@@ -1368,7 +1369,6 @@ export const irl = {
         sex: "female",
         "birth country": "Ireland",
         race: "W",
-        "": "",
       },
     },
     {
@@ -1378,6 +1378,7 @@ export const irl = {
         coordinates: [-84.392703, 33.7432232],
       },
       properties: {
+        id: "1e2860be",
         "first name": "Mamie",
         "last name": "Gain",
         "street #": "53",
@@ -1386,7 +1387,6 @@ export const irl = {
         sex: "female",
         "birth country": "Ireland",
         race: "W",
-        "": "",
       },
     },
     {
@@ -1396,6 +1396,7 @@ export const irl = {
         coordinates: [-84.3912139, 33.7579912],
       },
       properties: {
+        id: "57cb2f46",
         "first name": "Annie",
         "last name": "Ganman",
         "street #": "70",
@@ -1404,7 +1405,6 @@ export const irl = {
         sex: "female",
         "birth country": "Ireland",
         race: "W",
-        "": "",
       },
     },
     {
@@ -1414,6 +1414,7 @@ export const irl = {
         coordinates: [-84.3922905, 33.747596],
       },
       properties: {
+        id: "6fe48b9c",
         "first name": "NA",
         "last name": "Gannont",
         "street #": "168",
@@ -1422,7 +1423,6 @@ export const irl = {
         sex: "female",
         "birth country": "Ireland",
         race: "W",
-        "": "",
       },
     },
     {
@@ -1432,6 +1432,7 @@ export const irl = {
         coordinates: [-84.3935609, 33.7469396],
       },
       properties: {
+        id: "b13f417d",
         "first name": "Lizzie",
         "last name": "Gardner",
         "street #": "69",
@@ -1440,7 +1441,6 @@ export const irl = {
         sex: "female",
         "birth country": "Ireland",
         race: "W",
-        "": "",
       },
     },
     {
@@ -1450,6 +1450,7 @@ export const irl = {
         coordinates: [-84.3812978, 33.7469039],
       },
       properties: {
+        id: "a8229165",
         "first name": "PA",
         "last name": "Garvey",
         "street #": "351",
@@ -1458,7 +1459,6 @@ export const irl = {
         sex: "male",
         "birth country": "Ireland",
         race: "W",
-        "": "",
       },
     },
     {
@@ -1468,6 +1468,7 @@ export const irl = {
         coordinates: [-84.3867343, 33.7489535],
       },
       properties: {
+        id: "cca0fbe2",
         "first name": "Jos",
         "last name": "Gatins",
         "street #": "141",
@@ -1476,7 +1477,6 @@ export const irl = {
         sex: "male",
         "birth country": "Ireland",
         race: "W",
-        "": "",
       },
     },
     {
@@ -1486,6 +1486,7 @@ export const irl = {
         coordinates: [-84.3867343, 33.7489535],
       },
       properties: {
+        id: "d8e23eff",
         "first name": "J",
         "last name": "Gatins",
         "street #": "141",
@@ -1494,7 +1495,6 @@ export const irl = {
         sex: "female",
         "birth country": "Ireland",
         race: "W",
-        "": "",
       },
     },
     {
@@ -1504,6 +1504,7 @@ export const irl = {
         coordinates: [-84.3831174, 33.7536136],
       },
       properties: {
+        id: "feeb6c96",
         "first name": "Jno",
         "last name": "Gatins",
         "street #": "64",
@@ -1512,7 +1513,6 @@ export const irl = {
         sex: "male",
         "birth country": "Ireland",
         race: "W",
-        "": "",
       },
     },
     {
@@ -1522,6 +1522,7 @@ export const irl = {
         coordinates: [-84.3831174, 33.7536136],
       },
       properties: {
+        id: "6371789e",
         "first name": "Anna",
         "last name": "Gatins",
         "street #": "64",
@@ -1530,7 +1531,6 @@ export const irl = {
         sex: "female",
         "birth country": "Ireland",
         race: "W",
-        "": "",
       },
     },
     {
@@ -1540,6 +1540,7 @@ export const irl = {
         coordinates: [-84.3855019, 33.7536167],
       },
       properties: {
+        id: "1f3f1f83",
         "first name": "Dun",
         "last name": "Gavaghan",
         "street #": "31",
@@ -1548,7 +1549,6 @@ export const irl = {
         sex: "male",
         "birth country": "Ireland",
         race: "W",
-        "": "",
       },
     },
     {
@@ -1558,6 +1558,7 @@ export const irl = {
         coordinates: [-84.3923275, 33.7455249],
       },
       properties: {
+        id: "558b9602",
         "first name": "J",
         "last name": "Gillespie",
         "street #": "16",
@@ -1566,7 +1567,6 @@ export const irl = {
         sex: "male",
         "birth country": "Ireland",
         race: "W",
-        "": "",
       },
     },
     {
@@ -1576,6 +1576,7 @@ export const irl = {
         coordinates: [-84.3923275, 33.7455249],
       },
       properties: {
+        id: "d8241b01",
         "first name": "Edward",
         "last name": "Gillespie",
         "street #": "16",
@@ -1584,7 +1585,6 @@ export const irl = {
         sex: "male",
         "birth country": "Ireland",
         race: "W",
-        "": "",
       },
     },
     {
@@ -1594,6 +1594,7 @@ export const irl = {
         coordinates: [-84.3970444, 33.7407251],
       },
       properties: {
+        id: "2c4edead",
         "first name": "Frank",
         "last name": "Gillespie",
         "street #": "138",
@@ -1602,7 +1603,6 @@ export const irl = {
         sex: "male",
         "birth country": "Ireland",
         race: "W",
-        "": "",
       },
     },
     {
@@ -1612,6 +1612,7 @@ export const irl = {
         coordinates: [-84.3900815, 33.7622773],
       },
       properties: {
+        id: "bb3caf95",
         "first name": "MH",
         "last name": "Gilmey",
         "street #": "50",
@@ -1620,7 +1621,6 @@ export const irl = {
         sex: "female",
         "birth country": "Ireland",
         race: "W",
-        "": "",
       },
     },
     {
@@ -1630,6 +1630,7 @@ export const irl = {
         coordinates: [-84.3863098, 33.7402368],
       },
       properties: {
+        id: "a613f471",
         "first name": "Wm",
         "last name": "Gleeson",
         "street #": "220",
@@ -1638,7 +1639,6 @@ export const irl = {
         sex: "male",
         "birth country": "Ireland",
         race: "W",
-        "": "",
       },
     },
     {
@@ -1648,6 +1648,7 @@ export const irl = {
         coordinates: [-84.3863098, 33.7402368],
       },
       properties: {
+        id: "ce1e1a19",
         "first name": "Mary",
         "last name": "Gleeson",
         "street #": "220",
@@ -1656,7 +1657,6 @@ export const irl = {
         sex: "female",
         "birth country": "Ireland",
         race: "W",
-        "": "",
       },
     },
     {
@@ -1666,6 +1666,7 @@ export const irl = {
         coordinates: [-84.3918738, 33.7561939],
       },
       properties: {
+        id: "9c809e42",
         "first name": "Thos",
         "last name": "Glover",
         "street #": "75",
@@ -1674,7 +1675,6 @@ export const irl = {
         sex: "male",
         "birth country": "Ireland",
         race: "W",
-        "": "",
       },
     },
     {
@@ -1684,6 +1684,7 @@ export const irl = {
         coordinates: [-84.4024659, 33.7402005],
       },
       properties: {
+        id: "5d17e4c5",
         "first name": "Frank",
         "last name": "Golden",
         "street #": "95",
@@ -1692,7 +1693,6 @@ export const irl = {
         sex: "male",
         "birth country": "Ireland",
         race: "W",
-        "": "",
       },
     },
     {
@@ -1702,6 +1702,7 @@ export const irl = {
         coordinates: [-84.4024659, 33.7402005],
       },
       properties: {
+        id: "71494fa1",
         "first name": "Grace",
         "last name": "Golden",
         "street #": "95",
@@ -1710,7 +1711,6 @@ export const irl = {
         sex: "female",
         "birth country": "Ireland",
         race: "W",
-        "": "",
       },
     },
     {
@@ -1720,6 +1720,7 @@ export const irl = {
         coordinates: [-84.3995941, 33.7586862],
       },
       properties: {
+        id: "80ca6269",
         "first name": "Joe",
         "last name": "Green",
         "street #": "251",
@@ -1728,7 +1729,6 @@ export const irl = {
         sex: "male",
         "birth country": "Ireland",
         race: "W",
-        "": "",
       },
     },
     {
@@ -1738,6 +1738,7 @@ export const irl = {
         coordinates: [-84.3869596, 33.7491854],
       },
       properties: {
+        id: "2824497e",
         "first name": "MT",
         "last name": "Griffin",
         "street #": "134",
@@ -1746,7 +1747,6 @@ export const irl = {
         sex: "male",
         "birth country": "Ireland",
         race: "W",
-        "": "",
       },
     },
     {
@@ -1756,6 +1756,7 @@ export const irl = {
         coordinates: [-84.3983403, 33.7351453],
       },
       properties: {
+        id: "e0a54a28",
         "first name": "Jno",
         "last name": "Griffin",
         "street #": "314",
@@ -1764,7 +1765,6 @@ export const irl = {
         sex: "male",
         "birth country": "Ireland",
         race: "W",
-        "": "",
       },
     },
     {
@@ -1774,6 +1774,7 @@ export const irl = {
         coordinates: [-84.3938084, 33.7544697],
       },
       properties: {
+        id: "f0c1c007",
         "first name": "Machael",
         "last name": "Guiname",
         "street #": "144",
@@ -1782,7 +1783,6 @@ export const irl = {
         sex: "male",
         "birth country": "Ireland",
         race: "W",
-        "": "",
       },
     },
     {
@@ -1792,6 +1792,7 @@ export const irl = {
         coordinates: [-84.3970274, 33.7387081],
       },
       properties: {
+        id: "25bfc8ab",
         "first name": "Annie",
         "last name": "Hagerty",
         "street #": "226",
@@ -1800,7 +1801,6 @@ export const irl = {
         sex: "male",
         "birth country": "Ireland",
         race: "W",
-        "": "",
       },
     },
     {
@@ -1810,6 +1810,7 @@ export const irl = {
         coordinates: [-84.3935281, 33.7624881],
       },
       properties: {
+        id: "32c36489",
         "first name": "Pat",
         "last name": "Handon",
         "street #": "45",
@@ -1818,7 +1819,6 @@ export const irl = {
         sex: "male",
         "birth country": "Ireland",
         race: "W",
-        "": "",
       },
     },
     {
@@ -1828,6 +1828,7 @@ export const irl = {
         coordinates: [-84.3935281, 33.7624881],
       },
       properties: {
+        id: "b936861c",
         "first name": "Ruby",
         "last name": "Handon",
         "street #": "45",
@@ -1836,7 +1837,6 @@ export const irl = {
         sex: "female",
         "birth country": "Ireland",
         race: "W",
-        "": "",
       },
     },
     {
@@ -1846,6 +1846,7 @@ export const irl = {
         coordinates: [-84.3925062, 33.7622773],
       },
       properties: {
+        id: "e06b4f88",
         "first name": "Jas",
         "last name": "Handon",
         "street #": "121",
@@ -1854,7 +1855,6 @@ export const irl = {
         sex: "male",
         "birth country": "Ireland",
         race: "W",
-        "": "",
       },
     },
     {
@@ -1864,6 +1864,7 @@ export const irl = {
         coordinates: [-84.3925062, 33.7622773],
       },
       properties: {
+        id: "e805575f",
         "first name": "Mary",
         "last name": "Handon",
         "street #": "121",
@@ -1872,7 +1873,6 @@ export const irl = {
         sex: "female",
         "birth country": "Ireland",
         race: "W",
-        "": "",
       },
     },
     {
@@ -1882,6 +1882,7 @@ export const irl = {
         coordinates: [-84.3925062, 33.7622773],
       },
       properties: {
+        id: "a036f1fb",
         "first name": "Richard",
         "last name": "Handon",
         "street #": "121",
@@ -1890,7 +1891,6 @@ export const irl = {
         sex: "male",
         "birth country": "Ireland",
         race: "W",
-        "": "",
       },
     },
     {
@@ -1900,6 +1900,7 @@ export const irl = {
         coordinates: [-84.4023884, 33.7581298],
       },
       properties: {
+        id: "c432ee72",
         "first name": "JW",
         "last name": "Hanlon",
         "street #": "160",
@@ -1908,7 +1909,6 @@ export const irl = {
         sex: "male",
         "birth country": "Ireland",
         race: "W",
-        "": "",
       },
     },
     {
@@ -1918,6 +1918,7 @@ export const irl = {
         coordinates: [-84.3995941, 33.7586862],
       },
       properties: {
+        id: "7276a05c",
         "first name": "T",
         "last name": "Hanlon",
         "street #": "251",
@@ -1926,7 +1927,6 @@ export const irl = {
         sex: "male",
         "birth country": "Ireland",
         race: "W",
-        "": "",
       },
     },
     {
@@ -1936,6 +1936,7 @@ export const irl = {
         coordinates: [-84.3995941, 33.7586862],
       },
       properties: {
+        id: "3e34a934",
         "first name": "M",
         "last name": "Hanlon",
         "street #": "251",
@@ -1944,7 +1945,6 @@ export const irl = {
         sex: "female",
         "birth country": "Ireland",
         race: "W",
-        "": "",
       },
     },
     {
@@ -1954,6 +1954,7 @@ export const irl = {
         coordinates: [-84.3950173, 33.7602747],
       },
       properties: {
+        id: "57aae4d4",
         "first name": "Joe",
         "last name": "Hanlon",
         "street #": "249",
@@ -1962,7 +1963,6 @@ export const irl = {
         sex: "male",
         "birth country": "Ireland",
         race: "W",
-        "": "",
       },
     },
     {
@@ -1972,6 +1972,7 @@ export const irl = {
         coordinates: [-84.3844903, 33.7508325],
       },
       properties: {
+        id: "62bcb255",
         "first name": "Katie",
         "last name": "Harris",
         "street #": "184",
@@ -1980,7 +1981,6 @@ export const irl = {
         sex: "female",
         "birth country": "Ireland",
         race: "W",
-        "": "",
       },
     },
     {
@@ -1990,6 +1990,7 @@ export const irl = {
         coordinates: [-84.3968161, 33.7498742],
       },
       properties: {
+        id: "fd0881e4",
         "first name": "JB",
         "last name": "Harris",
         "street #": "18",
@@ -1998,7 +1999,6 @@ export const irl = {
         sex: "male",
         "birth country": "Ireland",
         race: "W",
-        "": "",
       },
     },
     {
@@ -2008,6 +2008,7 @@ export const irl = {
         coordinates: [-84.4009915, 33.758073],
       },
       properties: {
+        id: "e11e0356",
         "first name": "T",
         "last name": "Hastings",
         "street #": "168",
@@ -2016,7 +2017,6 @@ export const irl = {
         sex: "male",
         "birth country": "Ireland",
         race: "W",
-        "": "",
       },
     },
     {
@@ -2026,6 +2026,7 @@ export const irl = {
         coordinates: [-84.3905662, 33.7582975],
       },
       properties: {
+        id: "92a87ade",
         "first name": "M[ichael]",
         "last name": "Haverty",
         "street #": "55",
@@ -2034,7 +2035,6 @@ export const irl = {
         sex: "male",
         "birth country": "Ireland",
         race: "W",
-        "": "",
       },
     },
     {
@@ -2044,6 +2044,7 @@ export const irl = {
         coordinates: [-84.3905662, 33.7582975],
       },
       properties: {
+        id: "47e1077c",
         "first name": "Alice",
         "last name": "Haverty",
         "street #": "55",
@@ -2052,7 +2053,6 @@ export const irl = {
         sex: "female",
         "birth country": "Ireland",
         race: "W",
-        "": "",
       },
     },
     {
@@ -2062,6 +2062,7 @@ export const irl = {
         coordinates: [-84.3940924, 33.7474161],
       },
       properties: {
+        id: "e89aaed9",
         "first name": "HA",
         "last name": "Hayden",
         "street #": "171",
@@ -2070,7 +2071,6 @@ export const irl = {
         sex: "female",
         "birth country": "Ireland",
         race: "W",
-        "": "",
       },
     },
     {
@@ -2080,6 +2080,7 @@ export const irl = {
         coordinates: [-84.3860953, 33.7577219],
       },
       properties: {
+        id: "ef9c3186",
         "first name": "M",
         "last name": "Heleman",
         "street #": "134",
@@ -2088,7 +2089,6 @@ export const irl = {
         sex: "male",
         "birth country": "Ireland",
         race: "W",
-        "": "",
       },
     },
     {
@@ -2098,6 +2098,7 @@ export const irl = {
         coordinates: [-84.3862133, 33.7460446],
       },
       properties: {
+        id: "612c8669",
         "first name": "J",
         "last name": "Henderson",
         "street #": "68",
@@ -2106,7 +2107,6 @@ export const irl = {
         sex: "male",
         "birth country": "Ireland",
         race: "W",
-        "": "",
       },
     },
     {
@@ -2116,6 +2116,7 @@ export const irl = {
         coordinates: [-84.3862133, 33.7460446],
       },
       properties: {
+        id: "7f619693",
         "first name": "Mrs J",
         "last name": "Henderson",
         "street #": "68",
@@ -2124,7 +2125,6 @@ export const irl = {
         sex: "female",
         "birth country": "Ireland",
         race: "W",
-        "": "",
       },
     },
     {
@@ -2134,6 +2134,7 @@ export const irl = {
         coordinates: [-84.4023884, 33.7581298],
       },
       properties: {
+        id: "bd080ca2",
         "first name": "JW",
         "last name": "Honlon",
         "street #": "160",
@@ -2142,7 +2143,6 @@ export const irl = {
         sex: "male",
         "birth country": "Ireland",
         race: "W",
-        "": "",
       },
     },
     {
@@ -2152,6 +2152,7 @@ export const irl = {
         coordinates: [-84.3846023, 33.7468771],
       },
       properties: {
+        id: "c9c21ff2",
         "first name": "Alice",
         "last name": "Hughes",
         "street #": "276",
@@ -2160,7 +2161,6 @@ export const irl = {
         sex: "female",
         "birth country": "Ireland",
         race: "W",
-        "": "",
       },
     },
     {
@@ -2170,6 +2170,7 @@ export const irl = {
         coordinates: [-84.371846, 33.76639],
       },
       properties: {
+        id: "62f6defd",
         "first name": "Vauce",
         "last name": "Hunter",
         "street #": "172",
@@ -2178,7 +2179,6 @@ export const irl = {
         sex: "male",
         "birth country": "Ireland",
         race: "W",
-        "": "",
       },
     },
     {
@@ -2188,6 +2188,7 @@ export const irl = {
         coordinates: [-84.3895651, 33.7537451],
       },
       properties: {
+        id: "92843a04",
         "first name": "J",
         "last name": "James",
         "street #": "",
@@ -2196,7 +2197,6 @@ export const irl = {
         sex: "male",
         "birth country": "Ireland",
         race: "W",
-        "": "",
       },
     },
     {
@@ -2206,6 +2206,7 @@ export const irl = {
         coordinates: [-84.3845457, 33.7542052],
       },
       properties: {
+        id: "e8ca4a20",
         "first name": "JJ",
         "last name": "Jarrett",
         "street #": "101",
@@ -2214,7 +2215,6 @@ export const irl = {
         sex: "male",
         "birth country": "Ireland",
         race: "W",
-        "": "",
       },
     },
     {
@@ -2224,6 +2224,7 @@ export const irl = {
         coordinates: [-84.3840444, 33.7468593],
       },
       properties: {
+        id: "6982b26f",
         "first name": "Pat",
         "last name": "Johnson",
         "street #": "286",
@@ -2232,7 +2233,6 @@ export const irl = {
         sex: "male",
         "birth country": "Ireland",
         race: "W",
-        "": "",
       },
     },
     {
@@ -2242,6 +2242,7 @@ export const irl = {
         coordinates: [-84.3840444, 33.7468593],
       },
       properties: {
+        id: "1fec3f87",
         "first name": "CP",
         "last name": "Johnson",
         "street #": "286",
@@ -2250,7 +2251,6 @@ export const irl = {
         sex: "male",
         "birth country": "Ireland",
         race: "W",
-        "": "",
       },
     },
     {
@@ -2260,6 +2260,7 @@ export const irl = {
         coordinates: [-84.3840444, 33.7468593],
       },
       properties: {
+        id: "b8ce59bc",
         "first name": "Ellen",
         "last name": "Johnson",
         "street #": "286",
@@ -2268,7 +2269,6 @@ export const irl = {
         sex: "female",
         "birth country": "Ireland",
         race: "W",
-        "": "",
       },
     },
     {
@@ -2278,6 +2278,7 @@ export const irl = {
         coordinates: [-84.3868201, 33.7490338],
       },
       properties: {
+        id: "966f50a8",
         "first name": "PR",
         "last name": "Johnson",
         "street #": "139",
@@ -2286,7 +2287,6 @@ export const irl = {
         sex: "male",
         "birth country": "Ireland",
         race: "W",
-        "": "",
       },
     },
     {
@@ -2296,6 +2296,7 @@ export const irl = {
         coordinates: [-84.3868201, 33.7490338],
       },
       properties: {
+        id: "6a7244b5",
         "first name": "Sallie",
         "last name": "Johnson",
         "street #": "139",
@@ -2304,7 +2305,6 @@ export const irl = {
         sex: "female",
         "birth country": "Ireland",
         race: "W",
-        "": "",
       },
     },
     {
@@ -2314,6 +2314,7 @@ export const irl = {
         coordinates: [-84.3926211, 33.7507109],
       },
       properties: {
+        id: "bc18480c",
         "first name": "Annie",
         "last name": "Johnson",
         "street #": "15",
@@ -2322,7 +2323,6 @@ export const irl = {
         sex: "female",
         "birth country": "Ireland",
         race: "W",
-        "": "",
       },
     },
     {
@@ -2332,6 +2332,7 @@ export const irl = {
         coordinates: [-84.3966246, 33.7482523],
       },
       properties: {
+        id: "2ec6fb20",
         "first name": "Mrs. Dora",
         "last name": "Julian",
         "street #": "49",
@@ -2340,7 +2341,6 @@ export const irl = {
         sex: "female",
         "birth country": "Ireland",
         race: "W",
-        "": "",
       },
     },
     {
@@ -2350,6 +2350,7 @@ export const irl = {
         coordinates: [-84.3922953, 33.7458014],
       },
       properties: {
+        id: "aee4b63b",
         "first name": "DK",
         "last name": "Kavanaugh",
         "street #": "12",
@@ -2358,7 +2359,6 @@ export const irl = {
         sex: "female",
         "birth country": "Ireland",
         race: "W",
-        "": "",
       },
     },
     {
@@ -2368,6 +2368,7 @@ export const irl = {
         coordinates: [-84.3884079, 33.7639793],
       },
       properties: {
+        id: "1e06b324",
         "first name": "M",
         "last name": "Kay",
         "street #": "21",
@@ -2376,7 +2377,6 @@ export const irl = {
         sex: "female",
         "birth country": "Ireland",
         race: "W",
-        "": "",
       },
     },
     {
@@ -2386,6 +2386,7 @@ export const irl = {
         coordinates: [-84.3935281, 33.764165],
       },
       properties: {
+        id: "1aae09bd",
         "first name": "Thos",
         "last name": "Keegan",
         "street #": "65",
@@ -2394,7 +2395,6 @@ export const irl = {
         sex: "male",
         "birth country": "Ireland",
         race: "W",
-        "": "",
       },
     },
     {
@@ -2404,6 +2404,7 @@ export const irl = {
         coordinates: [-84.3938281, 33.7513889],
       },
       properties: {
+        id: "cbc66092",
         "first name": "DG",
         "last name": "Keeney",
         "street #": "15",
@@ -2412,7 +2413,6 @@ export const irl = {
         sex: "male",
         "birth country": "Ireland",
         race: "W",
-        "": "",
       },
     },
     {
@@ -2422,6 +2422,7 @@ export const irl = {
         coordinates: [-84.3695816, 33.7454811],
       },
       properties: {
+        id: "96e6e854",
         "first name": "GH",
         "last name": "Keeney",
         "street #": "592",
@@ -2430,7 +2431,6 @@ export const irl = {
         sex: "male",
         "birth country": "Ireland",
         race: "W",
-        "": "",
       },
     },
     {
@@ -2440,6 +2440,7 @@ export const irl = {
         coordinates: [-84.3675113, 33.7536348],
       },
       properties: {
+        id: "55afd932",
         "first name": "Patrick",
         "last name": "Keiley",
         "street #": "30",
@@ -2448,7 +2449,6 @@ export const irl = {
         sex: "male",
         "birth country": "Ireland",
         race: "W",
-        "": "",
       },
     },
     {
@@ -2458,6 +2458,7 @@ export const irl = {
         coordinates: [-84.3675113, 33.7536348],
       },
       properties: {
+        id: "9f92aa90",
         "first name": "Mary",
         "last name": "Keiley",
         "street #": "30",
@@ -2466,7 +2467,6 @@ export const irl = {
         sex: "female",
         "birth country": "Ireland",
         race: "W",
-        "": "",
       },
     },
     {
@@ -2476,6 +2476,7 @@ export const irl = {
         coordinates: [-84.3921988, 33.7463634],
       },
       properties: {
+        id: "3158b776",
         "first name": "Mary",
         "last name": "Kennedy",
         "street #": "7",
@@ -2484,7 +2485,6 @@ export const irl = {
         sex: "female",
         "birth country": "Ireland",
         race: "W",
-        "": "",
       },
     },
     {
@@ -2494,6 +2494,7 @@ export const irl = {
         coordinates: [-84.3902963, 33.751032],
       },
       properties: {
+        id: "585b8830",
         "first name": "Eliza",
         "last name": "Kenny",
         "street #": "50",
@@ -2502,7 +2503,6 @@ export const irl = {
         sex: "female",
         "birth country": "Ireland",
         race: "W",
-        "": "",
       },
     },
     {
@@ -2512,6 +2512,7 @@ export const irl = {
         coordinates: [-84.3853731, 33.753532],
       },
       properties: {
+        id: "ae00ab91",
         "first name": "EP",
         "last name": "Kenny",
         "street #": "34",
@@ -2520,7 +2521,6 @@ export const irl = {
         sex: "male",
         "birth country": "Ireland",
         race: "W",
-        "": "",
       },
     },
     {
@@ -2530,6 +2530,7 @@ export const irl = {
         coordinates: [-84.3916241, 33.7313223],
       },
       properties: {
+        id: "34140cbc",
         "first name": "Pat",
         "last name": "Kenny",
         "street #": "610",
@@ -2538,7 +2539,6 @@ export const irl = {
         sex: "male",
         "birth country": "Ireland",
         race: "W",
-        "": "",
       },
     },
     {
@@ -2548,6 +2548,7 @@ export const irl = {
         coordinates: [-84.3895651, 33.7537451],
       },
       properties: {
+        id: "3998e3d6",
         "first name": "Katie",
         "last name": "Killarne",
         "street #": "",
@@ -2556,7 +2557,6 @@ export const irl = {
         sex: "female",
         "birth country": "Ireland",
         race: "W",
-        "": "",
       },
     },
     {
@@ -2566,6 +2566,7 @@ export const irl = {
         coordinates: [-84.393687, 33.7368045],
       },
       properties: {
+        id: "b9c5ccca",
         "first name": "Wm",
         "last name": "Laird",
         "street #": "28",
@@ -2574,7 +2575,6 @@ export const irl = {
         sex: "male",
         "birth country": "Ireland",
         race: "W",
-        "": "",
       },
     },
     {
@@ -2584,6 +2584,7 @@ export const irl = {
         coordinates: [-84.3871343, 33.7469128],
       },
       properties: {
+        id: "747a0bb9",
         "first name": "JT",
         "last name": "Lambert",
         "street #": "218",
@@ -2592,7 +2593,6 @@ export const irl = {
         sex: "female",
         "birth country": "Ireland",
         race: "W",
-        "": "",
       },
     },
     {
@@ -2602,6 +2602,7 @@ export const irl = {
         coordinates: [-84.396852, 33.7625671],
       },
       properties: {
+        id: "c120594f",
         "first name": "Mrs K",
         "last name": "Lambert",
         "street #": "344",
@@ -2610,7 +2611,6 @@ export const irl = {
         sex: "female",
         "birth country": "Ireland",
         race: "W",
-        "": "",
       },
     },
     {
@@ -2620,6 +2620,7 @@ export const irl = {
         coordinates: [-84.3912831, 33.7597263],
       },
       properties: {
+        id: "2f8acfc0",
         "first name": "John",
         "last name": "Lee",
         "street #": "95",
@@ -2628,7 +2629,6 @@ export const irl = {
         sex: "male",
         "birth country": "Ireland",
         race: "W",
-        "": "",
       },
     },
     {
@@ -2638,6 +2638,7 @@ export const irl = {
         coordinates: [-84.3912831, 33.7597263],
       },
       properties: {
+        id: "f30f966c",
         "first name": "Alice",
         "last name": "Lee",
         "street #": "95",
@@ -2646,7 +2647,6 @@ export const irl = {
         sex: "female",
         "birth country": "Ireland",
         race: "W",
-        "": "",
       },
     },
     {
@@ -2656,6 +2656,7 @@ export const irl = {
         coordinates: [-84.3861215, 33.7507725],
       },
       properties: {
+        id: "44b05906",
         "first name": "ME",
         "last name": "Letchworth",
         "street #": "20",
@@ -2664,7 +2665,6 @@ export const irl = {
         sex: "female",
         "birth country": "Ireland",
         race: "W",
-        "": "",
       },
     },
     {
@@ -2674,6 +2674,7 @@ export const irl = {
         coordinates: [-84.3958344, 33.7524861],
       },
       properties: {
+        id: "51ea92e2",
         "first name": "Mrs. Sarah",
         "last name": "Lockhart",
         "street #": "71",
@@ -2682,7 +2683,6 @@ export const irl = {
         sex: "female",
         "birth country": "Ireland",
         race: "W",
-        "": "",
       },
     },
     {
@@ -2692,6 +2692,7 @@ export const irl = {
         coordinates: [-84.3821583, 33.7555363],
       },
       properties: {
+        id: "a17b8280",
         "first name": "MD",
         "last name": "Lynch",
         "street #": "140",
@@ -2700,7 +2701,6 @@ export const irl = {
         sex: "male",
         "birth country": "Ireland",
         race: "W",
-        "": "",
       },
     },
     {
@@ -2710,6 +2710,7 @@ export const irl = {
         coordinates: [-84.3849802, 33.7538038],
       },
       properties: {
+        id: "8e9b5d14",
         "first name": "JJ",
         "last name": "Lynch",
         "street #": "86",
@@ -2718,7 +2719,6 @@ export const irl = {
         sex: "male",
         "birth country": "Ireland",
         race: "W",
-        "": "",
       },
     },
     {
@@ -2728,6 +2728,7 @@ export const irl = {
         coordinates: [-84.3842882, 33.7547137],
       },
       properties: {
+        id: "b8487790",
         "first name": "Bridget",
         "last name": "Lynch",
         "street #": "108",
@@ -2736,7 +2737,6 @@ export const irl = {
         sex: "female",
         "birth country": "Ireland",
         race: "W",
-        "": "",
       },
     },
     {
@@ -2746,6 +2746,7 @@ export const irl = {
         coordinates: [-84.3866485, 33.7488999],
       },
       properties: {
+        id: "9546f392",
         "first name": "Ellen",
         "last name": "Lynch",
         "street #": "147",
@@ -2754,7 +2755,6 @@ export const irl = {
         sex: "female",
         "birth country": "Ireland",
         race: "W",
-        "": "",
       },
     },
     {
@@ -2764,6 +2764,7 @@ export const irl = {
         coordinates: [-84.3853731, 33.753532],
       },
       properties: {
+        id: "90e516b0",
         "first name": "Jas",
         "last name": "Lynch",
         "street #": "34",
@@ -2772,7 +2773,6 @@ export const irl = {
         sex: "male",
         "birth country": "Ireland",
         race: "W",
-        "": "",
       },
     },
     {
@@ -2782,6 +2782,7 @@ export const irl = {
         coordinates: [-84.3820403, 33.7527135],
       },
       properties: {
+        id: "1c90fef9",
         "first name": "Julia",
         "last name": "Lynch",
         "street #": "58",
@@ -2790,7 +2791,6 @@ export const irl = {
         sex: "female",
         "birth country": "Ireland",
         race: "W",
-        "": "",
       },
     },
     {
@@ -2800,6 +2800,7 @@ export const irl = {
         coordinates: [-84.3944894, 33.7440528],
       },
       properties: {
+        id: "0fcb7afd",
         "first name": "L",
         "last name": "Lynchen",
         "street #": "227",
@@ -2808,7 +2809,6 @@ export const irl = {
         sex: "female",
         "birth country": "Ireland",
         race: "W",
-        "": "",
       },
     },
     {
@@ -2818,6 +2818,7 @@ export const irl = {
         coordinates: [-84.3920651, 33.7601201],
       },
       properties: {
+        id: "72413be0",
         "first name": "Jane",
         "last name": "Mackie",
         "street #": "17",
@@ -2826,7 +2827,6 @@ export const irl = {
         sex: "female",
         "birth country": "Ireland",
         race: "W",
-        "": "",
       },
     },
     {
@@ -2836,6 +2836,7 @@ export const irl = {
         coordinates: [-84.3804502, 33.7462443],
       },
       properties: {
+        id: "7d2fe7c9",
         "first name": "PH",
         "last name": "Mahan",
         "street #": "88",
@@ -2844,7 +2845,6 @@ export const irl = {
         sex: "male",
         "birth country": "Ireland",
         race: "W",
-        "": "",
       },
     },
     {
@@ -2854,6 +2854,7 @@ export const irl = {
         coordinates: [-84.3953385, 33.7407429],
       },
       properties: {
+        id: "8da16565",
         "first name": "M",
         "last name": "Mahoney",
         "street #": "161",
@@ -2862,7 +2863,6 @@ export const irl = {
         sex: "male",
         "birth country": "Ireland",
         race: "W",
-        "": "",
       },
     },
     {
@@ -2872,6 +2872,7 @@ export const irl = {
         coordinates: [-84.3727744, 33.7509485],
       },
       properties: {
+        id: "9427e38d",
         "first name": "Mary",
         "last name": "Mallinson",
         "street #": "462",
@@ -2880,7 +2881,6 @@ export const irl = {
         sex: "female",
         "birth country": "Ireland",
         race: "W",
-        "": "",
       },
     },
     {
@@ -2890,6 +2890,7 @@ export const irl = {
         coordinates: [-84.3892341, 33.75047],
       },
       properties: {
+        id: "a884b4ff",
         "first name": "TJ",
         "last name": "Malone",
         "street #": "85",
@@ -2898,7 +2899,6 @@ export const irl = {
         sex: "male",
         "birth country": "Ireland",
         race: "W",
-        "": "",
       },
     },
     {
@@ -2908,6 +2908,7 @@ export const irl = {
         coordinates: [-84.4090319, 33.7454944],
       },
       properties: {
+        id: "18be6c0f",
         "first name": "ED",
         "last name": "Maloney",
         "street #": "57",
@@ -2916,7 +2917,6 @@ export const irl = {
         sex: "male",
         "birth country": "Ireland",
         race: "W",
-        "": "",
       },
     },
     {
@@ -2926,6 +2926,7 @@ export const irl = {
         coordinates: [-84.3838121, 33.7523678],
       },
       properties: {
+        id: "b04b4df0",
         "first name": "CM",
         "last name": "Mason",
         "street #": "80",
@@ -2934,7 +2935,6 @@ export const irl = {
         sex: "female",
         "birth country": "Ireland",
         race: "W",
-        "": "",
       },
     },
     {
@@ -2944,6 +2944,7 @@ export const irl = {
         coordinates: [-84.3925138, 33.750644],
       },
       properties: {
+        id: "a520324a",
         "first name": "Annie",
         "last name": "McCarthy",
         "street #": "16 1/2",
@@ -2952,7 +2953,6 @@ export const irl = {
         sex: "female",
         "birth country": "Ireland",
         race: "W",
-        "": "",
       },
     },
     {
@@ -2962,6 +2962,7 @@ export const irl = {
         coordinates: [-84.3892341, 33.75047],
       },
       properties: {
+        id: "9d815ddf",
         "first name": "WJ",
         "last name": "McDonald",
         "street #": "85",
@@ -2970,7 +2971,6 @@ export const irl = {
         sex: "male",
         "birth country": "Ireland",
         race: "W",
-        "": "",
       },
     },
     {
@@ -2980,6 +2980,7 @@ export const irl = {
         coordinates: [-84.3908946, 33.7439559],
       },
       properties: {
+        id: "4ff4184a",
         "first name": "Henry",
         "last name": "McDonald",
         "street #": "201",
@@ -2988,7 +2989,6 @@ export const irl = {
         sex: "male",
         "birth country": "Ireland",
         race: "W",
-        "": "",
       },
     },
     {
@@ -2998,6 +2998,7 @@ export const irl = {
         coordinates: [-84.3815619, 33.7448881],
       },
       properties: {
+        id: "953ea2fa",
         "first name": "Grace",
         "last name": "McGeever",
         "street #": "60",
@@ -3006,7 +3007,6 @@ export const irl = {
         sex: "female",
         "birth country": "Ireland",
         race: "W",
-        "": "",
       },
     },
     {
@@ -3016,6 +3016,7 @@ export const irl = {
         coordinates: [-84.3815619, 33.7448881],
       },
       properties: {
+        id: "13ab5bbe",
         "first name": "Pat",
         "last name": "McGeever",
         "street #": "60",
@@ -3024,7 +3025,6 @@ export const irl = {
         sex: "male",
         "birth country": "Ireland",
         race: "W",
-        "": "",
       },
     },
     {
@@ -3034,6 +3034,7 @@ export const irl = {
         coordinates: [-84.3815619, 33.7448881],
       },
       properties: {
+        id: "8156f837",
         "first name": "John",
         "last name": "McGeever",
         "street #": "60",
@@ -3042,7 +3043,6 @@ export const irl = {
         sex: "male",
         "birth country": "Ireland",
         race: "W",
-        "": "",
       },
     },
     {
@@ -3052,6 +3052,7 @@ export const irl = {
         coordinates: [-84.3815619, 33.7448881],
       },
       properties: {
+        id: "98318479",
         "first name": "Susan",
         "last name": "McGeever",
         "street #": "60",
@@ -3060,7 +3061,6 @@ export const irl = {
         sex: "female",
         "birth country": "Ireland",
         race: "W",
-        "": "",
       },
     },
     {
@@ -3070,6 +3070,7 @@ export const irl = {
         coordinates: [-84.3815619, 33.7448881],
       },
       properties: {
+        id: "bb94eaaf",
         "first name": "Margaret",
         "last name": "McGeever",
         "street #": "60",
@@ -3078,7 +3079,6 @@ export const irl = {
         sex: "female",
         "birth country": "Ireland",
         race: "W",
-        "": "",
       },
     },
     {
@@ -3088,6 +3088,7 @@ export const irl = {
         coordinates: [-84.3815619, 33.7448881],
       },
       properties: {
+        id: "1432f124",
         "first name": "Mary",
         "last name": "McGeever",
         "street #": "60",
@@ -3096,7 +3097,6 @@ export const irl = {
         sex: "female",
         "birth country": "Ireland",
         race: "W",
-        "": "",
       },
     },
     {
@@ -3106,6 +3106,7 @@ export const irl = {
         coordinates: [-84.3990764, 33.7551517],
       },
       properties: {
+        id: "47cf1bd0",
         "first name": "Jas",
         "last name": "McGhu",
         "street #": "146",
@@ -3114,7 +3115,6 @@ export const irl = {
         sex: "male",
         "birth country": "Ireland",
         race: "W",
-        "": "",
       },
     },
     {
@@ -3124,6 +3124,7 @@ export const irl = {
         coordinates: [-84.3990764, 33.7551517],
       },
       properties: {
+        id: "12cab1a6",
         "first name": "Mrs.",
         "last name": "McGhu",
         "street #": "146",
@@ -3132,7 +3133,6 @@ export const irl = {
         sex: "female",
         "birth country": "Ireland",
         race: "W",
-        "": "",
       },
     },
     {
@@ -3142,6 +3142,7 @@ export const irl = {
         coordinates: [-84.3838299, 33.7536846],
       },
       properties: {
+        id: "8e5329d7",
         "first name": "Jas",
         "last name": "McGinnis",
         "street #": "21",
@@ -3150,7 +3151,6 @@ export const irl = {
         sex: "male",
         "birth country": "Ireland",
         race: "W",
-        "": "",
       },
     },
     {
@@ -3160,6 +3160,7 @@ export const irl = {
         coordinates: [-84.3838299, 33.7536846],
       },
       properties: {
+        id: "36623f31",
         "first name": "Carrie",
         "last name": "McGinnis",
         "street #": "21",
@@ -3168,7 +3169,6 @@ export const irl = {
         sex: "female",
         "birth country": "Ireland",
         race: "W",
-        "": "",
       },
     },
     {
@@ -3178,6 +3178,7 @@ export const irl = {
         coordinates: [-84.3900711, 33.7552221],
       },
       properties: {
+        id: "c70efeca",
         "first name": "M",
         "last name": "McSweeny",
         "street #": "42 1/2",
@@ -3186,7 +3187,6 @@ export const irl = {
         sex: "male",
         "birth country": "Ireland",
         race: "W",
-        "": "",
       },
     },
     {
@@ -3196,6 +3196,7 @@ export const irl = {
         coordinates: [-84.3900711, 33.7552221],
       },
       properties: {
+        id: "fe52aabb",
         "first name": "Julia",
         "last name": "McSweeny",
         "street #": "42 1/2",
@@ -3204,7 +3205,6 @@ export const irl = {
         sex: "female",
         "birth country": "Ireland",
         race: "W",
-        "": "",
       },
     },
     {
@@ -3214,6 +3214,7 @@ export const irl = {
         coordinates: [-84.3831991, 33.7585712],
       },
       properties: {
+        id: "58b1fe2a",
         "first name": "Jack",
         "last name": "Mitchell",
         "street #": "11",
@@ -3222,7 +3223,6 @@ export const irl = {
         sex: "male",
         "birth country": "Ireland",
         race: "W",
-        "": "",
       },
     },
     {
@@ -3232,6 +3232,7 @@ export const irl = {
         coordinates: [-84.3894719, 33.7653209],
       },
       properties: {
+        id: "fc783173",
         "first name": "Ellen",
         "last name": "Mohan",
         "street #": "45",
@@ -3240,7 +3241,6 @@ export const irl = {
         sex: "female",
         "birth country": "Ireland",
         race: "W",
-        "": "",
       },
     },
     {
@@ -3250,6 +3250,7 @@ export const irl = {
         coordinates: [-84.3922721, 33.7592341],
       },
       properties: {
+        id: "141f012e",
         "first name": "PH",
         "last name": "Moore",
         "street #": "105",
@@ -3258,7 +3259,6 @@ export const irl = {
         sex: "male",
         "birth country": "Ireland",
         race: "W",
-        "": "",
       },
     },
     {
@@ -3268,6 +3268,7 @@ export const irl = {
         coordinates: [-84.3927352, 33.7434016],
       },
       properties: {
+        id: "4f55e5f1",
         "first name": "John",
         "last name": "Morris",
         "street #": "49",
@@ -3276,7 +3277,6 @@ export const irl = {
         sex: "male",
         "birth country": "Ireland",
         race: "W",
-        "": "",
       },
     },
     {
@@ -3286,6 +3286,7 @@ export const irl = {
         coordinates: [-84.3927352, 33.7434016],
       },
       properties: {
+        id: "8d79ade9",
         "first name": "Mary",
         "last name": "Morris",
         "street #": "49",
@@ -3294,7 +3295,6 @@ export const irl = {
         sex: "female",
         "birth country": "Ireland",
         race: "W",
-        "": "",
       },
     },
     {
@@ -3304,6 +3304,7 @@ export const irl = {
         coordinates: [-84.3935281, 33.7613821],
       },
       properties: {
+        id: "5a6462fd",
         "first name": "Dennis",
         "last name": "Murphey",
         "street #": "30",
@@ -3312,7 +3313,6 @@ export const irl = {
         sex: "male",
         "birth country": "Ireland",
         race: "W",
-        "": "",
       },
     },
     {
@@ -3322,6 +3322,7 @@ export const irl = {
         coordinates: [-84.4041502, 33.7642452],
       },
       properties: {
+        id: "d06cc97b",
         "first name": "Margaret",
         "last name": "Murphy",
         "street #": "140",
@@ -3330,7 +3331,6 @@ export const irl = {
         sex: "female",
         "birth country": "Ireland",
         race: "W",
-        "": "",
       },
     },
     {
@@ -3340,6 +3340,7 @@ export const irl = {
         coordinates: [-84.3993339, 33.7506335],
       },
       properties: {
+        id: "eba98111",
         "first name": "Dennis",
         "last name": "Murphy",
         "street #": "30",
@@ -3348,7 +3349,6 @@ export const irl = {
         sex: "male",
         "birth country": "Ireland",
         race: "W",
-        "": "",
       },
     },
     {
@@ -3358,6 +3358,7 @@ export const irl = {
         coordinates: [-84.3902108, 33.7546418],
       },
       properties: {
+        id: "5fc7d471",
         "first name": "Edward",
         "last name": "Murphy",
         "street #": "22",
@@ -3366,7 +3367,6 @@ export const irl = {
         sex: "male",
         "birth country": "Ireland",
         race: "W",
-        "": "",
       },
     },
     {
@@ -3376,6 +3376,7 @@ export const irl = {
         coordinates: [-84.3921344, 33.7468184],
       },
       properties: {
+        id: "2e45a232",
         "first name": "MK",
         "last name": "Murphy",
         "street #": "2",
@@ -3384,7 +3385,6 @@ export const irl = {
         sex: "male",
         "birth country": "Ireland",
         race: "W",
-        "": "",
       },
     },
     {
@@ -3394,6 +3394,7 @@ export const irl = {
         coordinates: [-84.3948205, 33.7510249],
       },
       properties: {
+        id: "1e6af64c",
         "first name": "TP",
         "last name": "Murphy",
         "street #": "104",
@@ -3402,7 +3403,6 @@ export const irl = {
         sex: "male",
         "birth country": "Ireland",
         race: "W",
-        "": "",
       },
     },
     {
@@ -3412,6 +3412,7 @@ export const irl = {
         coordinates: [-84.3945001, 33.7432945],
       },
       properties: {
+        id: "8c3c6be1",
         "first name": "Mrs D",
         "last name": "Murphy",
         "street #": "277",
@@ -3420,7 +3421,6 @@ export const irl = {
         sex: "female",
         "birth country": "Ireland",
         race: "W",
-        "": "",
       },
     },
     {
@@ -3430,6 +3430,7 @@ export const irl = {
         coordinates: [-84.394815, 33.7456908],
       },
       properties: {
+        id: "61af81b8",
         "first name": "Mrs TC",
         "last name": "Murphy",
         "street #": "65",
@@ -3438,7 +3439,6 @@ export const irl = {
         sex: "female",
         "birth country": "Ireland",
         race: "W",
-        "": "",
       },
     },
     {
@@ -3448,6 +3448,7 @@ export const irl = {
         coordinates: [-84.3971406, 33.7480521],
       },
       properties: {
+        id: "a76259f0",
         "first name": "Martin",
         "last name": "Nally",
         "street #": "191",
@@ -3456,7 +3457,6 @@ export const irl = {
         sex: "male",
         "birth country": "Ireland",
         race: "W",
-        "": "",
       },
     },
     {
@@ -3466,6 +3466,7 @@ export const irl = {
         coordinates: [-84.3677738, 33.7454544],
       },
       properties: {
+        id: "f2667a3d",
         "first name": "Martin",
         "last name": "Nealon",
         "street #": "608",
@@ -3474,7 +3475,6 @@ export const irl = {
         sex: "male",
         "birth country": "Ireland",
         race: "W",
-        "": "",
       },
     },
     {
@@ -3484,6 +3484,7 @@ export const irl = {
         coordinates: [-84.3895651, 33.7537451],
       },
       properties: {
+        id: "b4685396",
         "first name": "Kate",
         "last name": "Nulty",
         "street #": "",
@@ -3492,7 +3493,6 @@ export const irl = {
         sex: "female",
         "birth country": "Ireland",
         race: "W",
-        "": "",
       },
     },
     {
@@ -3502,6 +3502,7 @@ export const irl = {
         coordinates: [-84.3979551, 33.7484617],
       },
       properties: {
+        id: "7de23914",
         "first name": "Mrs",
         "last name": "O'Connell",
         "street #": "180",
@@ -3510,7 +3511,6 @@ export const irl = {
         sex: "female",
         "birth country": "Ireland",
         race: "W",
-        "": "",
       },
     },
     {
@@ -3520,6 +3520,7 @@ export const irl = {
         coordinates: [-84.3926387, 33.7428574],
       },
       properties: {
+        id: "04a4ead8",
         "first name": "Kate",
         "last name": "O'Connor",
         "street #": "88",
@@ -3528,7 +3529,6 @@ export const irl = {
         sex: "female",
         "birth country": "Ireland",
         race: "W",
-        "": "",
       },
     },
     {
@@ -3538,6 +3538,7 @@ export const irl = {
         coordinates: [-84.3793173, 33.7449395],
       },
       properties: {
+        id: "3df8280c",
         "first name": "EC",
         "last name": "O'Donalds",
         "street #": "94",
@@ -3546,7 +3547,6 @@ export const irl = {
         sex: "male",
         "birth country": "Ireland",
         race: "W",
-        "": "",
       },
     },
     {
@@ -3556,6 +3556,7 @@ export const irl = {
         coordinates: [-84.4054745, 33.748019],
       },
       properties: {
+        id: "b0fc1325",
         "first name": "J",
         "last name": "O'Donnely",
         "street #": "61",
@@ -3564,7 +3565,6 @@ export const irl = {
         sex: "male",
         "birth country": "Ireland",
         race: "W",
-        "": "",
       },
     },
     {
@@ -3574,6 +3574,7 @@ export const irl = {
         coordinates: [-84.4054745, 33.748019],
       },
       properties: {
+        id: "8e8b2b2c",
         "first name": "M",
         "last name": "O'Donnely",
         "street #": "61",
@@ -3582,7 +3583,6 @@ export const irl = {
         sex: "female",
         "birth country": "Ireland",
         race: "W",
-        "": "",
       },
     },
     {
@@ -3592,6 +3592,7 @@ export const irl = {
         coordinates: [-84.3752645, 33.7723554],
       },
       properties: {
+        id: "f4729d0d",
         "first name": "LE",
         "last name": "O'Keefe",
         "street #": "213",
@@ -3600,7 +3601,6 @@ export const irl = {
         sex: "male",
         "birth country": "Ireland",
         race: "W",
-        "": "",
       },
     },
     {
@@ -3610,6 +3610,7 @@ export const irl = {
         coordinates: [-84.3752645, 33.7723554],
       },
       properties: {
+        id: "7baafce0",
         "first name": "Mary",
         "last name": "O'Keefe",
         "street #": "213",
@@ -3618,7 +3619,6 @@ export const irl = {
         sex: "female",
         "birth country": "Ireland",
         race: "W",
-        "": "",
       },
     },
     {
@@ -3628,6 +3628,7 @@ export const irl = {
         coordinates: [-84.3752645, 33.7723554],
       },
       properties: {
+        id: "92f7b35b",
         "first name": "Emely",
         "last name": "O'Keefe",
         "street #": "213",
@@ -3636,7 +3637,6 @@ export const irl = {
         sex: "female",
         "birth country": "Ireland",
         race: "W",
-        "": "",
       },
     },
     {
@@ -3646,6 +3646,7 @@ export const irl = {
         coordinates: [-84.3927352, 33.7434016],
       },
       properties: {
+        id: "53532fe9",
         "first name": "Nora",
         "last name": "O'Neal",
         "street #": "49",
@@ -3654,7 +3655,6 @@ export const irl = {
         sex: "female",
         "birth country": "Ireland",
         race: "W",
-        "": "",
       },
     },
     {
@@ -3664,6 +3664,7 @@ export const irl = {
         coordinates: [-84.3830048, 33.7537118],
       },
       properties: {
+        id: "2da6e782",
         "first name": "PP",
         "last name": "Obryne",
         "street #": "69",
@@ -3672,7 +3673,6 @@ export const irl = {
         sex: "male",
         "birth country": "Ireland",
         race: "W",
-        "": "",
       },
     },
     {
@@ -3682,6 +3682,7 @@ export const irl = {
         coordinates: [-84.3944947, 33.743473],
       },
       properties: {
+        id: "dd29da96",
         "first name": "Mary",
         "last name": "Otis",
         "street #": "248",
@@ -3690,7 +3691,6 @@ export const irl = {
         sex: "female",
         "birth country": "Ireland",
         race: "W",
-        "": "",
       },
     },
     {
@@ -3700,6 +3700,7 @@ export const irl = {
         coordinates: [-84.3922905, 33.747596],
       },
       properties: {
+        id: "de57ae27",
         "first name": "B",
         "last name": "Pallager",
         "street #": "168",
@@ -3708,7 +3709,6 @@ export const irl = {
         sex: "male",
         "birth country": "Ireland",
         race: "W",
-        "": "",
       },
     },
     {
@@ -3718,6 +3718,7 @@ export const irl = {
         coordinates: [-84.3896983, 33.7399432],
       },
       properties: {
+        id: "e9e097f1",
         "first name": "CW",
         "last name": "Phelps",
         "street #": "204",
@@ -3726,7 +3727,6 @@ export const irl = {
         sex: "female",
         "birth country": "Ireland",
         race: "W",
-        "": "",
       },
     },
     {
@@ -3736,6 +3736,7 @@ export const irl = {
         coordinates: [-84.3994304, 33.7564139],
       },
       properties: {
+        id: "116625f4",
         "first name": "Miriam",
         "last name": "Phibbs",
         "street #": "171",
@@ -3744,7 +3745,6 @@ export const irl = {
         sex: "female",
         "birth country": '"Europe" [Ireland]',
         race: "W",
-        "": '"Europe" in 1896; listed in 1880 cen / in 1896-7cds, not at this address',
       },
     },
     {
@@ -3754,6 +3754,7 @@ export const irl = {
         coordinates: [-84.3681381, 33.7421123],
       },
       properties: {
+        id: "cb852b78",
         "first name": "Agnes",
         "last name": "Pickert",
         "street #": "275",
@@ -3762,7 +3763,6 @@ export const irl = {
         sex: "female",
         "birth country": "Ireland",
         race: "W",
-        "": "",
       },
     },
     {
@@ -3772,6 +3772,7 @@ export const irl = {
         coordinates: [-84.3907897, 33.7640061],
       },
       properties: {
+        id: "250177ef",
         "first name": "Mary",
         "last name": "Pilgrim",
         "street #": "111",
@@ -3780,7 +3781,6 @@ export const irl = {
         sex: "female",
         "birth country": "Ireland",
         race: "W",
-        "": "",
       },
     },
     {
@@ -3790,6 +3790,7 @@ export const irl = {
         coordinates: [-84.3910598, 33.758797],
       },
       properties: {
+        id: "c5eafcca",
         "first name": "C",
         "last name": "Pindriver",
         "street #": "75",
@@ -3798,7 +3799,6 @@ export const irl = {
         sex: "male",
         "birth country": "Ireland",
         race: "W",
-        "": "",
       },
     },
     {
@@ -3808,6 +3808,7 @@ export const irl = {
         coordinates: [-84.3962225, 33.7580641],
       },
       properties: {
+        id: "b71643ab",
         "first name": "Mary",
         "last name": "Plantinberg",
         "street #": "62",
@@ -3816,7 +3817,6 @@ export const irl = {
         sex: "female",
         "birth country": "Ireland",
         race: "W",
-        "": "",
       },
     },
     {
@@ -3826,6 +3826,7 @@ export const irl = {
         coordinates: [-84.3851844, 33.7561344],
       },
       properties: {
+        id: "4ce6cc2b",
         "first name": "Ned",
         "last name": "Powers",
         "street #": "9",
@@ -3834,7 +3835,6 @@ export const irl = {
         sex: "male",
         "birth country": "Ireland",
         race: "W",
-        "": "",
       },
     },
     {
@@ -3844,6 +3844,7 @@ export const irl = {
         coordinates: [-84.3925421, 33.7422775],
       },
       properties: {
+        id: "d9184613",
         "first name": "Mrs B",
         "last name": "Purcell",
         "street #": "129",
@@ -3852,7 +3853,6 @@ export const irl = {
         sex: "female",
         "birth country": "Ireland",
         race: "W",
-        "": "",
       },
     },
     {
@@ -3862,6 +3862,7 @@ export const irl = {
         coordinates: [-84.393962, 33.7639528],
       },
       properties: {
+        id: "be608129",
         "first name": "WS",
         "last name": "Quick",
         "street #": "20",
@@ -3870,7 +3871,6 @@ export const irl = {
         sex: "male",
         "birth country": "Ireland",
         race: "W",
-        "": "",
       },
     },
     {
@@ -3880,6 +3880,7 @@ export const irl = {
         coordinates: [-84.3869374, 33.7571412],
       },
       properties: {
+        id: "5b89ca08",
         "first name": "Mr",
         "last name": "Quinn",
         "street #": "28",
@@ -3888,7 +3889,6 @@ export const irl = {
         sex: "male",
         "birth country": "Ireland",
         race: "W",
-        "": "",
       },
     },
     {
@@ -3898,6 +3898,7 @@ export const irl = {
         coordinates: [-84.393962, 33.7639528],
       },
       properties: {
+        id: "28053c0e",
         "first name": "WS",
         "last name": "Quirk",
         "street #": "20",
@@ -3906,7 +3907,6 @@ export const irl = {
         sex: "female",
         "birth country": "Ireland",
         race: "W",
-        "": "",
       },
     },
     {
@@ -3916,6 +3916,7 @@ export const irl = {
         coordinates: [-84.4031691, 33.7692588],
       },
       properties: {
+        id: "dcf11491",
         "first name": "Eliza",
         "last name": "Randolph",
         "street #": "59",
@@ -3924,7 +3925,6 @@ export const irl = {
         sex: "female",
         "birth country": "Ireland",
         race: "W",
-        "": "",
       },
     },
     {
@@ -3934,6 +3934,7 @@ export const irl = {
         coordinates: [-84.3945001, 33.7433258],
       },
       properties: {
+        id: "8ba0d46b",
         "first name": "Sister",
         "last name": "Regis",
         "street #": "273",
@@ -3942,7 +3943,6 @@ export const irl = {
         sex: "female",
         "birth country": "Ireland",
         race: "W",
-        "": "",
       },
     },
     {
@@ -3952,6 +3952,7 @@ export const irl = {
         coordinates: [-84.370102, 33.7454945],
       },
       properties: {
+        id: "4b1964bf",
         "first name": "Elleanor",
         "last name": "Rice",
         "street #": "568",
@@ -3960,7 +3961,6 @@ export const irl = {
         sex: "female",
         "birth country": "Ireland",
         race: "W",
-        "": "",
       },
     },
     {
@@ -3970,6 +3970,7 @@ export const irl = {
         coordinates: [-84.3995496, 33.7527974],
       },
       properties: {
+        id: "396e9bec",
         "first name": "SJ",
         "last name": "Richardson",
         "street #": "39",
@@ -3978,7 +3979,6 @@ export const irl = {
         sex: "male",
         "birth country": "Ireland",
         race: "W",
-        "": "",
       },
     },
     {
@@ -3988,6 +3988,7 @@ export const irl = {
         coordinates: [-84.374232, 33.7526732],
       },
       properties: {
+        id: "8bb6596b",
         "first name": "John",
         "last name": "Riordan",
         "street #": "39",
@@ -3996,7 +3997,6 @@ export const irl = {
         sex: "male",
         "birth country": "Ireland",
         race: "W",
-        "": "",
       },
     },
     {
@@ -4006,6 +4006,7 @@ export const irl = {
         coordinates: [-84.374232, 33.7526732],
       },
       properties: {
+        id: "9821e3bd",
         "first name": "Annie",
         "last name": "Riordan",
         "street #": "39",
@@ -4014,7 +4015,6 @@ export const irl = {
         sex: "female",
         "birth country": "Ireland",
         race: "W",
-        "": "",
       },
     },
     {
@@ -4024,6 +4024,7 @@ export const irl = {
         coordinates: [-84.3914356, 33.7500597],
       },
       properties: {
+        id: "889d88b0",
         "first name": "Wm",
         "last name": "Rogan",
         "street #": "46",
@@ -4032,7 +4033,6 @@ export const irl = {
         sex: "male",
         "birth country": "Ireland",
         race: "W",
-        "": "",
       },
     },
     {
@@ -4042,6 +4042,7 @@ export const irl = {
         coordinates: [-84.3975829, 33.7694414],
       },
       properties: {
+        id: "cfdcb296",
         "first name": "Ann",
         "last name": "Rogan",
         "street #": "81",
@@ -4050,7 +4051,6 @@ export const irl = {
         sex: "female",
         "birth country": "Ireland",
         race: "W",
-        "": "",
       },
     },
     {
@@ -4060,6 +4060,7 @@ export const irl = {
         coordinates: [-84.3951387, 33.748263],
       },
       properties: {
+        id: "cee89197",
         "first name": "HA",
         "last name": "Rolestone",
         "street #": "185",
@@ -4068,7 +4069,6 @@ export const irl = {
         sex: "male",
         "birth country": "Ireland",
         race: "W",
-        "": "",
       },
     },
     {
@@ -4078,6 +4078,7 @@ export const irl = {
         coordinates: [-84.3850184, 33.7471312],
       },
       properties: {
+        id: "9c9acbd2",
         "first name": "WR",
         "last name": "Rooch",
         "street #": "54",
@@ -4086,7 +4087,6 @@ export const irl = {
         sex: "male",
         "birth country": "Ireland",
         race: "W",
-        "": "",
       },
     },
     {
@@ -4096,6 +4096,7 @@ export const irl = {
         coordinates: [-84.384535, 33.7622241],
       },
       properties: {
+        id: "f74236ee",
         "first name": "Nacolas",
         "last name": "Rooney",
         "street #": "54",
@@ -4104,7 +4105,6 @@ export const irl = {
         sex: "male",
         "birth country": "Ireland",
         race: "W",
-        "": "",
       },
     },
     {
@@ -4114,6 +4114,7 @@ export const irl = {
         coordinates: [-84.3579869, 33.7601431],
       },
       properties: {
+        id: "ca8c13c7",
         "first name": "Chas",
         "last name": "Runette",
         "street #": "140",
@@ -4122,7 +4123,6 @@ export const irl = {
         sex: "male",
         "birth country": "Ireland",
         race: "W",
-        "": "",
       },
     },
     {
@@ -4132,6 +4132,7 @@ export const irl = {
         coordinates: [-84.4024659, 33.7402005],
       },
       properties: {
+        id: "3a614028",
         "first name": "Mrs Rose",
         "last name": "Ryan",
         "street #": "107",
@@ -4140,7 +4141,6 @@ export const irl = {
         sex: "female",
         "birth country": "Ireland",
         race: "W",
-        "": "",
       },
     },
     {
@@ -4150,6 +4150,7 @@ export const irl = {
         coordinates: [-84.4023157, 33.7398793],
       },
       properties: {
+        id: "e2fec212",
         "first name": "Jane",
         "last name": "Ryan",
         "street #": "111",
@@ -4158,7 +4159,6 @@ export const irl = {
         sex: "female",
         "birth country": "Ireland",
         race: "W",
-        "": "",
       },
     },
     {
@@ -4168,6 +4168,7 @@ export const irl = {
         coordinates: [-84.3788731, 33.7468593],
       },
       properties: {
+        id: "b865bdfe",
         "first name": "TN",
         "last name": "Scales",
         "street #": "418",
@@ -4176,7 +4177,6 @@ export const irl = {
         sex: "male",
         "birth country": "Ireland",
         race: "W",
-        "": "",
       },
     },
     {
@@ -4186,6 +4186,7 @@ export const irl = {
         coordinates: [-84.3905559, 33.7607792],
       },
       properties: {
+        id: "354c731f",
         "first name": "Lizzie",
         "last name": "Schneider",
         "street #": "28",
@@ -4194,7 +4195,6 @@ export const irl = {
         sex: "female",
         "birth country": "Ireland",
         race: "W",
-        "": "",
       },
     },
     {
@@ -4204,6 +4204,7 @@ export const irl = {
         coordinates: [-84.3972758, 33.7643063],
       },
       properties: {
+        id: "b0e49589",
         "first name": "Julia",
         "last name": "Shacknay",
         "street #": "413",
@@ -4212,7 +4213,6 @@ export const irl = {
         sex: "female",
         "birth country": "Ireland",
         race: "W",
-        "": "",
       },
     },
     {
@@ -4222,6 +4222,7 @@ export const irl = {
         coordinates: [-84.3907113, 33.7556635],
       },
       properties: {
+        id: "db8500e9",
         "first name": "Jas",
         "last name": "Sherin",
         "street #": "34",
@@ -4230,7 +4231,6 @@ export const irl = {
         sex: "male",
         "birth country": "Ireland",
         race: "W",
-        "": "",
       },
     },
     {
@@ -4240,6 +4240,7 @@ export const irl = {
         coordinates: [-84.3826948, 33.7555452],
       },
       properties: {
+        id: "36db0f13",
         "first name": "Jno",
         "last name": "Smith",
         "street #": "136",
@@ -4248,7 +4249,6 @@ export const irl = {
         sex: "male",
         "birth country": "Ireland",
         race: "W",
-        "": "",
       },
     },
     {
@@ -4258,6 +4258,7 @@ export const irl = {
         coordinates: [-84.3838511, 33.7475902],
       },
       properties: {
+        id: "46219892",
         "first name": "Jim",
         "last name": "Smith",
         "street #": "13",
@@ -4266,7 +4267,6 @@ export const irl = {
         sex: "male",
         "birth country": "Ireland",
         race: "W",
-        "": "",
       },
     },
     {
@@ -4276,6 +4276,7 @@ export const irl = {
         coordinates: [-84.3972221, 33.7639183],
       },
       properties: {
+        id: "9832ad17",
         "first name": "Annie",
         "last name": "Stack",
         "street #": "394",
@@ -4284,7 +4285,6 @@ export const irl = {
         sex: "female",
         "birth country": "Ireland",
         race: "W",
-        "": "",
       },
     },
     {
@@ -4294,6 +4294,7 @@ export const irl = {
         coordinates: [-84.3940019, 33.7610075],
       },
       properties: {
+        id: "aad2ac27",
         "first name": "Frank",
         "last name": "Sterling",
         "street #": "127",
@@ -4302,7 +4303,6 @@ export const irl = {
         sex: "male",
         "birth country": "Ireland",
         race: "W",
-        "": "",
       },
     },
     {
@@ -4312,6 +4312,7 @@ export const irl = {
         coordinates: [-84.3893872, 33.7452961],
       },
       properties: {
+        id: "ccacfe5c",
         "first name": "William",
         "last name": "Stokes",
         "street #": "51",
@@ -4320,7 +4321,6 @@ export const irl = {
         sex: "male",
         "birth country": "Ireland",
         race: "W",
-        "": "",
       },
     },
     {
@@ -4330,6 +4330,7 @@ export const irl = {
         coordinates: [-84.3803812, 33.7497977],
       },
       properties: {
+        id: "0e566ce6",
         "first name": "D",
         "last name": "Sullivan",
         "street #": "293",
@@ -4338,7 +4339,6 @@ export const irl = {
         sex: "male",
         "birth country": "Ireland",
         race: "W",
-        "": "",
       },
     },
     {
@@ -4348,6 +4348,7 @@ export const irl = {
         coordinates: [-84.3803812, 33.7497977],
       },
       properties: {
+        id: "4a2d73d5",
         "first name": "Kate",
         "last name": "Sullivan",
         "street #": "293",
@@ -4356,7 +4357,6 @@ export const irl = {
         sex: "female",
         "birth country": "Ireland",
         race: "W",
-        "": "",
       },
     },
     {
@@ -4366,6 +4366,7 @@ export const irl = {
         coordinates: [-84.3843985, 33.746895],
       },
       properties: {
+        id: "3a7cccfe",
         "first name": "E",
         "last name": "Sullivan",
         "street #": "279",
@@ -4374,7 +4375,6 @@ export const irl = {
         sex: "female",
         "birth country": "Ireland",
         race: "W",
-        "": "",
       },
     },
     {
@@ -4384,6 +4384,7 @@ export const irl = {
         coordinates: [-84.3986891, 33.7656568],
       },
       properties: {
+        id: "df0b30bd",
         "first name": "Julie",
         "last name": "Taylor",
         "street #": "4",
@@ -4392,7 +4393,6 @@ export const irl = {
         sex: "female",
         "birth country": "Ireland",
         race: "W",
-        "": "",
       },
     },
     {
@@ -4402,6 +4402,7 @@ export const irl = {
         coordinates: [-84.4020551, 33.7432062],
       },
       properties: {
+        id: "ce682f0d",
         "first name": "Addie",
         "last name": "Thomas",
         "street #": "9",
@@ -4410,7 +4411,6 @@ export const irl = {
         sex: "female",
         "birth country": "Ireland",
         race: "W",
-        "": "",
       },
     },
     {
@@ -4420,6 +4420,7 @@ export const irl = {
         coordinates: [-84.386997, 33.7555809],
       },
       properties: {
+        id: "47d486e9",
         "first name": "John",
         "last name": "Thompson",
         "street #": "34",
@@ -4428,7 +4429,6 @@ export const irl = {
         sex: "male",
         "birth country": "Ireland",
         race: "W",
-        "": "",
       },
     },
     {
@@ -4438,6 +4438,7 @@ export const irl = {
         coordinates: [-84.3857547, 33.7596865],
       },
       properties: {
+        id: "5c0ed443",
         "first name": "RG",
         "last name": "Thompson",
         "street #": "44",
@@ -4446,7 +4447,6 @@ export const irl = {
         sex: "male",
         "birth country": "Ireland",
         race: "W",
-        "": "",
       },
     },
     {
@@ -4456,6 +4456,7 @@ export const irl = {
         coordinates: [-84.3736061, 33.7312432],
       },
       properties: {
+        id: "c1a2f061",
         "first name": "Sarah",
         "last name": "Thornton",
         "street #": "137",
@@ -4464,7 +4465,6 @@ export const irl = {
         sex: "female",
         "birth country": "Ireland",
         race: "W",
-        "": "",
       },
     },
     {
@@ -4474,6 +4474,7 @@ export const irl = {
         coordinates: [-84.3861495, 33.7487795],
       },
       properties: {
+        id: "ab9f729d",
         "first name": "Wm",
         "last name": "Tully",
         "street #": "62",
@@ -4482,7 +4483,6 @@ export const irl = {
         sex: "male",
         "birth country": "Ireland",
         race: "W",
-        "": "",
       },
     },
     {
@@ -4492,6 +4492,7 @@ export const irl = {
         coordinates: [-84.4056898, 33.7490405],
       },
       properties: {
+        id: "8cce3518",
         "first name": "E",
         "last name": "Turner",
         "street #": "198",
@@ -4500,7 +4501,6 @@ export const irl = {
         sex: "female",
         "birth country": "Ireland",
         race: "W",
-        "": "",
       },
     },
     {
@@ -4510,6 +4510,7 @@ export const irl = {
         coordinates: [-84.3836659, 33.7622152],
       },
       properties: {
+        id: "e85b9b53",
         "first name": "Mary",
         "last name": "Van Winkle",
         "street #": "78",
@@ -4518,7 +4519,6 @@ export const irl = {
         sex: "female",
         "birth country": "Ireland",
         race: "W",
-        "": "",
       },
     },
     {
@@ -4528,6 +4528,7 @@ export const irl = {
         coordinates: [-84.3880463, 33.7469217],
       },
       properties: {
+        id: "d98375ce",
         "first name": "Henry",
         "last name": "Wakefield",
         "street #": "191",
@@ -4536,7 +4537,6 @@ export const irl = {
         sex: "male",
         "birth country": "Ireland",
         race: "W",
-        "": "",
       },
     },
     {
@@ -4546,6 +4546,7 @@ export const irl = {
         coordinates: [-84.3880463, 33.7469217],
       },
       properties: {
+        id: "6a40c1f3",
         "first name": "Lillie",
         "last name": "Wakefield",
         "street #": "191",
@@ -4554,7 +4555,6 @@ export const irl = {
         sex: "female",
         "birth country": "Ireland",
         race: "W",
-        "": "",
       },
     },
     {
@@ -4564,6 +4564,7 @@ export const irl = {
         coordinates: [-84.3816916, 33.7530079],
       },
       properties: {
+        id: "91bdbc34",
         "first name": "D",
         "last name": "Wall",
         "street #": "73",
@@ -4572,7 +4573,6 @@ export const irl = {
         sex: "female",
         "birth country": "Ireland",
         race: "W",
-        "": "",
       },
     },
     {
@@ -4582,6 +4582,7 @@ export const irl = {
         coordinates: [-84.3927459, 33.7441064],
       },
       properties: {
+        id: "9fc7b80a",
         "first name": "Ellen",
         "last name": "Wallace",
         "street #": "35",
@@ -4590,7 +4591,6 @@ export const irl = {
         sex: "female",
         "birth country": "Ireland",
         race: "W",
-        "": "",
       },
     },
     {
@@ -4600,6 +4600,7 @@ export const irl = {
         coordinates: [-84.3935609, 33.7469396],
       },
       properties: {
+        id: "e38f60ca",
         "first name": "MG",
         "last name": "Walpole",
         "street #": "69",
@@ -4608,7 +4609,6 @@ export const irl = {
         sex: "female",
         "birth country": "Ireland",
         race: "W",
-        "": "",
       },
     },
     {
@@ -4618,6 +4618,7 @@ export const irl = {
         coordinates: [-84.3912371, 33.7499438],
       },
       properties: {
+        id: "ed1b510b",
         "first name": "Jas",
         "last name": "Walsh",
         "street #": "67",
@@ -4626,7 +4627,6 @@ export const irl = {
         sex: "male",
         "birth country": "Ireland",
         race: "W",
-        "": "",
       },
     },
     {
@@ -4636,6 +4636,7 @@ export const irl = {
         coordinates: [-84.4015601, 33.7580685],
       },
       properties: {
+        id: "1a219979",
         "first name": "Mrs. Will",
         "last name": "Walton",
         "street #": "185",
@@ -4644,7 +4645,6 @@ export const irl = {
         sex: "female",
         "birth country": "Ireland",
         race: "W",
-        "": "",
       },
     },
     {
@@ -4654,6 +4654,7 @@ export const irl = {
         coordinates: [-84.3997335, 33.7617278],
       },
       properties: {
+        id: "987d9bd3",
         "first name": "Pat",
         "last name": "Whalen",
         "street #": "341",
@@ -4662,7 +4663,6 @@ export const irl = {
         sex: "male",
         "birth country": "Ireland",
         race: "W",
-        "": "",
       },
     },
     {
@@ -4672,6 +4672,7 @@ export const irl = {
         coordinates: [-84.3997335, 33.7617278],
       },
       properties: {
+        id: "b8a1b6a6",
         "first name": "Ellen",
         "last name": "Whalen",
         "street #": "341",
@@ -4680,7 +4681,6 @@ export const irl = {
         sex: "female",
         "birth country": "Ireland",
         race: "W",
-        "": "",
       },
     },
     {
@@ -4690,6 +4690,7 @@ export const irl = {
         coordinates: [-84.3767351, 33.7614116],
       },
       properties: {
+        id: "d65ed26f",
         "first name": "A McD",
         "last name": "Wilson",
         "street #": "27",
@@ -4698,7 +4699,6 @@ export const irl = {
         sex: "male",
         "birth country": "Ireland",
         race: "W",
-        "": "",
       },
     },
     {
@@ -4708,6 +4708,7 @@ export const irl = {
         coordinates: [-84.3767351, 33.7614116],
       },
       properties: {
+        id: "0c54e049",
         "first name": "W AA",
         "last name": "Wilson",
         "street #": "27",
@@ -4716,7 +4717,6 @@ export const irl = {
         sex: "male",
         "birth country": "Ireland",
         race: "W",
-        "": "",
       },
     },
     {
@@ -4726,6 +4726,7 @@ export const irl = {
         coordinates: [-84.3767351, 33.7614116],
       },
       properties: {
+        id: "3d6d08f9",
         "first name": "Robt",
         "last name": "Wilson",
         "street #": "27",
@@ -4734,7 +4735,6 @@ export const irl = {
         sex: "male",
         "birth country": "Ireland",
         race: "W",
-        "": "",
       },
     },
     {
@@ -4744,6 +4744,7 @@ export const irl = {
         coordinates: [-84.3942411, 33.7500033],
       },
       properties: {
+        id: "85f072f2",
         "first name": "Andre",
         "last name": "Wylie",
         "street #": "26",
@@ -4752,7 +4753,6 @@ export const irl = {
         sex: "male",
         "birth country": "Ireland",
         race: "W",
-        "": "",
       },
     },
     {
@@ -4762,6 +4762,7 @@ export const irl = {
         coordinates: [-84.3878145, 33.7411017],
       },
       properties: {
+        id: "6375bfb9",
         "first name": "S",
         "last name": "Younge",
         "street #": "242",
@@ -4770,7 +4771,6 @@ export const irl = {
         sex: "male",
         "birth country": "Ireland",
         race: "W",
-        "": "",
       },
     },
   ],

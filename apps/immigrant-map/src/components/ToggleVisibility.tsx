@@ -16,15 +16,7 @@ const ToggleVisibility = ({ map, layerId, label }: Props) => {
   }, [map, visible, layerId]);
   return (
     <button
-      style={{
-        display: "flex",
-        gap: "1rem",
-        marginBottom: "1rem",
-        border: "none",
-        cursor: "pointer",
-        fontSize: "1.1rem",
-        color: "oklab(1 0 0 / 0.8)",
-      }}
+      className={`w-[calc(100%-2rem)] text-left flex gap-2 ms-4 border border-black/60 cursor-pointer p-1 hover:opacity-100`}
       onClick={() => setVisible(!visible)}
     >
       {visible ? "Hide" : "Show"} {label}

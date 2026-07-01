@@ -10,6 +10,7 @@ export const med_meast = {
         coordinates: [-84.3946132, 33.7588401],
       },
       properties: {
+        id: "4b9c754e",
         "first name": "G",
         "last name": "Sahle",
         "street #": "45 1/2",
@@ -18,7 +19,6 @@ export const med_meast = {
         sex: "male",
         "birth country": '"Arabia"',
         race: "W",
-        "": "could not find any record of Sahles",
       },
     },
     {
@@ -28,6 +28,7 @@ export const med_meast = {
         coordinates: [-84.3946132, 33.7588401],
       },
       properties: {
+        id: "f25ce4b2",
         "first name": "Anne",
         "last name": "Sahle",
         "street #": "45 1/2",
@@ -36,7 +37,6 @@ export const med_meast = {
         sex: "female",
         "birth country": '"Arabia"',
         race: "W",
-        "": "could not find any record of Sahles",
       },
     },
     {
@@ -46,6 +46,7 @@ export const med_meast = {
         coordinates: [-84.3946132, 33.7588401],
       },
       properties: {
+        id: "603329ab",
         "first name": "Maz",
         "last name": "Sahle",
         "street #": "45 1/2",
@@ -54,7 +55,6 @@ export const med_meast = {
         sex: "male",
         "birth country": '"Arabia"',
         race: "W",
-        "": "could not find any record of Sahles",
       },
     },
     {
@@ -64,6 +64,7 @@ export const med_meast = {
         coordinates: [-84.394792, 33.7598332],
       },
       properties: {
+        id: "1d391c0a",
         "first name": "Dicie",
         "last name": "Tarris",
         "street #": "224",
@@ -72,7 +73,6 @@ export const med_meast = {
         sex: "female",
         "birth country": '"Arabia"',
         race: "W",
-        "": "could not find any record of Tarris",
       },
     },
     {
@@ -82,6 +82,7 @@ export const med_meast = {
         coordinates: [-84.394792, 33.7598332],
       },
       properties: {
+        id: "8d5ab42f",
         "first name": "Jennette",
         "last name": "Tarris",
         "street #": "224",
@@ -90,7 +91,6 @@ export const med_meast = {
         sex: "female",
         "birth country": '"Arabia"',
         race: "W",
-        "": "could not find any record of Tarris",
       },
     },
     {
@@ -100,6 +100,7 @@ export const med_meast = {
         coordinates: [-84.394792, 33.7598332],
       },
       properties: {
+        id: "87952ae6",
         "first name": "Mattie",
         "last name": "Tarris",
         "street #": "224",
@@ -108,7 +109,6 @@ export const med_meast = {
         sex: "female",
         "birth country": '"Arabia"',
         race: "W",
-        "": "could not find any record of Tarris",
       },
     },
     {
@@ -118,6 +118,7 @@ export const med_meast = {
         coordinates: [-84.394792, 33.7598332],
       },
       properties: {
+        id: "d093ae04",
         "first name": "Joseph",
         "last name": "Tarris",
         "street #": "224",
@@ -126,7 +127,6 @@ export const med_meast = {
         sex: "male",
         "birth country": '"Arabia"',
         race: "W",
-        "": "could not find any record of Tarris",
       },
     },
     {
@@ -136,6 +136,7 @@ export const med_meast = {
         coordinates: [-84.3883522, 33.7565033],
       },
       properties: {
+        id: "0bb487e7",
         "first name": "James",
         "last name": "Akers",
         "street #": "116",
@@ -144,7 +145,6 @@ export const med_meast = {
         sex: "male",
         "birth country": "Greece",
         race: "W",
-        "": "",
       },
     },
     {
@@ -154,6 +154,7 @@ export const med_meast = {
         coordinates: [-84.3906829, 33.7551057],
       },
       properties: {
+        id: "7e0fe011",
         "first name": "D",
         "last name": "Allesbut",
         "street #": "36",
@@ -162,7 +163,6 @@ export const med_meast = {
         sex: "female",
         "birth country": "Greece",
         race: "W",
-        "": "",
       },
     },
     {
@@ -172,6 +172,7 @@ export const med_meast = {
         coordinates: [-84.3909187, 33.7546155],
       },
       properties: {
+        id: "f77e0388",
         "first name": "Peter",
         "last name": "Barbour",
         "street #": "16 1/2",
@@ -180,7 +181,6 @@ export const med_meast = {
         sex: "male",
         "birth country": "Greece",
         race: "W",
-        "": "",
       },
     },
     {
@@ -190,6 +190,7 @@ export const med_meast = {
         coordinates: [-84.3906829, 33.7551057],
       },
       properties: {
+        id: "e961718e",
         "first name": "Peter",
         "last name": "Brown",
         "street #": "36",
@@ -198,7 +199,6 @@ export const med_meast = {
         sex: "male",
         "birth country": "Greece",
         race: "W",
-        "": "",
       },
     },
     {
@@ -208,6 +208,7 @@ export const med_meast = {
         coordinates: [-84.3958166, 33.7611399],
       },
       properties: {
+        id: "bf53161e",
         "first name": "James",
         "last name": "Brown",
         "street #": "310",
@@ -216,7 +217,6 @@ export const med_meast = {
         sex: "male",
         "birth country": "Greece",
         race: "W",
-        "": "",
       },
     },
     {
@@ -226,6 +226,7 @@ export const med_meast = {
         coordinates: [-84.3995756, 33.7492712],
       },
       properties: {
+        id: "0f0c1a5e",
         "first name": "J",
         "last name": "Brown",
         "street #": "115",
@@ -234,7 +235,6 @@ export const med_meast = {
         sex: "male",
         "birth country": "Greece",
         race: "W",
-        "": "",
       },
     },
     {
@@ -244,6 +244,7 @@ export const med_meast = {
         coordinates: [-84.3910797, 33.7544549],
       },
       properties: {
+        id: "fbe63071",
         "first name": "George",
         "last name": "Caralee",
         "street #": "12 1/2",
@@ -252,7 +253,6 @@ export const med_meast = {
         sex: "male",
         "birth country": "Greece",
         race: "W",
-        "": "",
       },
     },
     {
@@ -262,6 +262,7 @@ export const med_meast = {
         coordinates: [-84.3909187, 33.7546155],
       },
       properties: {
+        id: "e1c89a41",
         "first name": "Pano",
         "last name": "Caralee",
         "street #": "16 1/2",
@@ -270,7 +271,6 @@ export const med_meast = {
         sex: "male",
         "birth country": "Greece",
         race: "W",
-        "": "",
       },
     },
     {
@@ -280,6 +280,7 @@ export const med_meast = {
         coordinates: [-84.3937976, 33.7499579],
       },
       properties: {
+        id: "af6835b9",
         "first name": "Alex",
         "last name": "Carter",
         "street #": "142 1/2",
@@ -288,7 +289,6 @@ export const med_meast = {
         sex: "male",
         "birth country": "Greece",
         race: "W",
-        "": "",
       },
     },
     {
@@ -298,6 +298,7 @@ export const med_meast = {
         coordinates: [-84.3937976, 33.7499579],
       },
       properties: {
+        id: "eb850a54",
         "first name": "Mary",
         "last name": "Carter",
         "street #": "142 1/2",
@@ -306,7 +307,6 @@ export const med_meast = {
         sex: "female",
         "birth country": "Greece",
         race: "W",
-        "": "",
       },
     },
     {
@@ -316,6 +316,7 @@ export const med_meast = {
         coordinates: [-84.3937976, 33.7499579],
       },
       properties: {
+        id: "01a4a041",
         "first name": "Alice",
         "last name": "Carter",
         "street #": "142 1/2",
@@ -324,7 +325,6 @@ export const med_meast = {
         sex: "female",
         "birth country": "Greece",
         race: "W",
-        "": "",
       },
     },
     {
@@ -334,6 +334,7 @@ export const med_meast = {
         coordinates: [-84.3910939, 33.7532675],
       },
       properties: {
+        id: "2fceb617",
         "first name": "Christ",
         "last name": "Cochakos",
         "street #": "16 1/2",
@@ -342,7 +343,6 @@ export const med_meast = {
         sex: "male",
         "birth country": "Greece",
         race: "W",
-        "": "",
       },
     },
     {
@@ -352,6 +352,7 @@ export const med_meast = {
         coordinates: [-84.3978585, 33.7493761],
       },
       properties: {
+        id: "8b51d618",
         "first name": "Mrs K",
         "last name": "Constantine",
         "street #": "156",
@@ -360,7 +361,6 @@ export const med_meast = {
         sex: "female",
         "birth country": "Greece",
         race: "W",
-        "": "",
       },
     },
     {
@@ -370,6 +370,7 @@ export const med_meast = {
         coordinates: [-84.3978585, 33.7493761],
       },
       properties: {
+        id: "a5491a74",
         "first name": "K",
         "last name": "Constantine",
         "street #": "156",
@@ -378,7 +379,6 @@ export const med_meast = {
         sex: "male",
         "birth country": "Greece",
         race: "W",
-        "": "",
       },
     },
     {
@@ -388,6 +388,7 @@ export const med_meast = {
         coordinates: [-84.3910797, 33.7544549],
       },
       properties: {
+        id: "6d834a8a",
         "first name": "B",
         "last name": "Constantine",
         "street #": "12 1/2",
@@ -396,7 +397,6 @@ export const med_meast = {
         sex: "male",
         "birth country": "Greece",
         race: "W",
-        "": "",
       },
     },
     {
@@ -406,6 +406,7 @@ export const med_meast = {
         coordinates: [-84.3897585, 33.750968],
       },
       properties: {
+        id: "a8935824",
         "first name": "Jim",
         "last name": "Fort",
         "street #": "72",
@@ -414,7 +415,6 @@ export const med_meast = {
         sex: "male",
         "birth country": "Greece",
         race: "W",
-        "": "",
       },
     },
     {
@@ -424,6 +424,7 @@ export const med_meast = {
         coordinates: [-84.3995756, 33.7492712],
       },
       properties: {
+        id: "c1e6b915",
         "first name": "T",
         "last name": "Frank",
         "street #": "115",
@@ -432,7 +433,6 @@ export const med_meast = {
         sex: "male",
         "birth country": "Greece",
         race: "W",
-        "": "",
       },
     },
     {
@@ -442,6 +442,7 @@ export const med_meast = {
         coordinates: [-84.386528, 33.7544141],
       },
       properties: {
+        id: "60fc8a7e",
         "first name": "Jean",
         "last name": "Gickos",
         "street #": "",
@@ -450,7 +451,6 @@ export const med_meast = {
         sex: "male",
         "birth country": "Greece",
         race: "W",
-        "": "",
       },
     },
     {
@@ -460,6 +460,7 @@ export const med_meast = {
         coordinates: [-84.386528, 33.7544141],
       },
       properties: {
+        id: "21c0a1b1",
         "first name": "Geo",
         "last name": "Gickos",
         "street #": "",
@@ -468,7 +469,6 @@ export const med_meast = {
         sex: "male",
         "birth country": "Greece",
         race: "W",
-        "": "",
       },
     },
     {
@@ -478,6 +478,7 @@ export const med_meast = {
         coordinates: [-84.3900392, 33.7545258],
       },
       properties: {
+        id: "0d7cf50e",
         "first name": "D",
         "last name": "Handelis",
         "street #": "6",
@@ -486,7 +487,6 @@ export const med_meast = {
         sex: "male",
         "birth country": "Greece",
         race: "W",
-        "": "",
       },
     },
     {
@@ -496,6 +496,7 @@ export const med_meast = {
         coordinates: [-84.3900392, 33.7545258],
       },
       properties: {
+        id: "bc9e6190",
         "first name": "John",
         "last name": "Handelis",
         "street #": "6",
@@ -504,7 +505,6 @@ export const med_meast = {
         sex: "male",
         "birth country": "Greece",
         race: "W",
-        "": "",
       },
     },
     {
@@ -514,6 +514,7 @@ export const med_meast = {
         coordinates: [-84.394334, 33.74928],
       },
       properties: {
+        id: "93d8cfdd",
         "first name": "Chas Nic",
         "last name": "Kake",
         "street #": "161 1/2",
@@ -522,7 +523,6 @@ export const med_meast = {
         sex: "male",
         "birth country": "Greece",
         race: "W",
-        "": "",
       },
     },
     {
@@ -532,6 +532,7 @@ export const med_meast = {
         coordinates: [-84.3910939, 33.7532675],
       },
       properties: {
+        id: "86d1b1b1",
         "first name": "Nic",
         "last name": "Kutres",
         "street #": "16 1/2",
@@ -540,7 +541,6 @@ export const med_meast = {
         sex: "male",
         "birth country": "Greece",
         race: "W",
-        "": "",
       },
     },
     {
@@ -550,6 +550,7 @@ export const med_meast = {
         coordinates: [-84.3958166, 33.7611399],
       },
       properties: {
+        id: "006089df",
         "first name": "Chas",
         "last name": "Mitchell",
         "street #": "310",
@@ -558,7 +559,6 @@ export const med_meast = {
         sex: "male",
         "birth country": "Greece",
         race: "W",
-        "": "",
       },
     },
     {
@@ -568,6 +568,7 @@ export const med_meast = {
         coordinates: [-84.3941875, 33.7515941],
       },
       properties: {
+        id: "de934c96",
         "first name": "John",
         "last name": "Moore",
         "street #": "33",
@@ -576,7 +577,6 @@ export const med_meast = {
         sex: "male",
         "birth country": "Greece",
         race: "W",
-        "": "Georgeson: first Greek Atlantan to naturalize (under name V. Foufas)",
       },
     },
     {
@@ -586,6 +586,7 @@ export const med_meast = {
         coordinates: [-84.3941875, 33.7515941],
       },
       properties: {
+        id: "0ab87e48",
         "first name": "Nick",
         "last name": "Moore",
         "street #": "33",
@@ -594,7 +595,6 @@ export const med_meast = {
         sex: "male",
         "birth country": "Greece",
         race: "W",
-        "": "",
       },
     },
     {
@@ -604,6 +604,7 @@ export const med_meast = {
         coordinates: [-84.3939767, 33.7583971],
       },
       properties: {
+        id: "1a4a0ea9",
         "first name": "Geo",
         "last name": "Mavroodes",
         "street #": "154",
@@ -612,7 +613,6 @@ export const med_meast = {
         sex: "male",
         "birth country": "Greece",
         race: "W",
-        "": "1896cen spelled Mooroodis; 1900cen b Isle of Patmos, Turkey",
       },
     },
     {
@@ -622,6 +622,7 @@ export const med_meast = {
         coordinates: [-84.3910939, 33.7532675],
       },
       properties: {
+        id: "ce35ee2d",
         "first name": "Vacell",
         "last name": "Petropol",
         "street #": "16 1/2",
@@ -630,7 +631,6 @@ export const med_meast = {
         sex: "male",
         "birth country": "Greece",
         race: "W",
-        "": "",
       },
     },
     {
@@ -640,6 +640,7 @@ export const med_meast = {
         coordinates: [-84.3910939, 33.7532675],
       },
       properties: {
+        id: "6ea6dd33",
         "first name": "Peter",
         "last name": "Petropol",
         "street #": "16 1/2",
@@ -648,7 +649,6 @@ export const med_meast = {
         sex: "male",
         "birth country": "Greece",
         race: "W",
-        "": "",
       },
     },
     {
@@ -658,6 +658,7 @@ export const med_meast = {
         coordinates: [-84.3986261, 33.7500116],
       },
       properties: {
+        id: "fe932221",
         "first name": "Nicholas",
         "last name": "Solon",
         "street #": "83",
@@ -666,7 +667,6 @@ export const med_meast = {
         sex: "male",
         "birth country": "Greece",
         race: "W",
-        "": "",
       },
     },
     {
@@ -676,6 +676,7 @@ export const med_meast = {
         coordinates: [-84.3986261, 33.7500116],
       },
       properties: {
+        id: "24212c71",
         "first name": "George",
         "last name": "Solon",
         "street #": "83",
@@ -684,7 +685,6 @@ export const med_meast = {
         sex: "male",
         "birth country": "Greece",
         race: "W",
-        "": "",
       },
     },
     {
@@ -694,6 +694,7 @@ export const med_meast = {
         coordinates: [-84.3939767, 33.7583971],
       },
       properties: {
+        id: "74df644b",
         "first name": "Nicholas",
         "last name": "Spon",
         "street #": "154",
@@ -702,7 +703,6 @@ export const med_meast = {
         sex: "male",
         "birth country": "Greece",
         race: "W",
-        "": "",
       },
     },
     {
@@ -712,6 +712,7 @@ export const med_meast = {
         coordinates: [-84.3995, 33.7457205],
       },
       properties: {
+        id: "f440abe9",
         "first name": "P",
         "last name": "Tripose",
         "street #": "293",
@@ -720,7 +721,6 @@ export const med_meast = {
         sex: "male",
         "birth country": "Greece",
         race: "W",
-        "": "",
       },
     },
     {
@@ -730,6 +730,7 @@ export const med_meast = {
         coordinates: [-84.3995756, 33.7492712],
       },
       properties: {
+        id: "b0de2f72",
         "first name": "Jim",
         "last name": "Williams",
         "street #": "115",
@@ -738,7 +739,6 @@ export const med_meast = {
         sex: "male",
         "birth country": "Greece",
         race: "W",
-        "": "",
       },
     },
     {
@@ -748,6 +748,7 @@ export const med_meast = {
         coordinates: [-84.4144912, 33.7463099],
       },
       properties: {
+        id: "32dd58de",
         "first name": "[Sigismondo]",
         "last name": "Antonini",
         "street #": "17",
@@ -756,7 +757,6 @@ export const med_meast = {
         sex: "male",
         "birth country": "Italy",
         race: "W",
-        "": "1896cen: listed as Ligmard; 1900cen Mould Maker",
       },
     },
     {
@@ -766,6 +766,7 @@ export const med_meast = {
         coordinates: [-84.4144912, 33.7463099],
       },
       properties: {
+        id: "a4c0f728",
         "first name": "Mag",
         "last name": "Antonini",
         "street #": "17",
@@ -774,7 +775,6 @@ export const med_meast = {
         sex: "female",
         "birth country": "Italy",
         race: "W",
-        "": "1900&1910 cen: b Ireland?",
       },
     },
     {
@@ -784,6 +784,7 @@ export const med_meast = {
         coordinates: [-84.3926172, 33.7370226],
       },
       properties: {
+        id: "e31aacd5",
         "first name": "V[inson]",
         "last name": "Cefalu",
         "street #": "304",
@@ -792,7 +793,6 @@ export const med_meast = {
         sex: "male",
         "birth country": "Italy",
         race: "W",
-        "": "1900: Vinson -- son Samuel -- https://dlg.usg.edu/record/gsu_atlanta_12?canvas=0&x=2444&y=2103&w=4158",
       },
     },
     {
@@ -802,6 +802,7 @@ export const med_meast = {
         coordinates: [-84.3926172, 33.7370226],
       },
       properties: {
+        id: "6532c626",
         "first name": "F[rances]",
         "last name": "Cefalu",
         "street #": "304",
@@ -810,7 +811,6 @@ export const med_meast = {
         sex: "female",
         "birth country": "Italy",
         race: "W",
-        "": "1900 census: Frances, they have 9 children b LA, AL, GA",
       },
     },
     {
@@ -820,6 +820,7 @@ export const med_meast = {
         coordinates: [-84.3926172, 33.7366389],
       },
       properties: {
+        id: "7f0181cb",
         "first name": "T[oney]",
         "last name": "Cefalu",
         "street #": "306",
@@ -828,7 +829,6 @@ export const med_meast = {
         sex: "male",
         "birth country": "Italy",
         race: "W",
-        "": '1896cen: listed as T Ceflee, "Europe"; 1897 CD grocer w/Cernigilia',
       },
     },
     {
@@ -838,6 +838,7 @@ export const med_meast = {
         coordinates: [-84.3926172, 33.7366389],
       },
       properties: {
+        id: "63c70499",
         "first name": "Mrs. T [Catherine]",
         "last name": "Cefalu",
         "street #": "306",
@@ -846,7 +847,6 @@ export const med_meast = {
         sex: "female",
         "birth country": "Italy",
         race: "W",
-        "": '1896cen: listed as Mrs T Ceflee, "Europe"',
       },
     },
     {
@@ -856,6 +856,7 @@ export const med_meast = {
         coordinates: [-84.3919219, 33.7431843],
       },
       properties: {
+        id: "6a778cd4",
         "first name": "[Joe]",
         "last name": "Cerniglia",
         "street #": "16",
@@ -864,7 +865,6 @@ export const med_meast = {
         sex: "male",
         "birth country": "Italy",
         race: "W",
-        "": "listed as Poe in 1896cen",
       },
     },
     {
@@ -874,6 +874,7 @@ export const med_meast = {
         coordinates: [-84.3919219, 33.7431843],
       },
       properties: {
+        id: "be7edd37",
         "first name": "S",
         "last name": "Cerniglia",
         "street #": "16",
@@ -882,7 +883,6 @@ export const med_meast = {
         sex: "female",
         "birth country": "Italy",
         race: "W",
-        "": "",
       },
     },
     {
@@ -892,6 +892,7 @@ export const med_meast = {
         coordinates: [-84.4033178, 33.7600286],
       },
       properties: {
+        id: "e5a6f37a",
         "first name": "F[rank] C",
         "last name": "Christiphine",
         "street #": "12",
@@ -900,7 +901,6 @@ export const med_meast = {
         sex: "male",
         "birth country": "Italy",
         race: "W",
-        "": "1900cen policeman",
       },
     },
     {
@@ -910,6 +910,7 @@ export const med_meast = {
         coordinates: [-84.3892556, 33.7575898],
       },
       properties: {
+        id: "50aa643a",
         "first name": "J",
         "last name": "Cianciola",
         "street #": "63",
@@ -918,7 +919,6 @@ export const med_meast = {
         sex: "male",
         "birth country": "Italy",
         race: "W",
-        "": "",
       },
     },
     {
@@ -928,6 +928,7 @@ export const med_meast = {
         coordinates: [-84.3892556, 33.7575898],
       },
       properties: {
+        id: "81334826",
         "first name": "Mrs",
         "last name": "Cianciola",
         "street #": "63",
@@ -936,7 +937,6 @@ export const med_meast = {
         sex: "female",
         "birth country": "Italy",
         race: "W",
-        "": "",
       },
     },
     {
@@ -946,6 +946,7 @@ export const med_meast = {
         coordinates: [-84.3892556, 33.7575898],
       },
       properties: {
+        id: "5aaff985",
         "first name": "F",
         "last name": "Cianciola",
         "street #": "63",
@@ -954,7 +955,6 @@ export const med_meast = {
         sex: "male",
         "birth country": "Italy",
         race: "W",
-        "": "",
       },
     },
     {
@@ -964,6 +964,7 @@ export const med_meast = {
         coordinates: [-84.3997013, 33.7612194],
       },
       properties: {
+        id: "ac083a45",
         "first name": "A",
         "last name": "Combrivi",
         "street #": "334",
@@ -972,7 +973,6 @@ export const med_meast = {
         sex: "female",
         "birth country": "Italy",
         race: "W",
-        "": "",
       },
     },
     {
@@ -982,6 +982,7 @@ export const med_meast = {
         coordinates: [-84.3997013, 33.7612194],
       },
       properties: {
+        id: "f6f27eb2",
         "first name": "O",
         "last name": "Combrivi",
         "street #": "334",
@@ -990,7 +991,6 @@ export const med_meast = {
         sex: "female",
         "birth country": "Italy",
         race: "W",
-        "": "",
       },
     },
     {
@@ -1000,6 +1000,7 @@ export const med_meast = {
         coordinates: [-84.3918669, 33.7609897],
       },
       properties: {
+        id: "cbaa75a0",
         "first name": "Joan",
         "last name": "Daconte",
         "street #": "83",
@@ -1008,7 +1009,6 @@ export const med_meast = {
         sex: "male",
         "birth country": "Italy",
         race: "W",
-        "": "",
       },
     },
     {
@@ -1018,6 +1018,7 @@ export const med_meast = {
         coordinates: [-84.3951121, 33.7584833],
       },
       properties: {
+        id: "a59eb709",
         "first name": "Malinda",
         "last name": "Deep",
         "street #": "57",
@@ -1026,7 +1027,6 @@ export const med_meast = {
         sex: "female",
         "birth country": "Italy",
         race: "W",
-        "": "",
       },
     },
     {
@@ -1036,6 +1036,7 @@ export const med_meast = {
         coordinates: [-84.3908932, 33.7565068],
       },
       properties: {
+        id: "8b231638",
         "first name": "Anna",
         "last name": "Deriva",
         "street #": "46",
@@ -1044,7 +1045,6 @@ export const med_meast = {
         sex: "female",
         "birth country": "Italy",
         race: "W",
-        "": "",
       },
     },
     {
@@ -1054,6 +1054,7 @@ export const med_meast = {
         coordinates: [-84.3871189, 33.7527594],
       },
       properties: {
+        id: "ce2c8a69",
         "first name": "A",
         "last name": "Florence",
         "street #": "79",
@@ -1062,7 +1063,6 @@ export const med_meast = {
         sex: "male",
         "birth country": "Italy",
         race: "W",
-        "": "",
       },
     },
     {
@@ -1072,6 +1072,7 @@ export const med_meast = {
         coordinates: [-84.3992783, 33.7538376],
       },
       properties: {
+        id: "b2378b18",
         "first name": "Mary",
         "last name": "Fugazzi",
         "street #": "144",
@@ -1080,7 +1081,6 @@ export const med_meast = {
         sex: "female",
         "birth country": "Italy",
         race: "W",
-        "": "",
       },
     },
     {
@@ -1090,6 +1090,7 @@ export const med_meast = {
         coordinates: [-84.3992783, 33.7538376],
       },
       properties: {
+        id: "f5a92e85",
         "first name": "A[ngelo]",
         "last name": "Fugazzi",
         "street #": "144",
@@ -1098,7 +1099,6 @@ export const med_meast = {
         sex: "male",
         "birth country": "Italy",
         race: "W",
-        "": "fruit dealer 1897cd",
       },
     },
     {
@@ -1108,6 +1108,7 @@ export const med_meast = {
         coordinates: [-84.3888962, 33.7578218],
       },
       properties: {
+        id: "0dc006db",
         "first name": "Emilio",
         "last name": "Gavelerie",
         "street #": "68",
@@ -1116,7 +1117,6 @@ export const med_meast = {
         sex: "male",
         "birth country": "Italy",
         race: "W",
-        "": "",
       },
     },
     {
@@ -1126,6 +1126,7 @@ export const med_meast = {
         coordinates: [-84.3866944, 33.7469128],
       },
       properties: {
+        id: "adfed62a",
         "first name": "D",
         "last name": "Gussi",
         "street #": "227",
@@ -1134,7 +1135,6 @@ export const med_meast = {
         sex: "male",
         "birth country": "Italy",
         race: "W",
-        "": "",
       },
     },
     {
@@ -1144,6 +1144,7 @@ export const med_meast = {
         coordinates: [-84.3868737, 33.7555764],
       },
       properties: {
+        id: "58a21b04",
         "first name": "Mrs",
         "last name": "Hentchiel",
         "street #": "37",
@@ -1152,7 +1153,6 @@ export const med_meast = {
         sex: "female",
         "birth country": "Italy",
         race: "W",
-        "": "Elise? Husband Paul, b.Germany? 1900cen she is bNY",
       },
     },
     {
@@ -1162,6 +1162,7 @@ export const med_meast = {
         coordinates: [-84.3893364, 33.7591383],
       },
       properties: {
+        id: "91ce0b81",
         "first name": "Jno",
         "last name": "Logarnursino",
         "street #": "49",
@@ -1170,7 +1171,6 @@ export const med_meast = {
         sex: "male",
         "birth country": "Italy",
         race: "W",
-        "": "",
       },
     },
     {
@@ -1180,6 +1180,7 @@ export const med_meast = {
         coordinates: [-84.3893364, 33.7591383],
       },
       properties: {
+        id: "08e0f41f",
         "first name": "Mrs",
         "last name": "Logarnursino",
         "street #": "49",
@@ -1188,7 +1189,6 @@ export const med_meast = {
         sex: "female",
         "birth country": "Italy",
         race: "W",
-        "": "",
       },
     },
     {
@@ -1198,6 +1198,7 @@ export const med_meast = {
         coordinates: [-84.3933292, 33.7511079],
       },
       properties: {
+        id: "399fa272",
         "first name": "E",
         "last name": "Miller",
         "street #": "9",
@@ -1206,7 +1207,6 @@ export const med_meast = {
         sex: "male",
         "birth country": "Italy",
         race: "W",
-        "": "",
       },
     },
     {
@@ -1216,6 +1216,7 @@ export const med_meast = {
         coordinates: [-84.3954859, 33.773745],
       },
       properties: {
+        id: "d590a9e7",
         "first name": "C",
         "last name": "Neri",
         "street #": "26",
@@ -1224,7 +1225,6 @@ export const med_meast = {
         sex: "male",
         "birth country": "Italy",
         race: "W",
-        "": "",
       },
     },
     {
@@ -1234,6 +1234,7 @@ export const med_meast = {
         coordinates: [-84.4018377, 33.741848],
       },
       properties: {
+        id: "3dee13f9",
         "first name": "P",
         "last name": "Pellegrini",
         "street #": "75",
@@ -1242,7 +1243,6 @@ export const med_meast = {
         sex: "male",
         "birth country": "Italy",
         race: "W",
-        "": "",
       },
     },
     {
@@ -1252,6 +1252,7 @@ export const med_meast = {
         coordinates: [-84.4018377, 33.741848],
       },
       properties: {
+        id: "665b4b9a",
         "first name": "N",
         "last name": "Pellegrini",
         "street #": "75",
@@ -1260,7 +1261,6 @@ export const med_meast = {
         sex: "male",
         "birth country": "Italy",
         race: "W",
-        "": "",
       },
     },
     {
@@ -1270,6 +1270,7 @@ export const med_meast = {
         coordinates: [-84.3951121, 33.7584833],
       },
       properties: {
+        id: "bb186eb5",
         "first name": "Joseph",
         "last name": "Plumb",
         "street #": "57",
@@ -1278,7 +1279,6 @@ export const med_meast = {
         sex: "male",
         "birth country": "Italy",
         race: "W",
-        "": "",
       },
     },
     {
@@ -1288,6 +1288,7 @@ export const med_meast = {
         coordinates: [-84.3951121, 33.7584833],
       },
       properties: {
+        id: "d885b518",
         "first name": "Mary",
         "last name": "Plumb",
         "street #": "57",
@@ -1296,7 +1297,6 @@ export const med_meast = {
         sex: "female",
         "birth country": "Italy",
         race: "W",
-        "": "",
       },
     },
     {
@@ -1306,6 +1306,7 @@ export const med_meast = {
         coordinates: [-84.3892556, 33.7575898],
       },
       properties: {
+        id: "2d43a672",
         "first name": "Frank",
         "last name": "Postero",
         "street #": "63",
@@ -1314,7 +1315,6 @@ export const med_meast = {
         sex: "male",
         "birth country": "Italy",
         race: "W",
-        "": "",
       },
     },
     {
@@ -1324,6 +1324,7 @@ export const med_meast = {
         coordinates: [-84.384125, 33.7804591],
       },
       properties: {
+        id: "375de9fb",
         "first name": "Sig",
         "last name": "Randagger",
         "street #": "916",
@@ -1332,7 +1333,6 @@ export const med_meast = {
         sex: "male",
         "birth country": "Italy",
         race: "W",
-        "": "",
       },
     },
     {
@@ -1342,6 +1342,7 @@ export const med_meast = {
         coordinates: [-84.4143518, 33.745953],
       },
       properties: {
+        id: "740e7455",
         "first name": "B[artholomew]",
         "last name": "Rozetta",
         "street #": "25",
@@ -1350,7 +1351,6 @@ export const med_meast = {
         sex: "male",
         "birth country": "Italy",
         race: "W",
-        "": "",
       },
     },
     {
@@ -1360,6 +1360,7 @@ export const med_meast = {
         coordinates: [-84.4143518, 33.745953],
       },
       properties: {
+        id: "7324797a",
         "first name": "Mrs. [Angeline]",
         "last name": "Rozetta",
         "street #": "25",
@@ -1368,7 +1369,6 @@ export const med_meast = {
         sex: "female",
         "birth country": "Italy",
         race: "W",
-        "": "",
       },
     },
     {
@@ -1378,6 +1378,7 @@ export const med_meast = {
         coordinates: [-84.3922182, 33.7578047],
       },
       properties: {
+        id: "6fa2f843",
         "first name": "Jos",
         "last name": "Scarpati",
         "street #": "99",
@@ -1386,7 +1387,6 @@ export const med_meast = {
         sex: "male",
         "birth country": "Italy",
         race: "W",
-        "": "",
       },
     },
     {
@@ -1396,6 +1396,7 @@ export const med_meast = {
         coordinates: [-84.3903802, 33.7521263],
       },
       properties: {
+        id: "01e6c04b",
         "first name": "Phillys",
         "last name": "Simon",
         "street #": "27",
@@ -1404,7 +1405,6 @@ export const med_meast = {
         sex: "male",
         "birth country": "Italy",
         race: "W",
-        "": "",
       },
     },
     {
@@ -1414,6 +1414,7 @@ export const med_meast = {
         coordinates: [-84.3903802, 33.7521263],
       },
       properties: {
+        id: "078bf006",
         "first name": "Mary",
         "last name": "Simon",
         "street #": "27",
@@ -1422,7 +1423,6 @@ export const med_meast = {
         sex: "female",
         "birth country": "Italy",
         race: "W",
-        "": "",
       },
     },
     {
@@ -1432,6 +1432,7 @@ export const med_meast = {
         coordinates: [-84.3903802, 33.7521263],
       },
       properties: {
+        id: "eab6ea12",
         "first name": "Fred",
         "last name": "Simon",
         "street #": "27",
@@ -1440,7 +1441,6 @@ export const med_meast = {
         sex: "male",
         "birth country": "Italy",
         race: "W",
-        "": "",
       },
     },
     {
@@ -1450,6 +1450,7 @@ export const med_meast = {
         coordinates: [-84.3903802, 33.7521263],
       },
       properties: {
+        id: "527e9f19",
         "first name": "Lucy",
         "last name": "Simon",
         "street #": "27",
@@ -1458,7 +1459,6 @@ export const med_meast = {
         sex: "female",
         "birth country": "Italy",
         race: "W",
-        "": "",
       },
     },
     {
@@ -1468,6 +1468,7 @@ export const med_meast = {
         coordinates: [-84.3927764, 33.7596979],
       },
       properties: {
+        id: "76112b9f",
         "first name": "A",
         "last name": "Tayler",
         "street #": "125",
@@ -1476,7 +1477,6 @@ export const med_meast = {
         sex: "male",
         "birth country": '"Scythia"',
         race: "W",
-        "": "no record",
       },
     },
     {
@@ -1486,6 +1486,7 @@ export const med_meast = {
         coordinates: [-84.3899182, 33.7481666],
       },
       properties: {
+        id: "4d2e6c8f",
         "first name": "Gabriel",
         "last name": "Camps",
         "street #": "81",
@@ -1494,7 +1495,6 @@ export const med_meast = {
         sex: "male",
         "birth country": "Spain",
         race: "W",
-        "": "",
       },
     },
     {
@@ -1504,6 +1504,7 @@ export const med_meast = {
         coordinates: [-84.3815565, 33.7454813],
       },
       properties: {
+        id: "f36fb326",
         "first name": "M[ark] P",
         "last name": "Galceran",
         "street #": "29",
@@ -1512,7 +1513,6 @@ export const med_meast = {
         sex: "male",
         "birth country": "Spain",
         race: "W",
-        "": "1900 Census: Mark, m Martha b GA, he's a florist",
       },
     },
     {
@@ -1522,6 +1522,7 @@ export const med_meast = {
         coordinates: [-84.3899182, 33.7481666],
       },
       properties: {
+        id: "4ae458a5",
         "first name": "Josepa",
         "last name": "Perez",
         "street #": "81",
@@ -1530,7 +1531,6 @@ export const med_meast = {
         sex: "female",
         "birth country": "Spain",
         race: "W",
-        "": "",
       },
     },
     {
@@ -1540,6 +1540,7 @@ export const med_meast = {
         coordinates: [-84.3866361, 33.7524115],
       },
       properties: {
+        id: "e985536c",
         "first name": "Geo",
         "last name": "Zachen",
         "street #": "105",
@@ -1548,7 +1549,6 @@ export const med_meast = {
         sex: "male",
         "birth country": "Syria",
         race: "W",
-        "": "1897 CD: dry goods @ 105 Decatur",
       },
     },
     {
@@ -1558,6 +1558,7 @@ export const med_meast = {
         coordinates: [-84.3866361, 33.7524115],
       },
       properties: {
+        id: "c4b57561",
         "first name": "Martha",
         "last name": "Zachen",
         "street #": "105",
@@ -1566,7 +1567,6 @@ export const med_meast = {
         sex: "female",
         "birth country": "Syria",
         race: "W",
-        "": "",
       },
     },
     {
@@ -1576,6 +1576,7 @@ export const med_meast = {
         coordinates: [-84.3974957, 33.7662641],
       },
       properties: {
+        id: "a86d5825",
         "first name": "Kaleal",
         "last name": "Bashburn",
         "street #": "507",
@@ -1584,7 +1585,6 @@ export const med_meast = {
         sex: "male",
         "birth country": "Turkey",
         race: "W",
-        "": "",
       },
     },
     {
@@ -1594,6 +1594,7 @@ export const med_meast = {
         coordinates: [-84.3974957, 33.7662641],
       },
       properties: {
+        id: "93c231c2",
         "first name": "Mary",
         "last name": "Bashburn",
         "street #": "507",
@@ -1602,7 +1603,6 @@ export const med_meast = {
         sex: "female",
         "birth country": "Turkey",
         race: "W",
-        "": "",
       },
     },
     {
@@ -1612,6 +1612,7 @@ export const med_meast = {
         coordinates: [-84.3974957, 33.7662641],
       },
       properties: {
+        id: "a9cfb8dc",
         "first name": "Chas",
         "last name": "Bashburn",
         "street #": "507",
@@ -1620,7 +1621,6 @@ export const med_meast = {
         sex: "male",
         "birth country": "Turkey",
         race: "W",
-        "": "",
       },
     },
     {
@@ -1630,6 +1630,7 @@ export const med_meast = {
         coordinates: [-84.3974957, 33.7662641],
       },
       properties: {
+        id: "5b8db69e",
         "first name": "Jacob",
         "last name": "Bashburn",
         "street #": "507",
@@ -1638,7 +1639,6 @@ export const med_meast = {
         sex: "male",
         "birth country": "Turkey",
         race: "W",
-        "": "",
       },
     },
     {
@@ -1648,6 +1648,7 @@ export const med_meast = {
         coordinates: [-84.3866146, 33.7523847],
       },
       properties: {
+        id: "33cee396",
         "first name": "Geo",
         "last name": "Dahar",
         "street #": "106",
@@ -1656,7 +1657,6 @@ export const med_meast = {
         sex: "male",
         "birth country": "Turkey",
         race: "W",
-        "": "AJ naturalized as citizen 1896",
       },
     },
     {
@@ -1666,6 +1666,7 @@ export const med_meast = {
         coordinates: [-84.3862301, 33.7525817],
       },
       properties: {
+        id: "47d46e3c",
         "first name": "I",
         "last name": "Jacobs",
         "street #": "32",
@@ -1674,7 +1675,6 @@ export const med_meast = {
         sex: "male",
         "birth country": "Turkey",
         race: "W",
-        "": "",
       },
     },
     {
@@ -1684,6 +1684,7 @@ export const med_meast = {
         coordinates: [-84.3862301, 33.7525817],
       },
       properties: {
+        id: "2b07a5fa",
         "first name": "A",
         "last name": "Jacobs",
         "street #": "32",
@@ -1692,7 +1693,6 @@ export const med_meast = {
         sex: "female",
         "birth country": "Turkey",
         race: "W",
-        "": "",
       },
     },
     {
@@ -1702,6 +1702,7 @@ export const med_meast = {
         coordinates: [-84.3935723, 33.7502523],
       },
       properties: {
+        id: "94b34121",
         "first name": "Victor",
         "last name": "Kemps",
         "street #": "132",
@@ -1710,7 +1711,6 @@ export const med_meast = {
         sex: "male",
         "birth country": "Turkey",
         race: "W",
-        "": "",
       },
     },
   ],

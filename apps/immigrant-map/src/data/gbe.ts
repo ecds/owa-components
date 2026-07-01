@@ -10,6 +10,7 @@ export const gbe = {
         coordinates: [-84.4003958, 33.7452923],
       },
       properties: {
+        id: "f8c514db",
         "first name": "E[lizabeth]",
         "last name": "Clark",
         "street #": "328",
@@ -18,7 +19,6 @@ export const gbe = {
         sex: "female",
         "birth country": "Australia",
         race: "W",
-        "": "widow of Morris, sister in law of Saul Clark bGermany",
       },
     },
     {
@@ -28,6 +28,7 @@ export const gbe = {
         coordinates: [-84.3706756, 33.754286],
       },
       properties: {
+        id: "699dd9c2",
         "first name": "EB",
         "last name": "Rololi",
         "street #": "416",
@@ -36,7 +37,6 @@ export const gbe = {
         sex: "female",
         "birth country": "Australia",
         race: "W",
-        "": "",
       },
     },
     {
@@ -46,6 +46,7 @@ export const gbe = {
         coordinates: [-84.3889609, 33.7678315],
       },
       properties: {
+        id: "86184891",
         "first name": "H[arriet] A",
         "last name": "McLellan",
         "street #": "330",
@@ -54,7 +55,6 @@ export const gbe = {
         sex: "female",
         "birth country": "Bermuda",
         race: "W",
-        "": "nee Tatem, family English, settled in colonial WI in 18thc",
       },
     },
     {
@@ -64,6 +64,7 @@ export const gbe = {
         coordinates: [-84.3804716, 33.7465298],
       },
       properties: {
+        id: "7d372ac5",
         "first name": "MA",
         "last name": "Adolphus",
         "street #": "111",
@@ -72,7 +73,6 @@ export const gbe = {
         sex: "female",
         "birth country": "Canada",
         race: "W",
-        "": "",
       },
     },
     {
@@ -82,6 +82,7 @@ export const gbe = {
         coordinates: [-84.3951367, 33.7653031],
       },
       properties: {
+        id: "37e9f5d5",
         "first name": "John",
         "last name": "Ahern",
         "street #": "158",
@@ -90,7 +91,6 @@ export const gbe = {
         sex: "male",
         "birth country": "Canada",
         race: "W",
-        "": "",
       },
     },
     {
@@ -100,6 +100,7 @@ export const gbe = {
         coordinates: [-84.3875797, 33.7597858],
       },
       properties: {
+        id: "afbcd181",
         "first name": "J",
         "last name": "Annis",
         "street #": "216",
@@ -108,7 +109,6 @@ export const gbe = {
         sex: "male",
         "birth country": "Canada",
         race: "W",
-        "": "",
       },
     },
     {
@@ -118,6 +118,7 @@ export const gbe = {
         coordinates: [-84.3875797, 33.7597858],
       },
       properties: {
+        id: "1a33e072",
         "first name": "CA",
         "last name": "Annis",
         "street #": "216",
@@ -126,7 +127,6 @@ export const gbe = {
         sex: "female",
         "birth country": "Canada",
         race: "W",
-        "": "",
       },
     },
     {
@@ -136,6 +136,7 @@ export const gbe = {
         coordinates: [-84.3890574, 33.7606025],
       },
       properties: {
+        id: "36d80861",
         "first name": "RH",
         "last name": "Ballard",
         "street #": "145",
@@ -144,7 +145,6 @@ export const gbe = {
         sex: "male",
         "birth country": "Canada",
         race: "W",
-        "": "",
       },
     },
     {
@@ -154,6 +154,7 @@ export const gbe = {
         coordinates: [-84.3931411, 33.7599833],
       },
       properties: {
+        id: "d906be28",
         "first name": "Eva",
         "last name": "Bates",
         "street #": "139",
@@ -162,7 +163,6 @@ export const gbe = {
         sex: "female",
         "birth country": "Canada",
         race: "W",
-        "": "",
       },
     },
     {
@@ -172,6 +172,7 @@ export const gbe = {
         coordinates: [-84.3998255, 33.7538242],
       },
       properties: {
+        id: "97ff3482",
         "first name": "WR",
         "last name": "Beauprie",
         "street #": "157",
@@ -180,7 +181,6 @@ export const gbe = {
         sex: "male",
         "birth country": "Canada",
         race: "W",
-        "": "",
       },
     },
     {
@@ -190,6 +190,7 @@ export const gbe = {
         coordinates: [-84.3870132, 33.7584285],
       },
       properties: {
+        id: "0a85f08a",
         "first name": "Edward G",
         "last name": "Bell",
         "street #": "25",
@@ -198,7 +199,6 @@ export const gbe = {
         sex: "male",
         "birth country": "Canada",
         race: "W",
-        "": "",
       },
     },
     {
@@ -208,6 +208,7 @@ export const gbe = {
         coordinates: [-84.3870132, 33.7584285],
       },
       properties: {
+        id: "18f62741",
         "first name": "Brenda",
         "last name": "Bell",
         "street #": "25",
@@ -216,7 +217,6 @@ export const gbe = {
         sex: "female",
         "birth country": "Canada",
         race: "W",
-        "": "",
       },
     },
     {
@@ -226,6 +226,7 @@ export const gbe = {
         coordinates: [-84.3870132, 33.7584285],
       },
       properties: {
+        id: "da6a5250",
         "first name": "Reginald",
         "last name": "Bell",
         "street #": "25",
@@ -234,7 +235,6 @@ export const gbe = {
         sex: "male",
         "birth country": "Canada",
         race: "W",
-        "": "",
       },
     },
     {
@@ -244,6 +244,7 @@ export const gbe = {
         coordinates: [-84.3853437, 33.760954],
       },
       properties: {
+        id: "59848c0f",
         "first name": "EA",
         "last name": "Brown",
         "street #": "55",
@@ -252,7 +253,6 @@ export const gbe = {
         sex: "male",
         "birth country": "Canada",
         race: "W",
-        "": "",
       },
     },
     {
@@ -262,6 +262,7 @@ export const gbe = {
         coordinates: [-84.3853437, 33.760954],
       },
       properties: {
+        id: "5d4c72a7",
         "first name": "MM",
         "last name": "Brown",
         "street #": "55",
@@ -270,7 +271,6 @@ export const gbe = {
         sex: "female",
         "birth country": "Canada",
         race: "W",
-        "": "",
       },
     },
     {
@@ -280,6 +280,7 @@ export const gbe = {
         coordinates: [-84.3853437, 33.760954],
       },
       properties: {
+        id: "40db03ee",
         "first name": "BL",
         "last name": "Brown",
         "street #": "55",
@@ -288,7 +289,6 @@ export const gbe = {
         sex: "male",
         "birth country": "Canada",
         race: "W",
-        "": "",
       },
     },
     {
@@ -298,6 +298,7 @@ export const gbe = {
         coordinates: [-84.3853437, 33.760954],
       },
       properties: {
+        id: "bee466c0",
         "first name": "CL",
         "last name": "Brown",
         "street #": "55",
@@ -306,7 +307,6 @@ export const gbe = {
         sex: "male",
         "birth country": "Canada",
         race: "W",
-        "": "",
       },
     },
     {
@@ -316,6 +316,7 @@ export const gbe = {
         coordinates: [-84.3853437, 33.760954],
       },
       properties: {
+        id: "a055d5f9",
         "first name": "HE",
         "last name": "Brown",
         "street #": "55",
@@ -324,7 +325,6 @@ export const gbe = {
         sex: "male",
         "birth country": "Canada",
         race: "W",
-        "": "",
       },
     },
     {
@@ -334,6 +334,7 @@ export const gbe = {
         coordinates: [-84.3853437, 33.760954],
       },
       properties: {
+        id: "0f6d6751",
         "first name": "RC",
         "last name": "Brown",
         "street #": "55",
@@ -342,7 +343,6 @@ export const gbe = {
         sex: "male",
         "birth country": "Canada",
         race: "W",
-        "": "",
       },
     },
     {
@@ -352,6 +352,7 @@ export const gbe = {
         coordinates: [-84.3853437, 33.760954],
       },
       properties: {
+        id: "c7709999",
         "first name": "NL",
         "last name": "Brown",
         "street #": "55",
@@ -360,7 +361,6 @@ export const gbe = {
         sex: "female",
         "birth country": "Canada",
         race: "W",
-        "": "",
       },
     },
     {
@@ -370,6 +370,7 @@ export const gbe = {
         coordinates: [-84.3974835, 33.7504487],
       },
       properties: {
+        id: "70aafca2",
         "first name": "CS",
         "last name": "Calder",
         "street #": "44",
@@ -378,7 +379,6 @@ export const gbe = {
         sex: "male",
         "birth country": "Canada",
         race: "W",
-        "": "",
       },
     },
     {
@@ -388,6 +388,7 @@ export const gbe = {
         coordinates: [-84.3720863, 33.7592043],
       },
       properties: {
+        id: "74d47ba7",
         "first name": "HJ",
         "last name": "Campbell",
         "street #": "204",
@@ -396,7 +397,6 @@ export const gbe = {
         sex: "male",
         "birth country": "Canada",
         race: "W",
-        "": "",
       },
     },
     {
@@ -406,6 +406,7 @@ export const gbe = {
         coordinates: [-84.3719575, 33.7624153],
       },
       properties: {
+        id: "4398067e",
         "first name": "John",
         "last name": "Carey",
         "street #": "313",
@@ -414,7 +415,6 @@ export const gbe = {
         sex: "male",
         "birth country": "Canada",
         race: "W",
-        "": "",
       },
     },
     {
@@ -424,6 +424,7 @@ export const gbe = {
         coordinates: [-84.3961734, 33.7639235],
       },
       properties: {
+        id: "f55a4d64",
         "first name": "PC",
         "last name": "Cashman",
         "street #": "276",
@@ -432,7 +433,6 @@ export const gbe = {
         sex: "male",
         "birth country": "Canada",
         race: "W",
-        "": "",
       },
     },
     {
@@ -442,6 +442,7 @@ export const gbe = {
         coordinates: [-84.4007797, 33.7503591],
       },
       properties: {
+        id: "0af8e202",
         "first name": "R",
         "last name": "Castella",
         "street #": "28",
@@ -450,7 +451,6 @@ export const gbe = {
         sex: "female",
         "birth country": "Canada",
         race: "W",
-        "": "",
       },
     },
     {
@@ -460,6 +460,7 @@ export const gbe = {
         coordinates: [-84.3767164, 33.7652232],
       },
       properties: {
+        id: "9e8dfdec",
         "first name": "James",
         "last name": "Conliff",
         "street #": "386",
@@ -468,7 +469,6 @@ export const gbe = {
         sex: "male",
         "birth country": "Canada",
         race: "W",
-        "": "",
       },
     },
     {
@@ -478,6 +478,7 @@ export const gbe = {
         coordinates: [-84.3767164, 33.7652232],
       },
       properties: {
+        id: "2d120e95",
         "first name": "Robert",
         "last name": "Conliff",
         "street #": "386",
@@ -486,7 +487,6 @@ export const gbe = {
         sex: "male",
         "birth country": "Canada",
         race: "W",
-        "": "",
       },
     },
     {
@@ -496,6 +496,7 @@ export const gbe = {
         coordinates: [-84.403654, 33.7381339],
       },
       properties: {
+        id: "70203a93",
         "first name": "S",
         "last name": "Denman",
         "street #": "107",
@@ -504,7 +505,6 @@ export const gbe = {
         sex: "male",
         "birth country": "Canada",
         race: "W",
-        "": "",
       },
     },
     {
@@ -514,6 +514,7 @@ export const gbe = {
         coordinates: [-84.403654, 33.7381339],
       },
       properties: {
+        id: "b92cf145",
         "first name": "Mrs S",
         "last name": "Denman",
         "street #": "107",
@@ -522,7 +523,6 @@ export const gbe = {
         sex: "female",
         "birth country": "Canada",
         race: "W",
-        "": "",
       },
     },
     {
@@ -532,6 +532,7 @@ export const gbe = {
         coordinates: [-84.403654, 33.7381339],
       },
       properties: {
+        id: "2c512163",
         "first name": "Rawson",
         "last name": "Denman",
         "street #": "107",
@@ -540,7 +541,6 @@ export const gbe = {
         sex: "male",
         "birth country": "Canada",
         race: "W",
-        "": "",
       },
     },
     {
@@ -550,6 +550,7 @@ export const gbe = {
         coordinates: [-84.403654, 33.7381339],
       },
       properties: {
+        id: "87aa56a7",
         "first name": "Viola",
         "last name": "Denman",
         "street #": "107",
@@ -558,7 +559,6 @@ export const gbe = {
         sex: "female",
         "birth country": "Canada",
         race: "W",
-        "": "",
       },
     },
     {
@@ -568,6 +568,7 @@ export const gbe = {
         coordinates: [-84.403654, 33.7381339],
       },
       properties: {
+        id: "2bd95645",
         "first name": "M",
         "last name": "Denman",
         "street #": "107",
@@ -576,7 +577,6 @@ export const gbe = {
         sex: "female",
         "birth country": "Canada",
         race: "W",
-        "": "",
       },
     },
     {
@@ -586,6 +586,7 @@ export const gbe = {
         coordinates: [-84.3768738, 33.7585505],
       },
       properties: {
+        id: "214be216",
         "first name": "FL",
         "last name": "DeWandelar",
         "street #": "250",
@@ -594,7 +595,6 @@ export const gbe = {
         sex: "female",
         "birth country": "Canada",
         race: "W",
-        "": "",
       },
     },
     {
@@ -604,6 +604,7 @@ export const gbe = {
         coordinates: [-84.4002477, 33.7711069],
       },
       properties: {
+        id: "221687df",
         "first name": "L John",
         "last name": "Duncan",
         "street #": "669",
@@ -612,7 +613,6 @@ export const gbe = {
         sex: "female",
         "birth country": "Canada",
         race: "W",
-        "": "",
       },
     },
     {
@@ -622,6 +622,7 @@ export const gbe = {
         coordinates: [-84.3719575, 33.7627899],
       },
       properties: {
+        id: "9aee86fd",
         "first name": "AW",
         "last name": "Farlinger",
         "street #": "320",
@@ -630,7 +631,6 @@ export const gbe = {
         sex: "male",
         "birth country": "Canada",
         race: "W",
-        "": "",
       },
     },
     {
@@ -640,6 +640,7 @@ export const gbe = {
         coordinates: [-84.377851, 33.741839],
       },
       properties: {
+        id: "d3b4235a",
         "first name": "IL",
         "last name": "Farrell",
         "street #": "14",
@@ -648,7 +649,6 @@ export const gbe = {
         sex: "male",
         "birth country": "Canada",
         race: "W",
-        "": "",
       },
     },
     {
@@ -658,6 +658,7 @@ export const gbe = {
         coordinates: [-84.377851, 33.741839],
       },
       properties: {
+        id: "65a5a697",
         "first name": "C",
         "last name": "Farrell",
         "street #": "14",
@@ -666,7 +667,6 @@ export const gbe = {
         sex: "female",
         "birth country": "Canada",
         race: "W",
-        "": "",
       },
     },
     {
@@ -676,6 +676,7 @@ export const gbe = {
         coordinates: [-84.3667035, 33.7497015],
       },
       properties: {
+        id: "18008686",
         "first name": "CM",
         "last name": "Farrow",
         "street #": "15",
@@ -684,7 +685,6 @@ export const gbe = {
         sex: "female",
         "birth country": "Canada",
         race: "W",
-        "": "",
       },
     },
     {
@@ -694,6 +694,7 @@ export const gbe = {
         coordinates: [-84.3941178, 33.7515539],
       },
       properties: {
+        id: "7e445a40",
         "first name": "JR",
         "last name": "Finch",
         "street #": "32.5",
@@ -702,7 +703,6 @@ export const gbe = {
         sex: "male",
         "birth country": "Canada",
         race: "W",
-        "": "",
       },
     },
     {
@@ -712,6 +712,7 @@ export const gbe = {
         coordinates: [-84.3833868, 33.7555586],
       },
       properties: {
+        id: "cf54e4f4",
         "first name": "Mary",
         "last name": "Fitch",
         "street #": "126",
@@ -720,7 +721,6 @@ export const gbe = {
         sex: "female",
         "birth country": "Canada",
         race: "W",
-        "": "",
       },
     },
     {
@@ -730,6 +730,7 @@ export const gbe = {
         coordinates: [-84.3895651, 33.7537451],
       },
       properties: {
+        id: "040638d8",
         "first name": "Katie",
         "last name": "Gallavan",
         "street #": "",
@@ -738,7 +739,6 @@ export const gbe = {
         sex: "female",
         "birth country": "Canada",
         race: "W",
-        "": "",
       },
     },
     {
@@ -748,6 +748,7 @@ export const gbe = {
         coordinates: [-84.3918158, 33.7574256],
       },
       properties: {
+        id: "704dbbf6",
         "first name": "Lizzie",
         "last name": "Gamble",
         "street #": "76",
@@ -756,7 +757,6 @@ export const gbe = {
         sex: "female",
         "birth country": "Canada",
         race: "W",
-        "": "",
       },
     },
     {
@@ -766,6 +766,7 @@ export const gbe = {
         coordinates: [-84.3868737, 33.7555764],
       },
       properties: {
+        id: "96a65f91",
         "first name": "David",
         "last name": "Gibson",
         "street #": "37",
@@ -774,7 +775,6 @@ export const gbe = {
         sex: "male",
         "birth country": "Canada",
         race: "W",
-        "": "",
       },
     },
     {
@@ -784,6 +784,7 @@ export const gbe = {
         coordinates: [-84.3888155, 33.7622595],
       },
       properties: {
+        id: "4a633d2b",
         "first name": "JC",
         "last name": "Greenfield",
         "street #": "30",
@@ -792,7 +793,6 @@ export const gbe = {
         sex: "male",
         "birth country": "Canada",
         race: "W",
-        "": "",
       },
     },
     {
@@ -802,6 +802,7 @@ export const gbe = {
         coordinates: [-84.3868087, 33.7571501],
       },
       properties: {
+        id: "13c9c35d",
         "first name": "LH",
         "last name": "Harmon",
         "street #": "29",
@@ -810,7 +811,6 @@ export const gbe = {
         sex: "male",
         "birth country": "Canada",
         race: "W",
-        "": "",
       },
     },
     {
@@ -820,6 +820,7 @@ export const gbe = {
         coordinates: [-84.3677795, 33.7466943],
       },
       properties: {
+        id: "4cb6b2c1",
         "first name": "Louisa",
         "last name": "Harris",
         "street #": "664",
@@ -828,7 +829,6 @@ export const gbe = {
         sex: "female",
         "birth country": "Canada",
         race: "W",
-        "": "",
       },
     },
     {
@@ -838,6 +838,7 @@ export const gbe = {
         coordinates: [-84.4006033, 33.7539669],
       },
       properties: {
+        id: "c94adb5e",
         "first name": "AW",
         "last name": "Harris",
         "street #": "156",
@@ -846,7 +847,6 @@ export const gbe = {
         sex: "female",
         "birth country": "Canada",
         race: "W",
-        "": "",
       },
     },
     {
@@ -856,6 +856,7 @@ export const gbe = {
         coordinates: [-84.3875943, 33.7580969],
       },
       properties: {
+        id: "25f8526e",
         "first name": "JW",
         "last name": "Hill",
         "street #": "",
@@ -864,7 +865,6 @@ export const gbe = {
         sex: "male",
         "birth country": "Canada",
         race: "W",
-        "": "",
       },
     },
     {
@@ -874,6 +874,7 @@ export const gbe = {
         coordinates: [-84.3941946, 33.7494316],
       },
       properties: {
+        id: "a09aa136",
         "first name": "RE",
         "last name": "Hinman",
         "street #": "153",
@@ -882,7 +883,6 @@ export const gbe = {
         sex: "male",
         "birth country": "Canada",
         race: "W",
-        "": "",
       },
     },
     {
@@ -892,6 +892,7 @@ export const gbe = {
         coordinates: [-84.3920013, 33.7565376],
       },
       properties: {
+        id: "babf946f",
         "first name": "ME",
         "last name": "House",
         "street #": "11",
@@ -900,7 +901,6 @@ export const gbe = {
         sex: "female",
         "birth country": "Canada",
         race: "W",
-        "": "",
       },
     },
     {
@@ -910,6 +910,7 @@ export const gbe = {
         coordinates: [-84.3920013, 33.7565376],
       },
       properties: {
+        id: "2b6c7eb2",
         "first name": "CD",
         "last name": "House",
         "street #": "11",
@@ -918,7 +919,6 @@ export const gbe = {
         sex: "male",
         "birth country": "Canada",
         race: "W",
-        "": "",
       },
     },
     {
@@ -928,6 +928,7 @@ export const gbe = {
         coordinates: [-84.3920013, 33.7565376],
       },
       properties: {
+        id: "e773df0e",
         "first name": "Hortense",
         "last name": "House",
         "street #": "11",
@@ -936,7 +937,6 @@ export const gbe = {
         sex: "female",
         "birth country": "Canada",
         race: "W",
-        "": "",
       },
     },
     {
@@ -946,6 +946,7 @@ export const gbe = {
         coordinates: [-84.3874095, 33.7571501],
       },
       properties: {
+        id: "8780a40e",
         "first name": "T",
         "last name": "James",
         "street #": "15",
@@ -954,7 +955,6 @@ export const gbe = {
         sex: "male",
         "birth country": "Canada",
         race: "W",
-        "": "",
       },
     },
     {
@@ -964,6 +964,7 @@ export const gbe = {
         coordinates: [-84.3891379, 33.7589465],
       },
       properties: {
+        id: "30d07f3e",
         "first name": "John S",
         "last name": "Jarvis",
         "street #": "39",
@@ -972,7 +973,6 @@ export const gbe = {
         sex: "male",
         "birth country": "Canada",
         race: "W",
-        "": "",
       },
     },
     {
@@ -982,6 +982,7 @@ export const gbe = {
         coordinates: [-84.3771966, 33.7577132],
       },
       properties: {
+        id: "60889559",
         "first name": "CE",
         "last name": "Jarvis",
         "street #": "23",
@@ -990,7 +991,6 @@ export const gbe = {
         sex: "male",
         "birth country": "Canada",
         race: "W",
-        "": "",
       },
     },
     {
@@ -1000,6 +1000,7 @@ export const gbe = {
         coordinates: [-84.3887034, 33.758505],
       },
       properties: {
+        id: "d47a0b68",
         "first name": "Herrick",
         "last name": "Jefferson",
         "street #": "28",
@@ -1008,7 +1009,6 @@ export const gbe = {
         sex: "male",
         "birth country": "Canada",
         race: "W",
-        "": "",
       },
     },
     {
@@ -1018,6 +1018,7 @@ export const gbe = {
         coordinates: [-84.3682194, 33.7537284],
       },
       properties: {
+        id: "10ad98f9",
         "first name": "WD",
         "last name": "Jenkins",
         "street #": "3",
@@ -1026,7 +1027,6 @@ export const gbe = {
         sex: "male",
         "birth country": "Canada",
         race: "W",
-        "": "",
       },
     },
     {
@@ -1036,6 +1036,7 @@ export const gbe = {
         coordinates: [-84.3682194, 33.7537284],
       },
       properties: {
+        id: "6c1cf98d",
         "first name": "Lura",
         "last name": "Jenkins",
         "street #": "3",
@@ -1044,7 +1045,6 @@ export const gbe = {
         sex: "female",
         "birth country": "Canada",
         race: "W",
-        "": "",
       },
     },
     {
@@ -1054,6 +1054,7 @@ export const gbe = {
         coordinates: [-84.3890574, 33.7606025],
       },
       properties: {
+        id: "5d384912",
         "first name": "RC",
         "last name": "Kemp",
         "street #": "145",
@@ -1062,7 +1063,6 @@ export const gbe = {
         sex: "male",
         "birth country": "Canada",
         race: "W",
-        "": "",
       },
     },
     {
@@ -1072,6 +1072,7 @@ export const gbe = {
         coordinates: [-84.3720434, 33.7607741],
       },
       properties: {
+        id: "a142d717",
         "first name": "Mabel",
         "last name": "Lawrence",
         "street #": "251",
@@ -1080,7 +1081,6 @@ export const gbe = {
         sex: "female",
         "birth country": "Canada",
         race: "W",
-        "": "",
       },
     },
     {
@@ -1090,6 +1090,7 @@ export const gbe = {
         coordinates: [-84.387142, 33.7584285],
       },
       properties: {
+        id: "2cbf8c15",
         "first name": "RJ",
         "last name": "MacLean",
         "street #": "24",
@@ -1098,7 +1099,6 @@ export const gbe = {
         sex: "male",
         "birth country": "Canada",
         race: "W",
-        "": "",
       },
     },
     {
@@ -1108,6 +1108,7 @@ export const gbe = {
         coordinates: [-84.3841165, 33.7631116],
       },
       properties: {
+        id: "8299377b",
         "first name": "A",
         "last name": "Madison",
         "street #": "328",
@@ -1116,7 +1117,6 @@ export const gbe = {
         sex: "male",
         "birth country": "Canada",
         race: "W",
-        "": "",
       },
     },
     {
@@ -1126,6 +1126,7 @@ export const gbe = {
         coordinates: [-84.3868737, 33.7555764],
       },
       properties: {
+        id: "b5b15781",
         "first name": "E",
         "last name": "Manne",
         "street #": "37",
@@ -1134,7 +1135,6 @@ export const gbe = {
         sex: "male",
         "birth country": "Canada",
         race: "W",
-        "": "",
       },
     },
     {
@@ -1144,6 +1144,7 @@ export const gbe = {
         coordinates: [-84.400984, 33.770359],
       },
       properties: {
+        id: "fc1177b9",
         "first name": "Rob",
         "last name": "Mark",
         "street #": "511",
@@ -1152,7 +1153,6 @@ export const gbe = {
         sex: "male",
         "birth country": "Canada",
         race: "W",
-        "": "",
       },
     },
     {
@@ -1162,6 +1162,7 @@ export const gbe = {
         coordinates: [-84.400984, 33.770359],
       },
       properties: {
+        id: "790a7bbd",
         "first name": "Maggie",
         "last name": "Mark",
         "street #": "511",
@@ -1170,7 +1171,6 @@ export const gbe = {
         sex: "female",
         "birth country": "Canada",
         race: "W",
-        "": "",
       },
     },
     {
@@ -1180,6 +1180,7 @@ export const gbe = {
         coordinates: [-84.400984, 33.770359],
       },
       properties: {
+        id: "df986e3a",
         "first name": "Lillie",
         "last name": "Mark",
         "street #": "511",
@@ -1188,7 +1189,6 @@ export const gbe = {
         sex: "female",
         "birth country": "Canada",
         race: "W",
-        "": "",
       },
     },
     {
@@ -1198,6 +1198,7 @@ export const gbe = {
         coordinates: [-84.400984, 33.770359],
       },
       properties: {
+        id: "714a0753",
         "first name": "Anna",
         "last name": "Mark",
         "street #": "511",
@@ -1206,7 +1207,6 @@ export const gbe = {
         sex: "female",
         "birth country": "Canada",
         race: "W",
-        "": "",
       },
     },
     {
@@ -1216,6 +1216,7 @@ export const gbe = {
         coordinates: [-84.400984, 33.770359],
       },
       properties: {
+        id: "5148829e",
         "first name": "RA",
         "last name": "Mark",
         "street #": "511",
@@ -1224,7 +1225,6 @@ export const gbe = {
         sex: "male",
         "birth country": "Canada",
         race: "W",
-        "": "",
       },
     },
     {
@@ -1234,6 +1234,7 @@ export const gbe = {
         coordinates: [-84.3931476, 33.7700753],
       },
       properties: {
+        id: "3a0357ea",
         "first name": "JB",
         "last name": "Martin",
         "street #": "41",
@@ -1242,7 +1243,6 @@ export const gbe = {
         sex: "male",
         "birth country": "Canada",
         race: "W",
-        "": "",
       },
     },
     {
@@ -1252,6 +1252,7 @@ export const gbe = {
         coordinates: [-84.3890145, 33.7627342],
       },
       properties: {
+        id: "c5a675b5",
         "first name": "MJ",
         "last name": "McAllister",
         "street #": "209",
@@ -1260,7 +1261,6 @@ export const gbe = {
         sex: "female",
         "birth country": "Canada",
         race: "W",
-        "": "",
       },
     },
     {
@@ -1270,6 +1270,7 @@ export const gbe = {
         coordinates: [-84.3893929, 33.754804],
       },
       properties: {
+        id: "a0342363",
         "first name": "Hal",
         "last name": "Morrison",
         "street #": "34 1/2",
@@ -1278,7 +1279,6 @@ export const gbe = {
         sex: "male",
         "birth country": "Canada",
         race: "W",
-        "": "",
       },
     },
     {
@@ -1288,6 +1288,7 @@ export const gbe = {
         coordinates: [-84.3682194, 33.7537284],
       },
       properties: {
+        id: "1ff67109",
         "first name": "C",
         "last name": "Mould",
         "street #": "3",
@@ -1296,7 +1297,6 @@ export const gbe = {
         sex: "female",
         "birth country": "Canada",
         race: "W",
-        "": "",
       },
     },
     {
@@ -1306,6 +1306,7 @@ export const gbe = {
         coordinates: [-84.3682194, 33.7537284],
       },
       properties: {
+        id: "d2699016",
         "first name": "JR",
         "last name": "Mould",
         "street #": "3",
@@ -1314,7 +1315,6 @@ export const gbe = {
         sex: "male",
         "birth country": "Canada",
         race: "W",
-        "": "",
       },
     },
     {
@@ -1324,6 +1324,7 @@ export const gbe = {
         coordinates: [-84.3934472, 33.7495751],
       },
       properties: {
+        id: "9d489192",
         "first name": "John",
         "last name": "Muirhead",
         "street #": "45",
@@ -1332,7 +1333,6 @@ export const gbe = {
         sex: "male",
         "birth country": "Canada",
         race: "W",
-        "": "",
       },
     },
     {
@@ -1342,6 +1342,7 @@ export const gbe = {
         coordinates: [-84.3934472, 33.7495751],
       },
       properties: {
+        id: "1e27ed44",
         "first name": "M",
         "last name": "Muirhead",
         "street #": "45",
@@ -1350,7 +1351,6 @@ export const gbe = {
         sex: "female",
         "birth country": "Canada",
         race: "W",
-        "": "",
       },
     },
     {
@@ -1360,6 +1360,7 @@ export const gbe = {
         coordinates: [-84.3910546, 33.7482816],
       },
       properties: {
+        id: "7cd1183e",
         "first name": "??",
         "last name": "Nixon",
         "street #": "99",
@@ -1368,7 +1369,6 @@ export const gbe = {
         sex: "male",
         "birth country": "Canada",
         race: "W",
-        "": "",
       },
     },
     {
@@ -1378,6 +1378,7 @@ export const gbe = {
         coordinates: [-84.3893657, 33.7443371],
       },
       properties: {
+        id: "b1be9e2b",
         "first name": "Chas",
         "last name": "Normandy",
         "street #": "71",
@@ -1386,7 +1387,6 @@ export const gbe = {
         sex: "male",
         "birth country": "Canada",
         race: "W",
-        "": "",
       },
     },
     {
@@ -1396,6 +1396,7 @@ export const gbe = {
         coordinates: [-84.360848, 33.7631344],
       },
       properties: {
+        id: "87d1c11f",
         "first name": "Harry",
         "last name": "Olive",
         "street #": "292",
@@ -1404,7 +1405,6 @@ export const gbe = {
         sex: "female",
         "birth country": "Canada",
         race: "W",
-        "": "",
       },
     },
     {
@@ -1414,6 +1414,7 @@ export const gbe = {
         coordinates: [-84.4057919, 33.7414317],
       },
       properties: {
+        id: "77f7396f",
         "first name": "HL",
         "last name": "Oliver",
         "street #": "67",
@@ -1422,7 +1423,6 @@ export const gbe = {
         sex: "male",
         "birth country": "Canada",
         race: "W",
-        "": "",
       },
     },
     {
@@ -1432,6 +1432,7 @@ export const gbe = {
         coordinates: [-84.390605, 33.7633265],
       },
       properties: {
+        id: "c9e3922e",
         "first name": "WN",
         "last name": "Phillimore",
         "street #": "57",
@@ -1440,7 +1441,6 @@ export const gbe = {
         sex: "male",
         "birth country": "Canada",
         race: "W",
-        "": "",
       },
     },
     {
@@ -1450,6 +1450,7 @@ export const gbe = {
         coordinates: [-84.3904465, 33.751139],
       },
       properties: {
+        id: "3d35aadd",
         "first name": "Harry",
         "last name": "Rice",
         "street #": "46",
@@ -1458,7 +1459,6 @@ export const gbe = {
         sex: "male",
         "birth country": "Canada",
         race: "W",
-        "": "",
       },
     },
     {
@@ -1468,6 +1468,7 @@ export const gbe = {
         coordinates: [-84.3667035, 33.7497015],
       },
       properties: {
+        id: "6be859b9",
         "first name": "JD",
         "last name": "Robie",
         "street #": "15",
@@ -1476,7 +1477,6 @@ export const gbe = {
         sex: "female",
         "birth country": "Canada",
         race: "W",
-        "": "",
       },
     },
     {
@@ -1486,6 +1486,7 @@ export const gbe = {
         coordinates: [-84.413865, 33.745955],
       },
       properties: {
+        id: "556c6f95",
         "first name": "George",
         "last name": "Sale",
         "street #": "",
@@ -1494,7 +1495,6 @@ export const gbe = {
         sex: "male",
         "birth country": "Canada",
         race: "W",
-        "": "President of Seminary",
       },
     },
     {
@@ -1504,6 +1504,7 @@ export const gbe = {
         coordinates: [-84.413865, 33.745955],
       },
       properties: {
+        id: "998155ba",
         "first name": "Mrs. Geo [Clara]",
         "last name": "Sale",
         "street #": "",
@@ -1512,7 +1513,6 @@ export const gbe = {
         sex: "female",
         "birth country": "Canada",
         race: "W",
-        "": "",
       },
     },
     {
@@ -1522,6 +1522,7 @@ export const gbe = {
         coordinates: [-84.4099939, 33.7640265],
       },
       properties: {
+        id: "0021b67c",
         "first name": "Edgar",
         "last name": "Schelbert",
         "street #": "276",
@@ -1530,7 +1531,6 @@ export const gbe = {
         sex: "male",
         "birth country": "Canada",
         race: "W",
-        "": "",
       },
     },
     {
@@ -1540,6 +1540,7 @@ export const gbe = {
         coordinates: [-84.3924652, 33.7594214],
       },
       properties: {
+        id: "b8e62f2f",
         "first name": "Edmund",
         "last name": "Scott",
         "street #": "106",
@@ -1548,7 +1549,6 @@ export const gbe = {
         sex: "male",
         "birth country": "Canada",
         race: "W",
-        "": "",
       },
     },
     {
@@ -1558,6 +1558,7 @@ export const gbe = {
         coordinates: [-84.3899516, 33.7506112],
       },
       properties: {
+        id: "6ef83405",
         "first name": "S",
         "last name": "Sears",
         "street #": "81",
@@ -1566,7 +1567,6 @@ export const gbe = {
         sex: "male",
         "birth country": "Canada",
         race: "W",
-        "": "",
       },
     },
     {
@@ -1576,6 +1576,7 @@ export const gbe = {
         coordinates: [-84.4089294, 33.7547128],
       },
       properties: {
+        id: "8a1934ad",
         "first name": "EJ",
         "last name": "Senabagh",
         "street #": "",
@@ -1584,7 +1585,6 @@ export const gbe = {
         sex: "female",
         "birth country": "Canada",
         race: "W",
-        "": "",
       },
     },
     {
@@ -1594,6 +1594,7 @@ export const gbe = {
         coordinates: [-84.3877533, 33.7597174],
       },
       properties: {
+        id: "7b181da5",
         "first name": "Maude",
         "last name": "Sharpe",
         "street #": "17",
@@ -1602,7 +1603,6 @@ export const gbe = {
         sex: "female",
         "birth country": "Canada",
         race: "W",
-        "": "",
       },
     },
     {
@@ -1612,6 +1612,7 @@ export const gbe = {
         coordinates: [-84.3811981, 33.7535253],
       },
       properties: {
+        id: "e6f9b815",
         "first name": "Charlton",
         "last name": "Shaw",
         "street #": "101",
@@ -1620,7 +1621,6 @@ export const gbe = {
         sex: "male",
         "birth country": "Canada",
         race: "W",
-        "": "",
       },
     },
     {
@@ -1630,6 +1630,7 @@ export const gbe = {
         coordinates: [-84.3969308, 33.7464832],
       },
       properties: {
+        id: "820dac91",
         "first name": "John",
         "last name": "Singer",
         "street #": "22",
@@ -1638,7 +1639,6 @@ export const gbe = {
         sex: "male",
         "birth country": "Canada",
         race: "W",
-        "": "",
       },
     },
     {
@@ -1648,6 +1648,7 @@ export const gbe = {
         coordinates: [-84.3926798, 33.7596354],
       },
       properties: {
+        id: "504fd0fc",
         "first name": "JJ",
         "last name": "Smallwood",
         "street #": "113",
@@ -1656,7 +1657,6 @@ export const gbe = {
         sex: "male",
         "birth country": "Canada",
         race: "W",
-        "": "",
       },
     },
     {
@@ -1666,6 +1666,7 @@ export const gbe = {
         coordinates: [-84.3831884, 33.7588076],
       },
       properties: {
+        id: "e1c0a9fc",
         "first name": "Hattie",
         "last name": "Smith",
         "street #": "14",
@@ -1674,7 +1675,6 @@ export const gbe = {
         sex: "female",
         "birth country": "Canada",
         race: "C",
-        "": "1900 cen: married to U.S. born John Smith",
       },
     },
     {
@@ -1684,6 +1684,7 @@ export const gbe = {
         coordinates: [-84.3831884, 33.7588076],
       },
       properties: {
+        id: "cf6a8a8e",
         "first name": "Estelle",
         "last name": "Smith",
         "street #": "14",
@@ -1692,7 +1693,6 @@ export const gbe = {
         sex: "female",
         "birth country": "Canada",
         race: "C",
-        "": "",
       },
     },
     {
@@ -1702,6 +1702,7 @@ export const gbe = {
         coordinates: [-84.3831884, 33.7588076],
       },
       properties: {
+        id: "cfe3427c",
         "first name": "S",
         "last name": "Smith",
         "street #": "14",
@@ -1710,7 +1711,6 @@ export const gbe = {
         sex: "female",
         "birth country": "Canada",
         race: "C",
-        "": "",
       },
     },
     {
@@ -1720,6 +1720,7 @@ export const gbe = {
         coordinates: [-84.4009282, 33.7406805],
       },
       properties: {
+        id: "fb639ac5",
         "first name": "FC",
         "last name": "Smith",
         "street #": "49",
@@ -1728,7 +1729,6 @@ export const gbe = {
         sex: "male",
         "birth country": "Canada",
         race: "W",
-        "": "",
       },
     },
     {
@@ -1738,6 +1738,7 @@ export const gbe = {
         coordinates: [-84.3875904, 33.758314],
       },
       properties: {
+        id: "8ae162fa",
         "first name": "TA",
         "last name": "Spland",
         "street #": "178 1/2",
@@ -1746,7 +1747,6 @@ export const gbe = {
         sex: "male",
         "birth country": "Canada",
         race: "W",
-        "": "",
       },
     },
     {
@@ -1756,6 +1756,7 @@ export const gbe = {
         coordinates: [-84.3690747, 33.7613313],
       },
       properties: {
+        id: "53892638",
         "first name": "L",
         "last name": "Squarebridge",
         "street #": "211",
@@ -1764,7 +1765,6 @@ export const gbe = {
         sex: "female",
         "birth country": "Canada",
         race: "W",
-        "": "",
       },
     },
     {
@@ -1774,6 +1774,7 @@ export const gbe = {
         coordinates: [-84.3925528, 33.7423845],
       },
       properties: {
+        id: "7e8ffc84",
         "first name": "Violet",
         "last name": "Still",
         "street #": "124",
@@ -1782,7 +1783,6 @@ export const gbe = {
         sex: "female",
         "birth country": "Canada",
         race: "W",
-        "": "",
       },
     },
     {
@@ -1792,6 +1792,7 @@ export const gbe = {
         coordinates: [-84.3799444, 33.7508781],
       },
       properties: {
+        id: "8980d91d",
         "first name": "Thos",
         "last name": "Taylor",
         "street #": "165",
@@ -1800,7 +1801,6 @@ export const gbe = {
         sex: "male",
         "birth country": "Canada",
         race: "W",
-        "": "",
       },
     },
     {
@@ -1810,6 +1810,7 @@ export const gbe = {
         coordinates: [-84.3822377, 33.7565974],
       },
       properties: {
+        id: "a08ac49f",
         "first name": "BF",
         "last name": "Tucker",
         "street #": "160",
@@ -1818,7 +1819,6 @@ export const gbe = {
         sex: "male",
         "birth country": "Canada",
         race: "W",
-        "": "",
       },
     },
     {
@@ -1828,6 +1828,7 @@ export const gbe = {
         coordinates: [-84.3872486, 33.7571501],
       },
       properties: {
+        id: "a480a436",
         "first name": "Mary",
         "last name": "Van Horn",
         "street #": "16",
@@ -1836,7 +1837,6 @@ export const gbe = {
         sex: "female",
         "birth country": "Canada",
         race: "W",
-        "": "",
       },
     },
     {
@@ -1846,6 +1846,7 @@ export const gbe = {
         coordinates: [-84.3995559, 33.7442778],
       },
       properties: {
+        id: "f5537f2f",
         "first name": "AG",
         "last name": "Wacock",
         "street #": "406",
@@ -1854,7 +1855,6 @@ export const gbe = {
         sex: "male",
         "birth country": "Canada",
         race: "W",
-        "": "",
       },
     },
     {
@@ -1864,6 +1864,7 @@ export const gbe = {
         coordinates: [-84.3995559, 33.7442778],
       },
       properties: {
+        id: "093e2c7d",
         "first name": "Mrs",
         "last name": "Wacock",
         "street #": "406",
@@ -1872,7 +1873,6 @@ export const gbe = {
         sex: "female",
         "birth country": "Canada",
         race: "W",
-        "": "",
       },
     },
     {
@@ -1882,6 +1882,7 @@ export const gbe = {
         coordinates: [-84.3908302, 33.7462575],
       },
       properties: {
+        id: "0730a252",
         "first name": "WH",
         "last name": "Walt",
         "street #": "130",
@@ -1890,7 +1891,6 @@ export const gbe = {
         sex: "male",
         "birth country": "Canada",
         race: "W",
-        "": "",
       },
     },
     {
@@ -1900,6 +1900,7 @@ export const gbe = {
         coordinates: [-84.3983805, 33.74456],
       },
       properties: {
+        id: "49975e7f",
         "first name": "AB",
         "last name": "Ziegler",
         "street #": "100",
@@ -1908,7 +1909,6 @@ export const gbe = {
         sex: "male",
         "birth country": "Canada",
         race: "W",
-        "": "",
       },
     },
     {
@@ -1918,6 +1918,7 @@ export const gbe = {
         coordinates: [-84.4021698, 33.7546716],
       },
       properties: {
+        id: "ba2234ab",
         "first name": "Margaretta",
         "last name": "Adamson",
         "street #": "168",
@@ -1926,7 +1927,6 @@ export const gbe = {
         sex: "female",
         "birth country": "England",
         race: "W",
-        "": "",
       },
     },
     {
@@ -1936,6 +1936,7 @@ export const gbe = {
         coordinates: [-84.3890253, 33.7623953],
       },
       properties: {
+        id: "15995d78",
         "first name": "Jane",
         "last name": "Adcock",
         "street #": "206",
@@ -1944,7 +1945,6 @@ export const gbe = {
         sex: "female",
         "birth country": "England",
         race: "W",
-        "": "",
       },
     },
     {
@@ -1954,6 +1954,7 @@ export const gbe = {
         coordinates: [-84.4067905, 33.7627681],
       },
       properties: {
+        id: "35e996dc",
         "first name": "Elizabeth",
         "last name": "Ames",
         "street #": "173",
@@ -1962,7 +1963,6 @@ export const gbe = {
         sex: "female",
         "birth country": "England",
         race: "W",
-        "": "",
       },
     },
     {
@@ -1972,6 +1972,7 @@ export const gbe = {
         coordinates: [-84.392693, 33.7609718],
       },
       properties: {
+        id: "ef34af7d",
         "first name": "E",
         "last name": "Armstrong",
         "street #": "103",
@@ -1980,7 +1981,6 @@ export const gbe = {
         sex: "female",
         "birth country": "England",
         race: "W",
-        "": "",
       },
     },
     {
@@ -1990,6 +1990,7 @@ export const gbe = {
         coordinates: [-84.3890145, 33.7629394],
       },
       properties: {
+        id: "0668a7f1",
         "first name": "AR",
         "last name": "Ashley",
         "street #": "214",
@@ -1998,7 +1999,6 @@ export const gbe = {
         sex: "male",
         "birth country": "England",
         race: "W",
-        "": "",
       },
     },
     {
@@ -2008,6 +2008,7 @@ export const gbe = {
         coordinates: [-84.3970965, 33.7573202],
       },
       properties: {
+        id: "98586dda",
         "first name": "Auther",
         "last name": "Atkins",
         "street #": "32",
@@ -2016,7 +2017,6 @@ export const gbe = {
         sex: "male",
         "birth country": "England",
         race: "W",
-        "": "",
       },
     },
     {
@@ -2026,6 +2026,7 @@ export const gbe = {
         coordinates: [-84.3889555, 33.7676175],
       },
       properties: {
+        id: "695f7c30",
         "first name": "Hannah",
         "last name": "Atkinson",
         "street #": "327",
@@ -2034,7 +2035,6 @@ export const gbe = {
         sex: "female",
         "birth country": "England",
         race: "W",
-        "": "",
       },
     },
     {
@@ -2044,6 +2044,7 @@ export const gbe = {
         coordinates: [-84.4029084, 33.7730289],
       },
       properties: {
+        id: "4e3ac7b2",
         "first name": "George",
         "last name": "Bancroft",
         "street #": "742",
@@ -2052,7 +2053,6 @@ export const gbe = {
         sex: "male",
         "birth country": "England",
         race: "W",
-        "": "",
       },
     },
     {
@@ -2062,6 +2062,7 @@ export const gbe = {
         coordinates: [-84.4029084, 33.7730289],
       },
       properties: {
+        id: "53deb40d",
         "first name": "Kate",
         "last name": "Bancroft",
         "street #": "742",
@@ -2070,7 +2071,6 @@ export const gbe = {
         sex: "female",
         "birth country": "England",
         race: "W",
-        "": "",
       },
     },
     {
@@ -2080,6 +2080,7 @@ export const gbe = {
         coordinates: [-84.3831388, 33.7516747],
       },
       properties: {
+        id: "c42086ee",
         "first name": "George",
         "last name": "Barker",
         "street #": "14",
@@ -2088,7 +2089,6 @@ export const gbe = {
         sex: "male",
         "birth country": "England",
         race: "W",
-        "": "",
       },
     },
     {
@@ -2098,6 +2098,7 @@ export const gbe = {
         coordinates: [-84.3831388, 33.7516747],
       },
       properties: {
+        id: "203703e8",
         "first name": "Ann",
         "last name": "Barker",
         "street #": "14",
@@ -2106,7 +2107,6 @@ export const gbe = {
         sex: "female",
         "birth country": "England",
         race: "W",
-        "": "",
       },
     },
     {
@@ -2116,6 +2116,7 @@ export const gbe = {
         coordinates: [-84.3931411, 33.7599833],
       },
       properties: {
+        id: "f89b26ab",
         "first name": "GJ",
         "last name": "Bates",
         "street #": "139",
@@ -2124,7 +2125,6 @@ export const gbe = {
         sex: "male",
         "birth country": "England",
         race: "W",
-        "": "",
       },
     },
     {
@@ -2134,6 +2134,7 @@ export const gbe = {
         coordinates: [-84.3931411, 33.7599833],
       },
       properties: {
+        id: "d7528a82",
         "first name": "EA",
         "last name": "Bates",
         "street #": "139",
@@ -2142,7 +2143,6 @@ export const gbe = {
         sex: "female",
         "birth country": "England",
         race: "W",
-        "": "",
       },
     },
     {
@@ -2152,6 +2152,7 @@ export const gbe = {
         coordinates: [-84.4023307, 33.7539],
       },
       properties: {
+        id: "3f5d55d5",
         "first name": "Lizzie",
         "last name": "Bauschell",
         "street #": "169",
@@ -2160,7 +2161,6 @@ export const gbe = {
         sex: "F",
         "birth country": "England",
         race: "W",
-        "": "",
       },
     },
     {
@@ -2170,6 +2170,7 @@ export const gbe = {
         coordinates: [-84.3793059, 33.7641179],
       },
       properties: {
+        id: "4914ca2f",
         "first name": "Annie",
         "last name": "Benjamin",
         "street #": "258",
@@ -2178,7 +2179,6 @@ export const gbe = {
         sex: "female",
         "birth country": "England",
         race: "W",
-        "": "",
       },
     },
     {
@@ -2188,6 +2188,7 @@ export const gbe = {
         coordinates: [-84.3670184, 33.7460468],
       },
       properties: {
+        id: "b90389bd",
         "first name": "Edward",
         "last name": "Berrell",
         "street #": "24",
@@ -2196,7 +2197,6 @@ export const gbe = {
         sex: "male",
         "birth country": "England",
         race: "W",
-        "": "",
       },
     },
     {
@@ -2206,6 +2206,7 @@ export const gbe = {
         coordinates: [-84.3980197, 33.7517246],
       },
       properties: {
+        id: "d6e8bd1b",
         "first name": "John",
         "last name": "Bishop",
         "street #": "64",
@@ -2214,7 +2215,6 @@ export const gbe = {
         sex: "M",
         "birth country": "England",
         race: "W",
-        "": "",
       },
     },
     {
@@ -2224,6 +2224,7 @@ export const gbe = {
         coordinates: [-84.3746242, 33.7455614],
       },
       properties: {
+        id: "a53bbc2a",
         "first name": "WH",
         "last name": "Bishop",
         "street #": "545",
@@ -2232,7 +2233,6 @@ export const gbe = {
         sex: "male",
         "birth country": "England",
         race: "W",
-        "": "",
       },
     },
     {
@@ -2242,6 +2242,7 @@ export const gbe = {
         coordinates: [-84.3746242, 33.7455614],
       },
       properties: {
+        id: "6fd38532",
         "first name": "E",
         "last name": "Bishop",
         "street #": "545",
@@ -2250,7 +2251,6 @@ export const gbe = {
         sex: "female",
         "birth country": "England",
         race: "W",
-        "": "",
       },
     },
     {
@@ -2260,6 +2260,7 @@ export const gbe = {
         coordinates: [-84.3842024, 33.7594948],
       },
       properties: {
+        id: "abd9b6ff",
         "first name": "John Morton",
         "last name": "Boyce",
         "street #": "235",
@@ -2268,7 +2269,6 @@ export const gbe = {
         sex: "male",
         "birth country": "England",
         race: "W",
-        "": "",
       },
     },
     {
@@ -2278,6 +2278,7 @@ export const gbe = {
         coordinates: [-84.3842024, 33.7594948],
       },
       properties: {
+        id: "4e2bf107",
         "first name": "WA",
         "last name": "Boyce",
         "street #": "235",
@@ -2286,7 +2287,6 @@ export const gbe = {
         sex: "female",
         "birth country": "England",
         race: "W",
-        "": "",
       },
     },
     {
@@ -2296,6 +2296,7 @@ export const gbe = {
         coordinates: [-84.3903717, 33.7382767],
       },
       properties: {
+        id: "4ff6b237",
         "first name": "William",
         "last name": "Bradley",
         "street #": "400",
@@ -2304,7 +2305,6 @@ export const gbe = {
         sex: "male",
         "birth country": "England",
         race: "W",
-        "": "",
       },
     },
     {
@@ -2314,6 +2314,7 @@ export const gbe = {
         coordinates: [-84.385066, 33.7537146],
       },
       properties: {
+        id: "86d710e5",
         "first name": "Willis",
         "last name": "Brantley",
         "street #": "85",
@@ -2322,7 +2323,6 @@ export const gbe = {
         sex: "female",
         "birth country": "England",
         race: "W",
-        "": "",
       },
     },
     {
@@ -2332,6 +2332,7 @@ export const gbe = {
         coordinates: [-84.3842828, 33.7554094],
       },
       properties: {
+        id: "2d556bef",
         "first name": "Philip",
         "last name": "Bray",
         "street #": "124",
@@ -2340,7 +2341,6 @@ export const gbe = {
         sex: "male",
         "birth country": "England",
         race: "W",
-        "": "",
       },
     },
     {
@@ -2350,6 +2350,7 @@ export const gbe = {
         coordinates: [-84.4017149, 33.73085],
       },
       properties: {
+        id: "c7d7cc28",
         "first name": "TD",
         "last name": "Bray",
         "street #": "383",
@@ -2358,7 +2359,6 @@ export const gbe = {
         sex: "male",
         "birth country": "England",
         race: "W",
-        "": "",
       },
     },
     {
@@ -2368,6 +2368,7 @@ export const gbe = {
         coordinates: [-84.387394, 33.755514],
       },
       properties: {
+        id: "1838f909",
         "first name": "EB",
         "last name": "Bridges",
         "street #": "25",
@@ -2376,7 +2377,6 @@ export const gbe = {
         sex: "male",
         "birth country": "England",
         race: "W",
-        "": "",
       },
     },
     {
@@ -2386,6 +2386,7 @@ export const gbe = {
         coordinates: [-84.3878897, 33.7576683],
       },
       properties: {
+        id: "173c9a2c",
         "first name": "WW",
         "last name": "Brigg",
         "street #": "98",
@@ -2394,7 +2395,6 @@ export const gbe = {
         sex: "male",
         "birth country": "England",
         race: "W",
-        "": "",
       },
     },
     {
@@ -2404,6 +2404,7 @@ export const gbe = {
         coordinates: [-84.3846892, 33.7521195],
       },
       properties: {
+        id: "7bbc1106",
         "first name": "John L",
         "last name": "Brindle",
         "street #": "33",
@@ -2412,7 +2413,6 @@ export const gbe = {
         sex: "male",
         "birth country": "England",
         race: "W",
-        "": "",
       },
     },
     {
@@ -2422,6 +2422,7 @@ export const gbe = {
         coordinates: [-84.3846892, 33.7521195],
       },
       properties: {
+        id: "f35df2d2",
         "first name": "Francis",
         "last name": "Brindle",
         "street #": "33",
@@ -2430,7 +2431,6 @@ export const gbe = {
         sex: "male",
         "birth country": "England",
         race: "W",
-        "": "",
       },
     },
     {
@@ -2440,6 +2440,7 @@ export const gbe = {
         coordinates: [-84.3846892, 33.7521195],
       },
       properties: {
+        id: "a6e6a7e9",
         "first name": "Mary",
         "last name": "Brindle",
         "street #": "33",
@@ -2448,7 +2449,6 @@ export const gbe = {
         sex: "female",
         "birth country": "England",
         race: "W",
-        "": "",
       },
     },
     {
@@ -2458,6 +2458,7 @@ export const gbe = {
         coordinates: [-84.3835509, 33.7534705],
       },
       properties: {
+        id: "83c92e2a",
         "first name": "Mrs",
         "last name": "Brown",
         "street #": "26",
@@ -2466,7 +2467,6 @@ export const gbe = {
         sex: "female",
         "birth country": "England",
         race: "W",
-        "": "",
       },
     },
     {
@@ -2476,6 +2476,7 @@ export const gbe = {
         coordinates: [-84.3845283, 33.760954],
       },
       properties: {
+        id: "f7f46626",
         "first name": "Jane",
         "last name": "Burgin",
         "street #": "67",
@@ -2484,7 +2485,6 @@ export const gbe = {
         sex: "female",
         "birth country": "England",
         race: "W",
-        "": "",
       },
     },
     {
@@ -2494,6 +2494,7 @@ export const gbe = {
         coordinates: [-84.3845283, 33.760954],
       },
       properties: {
+        id: "f1fe742a",
         "first name": "Edwin",
         "last name": "Burgin",
         "street #": "67",
@@ -2502,7 +2503,6 @@ export const gbe = {
         sex: "male",
         "birth country": "England",
         race: "W",
-        "": "",
       },
     },
     {
@@ -2512,6 +2512,7 @@ export const gbe = {
         coordinates: [-84.39006, 33.7596817],
       },
       properties: {
+        id: "113a57ba",
         "first name": "Anna",
         "last name": "Burk",
         "street #": "49",
@@ -2520,7 +2521,6 @@ export const gbe = {
         sex: "female",
         "birth country": "England",
         race: "W",
-        "": "",
       },
     },
     {
@@ -2530,6 +2530,7 @@ export const gbe = {
         coordinates: [-84.4030725, 33.768037],
       },
       properties: {
+        id: "6b6be119",
         "first name": "MA",
         "last name": "Burns",
         "street #": "39",
@@ -2538,7 +2539,6 @@ export const gbe = {
         sex: "male",
         "birth country": "England",
         race: "W",
-        "": "",
       },
     },
     {
@@ -2548,6 +2548,7 @@ export const gbe = {
         coordinates: [-84.3962494, 33.7517692],
       },
       properties: {
+        id: "180e644d",
         "first name": "FA",
         "last name": "Buttrick",
         "street #": "29",
@@ -2556,7 +2557,6 @@ export const gbe = {
         sex: "male",
         "birth country": "England",
         race: "W",
-        "": "",
       },
     },
     {
@@ -2566,6 +2566,7 @@ export const gbe = {
         coordinates: [-84.3945882, 33.7643613],
       },
       properties: {
+        id: "f92cc781",
         "first name": "E",
         "last name": "Campbell",
         "street #": "21",
@@ -2574,7 +2575,6 @@ export const gbe = {
         sex: "male",
         "birth country": "England",
         race: "W",
-        "": "",
       },
     },
     {
@@ -2584,6 +2584,7 @@ export const gbe = {
         coordinates: [-84.4024767, 33.7403343],
       },
       properties: {
+        id: "644dcfcb",
         "first name": "William",
         "last name": "Cattor",
         "street #": "115",
@@ -2592,7 +2593,6 @@ export const gbe = {
         sex: "male",
         "birth country": "England",
         race: "W",
-        "": "",
       },
     },
     {
@@ -2602,6 +2602,7 @@ export const gbe = {
         coordinates: [-84.3896768, 33.7409558],
       },
       properties: {
+        id: "e090e8a4",
         "first name": "Emily",
         "last name": "Clark",
         "street #": "178",
@@ -2610,7 +2611,6 @@ export const gbe = {
         sex: "female",
         "birth country": "England",
         race: "W",
-        "": "",
       },
     },
     {
@@ -2620,6 +2620,7 @@ export const gbe = {
         coordinates: [-84.3944411, 33.7340425],
       },
       properties: {
+        id: "afecf64f",
         "first name": "LW",
         "last name": "Cleveland",
         "street #": "534",
@@ -2628,7 +2629,6 @@ export const gbe = {
         sex: "female",
         "birth country": "England",
         race: "W",
-        "": "",
       },
     },
     {
@@ -2638,6 +2638,7 @@ export const gbe = {
         coordinates: [-84.3944411, 33.7340425],
       },
       properties: {
+        id: "00325784",
         "first name": "Dorathy",
         "last name": "Cleveland",
         "street #": "534",
@@ -2646,7 +2647,6 @@ export const gbe = {
         sex: "female",
         "birth country": "England",
         race: "W",
-        "": "",
       },
     },
     {
@@ -2656,6 +2656,7 @@ export const gbe = {
         coordinates: [-84.3784616, 33.7576942],
       },
       properties: {
+        id: "4ffd94f4",
         "first name": "Hattie",
         "last name": "Cohen",
         "street #": "199",
@@ -2664,7 +2665,6 @@ export const gbe = {
         sex: "female",
         "birth country": "England",
         race: "W",
-        "": "",
       },
     },
     {
@@ -2674,6 +2674,7 @@ export const gbe = {
         coordinates: [-84.3784616, 33.7576942],
       },
       properties: {
+        id: "38977fb4",
         "first name": "Rubie",
         "last name": "Cohen",
         "street #": "199",
@@ -2682,7 +2683,6 @@ export const gbe = {
         sex: "female",
         "birth country": "England",
         race: "W",
-        "": "",
       },
     },
     {
@@ -2692,6 +2692,7 @@ export const gbe = {
         coordinates: [-84.3982437, 33.7426129],
       },
       properties: {
+        id: "481e6989",
         "first name": "Minnie",
         "last name": "Conart",
         "street #": "93",
@@ -2700,7 +2701,6 @@ export const gbe = {
         sex: "female",
         "birth country": "England",
         race: "W",
-        "": "",
       },
     },
     {
@@ -2710,6 +2710,7 @@ export const gbe = {
         coordinates: [-84.387394, 33.755514],
       },
       properties: {
+        id: "ef9feed6",
         "first name": "LM",
         "last name": "Cooledge",
         "street #": "25",
@@ -2718,7 +2719,6 @@ export const gbe = {
         sex: "female",
         "birth country": "England",
         race: "W",
-        "": "",
       },
     },
     {
@@ -2728,6 +2728,7 @@ export const gbe = {
         coordinates: [-84.3920968, 33.7499496],
       },
       properties: {
+        id: "cc2e1a2b",
         "first name": "Mr",
         "last name": "Cosens",
         "street #": "86",
@@ -2736,7 +2737,6 @@ export const gbe = {
         sex: "male",
         "birth country": "England",
         race: "W",
-        "": "",
       },
     },
     {
@@ -2746,6 +2746,7 @@ export const gbe = {
         coordinates: [-84.4006483, 33.7509664],
       },
       properties: {
+        id: "e819e72b",
         "first name": "H",
         "last name": "Crankshaw",
         "street #": "127",
@@ -2754,7 +2755,6 @@ export const gbe = {
         sex: "male",
         "birth country": "England",
         race: "W",
-        "": "",
       },
     },
     {
@@ -2764,6 +2764,7 @@ export const gbe = {
         coordinates: [-84.3681595, 33.7386686],
       },
       properties: {
+        id: "a049fc46",
         "first name": "Mrs",
         "last name": "D'Alviney",
         "street #": "360",
@@ -2772,7 +2773,6 @@ export const gbe = {
         sex: "female",
         "birth country": "England",
         race: "W",
-        "": "",
       },
     },
     {
@@ -2782,6 +2782,7 @@ export const gbe = {
         coordinates: [-84.4002477, 33.7711069],
       },
       properties: {
+        id: "a400dd6f",
         "first name": "Percy",
         "last name": "Dashwood",
         "street #": "669",
@@ -2790,7 +2791,6 @@ export const gbe = {
         sex: "male",
         "birth country": "England",
         race: "W",
-        "": "",
       },
     },
     {
@@ -2800,6 +2800,7 @@ export const gbe = {
         coordinates: [-84.3739341, 33.7727834],
       },
       properties: {
+        id: "953a1676",
         "first name": "HD",
         "last name": "Davis",
         "street #": "242",
@@ -2808,7 +2809,6 @@ export const gbe = {
         sex: "male",
         "birth country": "England",
         race: "W",
-        "": "",
       },
     },
     {
@@ -2818,6 +2818,7 @@ export const gbe = {
         coordinates: [-84.3739341, 33.7727834],
       },
       properties: {
+        id: "16a0967a",
         "first name": "Mrs HD",
         "last name": "Davis",
         "street #": "242",
@@ -2826,7 +2827,6 @@ export const gbe = {
         sex: "female",
         "birth country": "England",
         race: "W",
-        "": "",
       },
     },
     {
@@ -2836,6 +2836,7 @@ export const gbe = {
         coordinates: [-84.3739341, 33.7727834],
       },
       properties: {
+        id: "f665bad0",
         "first name": "WH",
         "last name": "Davis",
         "street #": "242",
@@ -2844,7 +2845,6 @@ export const gbe = {
         sex: "male",
         "birth country": "England",
         race: "W",
-        "": "",
       },
     },
     {
@@ -2854,6 +2854,7 @@ export const gbe = {
         coordinates: [-84.3944411, 33.7340425],
       },
       properties: {
+        id: "8faf5856",
         "first name": "Wm P",
         "last name": "Davis",
         "street #": "534",
@@ -2862,7 +2863,6 @@ export const gbe = {
         sex: "male",
         "birth country": "England",
         race: "W",
-        "": "",
       },
     },
     {
@@ -2872,6 +2872,7 @@ export const gbe = {
         coordinates: [-84.3742885, 33.761129],
       },
       properties: {
+        id: "7fc239bf",
         "first name": "Beaumont",
         "last name": "Davison",
         "street #": "179",
@@ -2880,7 +2881,6 @@ export const gbe = {
         sex: "male",
         "birth country": "England",
         race: "W",
-        "": "",
       },
     },
     {
@@ -2890,6 +2890,7 @@ export const gbe = {
         coordinates: [-84.3832045, 33.7584464],
       },
       properties: {
+        id: "26f1024e",
         "first name": "JP",
         "last name": "Day",
         "street #": "9",
@@ -2898,7 +2899,6 @@ export const gbe = {
         sex: "male",
         "birth country": "England",
         race: "W",
-        "": "",
       },
     },
     {
@@ -2908,6 +2908,7 @@ export const gbe = {
         coordinates: [-84.3908302, 33.7462575],
       },
       properties: {
+        id: "f5507dc8",
         "first name": "JB",
         "last name": "Denhard",
         "street #": "130",
@@ -2916,7 +2917,6 @@ export const gbe = {
         sex: "male",
         "birth country": "England",
         race: "W",
-        "": "",
       },
     },
     {
@@ -2926,6 +2926,7 @@ export const gbe = {
         coordinates: [-84.3945537, 33.740337],
       },
       properties: {
+        id: "78471483",
         "first name": "M",
         "last name": "Denman",
         "street #": "371",
@@ -2934,7 +2935,6 @@ export const gbe = {
         sex: "female",
         "birth country": "England",
         race: "W",
-        "": "",
       },
     },
     {
@@ -2944,6 +2944,7 @@ export const gbe = {
         coordinates: [-84.3779649, 33.7551733],
       },
       properties: {
+        id: "fe092682",
         "first name": "Marion",
         "last name": "Devere",
         "street #": "139",
@@ -2952,7 +2953,6 @@ export const gbe = {
         sex: "female",
         "birth country": "England",
         race: "W",
-        "": "",
       },
     },
     {
@@ -2962,6 +2962,7 @@ export const gbe = {
         coordinates: [-84.3729903, 33.7694327],
       },
       properties: {
+        id: "a775f312",
         "first name": "HF",
         "last name": "Downing",
         "street #": "457",
@@ -2970,7 +2971,6 @@ export const gbe = {
         sex: "female",
         "birth country": "England",
         race: "W",
-        "": "",
       },
     },
     {
@@ -2980,6 +2980,7 @@ export const gbe = {
         coordinates: [-84.3961623, 33.745606],
       },
       properties: {
+        id: "f23c4940",
         "first name": "Rebecca",
         "last name": "Drucker",
         "street #": "45",
@@ -2988,7 +2989,6 @@ export const gbe = {
         sex: "female",
         "birth country": "England",
         race: "W",
-        "": "",
       },
     },
     {
@@ -2998,6 +2998,7 @@ export const gbe = {
         coordinates: [-84.3703108, 33.7543038],
       },
       properties: {
+        id: "1deb6fe6",
         "first name": "MA",
         "last name": "Elliot",
         "street #": "420",
@@ -3006,7 +3007,6 @@ export const gbe = {
         sex: "female",
         "birth country": "England",
         race: "W",
-        "": "",
       },
     },
     {
@@ -3016,6 +3016,7 @@ export const gbe = {
         coordinates: [-84.3703108, 33.7543038],
       },
       properties: {
+        id: "683098ae",
         "first name": "Thos",
         "last name": "Elliot",
         "street #": "420",
@@ -3024,7 +3025,6 @@ export const gbe = {
         sex: "male",
         "birth country": "England",
         race: "W",
-        "": "",
       },
     },
     {
@@ -3034,6 +3034,7 @@ export const gbe = {
         coordinates: [-84.3941461, 33.7473269],
       },
       properties: {
+        id: "30d5fe27",
         "first name": "George",
         "last name": "Flagg",
         "street #": "174",
@@ -3042,7 +3043,6 @@ export const gbe = {
         sex: "male",
         "birth country": "England",
         race: "W",
-        "": "",
       },
     },
     {
@@ -3052,6 +3052,7 @@ export const gbe = {
         coordinates: [-84.3763304, 33.7468191],
       },
       properties: {
+        id: "8952b2da",
         "first name": "E",
         "last name": "Fletcher",
         "street #": "457",
@@ -3060,7 +3061,6 @@ export const gbe = {
         sex: "female",
         "birth country": "England",
         race: "W",
-        "": "",
       },
     },
     {
@@ -3070,6 +3070,7 @@ export const gbe = {
         coordinates: [-84.3763304, 33.7468191],
       },
       properties: {
+        id: "25d0d14c",
         "first name": "H",
         "last name": "Fletcher",
         "street #": "457",
@@ -3078,7 +3079,6 @@ export const gbe = {
         sex: "male",
         "birth country": "England",
         race: "W",
-        "": "",
       },
     },
     {
@@ -3088,6 +3088,7 @@ export const gbe = {
         coordinates: [-84.3763304, 33.7468191],
       },
       properties: {
+        id: "8a500d13",
         "first name": "HH",
         "last name": "Fletcher",
         "street #": "457",
@@ -3096,7 +3097,6 @@ export const gbe = {
         sex: "male",
         "birth country": "England",
         race: "W",
-        "": "",
       },
     },
     {
@@ -3106,6 +3106,7 @@ export const gbe = {
         coordinates: [-84.3763304, 33.7468191],
       },
       properties: {
+        id: "9d91ff71",
         "first name": "CH",
         "last name": "Fletcher",
         "street #": "457",
@@ -3114,7 +3115,6 @@ export const gbe = {
         sex: "male",
         "birth country": "England",
         race: "W",
-        "": "",
       },
     },
     {
@@ -3124,6 +3124,7 @@ export const gbe = {
         coordinates: [-84.3763304, 33.7468191],
       },
       properties: {
+        id: "d6ab38b8",
         "first name": "N",
         "last name": "Fletcher",
         "street #": "457",
@@ -3132,7 +3133,6 @@ export const gbe = {
         sex: "female",
         "birth country": "England",
         race: "W",
-        "": "",
       },
     },
     {
@@ -3142,6 +3142,7 @@ export const gbe = {
         coordinates: [-84.3763304, 33.7468191],
       },
       properties: {
+        id: "144a5509",
         "first name": "SE",
         "last name": "Fletcher",
         "street #": "457",
@@ -3150,7 +3151,6 @@ export const gbe = {
         sex: "female",
         "birth country": "England",
         race: "W",
-        "": "",
       },
     },
     {
@@ -3160,6 +3160,7 @@ export const gbe = {
         coordinates: [-84.3904465, 33.751139],
       },
       properties: {
+        id: "8546b6d5",
         "first name": "H",
         "last name": "Foster",
         "street #": "46",
@@ -3168,7 +3169,6 @@ export const gbe = {
         sex: "male",
         "birth country": "England",
         race: "W",
-        "": "",
       },
     },
     {
@@ -3178,6 +3178,7 @@ export const gbe = {
         coordinates: [-84.3911306, 33.7388259],
       },
       properties: {
+        id: "d41225a4",
         "first name": "M",
         "last name": "Frank",
         "street #": "341",
@@ -3186,7 +3187,6 @@ export const gbe = {
         sex: "female",
         "birth country": "England",
         race: "W",
-        "": "",
       },
     },
     {
@@ -3196,6 +3196,7 @@ export const gbe = {
         coordinates: [-84.3918158, 33.7574256],
       },
       properties: {
+        id: "db88a84b",
         "first name": "Thos",
         "last name": "Gamble",
         "street #": "76",
@@ -3204,7 +3205,6 @@ export const gbe = {
         sex: "male",
         "birth country": "England",
         race: "W",
-        "": "",
       },
     },
     {
@@ -3214,6 +3214,7 @@ export const gbe = {
         coordinates: [-84.3968124, 33.7483482],
       },
       properties: {
+        id: "20d1fce8",
         "first name": "Aaron",
         "last name": "Gershon",
         "street #": "46",
@@ -3222,7 +3223,6 @@ export const gbe = {
         sex: "male",
         "birth country": "England",
         race: "W",
-        "": "",
       },
     },
     {
@@ -3232,6 +3232,7 @@ export const gbe = {
         coordinates: [-84.3968124, 33.7483482],
       },
       properties: {
+        id: "2b01ccdb",
         "first name": "Rose",
         "last name": "Gershon",
         "street #": "46",
@@ -3240,7 +3241,6 @@ export const gbe = {
         sex: "female",
         "birth country": "England",
         race: "W",
-        "": "",
       },
     },
     {
@@ -3250,6 +3250,7 @@ export const gbe = {
         coordinates: [-84.4073206, 33.7492456],
       },
       properties: {
+        id: "d41968f2",
         "first name": "WH",
         "last name": "Gooddy",
         "street #": "237",
@@ -3258,7 +3259,6 @@ export const gbe = {
         sex: "male",
         "birth country": "England",
         race: "W",
-        "": "",
       },
     },
     {
@@ -3268,6 +3268,7 @@ export const gbe = {
         coordinates: [-84.38799, 33.7712341],
       },
       properties: {
+        id: "1b0df828",
         "first name": "AV",
         "last name": "Goode",
         "street #": "35",
@@ -3276,7 +3277,6 @@ export const gbe = {
         sex: "male",
         "birth country": "England",
         race: "W",
-        "": "",
       },
     },
     {
@@ -3286,6 +3286,7 @@ export const gbe = {
         coordinates: [-84.3826946, 33.7464581],
       },
       properties: {
+        id: "5ddffd00",
         "first name": "Mrs Geo",
         "last name": "Gown",
         "street #": "63",
@@ -3294,7 +3295,6 @@ export const gbe = {
         sex: "female",
         "birth country": "England",
         race: "W",
-        "": "",
       },
     },
     {
@@ -3304,6 +3304,7 @@ export const gbe = {
         coordinates: [-84.378214, 33.7499226],
       },
       properties: {
+        id: "919e7789",
         "first name": "WH",
         "last name": "Greene",
         "street #": "330",
@@ -3312,7 +3313,6 @@ export const gbe = {
         sex: "male",
         "birth country": "England",
         race: "W",
-        "": "",
       },
     },
     {
@@ -3322,6 +3322,7 @@ export const gbe = {
         coordinates: [-84.3733969, 33.7451257],
       },
       properties: {
+        id: "a0341f2f",
         "first name": "Carline",
         "last name": "Greenhalgh",
         "street #": "47",
@@ -3330,7 +3331,6 @@ export const gbe = {
         sex: "female",
         "birth country": "England",
         race: "W",
-        "": "",
       },
     },
     {
@@ -3340,6 +3340,7 @@ export const gbe = {
         coordinates: [-84.3733969, 33.7451257],
       },
       properties: {
+        id: "e171189b",
         "first name": "Thos",
         "last name": "Greenhalgh",
         "street #": "47",
@@ -3348,7 +3349,6 @@ export const gbe = {
         sex: "male",
         "birth country": "England",
         race: "W",
-        "": "",
       },
     },
     {
@@ -3358,6 +3358,7 @@ export const gbe = {
         coordinates: [-84.3852998, 33.7682769],
       },
       properties: {
+        id: "10e00b63",
         "first name": "Jas",
         "last name": "Guthrie",
         "street #": "458",
@@ -3366,7 +3367,6 @@ export const gbe = {
         sex: "male",
         "birth country": "England",
         race: "W",
-        "": "",
       },
     },
     {
@@ -3376,6 +3376,7 @@ export const gbe = {
         coordinates: [-84.3768738, 33.7585505],
       },
       properties: {
+        id: "fb0aae94",
         "first name": "Libbie",
         "last name": "Habbord",
         "street #": "250",
@@ -3384,7 +3385,6 @@ export const gbe = {
         sex: "female",
         "birth country": "England",
         race: "W",
-        "": "",
       },
     },
     {
@@ -3394,6 +3394,7 @@ export const gbe = {
         coordinates: [-84.3974835, 33.7504487],
       },
       properties: {
+        id: "4f8c634b",
         "first name": "GE",
         "last name": "Harbuck",
         "street #": "44",
@@ -3402,7 +3403,6 @@ export const gbe = {
         sex: "male",
         "birth country": "England",
         race: "W",
-        "": "",
       },
     },
     {
@@ -3412,6 +3412,7 @@ export const gbe = {
         coordinates: [-84.3876011, 33.7581579],
       },
       properties: {
+        id: "79aee3a4",
         "first name": "Arthur",
         "last name": "Harden",
         "street #": "173",
@@ -3420,7 +3421,6 @@ export const gbe = {
         sex: "male",
         "birth country": "England",
         race: "W",
-        "": "",
       },
     },
     {
@@ -3430,6 +3430,7 @@ export const gbe = {
         coordinates: [-84.3895343, 33.7622684],
       },
       properties: {
+        id: "6ef02a97",
         "first name": "AC",
         "last name": "Heaphy",
         "street #": "40",
@@ -3438,7 +3439,6 @@ export const gbe = {
         sex: "male",
         "birth country": "England",
         race: "W",
-        "": "",
       },
     },
     {
@@ -3448,6 +3448,7 @@ export const gbe = {
         coordinates: [-84.4122763, 33.7546894],
       },
       properties: {
+        id: "fa5b078c",
         "first name": "Richard",
         "last name": "Herbert",
         "street #": "388",
@@ -3456,7 +3457,6 @@ export const gbe = {
         sex: "male",
         "birth country": "England",
         race: "W",
-        "": "",
       },
     },
     {
@@ -3466,6 +3466,7 @@ export const gbe = {
         coordinates: [-84.3874188, 33.7624081],
       },
       properties: {
+        id: "664c7094",
         "first name": "AE",
         "last name": "Hirsch",
         "street #": "286",
@@ -3474,7 +3475,6 @@ export const gbe = {
         sex: "male",
         "birth country": "England",
         race: "W",
-        "": "",
       },
     },
     {
@@ -3484,6 +3484,7 @@ export const gbe = {
         coordinates: [-84.3874188, 33.7624081],
       },
       properties: {
+        id: "a50e948f",
         "first name": "Mrs",
         "last name": "Hirsch",
         "street #": "286",
@@ -3492,7 +3493,6 @@ export const gbe = {
         sex: "female",
         "birth country": "England",
         race: "W",
-        "": "",
       },
     },
     {
@@ -3502,6 +3502,7 @@ export const gbe = {
         coordinates: [-84.3862408, 33.7584107],
       },
       properties: {
+        id: "21a2276d",
         "first name": "Robt",
         "last name": "Hosking",
         "street #": "30",
@@ -3510,7 +3511,6 @@ export const gbe = {
         sex: "male",
         "birth country": "England",
         race: "W",
-        "": "",
       },
     },
     {
@@ -3520,6 +3520,7 @@ export const gbe = {
         coordinates: [-84.3868886, 33.7499741],
       },
       properties: {
+        id: "bf86d934",
         "first name": "ME",
         "last name": "Hoult",
         "street #": "13",
@@ -3528,7 +3529,6 @@ export const gbe = {
         sex: "female",
         "birth country": "England",
         race: "W",
-        "": "",
       },
     },
     {
@@ -3538,6 +3538,7 @@ export const gbe = {
         coordinates: [-84.3858707, 33.7529073],
       },
       properties: {
+        id: "fb18f8ae",
         "first name": "Max",
         "last name": "Jacobs",
         "street #": "43",
@@ -3546,7 +3547,6 @@ export const gbe = {
         sex: "male",
         "birth country": "England",
         race: "W",
-        "": "",
       },
     },
     {
@@ -3556,6 +3556,7 @@ export const gbe = {
         coordinates: [-84.3862391, 33.7520903],
       },
       properties: {
+        id: "be5f9ea1",
         "first name": "F",
         "last name": "Jaffa",
         "street #": "116",
@@ -3564,7 +3565,6 @@ export const gbe = {
         sex: "female",
         "birth country": "England",
         race: "W",
-        "": "",
       },
     },
     {
@@ -3574,6 +3574,7 @@ export const gbe = {
         coordinates: [-84.3891379, 33.7589465],
       },
       properties: {
+        id: "c0b3c6d5",
         "first name": "Wm A",
         "last name": "Jarvis",
         "street #": "39",
@@ -3582,7 +3583,6 @@ export const gbe = {
         sex: "male",
         "birth country": "England",
         race: "W",
-        "": "",
       },
     },
     {
@@ -3592,6 +3592,7 @@ export const gbe = {
         coordinates: [-84.3768318, 33.7577132],
       },
       properties: {
+        id: "560d06e7",
         "first name": "Emily",
         "last name": "Jarvis",
         "street #": "32",
@@ -3600,7 +3601,6 @@ export const gbe = {
         sex: "female",
         "birth country": "England",
         race: "W",
-        "": "",
       },
     },
     {
@@ -3610,6 +3610,7 @@ export const gbe = {
         coordinates: [-84.3957154, 33.7443927],
       },
       properties: {
+        id: "7b2d72b0",
         "first name": "Jas",
         "last name": "Johnson",
         "street #": "65",
@@ -3618,7 +3619,6 @@ export const gbe = {
         sex: "male",
         "birth country": "England",
         race: "W",
-        "": "",
       },
     },
     {
@@ -3628,6 +3628,7 @@ export const gbe = {
         coordinates: [-84.3842775, 33.7551195],
       },
       properties: {
+        id: "71f0ab31",
         "first name": "A",
         "last name": "Jones",
         "street #": "116",
@@ -3636,7 +3637,6 @@ export const gbe = {
         sex: "male",
         "birth country": "England",
         race: "W",
-        "": "",
       },
     },
     {
@@ -3646,6 +3646,7 @@ export const gbe = {
         coordinates: [-84.3801284, 33.7468771],
       },
       properties: {
+        id: "1f108174",
         "first name": "Robt",
         "last name": "Jones",
         "street #": "385",
@@ -3654,7 +3655,6 @@ export const gbe = {
         sex: "male",
         "birth country": "England",
         race: "W",
-        "": "",
       },
     },
     {
@@ -3664,6 +3664,7 @@ export const gbe = {
         coordinates: [-84.3862815, 33.7638219],
       },
       properties: {
+        id: "7cd650ea",
         "first name": "G",
         "last name": "Jones",
         "street #": "321",
@@ -3672,7 +3673,6 @@ export const gbe = {
         sex: "male",
         "birth country": "England",
         race: "W",
-        "": "",
       },
     },
     {
@@ -3682,6 +3682,7 @@ export const gbe = {
         coordinates: [-84.3862815, 33.7638219],
       },
       properties: {
+        id: "88e71d7e",
         "first name": "MK",
         "last name": "Jones",
         "street #": "321",
@@ -3690,7 +3691,6 @@ export const gbe = {
         sex: "female",
         "birth country": "England",
         race: "W",
-        "": "",
       },
     },
     {
@@ -3700,6 +3700,7 @@ export const gbe = {
         coordinates: [-84.3862815, 33.7638219],
       },
       properties: {
+        id: "f64cc625",
         "first name": "IC",
         "last name": "Jones",
         "street #": "321",
@@ -3708,7 +3709,6 @@ export const gbe = {
         sex: "male",
         "birth country": "England",
         race: "W",
-        "": "",
       },
     },
     {
@@ -3718,6 +3718,7 @@ export const gbe = {
         coordinates: [-84.3862815, 33.7638219],
       },
       properties: {
+        id: "c8481331",
         "first name": "LM",
         "last name": "Jones",
         "street #": "321",
@@ -3726,7 +3727,6 @@ export const gbe = {
         sex: "male",
         "birth country": "England",
         race: "W",
-        "": "",
       },
     },
     {
@@ -3736,6 +3736,7 @@ export const gbe = {
         coordinates: [-84.3862815, 33.7638219],
       },
       properties: {
+        id: "a0390bce",
         "first name": "EPW",
         "last name": "Jones",
         "street #": "321",
@@ -3744,7 +3745,6 @@ export const gbe = {
         sex: "male",
         "birth country": "England",
         race: "W",
-        "": "",
       },
     },
     {
@@ -3754,6 +3754,7 @@ export const gbe = {
         coordinates: [-84.4037105, 33.7430019],
       },
       properties: {
+        id: "9755ecaf",
         "first name": "WA",
         "last name": "Jones",
         "street #": "16",
@@ -3762,7 +3763,6 @@ export const gbe = {
         sex: "male",
         "birth country": "England",
         race: "W",
-        "": "",
       },
     },
     {
@@ -3772,6 +3772,7 @@ export const gbe = {
         coordinates: [-84.4037105, 33.7430019],
       },
       properties: {
+        id: "91b494e9",
         "first name": "WE",
         "last name": "Jones",
         "street #": "16",
@@ -3780,7 +3781,6 @@ export const gbe = {
         sex: "female",
         "birth country": "England",
         race: "W",
-        "": "",
       },
     },
     {
@@ -3790,6 +3790,7 @@ export const gbe = {
         coordinates: [-84.4032865, 33.7632596],
       },
       properties: {
+        id: "0294aafa",
         "first name": "Thomas",
         "last name": "Kane",
         "street #": "410",
@@ -3798,7 +3799,6 @@ export const gbe = {
         sex: "male",
         "birth country": "England",
         race: "W",
-        "": "",
       },
     },
     {
@@ -3808,6 +3808,7 @@ export const gbe = {
         coordinates: [-84.3878038, 33.7577508],
       },
       properties: {
+        id: "486157dd",
         "first name": "John",
         "last name": "Kelley",
         "street #": "138",
@@ -3816,7 +3817,6 @@ export const gbe = {
         sex: "male",
         "birth country": "England",
         race: "W",
-        "": "",
       },
     },
     {
@@ -3826,6 +3826,7 @@ export const gbe = {
         coordinates: [-84.3795641, 33.7482403],
       },
       properties: {
+        id: "7e0291f2",
         "first name": "Tom",
         "last name": "Kenny",
         "street #": "9",
@@ -3834,7 +3835,6 @@ export const gbe = {
         sex: "male",
         "birth country": "England",
         race: "W",
-        "": "",
       },
     },
     {
@@ -3844,6 +3844,7 @@ export const gbe = {
         coordinates: [-84.3852515, 33.768705],
       },
       properties: {
+        id: "a614c005",
         "first name": "S",
         "last name": "Knight",
         "street #": "478",
@@ -3852,7 +3853,6 @@ export const gbe = {
         sex: "female",
         "birth country": "England",
         race: "W",
-        "": "",
       },
     },
     {
@@ -3862,6 +3862,7 @@ export const gbe = {
         coordinates: [-84.3904465, 33.751139],
       },
       properties: {
+        id: "dbaf1e93",
         "first name": "Ed",
         "last name": "Lark",
         "street #": "46",
@@ -3870,7 +3871,6 @@ export const gbe = {
         sex: "male",
         "birth country": "England",
         race: "W",
-        "": "",
       },
     },
     {
@@ -3880,6 +3880,7 @@ export const gbe = {
         coordinates: [-84.3905613, 33.7598203],
       },
       properties: {
+        id: "98e8ec45",
         "first name": "May",
         "last name": "Larkin",
         "street #": "9",
@@ -3888,7 +3889,6 @@ export const gbe = {
         sex: "female",
         "birth country": "England",
         race: "W",
-        "": "",
       },
     },
     {
@@ -3898,6 +3898,7 @@ export const gbe = {
         coordinates: [-84.3874156, 33.752934],
       },
       properties: {
+        id: "3f5c278a",
         "first name": "WM",
         "last name": "Lockhart",
         "street #": "69",
@@ -3906,7 +3907,6 @@ export const gbe = {
         sex: "male",
         "birth country": "England",
         race: "W",
-        "": "",
       },
     },
     {
@@ -3916,6 +3916,7 @@ export const gbe = {
         coordinates: [-84.366364, 33.7460379],
       },
       properties: {
+        id: "f5e82b30",
         "first name": "S",
         "last name": "Long",
         "street #": "35",
@@ -3924,7 +3925,6 @@ export const gbe = {
         sex: "male",
         "birth country": "England",
         race: "W",
-        "": "",
       },
     },
     {
@@ -3934,6 +3934,7 @@ export const gbe = {
         coordinates: [-84.3970421, 33.745499],
       },
       properties: {
+        id: "147d04ec",
         "first name": "Sarah",
         "last name": "Lowenthal",
         "street #": "18",
@@ -3942,7 +3943,6 @@ export const gbe = {
         sex: "female",
         "birth country": "England",
         race: "W",
-        "": "",
       },
     },
     {
@@ -3952,6 +3952,7 @@ export const gbe = {
         coordinates: [-84.3889072, 33.7691426],
       },
       properties: {
+        id: "cb15f5cd",
         "first name": "Edward",
         "last name": "Lycette",
         "street #": "386",
@@ -3960,7 +3961,6 @@ export const gbe = {
         sex: "male",
         "birth country": "England",
         race: "W",
-        "": "",
       },
     },
     {
@@ -3970,6 +3970,7 @@ export const gbe = {
         coordinates: [-84.3889072, 33.7691426],
       },
       properties: {
+        id: "d34104d1",
         "first name": "Wm",
         "last name": "Lycette",
         "street #": "386",
@@ -3978,7 +3979,6 @@ export const gbe = {
         sex: "male",
         "birth country": "England",
         race: "W",
-        "": "",
       },
     },
     {
@@ -3988,6 +3988,7 @@ export const gbe = {
         coordinates: [-84.3774348, 33.7543573],
       },
       properties: {
+        id: "b376fff4",
         "first name": "EH",
         "last name": "Mackentin",
         "street #": "276",
@@ -3996,7 +3997,6 @@ export const gbe = {
         sex: "male",
         "birth country": "England",
         race: "W",
-        "": "",
       },
     },
     {
@@ -4006,6 +4006,7 @@ export const gbe = {
         coordinates: [-84.3727744, 33.7509485],
       },
       properties: {
+        id: "a25811c5",
         "first name": "Chas",
         "last name": "Mallinson",
         "street #": "462",
@@ -4014,7 +4015,6 @@ export const gbe = {
         sex: "male",
         "birth country": "England",
         race: "W",
-        "": "",
       },
     },
     {
@@ -4024,6 +4024,7 @@ export const gbe = {
         coordinates: [-84.3727744, 33.7509485],
       },
       properties: {
+        id: "4de79ab0",
         "first name": "Chas",
         "last name": "Mallinson",
         "street #": "462",
@@ -4032,7 +4033,6 @@ export const gbe = {
         sex: "male",
         "birth country": "England",
         race: "W",
-        "": "",
       },
     },
     {
@@ -4042,6 +4042,7 @@ export const gbe = {
         coordinates: [-84.3824105, 33.7523656],
       },
       properties: {
+        id: "e56629ed",
         "first name": "WT",
         "last name": "Meir",
         "street #": "48",
@@ -4050,7 +4051,6 @@ export const gbe = {
         sex: "male",
         "birth country": "England",
         race: "W",
-        "": "",
       },
     },
     {
@@ -4060,6 +4060,7 @@ export const gbe = {
         coordinates: [-84.3824105, 33.7523656],
       },
       properties: {
+        id: "3b78baa0",
         "first name": "LA",
         "last name": "Meir",
         "street #": "48",
@@ -4068,7 +4069,6 @@ export const gbe = {
         sex: "female",
         "birth country": "England",
         race: "W",
-        "": "",
       },
     },
     {
@@ -4078,6 +4078,7 @@ export const gbe = {
         coordinates: [-84.395085, 33.7483433],
       },
       properties: {
+        id: "c391a2b4",
         "first name": "AF",
         "last name": "Moreton",
         "street #": "183",
@@ -4086,7 +4087,6 @@ export const gbe = {
         sex: "female",
         "birth country": "England",
         race: "W",
-        "": "",
       },
     },
     {
@@ -4096,6 +4096,7 @@ export const gbe = {
         coordinates: [-84.4050151, 33.7444739],
       },
       properties: {
+        id: "30774c28",
         "first name": "TG",
         "last name": "Morgan",
         "street #": "305",
@@ -4104,7 +4105,6 @@ export const gbe = {
         sex: "male",
         "birth country": "England",
         race: "W",
-        "": "",
       },
     },
     {
@@ -4114,6 +4114,7 @@ export const gbe = {
         coordinates: [-84.3846892, 33.7521195],
       },
       properties: {
+        id: "f1c8fb65",
         "first name": "E",
         "last name": "Nevin",
         "street #": "33",
@@ -4122,7 +4123,6 @@ export const gbe = {
         sex: "female",
         "birth country": "England",
         race: "W",
-        "": "",
       },
     },
     {
@@ -4132,6 +4132,7 @@ export const gbe = {
         coordinates: [-84.4007921, 33.7615672],
       },
       properties: {
+        id: "b3037170",
         "first name": "Geo",
         "last name": "Newgent",
         "street #": "45",
@@ -4140,7 +4141,6 @@ export const gbe = {
         sex: "male",
         "birth country": "England",
         race: "W",
-        "": "",
       },
     },
     {
@@ -4150,6 +4150,7 @@ export const gbe = {
         coordinates: [-84.4007921, 33.7615672],
       },
       properties: {
+        id: "318188ff",
         "first name": "J",
         "last name": "Newgent",
         "street #": "45",
@@ -4158,7 +4159,6 @@ export const gbe = {
         sex: "female",
         "birth country": "England",
         race: "W",
-        "": "",
       },
     },
     {
@@ -4168,6 +4168,7 @@ export const gbe = {
         coordinates: [-84.3842185, 33.7592049],
       },
       properties: {
+        id: "ed10a392",
         "first name": "WH",
         "last name": "O'Klan",
         "street #": "227",
@@ -4176,7 +4177,6 @@ export const gbe = {
         sex: "male",
         "birth country": "England",
         race: "W",
-        "": "",
       },
     },
     {
@@ -4186,6 +4186,7 @@ export const gbe = {
         coordinates: [-84.3724036, 33.7467612],
       },
       properties: {
+        id: "63c7816f",
         "first name": "Collin",
         "last name": "Ogston",
         "street #": "501",
@@ -4194,7 +4195,6 @@ export const gbe = {
         sex: "male",
         "birth country": "England",
         race: "W",
-        "": "",
       },
     },
     {
@@ -4204,6 +4204,7 @@ export const gbe = {
         coordinates: [-84.3724036, 33.7467612],
       },
       properties: {
+        id: "d6b98dff",
         "first name": "Wm C",
         "last name": "Ogston",
         "street #": "501",
@@ -4212,7 +4213,6 @@ export const gbe = {
         sex: "female",
         "birth country": "England",
         race: "W",
-        "": "",
       },
     },
     {
@@ -4222,6 +4222,7 @@ export const gbe = {
         coordinates: [-84.3736061, 33.7305294],
       },
       properties: {
+        id: "a9f50c94",
         "first name": "JW",
         "last name": "Oldknow",
         "street #": "139",
@@ -4230,7 +4231,6 @@ export const gbe = {
         sex: "male",
         "birth country": "England",
         race: "W",
-        "": "",
       },
     },
     {
@@ -4240,6 +4240,7 @@ export const gbe = {
         coordinates: [-84.3904462, 33.7597085],
       },
       properties: {
+        id: "cae5365b",
         "first name": "WH",
         "last name": "Oldknow",
         "street #": "61",
@@ -4248,7 +4249,6 @@ export const gbe = {
         sex: "male",
         "birth country": "England",
         race: "W",
-        "": "",
       },
     },
     {
@@ -4258,6 +4258,7 @@ export const gbe = {
         coordinates: [-84.3904462, 33.7597085],
       },
       properties: {
+        id: "b7ffb32e",
         "first name": "NB",
         "last name": "Oldknow",
         "street #": "61",
@@ -4266,7 +4267,6 @@ export const gbe = {
         sex: "female",
         "birth country": "England",
         race: "W",
-        "": "",
       },
     },
     {
@@ -4276,6 +4276,7 @@ export const gbe = {
         coordinates: [-84.3914983, 33.7368402],
       },
       properties: {
+        id: "977943fe",
         "first name": "GW",
         "last name": "Oliver",
         "street #": "85",
@@ -4284,7 +4285,6 @@ export const gbe = {
         sex: "male",
         "birth country": "England",
         race: "W",
-        "": "",
       },
     },
     {
@@ -4294,6 +4294,7 @@ export const gbe = {
         coordinates: [-84.3764432, 33.7456835],
       },
       properties: {
+        id: "24fb72ae",
         "first name": "EP",
         "last name": "Oliver",
         "street #": "94",
@@ -4302,7 +4303,6 @@ export const gbe = {
         sex: "female",
         "birth country": "England",
         race: "W",
-        "": "",
       },
     },
     {
@@ -4312,6 +4312,7 @@ export const gbe = {
         coordinates: [-84.3764432, 33.7456835],
       },
       properties: {
+        id: "797a74bd",
         "first name": "JW",
         "last name": "Oliver",
         "street #": "94",
@@ -4320,7 +4321,6 @@ export const gbe = {
         sex: "female",
         "birth country": "England",
         race: "W",
-        "": "",
       },
     },
     {
@@ -4330,6 +4330,7 @@ export const gbe = {
         coordinates: [-84.4063328, 33.7480012],
       },
       properties: {
+        id: "47a96c6d",
         "first name": "CJ",
         "last name": "Oliver",
         "street #": "77",
@@ -4338,7 +4339,6 @@ export const gbe = {
         sex: "male",
         "birth country": "England",
         race: "W",
-        "": "",
       },
     },
     {
@@ -4348,6 +4348,7 @@ export const gbe = {
         coordinates: [-84.4020276, 33.7568465],
       },
       properties: {
+        id: "1b08073b",
         "first name": "Annie",
         "last name": "Orr",
         "street #": "117",
@@ -4356,7 +4357,6 @@ export const gbe = {
         sex: "female",
         "birth country": "England",
         race: "W",
-        "": "",
       },
     },
     {
@@ -4366,6 +4366,7 @@ export const gbe = {
         coordinates: [-84.3888322, 33.7586343],
       },
       properties: {
+        id: "a458cc85",
         "first name": "John",
         "last name": "Owens",
         "street #": "32",
@@ -4374,7 +4375,6 @@ export const gbe = {
         sex: "male",
         "birth country": "England",
         race: "W",
-        "": "",
       },
     },
     {
@@ -4384,6 +4384,7 @@ export const gbe = {
         coordinates: [-84.4023002, 33.7443689],
       },
       properties: {
+        id: "a841b525",
         "first name": "JW",
         "last name": "Owings",
         "street #": "394",
@@ -4392,7 +4393,6 @@ export const gbe = {
         sex: "female",
         "birth country": "England",
         race: "W",
-        "": "",
       },
     },
     {
@@ -4402,6 +4402,7 @@ export const gbe = {
         coordinates: [-84.3922363, 33.7497712],
       },
       properties: {
+        id: "406badcf",
         "first name": "John",
         "last name": "Partons",
         "street #": "96",
@@ -4410,7 +4411,6 @@ export const gbe = {
         sex: "male",
         "birth country": "England",
         race: "W",
-        "": "",
       },
     },
     {
@@ -4420,6 +4420,7 @@ export const gbe = {
         coordinates: [-84.3922363, 33.7497712],
       },
       properties: {
+        id: "00e0c803",
         "first name": "Mary",
         "last name": "Partons",
         "street #": "96",
@@ -4428,7 +4429,6 @@ export const gbe = {
         sex: "female",
         "birth country": "England",
         race: "W",
-        "": "",
       },
     },
     {
@@ -4438,6 +4438,7 @@ export const gbe = {
         coordinates: [-84.3877716, 33.7458657],
       },
       properties: {
+        id: "0e8fd003",
         "first name": "Mrs HM",
         "last name": "Patterson",
         "street #": "97",
@@ -4446,7 +4447,6 @@ export const gbe = {
         sex: "female",
         "birth country": "England",
         race: "W",
-        "": "",
       },
     },
     {
@@ -4456,6 +4456,7 @@ export const gbe = {
         coordinates: [-84.3877716, 33.7458657],
       },
       properties: {
+        id: "4567abfa",
         "first name": "Fred",
         "last name": "Patterson",
         "street #": "97",
@@ -4464,7 +4465,6 @@ export const gbe = {
         sex: "male",
         "birth country": "England",
         race: "W",
-        "": "",
       },
     },
     {
@@ -4474,6 +4474,7 @@ export const gbe = {
         coordinates: [-84.3878682, 33.7363463],
       },
       properties: {
+        id: "b4f30f79",
         "first name": "Eliza",
         "last name": "Paxon",
         "street #": "353",
@@ -4482,7 +4483,6 @@ export const gbe = {
         sex: "female",
         "birth country": "England",
         race: "W",
-        "": "",
       },
     },
     {
@@ -4492,6 +4492,7 @@ export const gbe = {
         coordinates: [-84.3911254, 33.7580537],
       },
       properties: {
+        id: "603b576c",
         "first name": "Maud",
         "last name": "Pearson",
         "street #": "72",
@@ -4500,7 +4501,6 @@ export const gbe = {
         sex: "female",
         "birth country": "England",
         race: "W",
-        "": "",
       },
     },
     {
@@ -4510,6 +4510,7 @@ export const gbe = {
         coordinates: [-84.3889556, 33.7587592],
       },
       properties: {
+        id: "367f8c29",
         "first name": "Elizabeth",
         "last name": "Penning",
         "street #": "35",
@@ -4518,7 +4519,6 @@ export const gbe = {
         sex: "female",
         "birth country": "England",
         race: "W",
-        "": "",
       },
     },
     {
@@ -4528,6 +4528,7 @@ export const gbe = {
         coordinates: [-84.3914768, 33.7558282],
       },
       properties: {
+        id: "33620a65",
         "first name": "Emma",
         "last name": "Perry",
         "street #": "66",
@@ -4536,7 +4537,6 @@ export const gbe = {
         sex: "female",
         "birth country": "England",
         race: "W",
-        "": "",
       },
     },
     {
@@ -4546,6 +4546,7 @@ export const gbe = {
         coordinates: [-84.3750152, 33.759633],
       },
       properties: {
+        id: "9c0bb57c",
         "first name": "JH",
         "last name": "Petherich",
         "street #": "271",
@@ -4554,7 +4555,6 @@ export const gbe = {
         sex: "male",
         "birth country": "England",
         race: "W",
-        "": "",
       },
     },
     {
@@ -4564,6 +4564,7 @@ export const gbe = {
         coordinates: [-84.3940693, 33.7625793],
       },
       properties: {
+        id: "8f129129",
         "first name": "AB",
         "last name": "Philips",
         "street #": "16",
@@ -4572,7 +4573,6 @@ export const gbe = {
         sex: "male",
         "birth country": "England",
         race: "W",
-        "": "",
       },
     },
     {
@@ -4582,6 +4582,7 @@ export const gbe = {
         coordinates: [-84.4017895, 33.7416205],
       },
       properties: {
+        id: "2cac2f0d",
         "first name": "RE",
         "last name": "Pierce",
         "street #": "84",
@@ -4590,7 +4591,6 @@ export const gbe = {
         sex: "male",
         "birth country": "England",
         race: "W",
-        "": "",
       },
     },
     {
@@ -4600,6 +4600,7 @@ export const gbe = {
         coordinates: [-84.4017895, 33.7416205],
       },
       properties: {
+        id: "f877c2bb",
         "first name": "Mrs RE",
         "last name": "Pierce",
         "street #": "84",
@@ -4608,7 +4609,6 @@ export const gbe = {
         sex: "female",
         "birth country": "England",
         race: "W",
-        "": "",
       },
     },
     {
@@ -4618,6 +4618,7 @@ export const gbe = {
         coordinates: [-84.3718987, 33.7543038],
       },
       properties: {
+        id: "a3205472",
         "first name": "TW",
         "last name": "Pitts",
         "street #": "408",
@@ -4626,7 +4627,6 @@ export const gbe = {
         sex: "male",
         "birth country": "England",
         race: "W",
-        "": "",
       },
     },
     {
@@ -4636,6 +4636,7 @@ export const gbe = {
         coordinates: [-84.3909076, 33.7597219],
       },
       properties: {
+        id: "156310a1",
         "first name": "Chas",
         "last name": "Powell",
         "street #": "89",
@@ -4644,7 +4645,6 @@ export const gbe = {
         sex: "male",
         "birth country": "England",
         race: "W",
-        "": "",
       },
     },
     {
@@ -4654,6 +4654,7 @@ export const gbe = {
         coordinates: [-84.3876011, 33.7581],
       },
       properties: {
+        id: "e98e2e77",
         "first name": "BA",
         "last name": "Pugin",
         "street #": "172",
@@ -4662,7 +4663,6 @@ export const gbe = {
         sex: "male",
         "birth country": "England",
         race: "W",
-        "": "",
       },
     },
     {
@@ -4672,6 +4672,7 @@ export const gbe = {
         coordinates: [-84.384079, 33.7695957],
       },
       properties: {
+        id: "ae383441",
         "first name": "GH",
         "last name": "Purvis",
         "street #": "497",
@@ -4680,7 +4681,6 @@ export const gbe = {
         sex: "male",
         "birth country": "England",
         race: "W",
-        "": "",
       },
     },
     {
@@ -4690,6 +4690,7 @@ export const gbe = {
         coordinates: [-84.3957368, 33.7417788],
       },
       properties: {
+        id: "5a1cc73c",
         "first name": "JW",
         "last name": "Reddey",
         "street #": "136",
@@ -4698,7 +4699,6 @@ export const gbe = {
         sex: "male",
         "birth country": "England",
         race: "W",
-        "": "",
       },
     },
     {
@@ -4708,6 +4708,7 @@ export const gbe = {
         coordinates: [-84.3935281, 33.761061],
       },
       properties: {
+        id: "a1c24709",
         "first name": "Margaret",
         "last name": "Reed",
         "street #": "27",
@@ -4716,7 +4717,6 @@ export const gbe = {
         sex: "female",
         "birth country": "England",
         race: "W",
-        "": "",
       },
     },
     {
@@ -4726,6 +4726,7 @@ export const gbe = {
         coordinates: [-84.3935281, 33.761061],
       },
       properties: {
+        id: "43310c89",
         "first name": "L Thos",
         "last name": "Reed",
         "street #": "27",
@@ -4734,7 +4735,6 @@ export const gbe = {
         sex: "male",
         "birth country": "England",
         race: "W",
-        "": "",
       },
     },
     {
@@ -4744,6 +4744,7 @@ export const gbe = {
         coordinates: [-84.370102, 33.7454945],
       },
       properties: {
+        id: "d670f976",
         "first name": "James",
         "last name": "Rice",
         "street #": "568",
@@ -4752,7 +4753,6 @@ export const gbe = {
         sex: "male",
         "birth country": "England",
         race: "W",
-        "": "",
       },
     },
     {
@@ -4762,6 +4762,7 @@ export const gbe = {
         coordinates: [-84.3998559, 33.7423161],
       },
       properties: {
+        id: "5c22f47c",
         "first name": "WN",
         "last name": "Robinson",
         "street #": "154",
@@ -4770,7 +4771,6 @@ export const gbe = {
         sex: "male",
         "birth country": "England",
         race: "W",
-        "": "",
       },
     },
     {
@@ -4780,6 +4780,7 @@ export const gbe = {
         coordinates: [-84.3860416, 33.7607367],
       },
       properties: {
+        id: "e5ecdf99",
         "first name": "Mrs",
         "last name": "Rose",
         "street #": "207",
@@ -4788,7 +4789,6 @@ export const gbe = {
         sex: "female",
         "birth country": "England",
         race: "W",
-        "": "",
       },
     },
     {
@@ -4798,6 +4798,7 @@ export const gbe = {
         coordinates: [-84.3943763, 33.7285425],
       },
       properties: {
+        id: "ebb64cac",
         "first name": "Annie",
         "last name": "Russell",
         "street #": "24",
@@ -4806,7 +4807,6 @@ export const gbe = {
         sex: "female",
         "birth country": "England",
         race: "W",
-        "": "",
       },
     },
     {
@@ -4816,6 +4816,7 @@ export const gbe = {
         coordinates: [-84.3823991, 33.7570876],
       },
       properties: {
+        id: "e5f89c1a",
         "first name": "Elsie",
         "last name": "Sade",
         "street #": "120",
@@ -4824,7 +4825,6 @@ export const gbe = {
         sex: "female",
         "birth country": "England",
         race: "W",
-        "": "",
       },
     },
     {
@@ -4834,6 +4834,7 @@ export const gbe = {
         coordinates: [-84.3882964, 33.7723756],
       },
       properties: {
+        id: "0e34e83d",
         "first name": "JH",
         "last name": "Sands",
         "street #": "22",
@@ -4842,7 +4843,6 @@ export const gbe = {
         sex: "female",
         "birth country": "England",
         race: "W",
-        "": "",
       },
     },
     {
@@ -4852,6 +4852,7 @@ export const gbe = {
         coordinates: [-84.3996321, 33.7709744],
       },
       properties: {
+        id: "b79042f5",
         "first name": "John",
         "last name": "Sangton",
         "street #": "373",
@@ -4860,7 +4861,6 @@ export const gbe = {
         sex: "male",
         "birth country": "England",
         race: "W",
-        "": "",
       },
     },
     {
@@ -4870,6 +4870,7 @@ export const gbe = {
         coordinates: [-84.3918158, 33.7574256],
       },
       properties: {
+        id: "9ad7de18",
         "first name": "JH",
         "last name": "Schrimpton",
         "street #": "76",
@@ -4878,7 +4879,6 @@ export const gbe = {
         sex: "male",
         "birth country": "England",
         race: "W",
-        "": "",
       },
     },
     {
@@ -4888,6 +4888,7 @@ export const gbe = {
         coordinates: [-84.3822216, 33.7578953],
       },
       properties: {
+        id: "08c7f78b",
         "first name": "FW",
         "last name": "Shannon",
         "street #": "198",
@@ -4896,7 +4897,6 @@ export const gbe = {
         sex: "male",
         "birth country": "England",
         race: "W",
-        "": "",
       },
     },
     {
@@ -4906,6 +4906,7 @@ export const gbe = {
         coordinates: [-84.3692786, 33.7613313],
       },
       properties: {
+        id: "366d719f",
         "first name": "Robert",
         "last name": "Sharp",
         "street #": "200",
@@ -4914,7 +4915,6 @@ export const gbe = {
         sex: "male",
         "birth country": "England",
         race: "W",
-        "": "",
       },
     },
     {
@@ -4924,6 +4924,7 @@ export const gbe = {
         coordinates: [-84.3960768, 33.7700441],
       },
       properties: {
+        id: "49f73b75",
         "first name": "WC",
         "last name": "Shearer",
         "street #": "435",
@@ -4932,7 +4933,6 @@ export const gbe = {
         sex: "male",
         "birth country": "England",
         race: "W",
-        "": "",
       },
     },
     {
@@ -4942,6 +4942,7 @@ export const gbe = {
         coordinates: [-84.3695711, 33.7600352],
       },
       properties: {
+        id: "36000802",
         "first name": "Joseph",
         "last name": "Sixsmith",
         "street #": "79",
@@ -4950,7 +4951,6 @@ export const gbe = {
         sex: "male",
         "birth country": "England",
         race: "W",
-        "": "",
       },
     },
     {
@@ -4960,6 +4960,7 @@ export const gbe = {
         coordinates: [-84.3332088, 33.7489803],
       },
       properties: {
+        id: "2bfcdaf0",
         "first name": "R",
         "last name": "Slawwin",
         "street #": "69",
@@ -4968,7 +4969,6 @@ export const gbe = {
         sex: "male",
         "birth country": "England",
         race: "W",
-        "": "",
       },
     },
     {
@@ -4978,6 +4978,7 @@ export const gbe = {
         coordinates: [-84.3772447, 33.7474102],
       },
       properties: {
+        id: "7e265271",
         "first name": "Geo B",
         "last name": "Smith",
         "street #": "367",
@@ -4986,7 +4987,6 @@ export const gbe = {
         sex: "male",
         "birth country": "England",
         race: "W",
-        "": "",
       },
     },
     {
@@ -4996,6 +4996,7 @@ export const gbe = {
         coordinates: [-84.4068535, 33.7391164],
       },
       properties: {
+        id: "b095c1ad",
         "first name": "George",
         "last name": "Smith",
         "street #": "21",
@@ -5004,7 +5005,6 @@ export const gbe = {
         sex: "male",
         "birth country": "England",
         race: "W",
-        "": "",
       },
     },
     {
@@ -5014,6 +5014,7 @@ export const gbe = {
         coordinates: [-84.4068535, 33.7391164],
       },
       properties: {
+        id: "bb8d5b32",
         "first name": "Mrs AM",
         "last name": "Smith",
         "street #": "21",
@@ -5022,7 +5023,6 @@ export const gbe = {
         sex: "female",
         "birth country": "England",
         race: "W",
-        "": "",
       },
     },
     {
@@ -5032,6 +5032,7 @@ export const gbe = {
         coordinates: [-84.3934865, 33.7503505],
       },
       properties: {
+        id: "464711d2",
         "first name": "Mrs May",
         "last name": "Smith",
         "street #": "118 1/2",
@@ -5040,7 +5041,6 @@ export const gbe = {
         sex: "female",
         "birth country": "England",
         race: "W",
-        "": "",
       },
     },
     {
@@ -5050,6 +5050,7 @@ export const gbe = {
         coordinates: [-84.3720434, 33.7607741],
       },
       properties: {
+        id: "23b94225",
         "first name": "NC",
         "last name": "Spence",
         "street #": "251",
@@ -5058,7 +5059,6 @@ export const gbe = {
         sex: "male",
         "birth country": "England",
         race: "W",
-        "": "",
       },
     },
     {
@@ -5068,6 +5068,7 @@ export const gbe = {
         coordinates: [-84.3960473, 33.736867],
       },
       properties: {
+        id: "901be648",
         "first name": "Nancy",
         "last name": "Spencer",
         "street #": "26",
@@ -5076,7 +5077,6 @@ export const gbe = {
         sex: "female",
         "birth country": "England",
         race: "W",
-        "": "",
       },
     },
     {
@@ -5086,6 +5086,7 @@ export const gbe = {
         coordinates: [-84.3877073, 33.7472931],
       },
       properties: {
+        id: "e32c86d1",
         "first name": "D",
         "last name": "Sperling",
         "street #": "66",
@@ -5094,7 +5095,6 @@ export const gbe = {
         sex: "male",
         "birth country": "England",
         race: "W",
-        "": "",
       },
     },
     {
@@ -5104,6 +5104,7 @@ export const gbe = {
         coordinates: [-84.4021685, 33.7549231],
       },
       properties: {
+        id: "85034b05",
         "first name": "WE",
         "last name": "Stanley",
         "street #": "68",
@@ -5112,7 +5113,6 @@ export const gbe = {
         sex: "male",
         "birth country": "England",
         race: "W",
-        "": "",
       },
     },
     {
@@ -5122,6 +5122,7 @@ export const gbe = {
         coordinates: [-84.3874133, 33.7469039],
       },
       properties: {
+        id: "307ff46c",
         "first name": "MJ",
         "last name": "Starer",
         "street #": "216",
@@ -5130,7 +5131,6 @@ export const gbe = {
         sex: "female",
         "birth country": "England",
         race: "W",
-        "": "",
       },
     },
     {
@@ -5140,6 +5140,7 @@ export const gbe = {
         coordinates: [-84.3874133, 33.7469039],
       },
       properties: {
+        id: "19428f08",
         "first name": "H",
         "last name": "Starer",
         "street #": "216",
@@ -5148,7 +5149,6 @@ export const gbe = {
         sex: "male",
         "birth country": "England",
         race: "W",
-        "": "",
       },
     },
     {
@@ -5158,6 +5158,7 @@ export const gbe = {
         coordinates: [-84.3874133, 33.7469039],
       },
       properties: {
+        id: "a7651c1a",
         "first name": "ME",
         "last name": "Starer",
         "street #": "216",
@@ -5166,7 +5167,6 @@ export const gbe = {
         sex: "female",
         "birth country": "England",
         race: "W",
-        "": "",
       },
     },
     {
@@ -5176,6 +5176,7 @@ export const gbe = {
         coordinates: [-84.3797781, 33.750887],
       },
       properties: {
+        id: "43e724de",
         "first name": "I",
         "last name": "Stayer",
         "street #": "170",
@@ -5184,7 +5185,6 @@ export const gbe = {
         sex: "male",
         "birth country": "England",
         race: "W",
-        "": "",
       },
     },
     {
@@ -5194,6 +5194,7 @@ export const gbe = {
         coordinates: [-84.3797781, 33.750887],
       },
       properties: {
+        id: "3a3e86a4",
         "first name": "Fannie",
         "last name": "Stayer",
         "street #": "170",
@@ -5202,7 +5203,6 @@ export const gbe = {
         sex: "female",
         "birth country": "England",
         race: "W",
-        "": "",
       },
     },
     {
@@ -5212,6 +5212,7 @@ export const gbe = {
         coordinates: [-84.3797781, 33.750887],
       },
       properties: {
+        id: "8fd62d1a",
         "first name": "Jennie",
         "last name": "Stayer",
         "street #": "170",
@@ -5220,7 +5221,6 @@ export const gbe = {
         sex: "female",
         "birth country": "England",
         race: "W",
-        "": "",
       },
     },
     {
@@ -5230,6 +5230,7 @@ export const gbe = {
         coordinates: [-84.387213, 33.7648538],
       },
       properties: {
+        id: "c7ba22d5",
         "first name": "Nora",
         "last name": "Sterling",
         "street #": "13",
@@ -5238,7 +5239,6 @@ export const gbe = {
         sex: "female",
         "birth country": "England",
         race: "W",
-        "": "",
       },
     },
     {
@@ -5248,6 +5248,7 @@ export const gbe = {
         coordinates: [-84.387213, 33.7648538],
       },
       properties: {
+        id: "72722436",
         "first name": "JN",
         "last name": "Sterling",
         "street #": "13",
@@ -5256,7 +5257,6 @@ export const gbe = {
         sex: "female",
         "birth country": "England",
         race: "W",
-        "": "",
       },
     },
     {
@@ -5266,6 +5266,7 @@ export const gbe = {
         coordinates: [-84.3925528, 33.7423845],
       },
       properties: {
+        id: "e04f29ea",
         "first name": "John",
         "last name": "Still",
         "street #": "124",
@@ -5274,7 +5275,6 @@ export const gbe = {
         sex: "male",
         "birth country": "England",
         race: "W",
-        "": "",
       },
     },
     {
@@ -5284,6 +5284,7 @@ export const gbe = {
         coordinates: [-84.3872009, 33.7555764],
       },
       properties: {
+        id: "5b559a7b",
         "first name": "Mrs",
         "last name": "Stuart",
         "street #": "27",
@@ -5292,7 +5293,6 @@ export const gbe = {
         sex: "female",
         "birth country": "England",
         race: "W",
-        "": "",
       },
     },
     {
@@ -5302,6 +5302,7 @@ export const gbe = {
         coordinates: [-84.3945537, 33.7393913],
       },
       properties: {
+        id: "ecba4dce",
         "first name": "MA",
         "last name": "Supple",
         "street #": "392",
@@ -5310,7 +5311,6 @@ export const gbe = {
         sex: "female",
         "birth country": "England",
         race: "W",
-        "": "",
       },
     },
     {
@@ -5320,6 +5320,7 @@ export const gbe = {
         coordinates: [-84.3898152, 33.765312],
       },
       properties: {
+        id: "123b4435",
         "first name": "WW",
         "last name": "Swanson",
         "street #": "56",
@@ -5328,7 +5329,6 @@ export const gbe = {
         sex: "male",
         "birth country": "England",
         race: "W",
-        "": "",
       },
     },
     {
@@ -5338,6 +5338,7 @@ export const gbe = {
         coordinates: [-84.3771321, 33.7614116],
       },
       properties: {
+        id: "19a0f573",
         "first name": "WB",
         "last name": "Symmers",
         "street #": "9",
@@ -5346,7 +5347,6 @@ export const gbe = {
         sex: "male",
         "birth country": "England",
         race: "W",
-        "": "",
       },
     },
     {
@@ -5356,6 +5356,7 @@ export const gbe = {
         coordinates: [-84.3979819, 33.748881],
       },
       properties: {
+        id: "3d13727b",
         "first name": "Mrs MJ",
         "last name": "Taske",
         "street #": "167",
@@ -5364,7 +5365,6 @@ export const gbe = {
         sex: "female",
         "birth country": "England",
         race: "W",
-        "": "",
       },
     },
     {
@@ -5374,6 +5374,7 @@ export const gbe = {
         coordinates: [-84.3979819, 33.748881],
       },
       properties: {
+        id: "aa79d653",
         "first name": "George",
         "last name": "Taske",
         "street #": "167",
@@ -5382,7 +5383,6 @@ export const gbe = {
         sex: "male",
         "birth country": "England",
         race: "W",
-        "": "",
       },
     },
     {
@@ -5392,6 +5392,7 @@ export const gbe = {
         coordinates: [-84.3979819, 33.748881],
       },
       properties: {
+        id: "bed2ed2e",
         "first name": "John",
         "last name": "Taske",
         "street #": "167",
@@ -5400,7 +5401,6 @@ export const gbe = {
         sex: "male",
         "birth country": "England",
         race: "W",
-        "": "",
       },
     },
     {
@@ -5410,6 +5410,7 @@ export const gbe = {
         coordinates: [-84.3979819, 33.748881],
       },
       properties: {
+        id: "81fbe72a",
         "first name": "Fred",
         "last name": "Taske",
         "street #": "167",
@@ -5418,7 +5419,6 @@ export const gbe = {
         sex: "male",
         "birth country": "England",
         race: "W",
-        "": "",
       },
     },
     {
@@ -5428,6 +5428,7 @@ export const gbe = {
         coordinates: [-84.394674, 33.7595745],
       },
       properties: {
+        id: "5b4e85ef",
         "first name": "Eliza",
         "last name": "Toller",
         "street #": "216",
@@ -5436,7 +5437,6 @@ export const gbe = {
         sex: "female",
         "birth country": "England",
         race: "W",
-        "": "",
       },
     },
     {
@@ -5446,6 +5446,7 @@ export const gbe = {
         coordinates: [-84.3738277, 33.7576953],
       },
       properties: {
+        id: "72530545",
         "first name": "Lavonia",
         "last name": "Traman",
         "street #": "104",
@@ -5454,7 +5455,6 @@ export const gbe = {
         sex: "female",
         "birth country": "England",
         race: "W",
-        "": "",
       },
     },
     {
@@ -5464,6 +5464,7 @@ export const gbe = {
         coordinates: [-84.3697594, 33.7541032],
       },
       properties: {
+        id: "8b8ecd04",
         "first name": "Louise",
         "last name": "Trambly",
         "street #": "59",
@@ -5472,7 +5473,6 @@ export const gbe = {
         sex: "female",
         "birth country": "England",
         race: "W",
-        "": "",
       },
     },
     {
@@ -5482,6 +5482,7 @@ export const gbe = {
         coordinates: [-84.3945913, 33.7369779],
       },
       properties: {
+        id: "57d3a4ff",
         "first name": "L",
         "last name": "Valentine",
         "street #": "454",
@@ -5490,7 +5491,6 @@ export const gbe = {
         sex: "female",
         "birth country": "England",
         race: "W",
-        "": "",
       },
     },
     {
@@ -5500,6 +5500,7 @@ export const gbe = {
         coordinates: [-84.3793059, 33.7641179],
       },
       properties: {
+        id: "3a81692d",
         "first name": "Ann",
         "last name": "Virtue",
         "street #": "258",
@@ -5508,7 +5509,6 @@ export const gbe = {
         sex: "female",
         "birth country": "England",
         race: "W",
-        "": "",
       },
     },
     {
@@ -5518,6 +5518,7 @@ export const gbe = {
         coordinates: [-84.4015601, 33.7580685],
       },
       properties: {
+        id: "8fa75733",
         "first name": "Will",
         "last name": "Walton",
         "street #": "185",
@@ -5526,7 +5527,6 @@ export const gbe = {
         sex: "male",
         "birth country": "England",
         race: "W",
-        "": "",
       },
     },
     {
@@ -5536,6 +5536,7 @@ export const gbe = {
         coordinates: [-84.4015471, 33.7556583],
       },
       properties: {
+        id: "13c88aff",
         "first name": "AC",
         "last name": "Ward",
         "street #": "175",
@@ -5544,7 +5545,6 @@ export const gbe = {
         sex: "male",
         "birth country": "England",
         race: "W",
-        "": "",
       },
     },
     {
@@ -5554,6 +5554,7 @@ export const gbe = {
         coordinates: [-84.3922905, 33.747596],
       },
       properties: {
+        id: "49cad86d",
         "first name": "Fred",
         "last name": "Warde",
         "street #": "168",
@@ -5562,7 +5563,6 @@ export const gbe = {
         sex: "male",
         "birth country": "England",
         race: "W",
-        "": "",
       },
     },
     {
@@ -5572,6 +5572,7 @@ export const gbe = {
         coordinates: [-84.3954215, 33.7743069],
       },
       properties: {
+        id: "fff20ac2",
         "first name": "Ethel",
         "last name": "Wheals",
         "street #": "62",
@@ -5580,7 +5581,6 @@ export const gbe = {
         sex: "female",
         "birth country": "England",
         race: "W",
-        "": "",
       },
     },
     {
@@ -5590,6 +5590,7 @@ export const gbe = {
         coordinates: [-84.3954215, 33.7743069],
       },
       properties: {
+        id: "4b3ac77f",
         "first name": "Mina",
         "last name": "Wheals",
         "street #": "62",
@@ -5598,7 +5599,6 @@ export const gbe = {
         sex: "female",
         "birth country": "England",
         race: "W",
-        "": "",
       },
     },
     {
@@ -5608,6 +5608,7 @@ export const gbe = {
         coordinates: [-84.3954215, 33.7743069],
       },
       properties: {
+        id: "c1a8c425",
         "first name": "Alexander",
         "last name": "Wheals",
         "street #": "62",
@@ -5616,7 +5617,6 @@ export const gbe = {
         sex: "male",
         "birth country": "England",
         race: "W",
-        "": "",
       },
     },
     {
@@ -5626,6 +5626,7 @@ export const gbe = {
         coordinates: [-84.384005, 33.7654967],
       },
       properties: {
+        id: "3416c6b1",
         "first name": "Ed",
         "last name": "Wight",
         "street #": "27",
@@ -5634,7 +5635,6 @@ export const gbe = {
         sex: "male",
         "birth country": "England",
         race: "W",
-        "": "",
       },
     },
     {
@@ -5644,6 +5644,7 @@ export const gbe = {
         coordinates: [-84.384005, 33.7654967],
       },
       properties: {
+        id: "4a3b9b35",
         "first name": "Fannie",
         "last name": "Wight",
         "street #": "27",
@@ -5652,7 +5653,6 @@ export const gbe = {
         sex: "female",
         "birth country": "England",
         race: "W",
-        "": "",
       },
     },
     {
@@ -5662,6 +5662,7 @@ export const gbe = {
         coordinates: [-84.384005, 33.7654967],
       },
       properties: {
+        id: "f9285697",
         "first name": "Ed",
         "last name": "Wight",
         "street #": "27",
@@ -5670,7 +5671,6 @@ export const gbe = {
         sex: "male",
         "birth country": "England",
         race: "W",
-        "": "",
       },
     },
     {
@@ -5680,6 +5680,7 @@ export const gbe = {
         coordinates: [-84.4026412, 33.7591933],
       },
       properties: {
+        id: "5b0b5aa7",
         "first name": "John",
         "last name": "Wilby",
         "street #": "96",
@@ -5688,7 +5689,6 @@ export const gbe = {
         sex: "male",
         "birth country": "England",
         race: "W",
-        "": "",
       },
     },
     {
@@ -5698,6 +5698,7 @@ export const gbe = {
         coordinates: [-84.3926172, 33.7351221],
       },
       properties: {
+        id: "fffe5e15",
         "first name": "Frank",
         "last name": "Wilby",
         "street #": "460",
@@ -5706,7 +5707,6 @@ export const gbe = {
         sex: "male",
         "birth country": "England",
         race: "W",
-        "": "",
       },
     },
     {
@@ -5716,6 +5716,7 @@ export const gbe = {
         coordinates: [-84.3914768, 33.7558282],
       },
       properties: {
+        id: "20c5a29c",
         "first name": "Jas",
         "last name": "Williams",
         "street #": "66",
@@ -5724,7 +5725,6 @@ export const gbe = {
         sex: "male",
         "birth country": "England",
         race: "W",
-        "": "",
       },
     },
     {
@@ -5734,6 +5734,7 @@ export const gbe = {
         coordinates: [-84.3992609, 33.7223628],
       },
       properties: {
+        id: "1c14b2e9",
         "first name": "Edya",
         "last name": "Wilson",
         "street #": "210",
@@ -5742,7 +5743,6 @@ export const gbe = {
         sex: "male",
         "birth country": "England",
         race: "W",
-        "": "",
       },
     },
     {
@@ -5752,6 +5752,7 @@ export const gbe = {
         coordinates: [-84.4064579, 33.7627725],
       },
       properties: {
+        id: "281e9059",
         "first name": "Alfred",
         "last name": "Woodcock",
         "street #": "168",
@@ -5760,7 +5761,6 @@ export const gbe = {
         sex: "male",
         "birth country": "England",
         race: "W",
-        "": "",
       },
     },
     {
@@ -5770,6 +5770,7 @@ export const gbe = {
         coordinates: [-84.4021698, 33.7546716],
       },
       properties: {
+        id: "25adddc5",
         "first name": "Elizabeth",
         "last name": "Wright",
         "street #": "168",
@@ -5778,7 +5779,6 @@ export const gbe = {
         sex: "female",
         "birth country": "England",
         race: "W",
-        "": "",
       },
     },
     {
@@ -5788,6 +5788,7 @@ export const gbe = {
         coordinates: [-84.3957483, 33.762619],
       },
       properties: {
+        id: "db650f7d",
         "first name": "J",
         "last name": "Wright",
         "street #": "248",
@@ -5796,7 +5797,6 @@ export const gbe = {
         sex: "male",
         "birth country": "England",
         race: "W",
-        "": "",
       },
     },
     {
@@ -5806,6 +5806,7 @@ export const gbe = {
         coordinates: [-84.3877716, 33.7441885],
       },
       properties: {
+        id: "b2fac629",
         "first name": "Jas",
         "last name": "Wrigley",
         "street #": "143",
@@ -5814,7 +5815,6 @@ export const gbe = {
         sex: "male",
         "birth country": "England",
         race: "W",
-        "": "",
       },
     },
     {
@@ -5824,6 +5824,7 @@ export const gbe = {
         coordinates: [-84.3983805, 33.74456],
       },
       properties: {
+        id: "2894e3af",
         "first name": "Mrs",
         "last name": "Ziegler",
         "street #": "100",
@@ -5832,7 +5833,6 @@ export const gbe = {
         sex: "female",
         "birth country": "England",
         race: "W",
-        "": "",
       },
     },
     {
@@ -5842,6 +5842,7 @@ export const gbe = {
         coordinates: [-84.3908932, 33.7565068],
       },
       properties: {
+        id: "de95d65c",
         "first name": "Cornelia",
         "last name": "Park",
         "street #": "46",
@@ -5850,7 +5851,6 @@ export const gbe = {
         sex: "female",
         "birth country": "India",
         race: "W",
-        "": "at Washington Seminary; from a family of New England Unitarian missionaries who had been stationed in India -- ",
       },
     },
     {
@@ -5860,6 +5860,7 @@ export const gbe = {
         coordinates: [-84.4021698, 33.7546716],
       },
       properties: {
+        id: "dfb9e8a0",
         "first name": "TC",
         "last name": "Adamson",
         "street #": "168",
@@ -5868,7 +5869,6 @@ export const gbe = {
         sex: "male",
         "birth country": "Scotland",
         race: "W",
-        "": "",
       },
     },
     {
@@ -5878,6 +5878,7 @@ export const gbe = {
         coordinates: [-84.3942406, 33.7596243],
       },
       properties: {
+        id: "9564475d",
         "first name": "Robert",
         "last name": "Anderson",
         "street #": "153",
@@ -5886,7 +5887,6 @@ export const gbe = {
         sex: "male",
         "birth country": "Scotland",
         race: "W",
-        "": "",
       },
     },
     {
@@ -5896,6 +5896,7 @@ export const gbe = {
         coordinates: [-84.4050157, 33.7523237],
       },
       properties: {
+        id: "e302a1e0",
         "first name": "D[onald]",
         "last name": "Bain",
         "street #": "85",
@@ -5904,7 +5905,6 @@ export const gbe = {
         sex: "male",
         "birth country": "Scotland",
         race: "W",
-        "": "Burns Club (AC 1.26.96)",
       },
     },
     {
@@ -5914,6 +5914,7 @@ export const gbe = {
         coordinates: [-84.3890751, 33.7646337],
       },
       properties: {
+        id: "23075bf1",
         "first name": "Barbara",
         "last name": "Burgess",
         "street #": "32",
@@ -5922,7 +5923,6 @@ export const gbe = {
         sex: "female",
         "birth country": "Scotland",
         race: "W",
-        "": "",
       },
     },
     {
@@ -5932,6 +5932,7 @@ export const gbe = {
         coordinates: [-84.3847687, 33.773744],
       },
       properties: {
+        id: "d20efab7",
         "first name": "Elizabeth",
         "last name": "Congden",
         "street #": "598",
@@ -5940,7 +5941,6 @@ export const gbe = {
         sex: "female",
         "birth country": "Scotland",
         race: "W",
-        "": "",
       },
     },
     {
@@ -5950,6 +5950,7 @@ export const gbe = {
         coordinates: [-84.3847687, 33.773744],
       },
       properties: {
+        id: "1c209c81",
         "first name": "Marie",
         "last name": "Congden",
         "street #": "598",
@@ -5958,7 +5959,6 @@ export const gbe = {
         sex: "female",
         "birth country": "Scotland",
         race: "W",
-        "": "",
       },
     },
     {
@@ -5968,6 +5968,7 @@ export const gbe = {
         coordinates: [-84.382581, 33.7541132],
       },
       properties: {
+        id: "b424719f",
         "first name": "AA",
         "last name": "Craig",
         "street #": "83",
@@ -5976,7 +5977,6 @@ export const gbe = {
         sex: "male",
         "birth country": "Scotland",
         race: "W",
-        "": "",
       },
     },
     {
@@ -5986,6 +5986,7 @@ export const gbe = {
         coordinates: [-84.382581, 33.7541132],
       },
       properties: {
+        id: "db34cc97",
         "first name": "RJ",
         "last name": "Craig",
         "street #": "83",
@@ -5994,7 +5995,6 @@ export const gbe = {
         sex: "female",
         "birth country": "Scotland",
         race: "W",
-        "": "",
       },
     },
     {
@@ -6004,6 +6004,7 @@ export const gbe = {
         coordinates: [-84.3924294, 33.7495393],
       },
       properties: {
+        id: "b889571b",
         "first name": "James",
         "last name": "Craig",
         "street #": "110",
@@ -6012,7 +6013,6 @@ export const gbe = {
         sex: "male",
         "birth country": "Scotland",
         race: "W",
-        "": "",
       },
     },
     {
@@ -6022,6 +6022,7 @@ export const gbe = {
         coordinates: [-84.3946181, 33.7363445],
       },
       properties: {
+        id: "684ee3bc",
         "first name": "J",
         "last name": "Dick",
         "street #": "517",
@@ -6030,7 +6031,6 @@ export const gbe = {
         sex: "female",
         "birth country": "Scotland",
         race: "W",
-        "": "",
       },
     },
     {
@@ -6040,6 +6040,7 @@ export const gbe = {
         coordinates: [-84.3596837, 33.7491402],
       },
       properties: {
+        id: "0c86cbac",
         "first name": "John",
         "last name": "Donald",
         "street #": "44",
@@ -6048,7 +6049,6 @@ export const gbe = {
         sex: "male",
         "birth country": "Scotland",
         race: "W",
-        "": "",
       },
     },
     {
@@ -6058,6 +6058,7 @@ export const gbe = {
         coordinates: [-84.3918738, 33.7561939],
       },
       properties: {
+        id: "024fb696",
         "first name": "WJ",
         "last name": "Doyle",
         "street #": "75",
@@ -6066,7 +6067,6 @@ export const gbe = {
         sex: "male",
         "birth country": "Scotland",
         race: "W",
-        "": "",
       },
     },
     {
@@ -6076,6 +6076,7 @@ export const gbe = {
         coordinates: [-84.3817983, 33.7571412],
       },
       properties: {
+        id: "71d94608",
         "first name": "Gene",
         "last name": "Eastman",
         "street #": "125 1/2",
@@ -6084,7 +6085,6 @@ export const gbe = {
         sex: "female",
         "birth country": "Scotland",
         race: "W",
-        "": "",
       },
     },
     {
@@ -6094,6 +6094,7 @@ export const gbe = {
         coordinates: [-84.3915728, 33.7597263],
       },
       properties: {
+        id: "dce85567",
         "first name": "William",
         "last name": "Forsyth",
         "street #": "105",
@@ -6102,7 +6103,6 @@ export const gbe = {
         sex: "male",
         "birth country": "Scotland",
         race: "W",
-        "": "",
       },
     },
     {
@@ -6112,6 +6112,7 @@ export const gbe = {
         coordinates: [-84.3915728, 33.7597263],
       },
       properties: {
+        id: "a0991c44",
         "first name": "Annie",
         "last name": "Forsyth",
         "street #": "105",
@@ -6120,7 +6121,6 @@ export const gbe = {
         sex: "female",
         "birth country": "Scotland",
         race: "W",
-        "": "",
       },
     },
     {
@@ -6130,6 +6130,7 @@ export const gbe = {
         coordinates: [-84.3655516, 33.7502595],
       },
       properties: {
+        id: "2289dccd",
         "first name": "Wm",
         "last name": "Galliford",
         "street #": "9",
@@ -6138,7 +6139,6 @@ export const gbe = {
         sex: "male",
         "birth country": "Scotland",
         race: "W",
-        "": "",
       },
     },
     {
@@ -6148,6 +6148,7 @@ export const gbe = {
         coordinates: [-84.4046334, 33.7454991],
       },
       properties: {
+        id: "2621ccc2",
         "first name": "WF",
         "last name": "Grieg",
         "street #": "24",
@@ -6156,7 +6157,6 @@ export const gbe = {
         sex: "male",
         "birth country": "Scotland",
         race: "W",
-        "": "",
       },
     },
     {
@@ -6166,6 +6166,7 @@ export const gbe = {
         coordinates: [-84.4046334, 33.7454991],
       },
       properties: {
+        id: "1e5b2476",
         "first name": "Mary",
         "last name": "Grieg",
         "street #": "24",
@@ -6174,7 +6175,6 @@ export const gbe = {
         sex: "female",
         "birth country": "Scotland",
         race: "W",
-        "": "",
       },
     },
     {
@@ -6184,6 +6184,7 @@ export const gbe = {
         coordinates: [-84.3720863, 33.7592043],
       },
       properties: {
+        id: "b5c15352",
         "first name": "IP",
         "last name": "Haile",
         "street #": "204",
@@ -6192,7 +6193,6 @@ export const gbe = {
         sex: "female",
         "birth country": "Scotland",
         race: "W",
-        "": "",
       },
     },
     {
@@ -6202,6 +6202,7 @@ export const gbe = {
         coordinates: [-84.3677795, 33.7466943],
       },
       properties: {
+        id: "eb18f5d6",
         "first name": "Jas W",
         "last name": "Harris",
         "street #": "664",
@@ -6210,7 +6211,6 @@ export const gbe = {
         sex: "male",
         "birth country": "Scotland",
         race: "W",
-        "": "",
       },
     },
     {
@@ -6220,6 +6220,7 @@ export const gbe = {
         coordinates: [-84.3677795, 33.7466943],
       },
       properties: {
+        id: "b21b4a3f",
         "first name": "Alec",
         "last name": "Harris",
         "street #": "664",
@@ -6228,7 +6229,6 @@ export const gbe = {
         sex: "male",
         "birth country": "Scotland",
         race: "W",
-        "": "",
       },
     },
     {
@@ -6238,6 +6238,7 @@ export const gbe = {
         coordinates: [-84.3698354, 33.7372439],
       },
       properties: {
+        id: "2dd749ce",
         "first name": "Lane",
         "last name": "Kennedy",
         "street #": "166",
@@ -6246,7 +6247,6 @@ export const gbe = {
         sex: "female",
         "birth country": "Scotland",
         race: "W",
-        "": "",
       },
     },
     {
@@ -6256,6 +6256,7 @@ export const gbe = {
         coordinates: [-84.3937225, 33.7500382],
       },
       properties: {
+        id: "599eeabf",
         "first name": "John",
         "last name": "Kinner",
         "street #": "140 1/2",
@@ -6264,7 +6265,6 @@ export const gbe = {
         sex: "male",
         "birth country": "Scotland",
         race: "W",
-        "": "",
       },
     },
     {
@@ -6274,6 +6274,7 @@ export const gbe = {
         coordinates: [-84.3716207, 33.7663967],
       },
       properties: {
+        id: "7fc95166",
         "first name": "MC",
         "last name": "Kirk",
         "street #": "176",
@@ -6282,7 +6283,6 @@ export const gbe = {
         sex: "female",
         "birth country": "Scotland",
         race: "W",
-        "": "",
       },
     },
     {
@@ -6292,6 +6292,7 @@ export const gbe = {
         coordinates: [-84.3901674, 33.764015],
       },
       properties: {
+        id: "32ad25dd",
         "first name": "John",
         "last name": "Learmont",
         "street #": "65",
@@ -6300,7 +6301,6 @@ export const gbe = {
         sex: "male",
         "birth country": "Scotland",
         race: "W",
-        "": "",
       },
     },
     {
@@ -6310,6 +6310,7 @@ export const gbe = {
         coordinates: [-84.3842185, 33.7590042],
       },
       properties: {
+        id: "b8ff7cd6",
         "first name": "AD",
         "last name": "Magbee",
         "street #": "223",
@@ -6318,7 +6319,6 @@ export const gbe = {
         sex: "male",
         "birth country": "Scotland",
         race: "W",
-        "": "",
       },
     },
     {
@@ -6328,6 +6328,7 @@ export const gbe = {
         coordinates: [-84.3920884, 33.7564347],
       },
       properties: {
+        id: "7c575b6b",
         "first name": "Angus",
         "last name": "McDairmid",
         "street #": "85",
@@ -6336,7 +6337,6 @@ export const gbe = {
         sex: "male",
         "birth country": "Scotland",
         race: "W",
-        "": "",
       },
     },
     {
@@ -6346,6 +6346,7 @@ export const gbe = {
         coordinates: [-84.3792176, 33.7339551],
       },
       properties: {
+        id: "ab9452c5",
         "first name": "Robt",
         "last name": "McDougal",
         "street #": "75",
@@ -6354,7 +6355,6 @@ export const gbe = {
         sex: "male",
         "birth country": "Scotland",
         race: "W",
-        "": "",
       },
     },
     {
@@ -6364,6 +6364,7 @@ export const gbe = {
         coordinates: [-84.3849789, 33.760954],
       },
       properties: {
+        id: "2ee98dca",
         "first name": "Janie",
         "last name": "McMahon",
         "street #": "64",
@@ -6372,7 +6373,6 @@ export const gbe = {
         sex: "male",
         "birth country": "Scotland",
         race: "W",
-        "": "",
       },
     },
     {
@@ -6382,6 +6382,7 @@ export const gbe = {
         coordinates: [-84.3901069, 33.7525206],
       },
       properties: {
+        id: "90baf7ca",
         "first name": "John",
         "last name": "Menzies",
         "street #": "",
@@ -6390,7 +6391,6 @@ export const gbe = {
         sex: "male",
         "birth country": "Scotland",
         race: "W",
-        "": "",
       },
     },
     {
@@ -6400,6 +6400,7 @@ export const gbe = {
         coordinates: [-84.4015578, 33.7559081],
       },
       properties: {
+        id: "3dbacf6f",
         "first name": "Alexander",
         "last name": "Minto",
         "street #": "179",
@@ -6408,7 +6409,6 @@ export const gbe = {
         sex: "male",
         "birth country": "Scotland",
         race: "W",
-        "": "",
       },
     },
     {
@@ -6418,6 +6418,7 @@ export const gbe = {
         coordinates: [-84.3995, 33.7457205],
       },
       properties: {
+        id: "0f3793f9",
         "first name": "D",
         "last name": "Morgan",
         "street #": "293",
@@ -6426,7 +6427,6 @@ export const gbe = {
         sex: "male",
         "birth country": "Scotland",
         race: "W",
-        "": "",
       },
     },
     {
@@ -6436,6 +6436,7 @@ export const gbe = {
         coordinates: [-84.3893818, 33.7459563],
       },
       properties: {
+        id: "b5464a8c",
         "first name": "Jno",
         "last name": "Morrison",
         "street #": "27",
@@ -6444,7 +6445,6 @@ export const gbe = {
         sex: "male",
         "birth country": "Scotland",
         race: "W",
-        "": "",
       },
     },
     {
@@ -6454,6 +6454,7 @@ export const gbe = {
         coordinates: [-84.3908087, 33.7461237],
       },
       properties: {
+        id: "b245f328",
         "first name": "Angus",
         "last name": "Morrison",
         "street #": "131",
@@ -6462,7 +6463,6 @@ export const gbe = {
         sex: "male",
         "birth country": "Scotland",
         race: "W",
-        "": "",
       },
     },
     {
@@ -6472,6 +6472,7 @@ export const gbe = {
         coordinates: [-84.3827114, 33.7674882],
       },
       properties: {
+        id: "63b36e6d",
         "first name": "George",
         "last name": "Ramsey",
         "street #": "103",
@@ -6480,7 +6481,6 @@ export const gbe = {
         sex: "male",
         "birth country": "Scotland",
         race: "W",
-        "": "",
       },
     },
     {
@@ -6490,6 +6490,7 @@ export const gbe = {
         coordinates: [-84.4110882, 33.7437489],
       },
       properties: {
+        id: "7eec67b6",
         "first name": "Jennie",
         "last name": "Richardson",
         "street #": "54",
@@ -6498,7 +6499,6 @@ export const gbe = {
         sex: "female",
         "birth country": "Scotland",
         race: "W",
-        "": "",
       },
     },
     {
@@ -6508,6 +6508,7 @@ export const gbe = {
         coordinates: [-84.4110882, 33.7437489],
       },
       properties: {
+        id: "7ae3d59a",
         "first name": "Alfred",
         "last name": "Richardson",
         "street #": "54",
@@ -6516,7 +6517,6 @@ export const gbe = {
         sex: "male",
         "birth country": "Scotland",
         race: "W",
-        "": "",
       },
     },
     {
@@ -6526,6 +6526,7 @@ export const gbe = {
         coordinates: [-84.4110882, 33.7437489],
       },
       properties: {
+        id: "a68e59c0",
         "first name": "Henrietta",
         "last name": "Richardson",
         "street #": "54",
@@ -6534,7 +6535,6 @@ export const gbe = {
         sex: "female",
         "birth country": "Scotland",
         race: "W",
-        "": "",
       },
     },
     {
@@ -6544,6 +6544,7 @@ export const gbe = {
         coordinates: [-84.4046996, 33.7419027],
       },
       properties: {
+        id: "e8ff11d0",
         "first name": "Wm",
         "last name": "Richardson",
         "street #": "40",
@@ -6552,7 +6553,6 @@ export const gbe = {
         sex: "male",
         "birth country": "Scotland",
         race: "W",
-        "": "",
       },
     },
     {
@@ -6562,6 +6562,7 @@ export const gbe = {
         coordinates: [-84.3906505, 33.7432512],
       },
       properties: {
+        id: "390f8808",
         "first name": "Jos",
         "last name": "Rogers",
         "street #": "51",
@@ -6570,7 +6571,6 @@ export const gbe = {
         sex: "male",
         "birth country": "Scotland",
         race: "W",
-        "": "",
       },
     },
     {
@@ -6580,6 +6580,7 @@ export const gbe = {
         coordinates: [-84.3906505, 33.7432512],
       },
       properties: {
+        id: "2a4dfe20",
         "first name": "Catherine",
         "last name": "Rogers",
         "street #": "51",
@@ -6588,7 +6589,6 @@ export const gbe = {
         sex: "female",
         "birth country": "Scotland",
         race: "W",
-        "": "",
       },
     },
     {
@@ -6598,6 +6598,7 @@ export const gbe = {
         coordinates: [-84.3906505, 33.7432512],
       },
       properties: {
+        id: "c6e1c683",
         "first name": "Jas Jr",
         "last name": "Rogers",
         "street #": "51",
@@ -6606,7 +6607,6 @@ export const gbe = {
         sex: "male",
         "birth country": "Scotland",
         race: "W",
-        "": "",
       },
     },
     {
@@ -6616,6 +6616,7 @@ export const gbe = {
         coordinates: [-84.3857902, 33.753001],
       },
       properties: {
+        id: "8356051c",
         "first name": "AL",
         "last name": "Rowe",
         "street #": "45",
@@ -6624,7 +6625,6 @@ export const gbe = {
         sex: "male",
         "birth country": "Scotland",
         race: "W",
-        "": "",
       },
     },
     {
@@ -6634,6 +6634,7 @@ export const gbe = {
         coordinates: [-84.3956035, 33.7713222],
       },
       properties: {
+        id: "e3f16c75",
         "first name": "Wm",
         "last name": "Shaw",
         "street #": "193",
@@ -6642,7 +6643,6 @@ export const gbe = {
         sex: "male",
         "birth country": "Scotland",
         race: "W",
-        "": "",
       },
     },
     {
@@ -6652,6 +6652,7 @@ export const gbe = {
         coordinates: [-84.3956035, 33.7713222],
       },
       properties: {
+        id: "0cfd2da2",
         "first name": "Agnes",
         "last name": "Shaw",
         "street #": "193",
@@ -6660,7 +6661,6 @@ export const gbe = {
         sex: "female",
         "birth country": "Scotland",
         race: "W",
-        "": "",
       },
     },
     {
@@ -6670,6 +6670,7 @@ export const gbe = {
         coordinates: [-84.3956035, 33.7713222],
       },
       properties: {
+        id: "2fe49928",
         "first name": "James",
         "last name": "Shaw",
         "street #": "193",
@@ -6678,7 +6679,6 @@ export const gbe = {
         sex: "male",
         "birth country": "Scotland",
         race: "W",
-        "": "",
       },
     },
     {
@@ -6688,6 +6688,7 @@ export const gbe = {
         coordinates: [-84.3720434, 33.7607741],
       },
       properties: {
+        id: "0f01fc7f",
         "first name": "NC",
         "last name": "Spence",
         "street #": "251",
@@ -6696,7 +6697,6 @@ export const gbe = {
         sex: "male",
         "birth country": "Scotland",
         race: "W",
-        "": "",
       },
     },
     {
@@ -6706,6 +6706,7 @@ export const gbe = {
         coordinates: [-84.387213, 33.7648538],
       },
       properties: {
+        id: "43f7d71b",
         "first name": "AW",
         "last name": "Sterling",
         "street #": "13",
@@ -6714,7 +6715,6 @@ export const gbe = {
         sex: "female",
         "birth country": "Scotland",
         race: "W",
-        "": "",
       },
     },
     {
@@ -6724,6 +6724,7 @@ export const gbe = {
         coordinates: [-84.3914564, 33.7570777],
       },
       properties: {
+        id: "fd99c0cb",
         "first name": "May",
         "last name": "Stewart",
         "street #": "68",
@@ -6732,7 +6733,6 @@ export const gbe = {
         sex: "female",
         "birth country": "Scotland",
         race: "W",
-        "": "",
       },
     },
     {
@@ -6742,6 +6742,7 @@ export const gbe = {
         coordinates: [-84.3872009, 33.7555764],
       },
       properties: {
+        id: "375d2c76",
         "first name": "Alex",
         "last name": "Stuart",
         "street #": "27",
@@ -6750,7 +6751,6 @@ export const gbe = {
         sex: "male",
         "birth country": "Scotland",
         race: "W",
-        "": "",
       },
     },
     {
@@ -6760,6 +6760,7 @@ export const gbe = {
         coordinates: [-84.3771321, 33.7614116],
       },
       properties: {
+        id: "918ae145",
         "first name": "Wm",
         "last name": "Symmers",
         "street #": "9",
@@ -6768,7 +6769,6 @@ export const gbe = {
         sex: "male",
         "birth country": "Scotland",
         race: "W",
-        "": "",
       },
     },
     {
@@ -6778,6 +6778,7 @@ export const gbe = {
         coordinates: [-84.3945913, 33.7369779],
       },
       properties: {
+        id: "76b32a2f",
         "first name": "S",
         "last name": "Valentine",
         "street #": "454",
@@ -6786,7 +6787,6 @@ export const gbe = {
         sex: "male",
         "birth country": "Scotland",
         race: "W",
-        "": "",
       },
     },
     {
@@ -6796,6 +6796,7 @@ export const gbe = {
         coordinates: [-84.3919751, 33.7597263],
       },
       properties: {
+        id: "69d2c935",
         "first name": "Geo",
         "last name": "Welch",
         "street #": "117",
@@ -6804,7 +6805,6 @@ export const gbe = {
         sex: "female",
         "birth country": "Scotland",
         race: "W",
-        "": "",
       },
     },
     {
@@ -6814,6 +6814,7 @@ export const gbe = {
         coordinates: [-84.3954215, 33.7743069],
       },
       properties: {
+        id: "8216458d",
         "first name": "Minnie",
         "last name": "Wheals",
         "street #": "62",
@@ -6822,7 +6823,6 @@ export const gbe = {
         sex: "female",
         "birth country": "Scotland",
         race: "W",
-        "": "",
       },
     },
     {
@@ -6832,6 +6832,7 @@ export const gbe = {
         coordinates: [-84.3678616, 33.7600604],
       },
       properties: {
+        id: "0fa8d885",
         "first name": "AA",
         "last name": "Wiley",
         "street #": "171",
@@ -6840,7 +6841,6 @@ export const gbe = {
         sex: "male",
         "birth country": "Scotland",
         race: "W",
-        "": "",
       },
     },
     {
@@ -6850,6 +6850,7 @@ export const gbe = {
         coordinates: [-84.3678616, 33.7600604],
       },
       properties: {
+        id: "0a72d5f4",
         "first name": "GA",
         "last name": "Wiley",
         "street #": "171",
@@ -6858,7 +6859,6 @@ export const gbe = {
         sex: "male",
         "birth country": "Scotland",
         race: "W",
-        "": "",
       },
     },
     {
@@ -6868,6 +6868,7 @@ export const gbe = {
         coordinates: [-84.3844469, 33.7770258],
       },
       properties: {
+        id: "d7b23cde",
         "first name": "Belle",
         "last name": "Williamson",
         "street #": "686",
@@ -6876,7 +6877,6 @@ export const gbe = {
         sex: "female",
         "birth country": "Scotland",
         race: "W",
-        "": "",
       },
     },
     {
@@ -6886,6 +6886,7 @@ export const gbe = {
         coordinates: [-84.3928179, 33.7368135],
       },
       properties: {
+        id: "3b00601c",
         "first name": "John",
         "last name": "Wilson",
         "street #": "55",
@@ -6894,7 +6895,6 @@ export const gbe = {
         sex: "male",
         "birth country": "Scotland",
         race: "W",
-        "": "",
       },
     },
     {
@@ -6904,6 +6904,7 @@ export const gbe = {
         coordinates: [-84.3758662, 33.7576953],
       },
       properties: {
+        id: "29011228",
         "first name": "George",
         "last name": "Wilson",
         "street #": "46",
@@ -6912,7 +6913,6 @@ export const gbe = {
         sex: "male",
         "birth country": "Scotland",
         race: "W",
-        "": "",
       },
     },
     {
@@ -6922,6 +6922,7 @@ export const gbe = {
         coordinates: [-84.3928179, 33.7368135],
       },
       properties: {
+        id: "0b1a2159",
         "first name": "Barbara",
         "last name": "Worris",
         "street #": "55",
@@ -6930,7 +6931,6 @@ export const gbe = {
         sex: "female",
         "birth country": "Scotland",
         race: "W",
-        "": "",
       },
     },
     {
@@ -6940,6 +6940,7 @@ export const gbe = {
         coordinates: [-84.374267, 33.7617534],
       },
       properties: {
+        id: "51ed8bac",
         "first name": "John",
         "last name": "Young",
         "street #": "205",
@@ -6948,7 +6949,6 @@ export const gbe = {
         sex: "male",
         "birth country": "Scotland",
         race: "W",
-        "": "",
       },
     },
     {
@@ -6958,6 +6958,7 @@ export const gbe = {
         coordinates: [-84.3882008, 33.7482922],
       },
       properties: {
+        id: "e75d3889",
         "first name": "Mary",
         "last name": "Cammack",
         "street #": "97",
@@ -6966,7 +6967,6 @@ export const gbe = {
         sex: "female",
         "birth country": "Wales",
         race: "W",
-        "": "1900 cen: lives at boarding house, no occupation listed",
       },
     },
     {
@@ -6976,6 +6976,7 @@ export const gbe = {
         coordinates: [-84.3786023, 33.7699294],
       },
       properties: {
+        id: "88eba5f3",
         "first name": "Sarah",
         "last name": "Kilby",
         "street #": "340",
@@ -6984,7 +6985,6 @@ export const gbe = {
         sex: "female",
         "birth country": "Wales",
         race: "W",
-        "": "",
       },
     },
     {
@@ -6994,6 +6994,7 @@ export const gbe = {
         coordinates: [-84.3934707, 33.7379073],
       },
       properties: {
+        id: "d729a254",
         "first name": "WS",
         "last name": "Withers",
         "street #": "445",
@@ -7002,7 +7003,6 @@ export const gbe = {
         sex: "male",
         "birth country": "Wales",
         race: "W",
-        "": "",
       },
     },
   ],

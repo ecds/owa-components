@@ -10,6 +10,7 @@ export const cn = {
         coordinates: [-84.3826061, 33.7544644],
       },
       properties: {
+        id: "50144c45",
         "first name": "Sam",
         "last name": "Chung",
         "street #": "166",
@@ -18,7 +19,6 @@ export const cn = {
         sex: "male",
         "birth country": "China",
         race: "Mong",
-        notes: '1896cd: "laundry, 166 Edgewood, r same"',
       },
     },
     {
@@ -28,6 +28,7 @@ export const cn = {
         coordinates: [-84.3948812, 33.7485752],
       },
       properties: {
+        id: "4a454818",
         "first name": "Woo",
         "last name": "Fousan",
         "street #": "181",
@@ -47,6 +48,7 @@ export const cn = {
         coordinates: [-84.3874662, 33.7584159],
       },
       properties: {
+        id: "0497d33c",
         "first name": "Sam",
         "last name": "Hop",
         "street #": "6",
@@ -55,7 +57,6 @@ export const cn = {
         sex: "male",
         "birth country": "China",
         race: "Mong",
-        notes: '1896cd: "laundry, 4 W Ellis Street, r same" ',
       },
     },
     {
@@ -65,6 +66,7 @@ export const cn = {
         coordinates: [-84.3874156, 33.752934],
       },
       properties: {
+        id: "4d40c049",
         "first name": "Jo",
         "last name": "Jung",
         "street #": "69",
@@ -73,7 +75,6 @@ export const cn = {
         sex: "male",
         "birth country": "China",
         race: "Y",
-        notes: "w/George Lee?",
       },
     },
     {
@@ -83,6 +84,7 @@ export const cn = {
         coordinates: [-84.3874156, 33.752934],
       },
       properties: {
+        id: "66526ae0",
         "first name": "Lee",
         "last name": "Jung",
         "street #": "69",
@@ -91,7 +93,6 @@ export const cn = {
         sex: "male",
         "birth country": "China",
         race: "Y",
-        notes: "w/George Lee?",
       },
     },
     {
@@ -101,6 +102,7 @@ export const cn = {
         coordinates: [-84.386509, 33.7488107],
       },
       properties: {
+        id: "3d27d125",
         "first name": "Young",
         "last name": "King",
         "street #": "150",
@@ -109,7 +111,6 @@ export const cn = {
         sex: "male",
         "birth country": "China",
         race: "Mong",
-        notes: "1896cd: Sing Kee listed as laundry, r at this address",
       },
     },
     {
@@ -119,6 +120,7 @@ export const cn = {
         coordinates: [-84.3949778, 33.7484771],
       },
       properties: {
+        id: "efd8f925",
         "first name": "Lum",
         "last name": "Lai",
         "street #": "182",
@@ -127,7 +129,6 @@ export const cn = {
         sex: "male",
         "birth country": "China",
         race: "W",
-        notes: "",
       },
     },
     {
@@ -137,6 +138,7 @@ export const cn = {
         coordinates: [-84.3845663, 33.7571055],
       },
       properties: {
+        id: "c5758fad",
         "first name": "Yon",
         "last name": "Law",
         "street #": "76",
@@ -156,6 +158,7 @@ export const cn = {
         coordinates: [-84.3874156, 33.752934],
       },
       properties: {
+        id: "052636ae",
         "first name": "George",
         "last name": "Lee",
         "street #": "69",
@@ -164,7 +167,6 @@ export const cn = {
         sex: "male",
         "birth country": "China",
         race: "C",
-        notes: '1896cd: "laundry, 69 Decatur, r same"',
       },
     },
     {
@@ -174,6 +176,7 @@ export const cn = {
         coordinates: [-84.3929537, 33.7509027],
       },
       properties: {
+        id: "0db6d0a3",
         "first name": "Quong",
         "last name": "Lee",
         "street #": "1",
@@ -182,7 +185,6 @@ export const cn = {
         sex: "male",
         "birth country": "China",
         race: "W",
-        notes: '1896cd: "laundry, 1 E Mitchell, r same"',
       },
     },
     {
@@ -192,6 +194,7 @@ export const cn = {
         coordinates: [-84.3816159, 33.7571768],
       },
       properties: {
+        id: "a09e02f1",
         "first name": "Sam",
         "last name": "Lee",
         "street #": "126",
@@ -200,7 +203,6 @@ export const cn = {
         sex: "male",
         "birth country": "China",
         race: "W",
-        notes: "",
       },
     },
     {
@@ -210,6 +212,7 @@ export const cn = {
         coordinates: [-84.4022954, 33.7468759],
       },
       properties: {
+        id: "24fa146c",
         "first name": "Sam",
         "last name": "Lee",
         "street #": "227",
@@ -218,7 +221,6 @@ export const cn = {
         sex: "male",
         "birth country": "China",
         race: "W",
-        notes: "",
       },
     },
     {
@@ -228,6 +230,7 @@ export const cn = {
         coordinates: [-84.3916072, 33.7501534],
       },
       properties: {
+        id: "bc708ed6",
         "first name": "Lee",
         "last name": "Ling",
         "street #": "43",
@@ -236,7 +239,6 @@ export const cn = {
         sex: "male",
         "birth country": "China",
         race: "Mong",
-        notes: "not listed",
       },
     },
     {
@@ -246,6 +248,7 @@ export const cn = {
         coordinates: [-84.407354, 33.7435572],
       },
       properties: {
+        id: "ed0b32ed",
         "first name": "Chung",
         "last name": "Loy",
         "street #": "351",
@@ -254,7 +257,6 @@ export const cn = {
         sex: "male",
         "birth country": "China",
         race: "Chi",
-        notes: "",
       },
     },
     {
@@ -264,6 +266,7 @@ export const cn = {
         coordinates: [-84.39289947, 33.7508872],
       },
       properties: {
+        id: "8efb5142",
         "first name": "Chang",
         "last name": "Lung",
         "street #": "1",
@@ -283,6 +286,7 @@ export const cn = {
         coordinates: [-84.3881372, 33.7504503],
       },
       properties: {
+        id: "bef56007",
         "first name": "Chang",
         "last name": "Lung",
         "street #": "25",
@@ -302,6 +306,7 @@ export const cn = {
         coordinates: [-84.3938814, 33.7607861],
       },
       properties: {
+        id: "f1d9315a",
         "first name": "Lum",
         "last name": "Sam",
         "street #": "161",
@@ -310,7 +315,6 @@ export const cn = {
         sex: "male",
         "birth country": "China",
         race: "W",
-        notes: "",
       },
     },
     {
@@ -320,6 +324,7 @@ export const cn = {
         coordinates: [-84.3844474, 33.7508058],
       },
       properties: {
+        id: "10e1ea72",
         "first name": "Chung",
         "last name": "Sing",
         "street #": "185",
@@ -328,7 +333,6 @@ export const cn = {
         sex: "male",
         "birth country": "China",
         race: "W",
-        notes: '1896cd: "laundry, 185 Decatur Street, r same"',
       },
     },
     {
@@ -338,6 +342,7 @@ export const cn = {
         coordinates: [-84.3826061, 33.7544644],
       },
       properties: {
+        id: "e6cb7e47",
         "first name": "TY",
         "last name": "Way",
         "street #": "166",
@@ -346,7 +351,6 @@ export const cn = {
         sex: "male",
         "birth country": "China",
         race: "C",
-        notes: "w/Sam Chung?",
       },
     },
     {
@@ -356,6 +360,7 @@ export const cn = {
         coordinates: [-84.39596, 33.7505736],
       },
       properties: {
+        id: "73bb9a07",
         "first name": "Jim",
         "last name": "Wing",
         "street #": "13",
@@ -364,7 +369,6 @@ export const cn = {
         sex: "male",
         "birth country": "China",
         race: "Chi",
-        notes: "1900 cen: Ch for race, laundry, r 149 Pryor",
       },
     },
     {
@@ -374,6 +378,7 @@ export const cn = {
         coordinates: [-84.3936259, 33.750172],
       },
       properties: {
+        id: "aa38868a",
         "first name": "Joe",
         "last name": "Wing",
         "street #": "135",
@@ -382,7 +387,6 @@ export const cn = {
         sex: "male",
         "birth country": "China",
         race: "Chi",
-        notes: "1896cd: address associated w/Dick Lum, no more info)",
       },
     },
     {
@@ -392,6 +396,7 @@ export const cn = {
         coordinates: [-84.3915175, 33.7506811],
       },
       properties: {
+        id: "a1a645a8",
         "first name": "One",
         "last name": "Wing",
         "street #": "69",
@@ -400,7 +405,6 @@ export const cn = {
         sex: "male",
         "birth country": "China",
         race: "W",
-        notes: "1896cd: (listed as Quong Wing)",
       },
     },
     {
@@ -410,6 +414,7 @@ export const cn = {
         coordinates: [-84.3947384, 33.7597351],
       },
       properties: {
+        id: "cecd39f5",
         "first name": "Sam",
         "last name": "Wing",
         "street #": "223",
@@ -418,7 +423,6 @@ export const cn = {
         sex: "male",
         "birth country": "China",
         race: "W",
-        notes: "1900cen: laundry, r at this address",
       },
     },
     {
@@ -428,6 +432,7 @@ export const cn = {
         coordinates: [-84.3877716, 33.7454196],
       },
       properties: {
+        id: "cc1433a2",
         "first name": "Sing",
         "last name": "Wing",
         "street #": "118",
@@ -436,7 +441,6 @@ export const cn = {
         sex: "male",
         "birth country": "China",
         race: "Mong",
-        notes: '1896cd: "laundry, 118 1/2 Capitol Avenue, r same"',
       },
     },
     {
@@ -446,6 +450,7 @@ export const cn = {
         coordinates: [-84.3941269, 33.7585844],
       },
       properties: {
+        id: "623bd5d0",
         "first name": "Chan",
         "last name": "Yee",
         "street #": "175",
@@ -454,7 +459,6 @@ export const cn = {
         sex: "male",
         "birth country": "China",
         race: "W",
-        notes: '1896cd: "laundry, 175 Marietta, r same" (listed as Wah Yee)',
       },
     },
   ],

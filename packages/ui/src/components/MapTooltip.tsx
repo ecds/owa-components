@@ -1,7 +1,7 @@
 import { useEffect, useRef, type ReactNode } from "react";
 import { createPortal } from "react-dom";
 import { Popup } from "maplibre-gl";
-import type { LngLatLike, Map } from "maplibre-gl";
+import type { Map } from "maplibre-gl";
 
 interface Props {
   children: ReactNode;

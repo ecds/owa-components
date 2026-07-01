@@ -10,6 +10,7 @@ export const ce = {
         coordinates: [-84.3898347, 33.7622684],
       },
       properties: {
+        id: "b4d2a26e",
         "first name": "WG",
         "last name": "Abel",
         "street #": "42",
@@ -18,7 +19,6 @@ export const ce = {
         sex: "male",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -28,6 +28,7 @@ export const ce = {
         coordinates: [-84.3832371, 33.769104],
       },
       properties: {
+        id: "220bb001",
         "first name": "Moses",
         "last name": "Adler",
         "street #": "34",
@@ -36,7 +37,6 @@ export const ce = {
         sex: "male",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -46,6 +46,7 @@ export const ce = {
         coordinates: [-84.3832371, 33.769104],
       },
       properties: {
+        id: "3386ad67",
         "first name": "Carrie",
         "last name": "Adler",
         "street #": "34",
@@ -54,7 +55,6 @@ export const ce = {
         sex: "female",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -64,6 +64,7 @@ export const ce = {
         coordinates: [-84.3832371, 33.769104],
       },
       properties: {
+        id: "0366daca",
         "first name": "Rose",
         "last name": "Adler",
         "street #": "34",
@@ -72,7 +73,6 @@ export const ce = {
         sex: "female",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -82,6 +82,7 @@ export const ce = {
         coordinates: [-84.3815565, 33.7457177],
       },
       properties: {
+        id: "d88ea5c2",
         "first name": "H[erman] A",
         "last name": "Agricola",
         "street #": "27",
@@ -100,6 +101,7 @@ export const ce = {
         coordinates: [-84.3978531, 33.746568],
       },
       properties: {
+        id: "164e2dc2",
         "first name": "Minnie",
         "last name": "Albright",
         "street #": "265",
@@ -108,7 +110,6 @@ export const ce = {
         sex: "male",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -118,6 +119,7 @@ export const ce = {
         coordinates: [-84.3830864, 33.7555541],
       },
       properties: {
+        id: "b80a85d1",
         "first name": "A",
         "last name": "Alexander",
         "street #": "131",
@@ -126,7 +128,6 @@ export const ce = {
         sex: "male",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -136,6 +137,7 @@ export const ce = {
         coordinates: [-84.3830864, 33.7555541],
       },
       properties: {
+        id: "bf465e19",
         "first name": "N",
         "last name": "Alexander",
         "street #": "131",
@@ -144,7 +146,6 @@ export const ce = {
         sex: "female",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -154,6 +155,7 @@ export const ce = {
         coordinates: [-84.3921617, 33.7477387],
       },
       properties: {
+        id: "2822f285",
         "first name": "Louis",
         "last name": "Arnstern",
         "street #": "167",
@@ -162,7 +164,6 @@ export const ce = {
         sex: "male",
         "birth country": "Prussia",
         race: "W",
-        "": "",
       },
     },
     {
@@ -172,6 +173,7 @@ export const ce = {
         coordinates: [-84.3890574, 33.7604776],
       },
       properties: {
+        id: "1e09ad55",
         "first name": "Sam'l",
         "last name": "Arons",
         "street #": "143",
@@ -180,7 +182,6 @@ export const ce = {
         sex: "male",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -190,6 +191,7 @@ export const ce = {
         coordinates: [-84.3890574, 33.7604776],
       },
       properties: {
+        id: "e547d600",
         "first name": "Mrs",
         "last name": "Arons",
         "street #": "143",
@@ -198,7 +200,6 @@ export const ce = {
         sex: "female",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -208,6 +209,7 @@ export const ce = {
         coordinates: [-84.3957797, 33.7393967],
       },
       properties: {
+        id: "28fc2128",
         "first name": "Joseph",
         "last name": "Auerbach",
         "street #": "220",
@@ -226,6 +228,7 @@ export const ce = {
         coordinates: [-84.3839677, 33.7524838],
       },
       properties: {
+        id: "74182a6d",
         "first name": "L",
         "last name": "Austin",
         "street #": "78",
@@ -234,7 +237,6 @@ export const ce = {
         sex: "male",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -244,6 +246,7 @@ export const ce = {
         coordinates: [-84.3839677, 33.7524838],
       },
       properties: {
+        id: "288d4645",
         "first name": "Lena",
         "last name": "Austin",
         "street #": "78",
@@ -252,7 +255,6 @@ export const ce = {
         sex: "female",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -262,6 +264,7 @@ export const ce = {
         coordinates: [-84.3839677, 33.7524838],
       },
       properties: {
+        id: "990d04ce",
         "first name": "Louis",
         "last name": "Austin",
         "street #": "78",
@@ -270,7 +273,6 @@ export const ce = {
         sex: "male",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -280,6 +282,7 @@ export const ce = {
         coordinates: [-84.3874188, 33.7624081],
       },
       properties: {
+        id: "66328235",
         "first name": "Simeon",
         "last name": "Baer",
         "street #": "286",
@@ -288,7 +291,6 @@ export const ce = {
         sex: "male",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -298,6 +300,7 @@ export const ce = {
         coordinates: [-84.3841195, 33.7538987],
       },
       properties: {
+        id: "67ecddd0",
         "first name": "Will",
         "last name": "Baker",
         "street #": "10",
@@ -306,7 +309,6 @@ export const ce = {
         sex: "male",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -316,6 +318,7 @@ export const ce = {
         coordinates: [-84.4118596, 33.7408985],
       },
       properties: {
+        id: "09b99bbb",
         "first name": "B",
         "last name": "Baker",
         "street #": "519",
@@ -324,7 +327,6 @@ export const ce = {
         sex: "female",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -334,6 +336,7 @@ export const ce = {
         coordinates: [-84.3512941, 33.7579983],
       },
       properties: {
+        id: "7bdb91ee",
         "first name": "Alex",
         "last name": "Balk",
         "street #": "757",
@@ -342,7 +345,6 @@ export const ce = {
         sex: "male",
         "birth country": "Hungary",
         race: "W",
-        "": "",
       },
     },
     {
@@ -352,6 +354,7 @@ export const ce = {
         coordinates: [-84.3821787, 33.7606069],
       },
       properties: {
+        id: "1210dc8f",
         "first name": "Mary",
         "last name": "Bangert",
         "street #": "282",
@@ -360,7 +363,6 @@ export const ce = {
         sex: "female",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -370,6 +372,7 @@ export const ce = {
         coordinates: [-84.3943984, 33.7492175],
       },
       properties: {
+        id: "1835ec9a",
         "first name": "Carl",
         "last name": "Bardeman",
         "street #": "169",
@@ -378,7 +381,6 @@ export const ce = {
         sex: "male",
         "birth country": "Switzerland",
         race: "W",
-        "": "",
       },
     },
     {
@@ -388,6 +390,7 @@ export const ce = {
         coordinates: [-84.3793596, 33.7508826],
       },
       properties: {
+        id: "4d3346d1",
         "first name": "JM",
         "last name": "Beasier",
         "street #": "177",
@@ -396,7 +399,6 @@ export const ce = {
         sex: "male",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -406,6 +408,7 @@ export const ce = {
         coordinates: [-84.3875072, 33.7664447],
       },
       properties: {
+        id: "d38cdffc",
         "first name": "Minnie",
         "last name": "Beck",
         "street #": "120",
@@ -414,7 +417,6 @@ export const ce = {
         sex: "female",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -424,6 +426,7 @@ export const ce = {
         coordinates: [-84.3795434, 33.7496901],
       },
       properties: {
+        id: "70d044eb",
         "first name": "GC",
         "last name": "Beerman",
         "street #": "26",
@@ -432,7 +435,6 @@ export const ce = {
         sex: "male",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -442,6 +444,7 @@ export const ce = {
         coordinates: [-84.383347, 33.7468414],
       },
       properties: {
+        id: "62413ec1",
         "first name": "Gus",
         "last name": "Bellinger",
         "street #": "308",
@@ -450,7 +453,6 @@ export const ce = {
         sex: "male",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -460,6 +462,7 @@ export const ce = {
         coordinates: [-84.3875943, 33.7580969],
       },
       properties: {
+        id: "cdd1ff60",
         "first name": "Louis",
         "last name": "Beltman",
         "street #": "",
@@ -468,7 +471,6 @@ export const ce = {
         sex: "male",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -478,6 +480,7 @@ export const ce = {
         coordinates: [-84.3933675, 33.7579922],
       },
       properties: {
+        id: "d1898f90",
         "first name": "Annie",
         "last name": "Benair",
         "street #": "40",
@@ -486,7 +489,6 @@ export const ce = {
         sex: "female",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -496,6 +498,7 @@ export const ce = {
         coordinates: [-84.3974239, 33.7467643],
       },
       properties: {
+        id: "9c01321d",
         "first name": "Morris",
         "last name": "Benjamin",
         "street #": "257",
@@ -504,7 +507,6 @@ export const ce = {
         sex: "M",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -514,6 +516,7 @@ export const ce = {
         coordinates: [-84.3822699, 33.7546038],
       },
       properties: {
+        id: "e6b82116",
         "first name": "Chas",
         "last name": "Berbusse",
         "street #": "114",
@@ -522,7 +525,6 @@ export const ce = {
         sex: "male",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -532,6 +534,7 @@ export const ce = {
         coordinates: [-84.3822699, 33.7546038],
       },
       properties: {
+        id: "cc5d8cd2",
         "first name": "Carrie",
         "last name": "Berbusse",
         "street #": "114",
@@ -540,7 +543,6 @@ export const ce = {
         sex: "female",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -550,6 +552,7 @@ export const ce = {
         coordinates: [-84.3987785, 33.7476926],
       },
       properties: {
+        id: "8637a547",
         "first name": "C",
         "last name": "Berlin",
         "street #": "32",
@@ -558,7 +561,6 @@ export const ce = {
         sex: "female",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -568,6 +570,7 @@ export const ce = {
         coordinates: [-84.3895651, 33.7537451],
       },
       properties: {
+        id: "6a537392",
         "first name": "Anna",
         "last name": "Berman",
         "street #": "",
@@ -576,7 +579,6 @@ export const ce = {
         sex: "female",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -586,6 +588,7 @@ export const ce = {
         coordinates: [-84.3911199, 33.7352036],
       },
       properties: {
+        id: "ffbdd853",
         "first name": "Arnold",
         "last name": "Bernhard",
         "street #": "447",
@@ -594,7 +597,6 @@ export const ce = {
         sex: "male",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -604,6 +606,7 @@ export const ce = {
         coordinates: [-84.3832045, 33.7584464],
       },
       properties: {
+        id: "01963f6f",
         "first name": "MA",
         "last name": "Bernhardt",
         "street #": "9",
@@ -612,7 +615,6 @@ export const ce = {
         sex: "male",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -622,6 +624,7 @@ export const ce = {
         coordinates: [-84.3863464, 33.7521885],
       },
       properties: {
+        id: "389e296b",
         "first name": "N",
         "last name": "Beyer",
         "street #": "112",
@@ -630,7 +633,6 @@ export const ce = {
         sex: "male",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -640,6 +642,7 @@ export const ce = {
         coordinates: [-84.3863464, 33.7521885],
       },
       properties: {
+        id: "44d1351e",
         "first name": "C",
         "last name": "Beyer",
         "street #": "112",
@@ -648,7 +651,6 @@ export const ce = {
         sex: "female",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -658,6 +660,7 @@ export const ce = {
         coordinates: [-84.3863464, 33.7521885],
       },
       properties: {
+        id: "8e75497e",
         "first name": "H",
         "last name": "Beyer",
         "street #": "112",
@@ -666,7 +669,6 @@ export const ce = {
         sex: "female",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -676,6 +678,7 @@ export const ce = {
         coordinates: [-84.3863464, 33.7521885],
       },
       properties: {
+        id: "64151589",
         "first name": "Will",
         "last name": "Beyer",
         "street #": "112",
@@ -684,7 +687,6 @@ export const ce = {
         sex: "male",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -694,6 +696,7 @@ export const ce = {
         coordinates: [-84.3815721, 33.7498156],
       },
       properties: {
+        id: "e713fe21",
         "first name": "DF",
         "last name": "Bierer",
         "street #": "258",
@@ -702,7 +705,6 @@ export const ce = {
         sex: "male",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -712,6 +714,7 @@ export const ce = {
         coordinates: [-84.379328, 33.7467326],
       },
       properties: {
+        id: "c91ef843",
         "first name": "JC",
         "last name": "Bieser",
         "street #": "61",
@@ -720,7 +723,6 @@ export const ce = {
         sex: "male",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -730,6 +732,7 @@ export const ce = {
         coordinates: [-84.4200547, 33.7547474],
       },
       properties: {
+        id: "6ee93137",
         "first name": "H",
         "last name": "Blien",
         "street #": "492",
@@ -738,7 +741,6 @@ export const ce = {
         sex: "M",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -748,6 +750,7 @@ export const ce = {
         coordinates: [-84.3827205, 33.7539883],
       },
       properties: {
+        id: "d07bdd2c",
         "first name": "FH",
         "last name": "Bliley",
         "street #": "79",
@@ -756,7 +759,6 @@ export const ce = {
         sex: "male",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -766,6 +768,7 @@ export const ce = {
         coordinates: [-84.3827205, 33.7539883],
       },
       properties: {
+        id: "26fa8918",
         "first name": "NH",
         "last name": "Bliley",
         "street #": "79",
@@ -774,7 +777,6 @@ export const ce = {
         sex: "female",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -784,6 +786,7 @@ export const ce = {
         coordinates: [-84.3827205, 33.7539883],
       },
       properties: {
+        id: "82b6d0e9",
         "first name": "Darmis",
         "last name": "Bliley",
         "street #": "79",
@@ -792,7 +795,6 @@ export const ce = {
         sex: "female",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -802,6 +804,7 @@ export const ce = {
         coordinates: [-84.3804431, 33.7641491],
       },
       properties: {
+        id: "8c8678ff",
         "first name": "Chas",
         "last name": "Boecoch",
         "street #": "233",
@@ -810,7 +813,6 @@ export const ce = {
         sex: "female",
         "birth country": "Hungary",
         race: "W",
-        "": "",
       },
     },
     {
@@ -820,6 +822,7 @@ export const ce = {
         coordinates: [-84.4015256, 33.7552926],
       },
       properties: {
+        id: "2bec3521",
         "first name": "Richard",
         "last name": "Boettscher",
         "street #": "167",
@@ -828,7 +831,6 @@ export const ce = {
         sex: "M",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -838,6 +840,7 @@ export const ce = {
         coordinates: [-84.4015256, 33.7552926],
       },
       properties: {
+        id: "4640ef43",
         "first name": "Mrs",
         "last name": "Boettscher",
         "street #": "167",
@@ -846,7 +849,6 @@ export const ce = {
         sex: "F",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -856,6 +858,7 @@ export const ce = {
         coordinates: [-84.3974835, 33.7504487],
       },
       properties: {
+        id: "08e117b0",
         "first name": "Wm",
         "last name": "Bogajski",
         "street #": "44",
@@ -864,7 +867,6 @@ export const ce = {
         sex: "M",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -874,6 +876,7 @@ export const ce = {
         coordinates: [-84.3856829, 33.7584018],
       },
       properties: {
+        id: "980abdf0",
         "first name": "Chas",
         "last name": "Bohnefeld",
         "street #": "45",
@@ -882,7 +885,6 @@ export const ce = {
         sex: "male",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -892,6 +894,7 @@ export const ce = {
         coordinates: [-84.3919811, 33.7563545],
       },
       properties: {
+        id: "5f9bec43",
         "first name": "Wm",
         "last name": "Bollman",
         "street #": "82",
@@ -900,7 +903,6 @@ export const ce = {
         sex: "male",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -910,6 +912,7 @@ export const ce = {
         coordinates: [-84.3720863, 33.7586334],
       },
       properties: {
+        id: "18d060cf",
         "first name": "Mary",
         "last name": "Bonefield",
         "street #": "192",
@@ -918,7 +921,6 @@ export const ce = {
         sex: "female",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -928,6 +930,7 @@ export const ce = {
         coordinates: [-84.4018917, 33.7633934],
       },
       properties: {
+        id: "921cfa03",
         "first name": "AHA",
         "last name": "Borowsky",
         "street #": "325",
@@ -936,7 +939,6 @@ export const ce = {
         sex: "male",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -946,6 +948,7 @@ export const ce = {
         coordinates: [-84.3681055, 33.7484412],
       },
       properties: {
+        id: "b33f0b5b",
         "first name": "Alice",
         "last name": "Boshardt",
         "street #": "82",
@@ -954,7 +957,6 @@ export const ce = {
         sex: "female",
         "birth country": "Switzerland",
         race: "W",
-        "": "",
       },
     },
     {
@@ -964,6 +966,7 @@ export const ce = {
         coordinates: [-84.3953533, 33.7479329],
       },
       properties: {
+        id: "eabb640c",
         "first name": "Wm",
         "last name": "Brand",
         "street #": "207",
@@ -972,7 +975,6 @@ export const ce = {
         sex: "male",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -982,6 +984,7 @@ export const ce = {
         coordinates: [-84.3953533, 33.7479329],
       },
       properties: {
+        id: "fd9b38b7",
         "first name": "Bertha",
         "last name": "Brand",
         "street #": "207",
@@ -990,7 +993,6 @@ export const ce = {
         sex: "female",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -1000,6 +1002,7 @@ export const ce = {
         coordinates: [-84.3852998, 33.7683483],
       },
       properties: {
+        id: "62bf685e",
         "first name": "Minnie",
         "last name": "Brantley",
         "street #": "459",
@@ -1008,7 +1011,6 @@ export const ce = {
         sex: "female",
         "birth country": "Switzerland",
         race: "W",
-        "": "",
       },
     },
     {
@@ -1018,6 +1020,7 @@ export const ce = {
         coordinates: [-84.3877824, 33.7443045],
       },
       properties: {
+        id: "b5747535",
         "first name": "Jacob",
         "last name": "Brawdy",
         "street #": "142",
@@ -1026,7 +1029,6 @@ export const ce = {
         sex: "male",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -1036,6 +1038,7 @@ export const ce = {
         coordinates: [-84.4099295, 33.7594062],
       },
       properties: {
+        id: "e00fa0ee",
         "first name": "P",
         "last name": "Breitenbucher",
         "street #": "142",
@@ -1054,6 +1057,7 @@ export const ce = {
         coordinates: [-84.4099295, 33.7594062],
       },
       properties: {
+        id: "c1c0cbec",
         "first name": "Mrs",
         "last name": "Breitenbucher",
         "street #": "142",
@@ -1072,6 +1076,7 @@ export const ce = {
         coordinates: [-84.39638, 33.7633498],
       },
       properties: {
+        id: "5ce2a08e",
         "first name": "W",
         "last name": "Brenner",
         "street #": "210",
@@ -1080,7 +1085,6 @@ export const ce = {
         sex: "male",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -1090,6 +1094,7 @@ export const ce = {
         coordinates: [-84.3829149, 33.7622063],
       },
       properties: {
+        id: "0469616e",
         "first name": "Casper",
         "last name": "Brenning",
         "street #": "93",
@@ -1098,7 +1103,6 @@ export const ce = {
         sex: "male",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -1108,6 +1112,7 @@ export const ce = {
         coordinates: [-84.3829149, 33.7622063],
       },
       properties: {
+        id: "262b6262",
         "first name": "Mrs",
         "last name": "Brenning",
         "street #": "93",
@@ -1116,7 +1121,6 @@ export const ce = {
         sex: "female",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -1126,6 +1130,7 @@ export const ce = {
         coordinates: [-84.3924938, 33.7494501],
       },
       properties: {
+        id: "b52513d9",
         "first name": "A",
         "last name": "Brockhaus",
         "street #": "112",
@@ -1134,7 +1139,6 @@ export const ce = {
         sex: "male",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -1144,6 +1148,7 @@ export const ce = {
         coordinates: [-84.3872139, 33.7596954],
       },
       properties: {
+        id: "86cb5ec3",
         "first name": "FW",
         "last name": "Brosius",
         "street #": "18",
@@ -1152,7 +1157,6 @@ export const ce = {
         sex: "male",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -1162,6 +1166,7 @@ export const ce = {
         coordinates: [-84.3809487, 33.7596569],
       },
       properties: {
+        id: "dff7afab",
         "first name": "Jno",
         "last name": "Brown",
         "street #": "145",
@@ -1170,7 +1175,6 @@ export const ce = {
         sex: "male",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -1180,6 +1184,7 @@ export const ce = {
         coordinates: [-84.4015578, 33.75581],
       },
       properties: {
+        id: "434f55ab",
         "first name": "Fabian",
         "last name": "Brown",
         "street #": "178",
@@ -1188,7 +1193,6 @@ export const ce = {
         sex: "male",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -1198,6 +1202,7 @@ export const ce = {
         coordinates: [-84.4015578, 33.75581],
       },
       properties: {
+        id: "2ffb7ecc",
         "first name": "Mrs. Fabian",
         "last name": "Brown",
         "street #": "178",
@@ -1206,7 +1211,6 @@ export const ce = {
         sex: "female",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -1216,6 +1220,7 @@ export const ce = {
         coordinates: [-84.3942375, 33.7541709],
       },
       properties: {
+        id: "7e1002ff",
         "first name": "AA",
         "last name": "Brown",
         "street #": "8",
@@ -1224,7 +1229,6 @@ export const ce = {
         sex: "female",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -1234,6 +1238,7 @@ export const ce = {
         coordinates: [-84.4010681, 33.7436411],
       },
       properties: {
+        id: "19b42a3a",
         "first name": "Rosalie",
         "last name": "Brown",
         "street #": "26",
@@ -1242,7 +1247,6 @@ export const ce = {
         sex: "female",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -1252,6 +1256,7 @@ export const ce = {
         coordinates: [-84.3957583, 33.7406189],
       },
       properties: {
+        id: "2126943c",
         "first name": "A",
         "last name": "Burchmann",
         "street #": "206",
@@ -1260,7 +1265,6 @@ export const ce = {
         sex: "male",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -1270,6 +1274,7 @@ export const ce = {
         coordinates: [-84.3957583, 33.7406189],
       },
       properties: {
+        id: "916b336c",
         "first name": "J",
         "last name": "Burchmann",
         "street #": "206",
@@ -1278,7 +1283,6 @@ export const ce = {
         sex: "female",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -1288,6 +1292,7 @@ export const ce = {
         coordinates: [-84.3877725, 33.7508875],
       },
       properties: {
+        id: "0e1ac0af",
         "first name": "GA",
         "last name": "Burckhardt",
         "street #": "21",
@@ -1296,7 +1301,6 @@ export const ce = {
         sex: "male",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -1306,6 +1310,7 @@ export const ce = {
         coordinates: [-84.3877725, 33.7508875],
       },
       properties: {
+        id: "f6a61ca1",
         "first name": "EM",
         "last name": "Burckhardt",
         "street #": "21",
@@ -1314,7 +1319,6 @@ export const ce = {
         sex: "female",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -1324,6 +1328,7 @@ export const ce = {
         coordinates: [-84.3844666, 33.7528496],
       },
       properties: {
+        id: "c661cb42",
         "first name": "Alfred",
         "last name": "Burdick",
         "street #": "56",
@@ -1332,7 +1337,6 @@ export const ce = {
         sex: "male",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -1342,6 +1346,7 @@ export const ce = {
         coordinates: [-84.3844666, 33.7528496],
       },
       properties: {
+        id: "2401086f",
         "first name": "Dora",
         "last name": "Burdick",
         "street #": "56",
@@ -1350,7 +1355,6 @@ export const ce = {
         sex: "female",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -1360,6 +1364,7 @@ export const ce = {
         coordinates: [-84.3849969, 33.7472026],
       },
       properties: {
+        id: "131a7863",
         "first name": "C",
         "last name": "Bush",
         "street #": "53",
@@ -1368,7 +1373,6 @@ export const ce = {
         sex: "male",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -1378,6 +1382,7 @@ export const ce = {
         coordinates: [-84.3849969, 33.7472026],
       },
       properties: {
+        id: "6a9cbdad",
         "first name": "O",
         "last name": "Bush",
         "street #": "53",
@@ -1386,7 +1391,6 @@ export const ce = {
         sex: "female",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -1396,6 +1400,7 @@ export const ce = {
         coordinates: [-84.3718503, 33.7692473],
       },
       properties: {
+        id: "b4874d3c",
         "first name": "Mariah",
         "last name": "Busk",
         "street #": "513",
@@ -1404,7 +1409,6 @@ export const ce = {
         sex: "female",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -1414,6 +1418,7 @@ export const ce = {
         coordinates: [-84.3879665, 33.7533392],
       },
       properties: {
+        id: "162a87d2",
         "first name": "P",
         "last name": "Cahn",
         "street #": "48 1/2",
@@ -1422,7 +1427,6 @@ export const ce = {
         sex: "male",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -1432,6 +1436,7 @@ export const ce = {
         coordinates: [-84.3879665, 33.7533392],
       },
       properties: {
+        id: "46dc1d8f",
         "first name": "Mrs",
         "last name": "Cahn",
         "street #": "48 1/2",
@@ -1440,7 +1445,6 @@ export const ce = {
         sex: "female",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -1450,6 +1454,7 @@ export const ce = {
         coordinates: [-84.3802224, 33.7674972],
       },
       properties: {
+        id: "104698fa",
         "first name": "Mrs",
         "last name": "Campbell",
         "street #": "194",
@@ -1458,7 +1463,6 @@ export const ce = {
         sex: "female",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -1468,6 +1472,7 @@ export const ce = {
         coordinates: [-84.3832283, 33.7544822],
       },
       properties: {
+        id: "16ce8e2c",
         "first name": "Theo",
         "last name": "Cassiver",
         "street #": "143",
@@ -1476,7 +1481,6 @@ export const ce = {
         sex: "male",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -1486,6 +1490,7 @@ export const ce = {
         coordinates: [-84.3934831, 33.7368045],
       },
       properties: {
+        id: "c24e3df3",
         "first name": "E",
         "last name": "Clark",
         "street #": "29",
@@ -1494,7 +1499,6 @@ export const ce = {
         sex: "female",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -1504,6 +1508,7 @@ export const ce = {
         coordinates: [-84.4003958, 33.7452923],
       },
       properties: {
+        id: "661d3c5d",
         "first name": "Saul",
         "last name": "Clark",
         "street #": "328",
@@ -1522,6 +1527,7 @@ export const ce = {
         coordinates: [-84.3879665, 33.7533392],
       },
       properties: {
+        id: "251b2e46",
         "first name": "B",
         "last name": "Clemburg",
         "street #": "48 1/2",
@@ -1530,7 +1536,6 @@ export const ce = {
         sex: "male",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -1540,6 +1545,7 @@ export const ce = {
         coordinates: [-84.3879665, 33.7533392],
       },
       properties: {
+        id: "bca842a1",
         "first name": "Mrs",
         "last name": "Clemburg",
         "street #": "48 1/2",
@@ -1548,7 +1554,6 @@ export const ce = {
         sex: "female",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -1558,6 +1563,7 @@ export const ce = {
         coordinates: [-84.3879665, 33.7533392],
       },
       properties: {
+        id: "57d01ef8",
         "first name": "Kasie",
         "last name": "Clemburg",
         "street #": "48 1/2",
@@ -1566,7 +1572,6 @@ export const ce = {
         sex: "female",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -1576,6 +1581,7 @@ export const ce = {
         coordinates: [-84.3879665, 33.7533392],
       },
       properties: {
+        id: "76c1176d",
         "first name": "Maxie",
         "last name": "Clemburg",
         "street #": "48 1/2",
@@ -1584,7 +1590,6 @@ export const ce = {
         sex: "male",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -1594,6 +1599,7 @@ export const ce = {
         coordinates: [-84.3965264, 33.7497136],
       },
       properties: {
+        id: "eca22b9a",
         "first name": "Mrs R",
         "last name": "Cohen",
         "street #": "24",
@@ -1602,7 +1608,6 @@ export const ce = {
         sex: "female",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -1612,6 +1617,7 @@ export const ce = {
         coordinates: [-84.3784616, 33.7576942],
       },
       properties: {
+        id: "a3cdbfea",
         "first name": "Julius",
         "last name": "Cohen",
         "street #": "199",
@@ -1620,7 +1626,6 @@ export const ce = {
         sex: "male",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -1630,6 +1635,7 @@ export const ce = {
         coordinates: [-84.3784616, 33.7576942],
       },
       properties: {
+        id: "e60d1934",
         "first name": "Mary",
         "last name": "Cohen",
         "street #": "199",
@@ -1638,7 +1644,6 @@ export const ce = {
         sex: "female",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -1648,6 +1653,7 @@ export const ce = {
         coordinates: [-84.3975671, 33.7471756],
       },
       properties: {
+        id: "248a4f03",
         "first name": "L",
         "last name": "Cohen",
         "street #": "222",
@@ -1656,7 +1662,6 @@ export const ce = {
         sex: "male",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -1666,6 +1671,7 @@ export const ce = {
         coordinates: [-84.3912379, 33.734588],
       },
       properties: {
+        id: "b131670c",
         "first name": "Chas",
         "last name": "Cohen",
         "street #": "456",
@@ -1674,7 +1680,6 @@ export const ce = {
         sex: "male",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -1684,6 +1689,7 @@ export const ce = {
         coordinates: [-84.3999345, 33.7455064],
       },
       properties: {
+        id: "1623906c",
         "first name": "Henry",
         "last name": "Cohen",
         "street #": "307",
@@ -1692,7 +1698,6 @@ export const ce = {
         sex: "male",
         "birth country": "Prussia",
         race: "W",
-        "": "",
       },
     },
     {
@@ -1702,6 +1707,7 @@ export const ce = {
         coordinates: [-84.3945506, 33.7676881],
       },
       properties: {
+        id: "f1712e05",
         "first name": "Fred",
         "last name": "Creamer",
         "street #": "108",
@@ -1710,7 +1716,6 @@ export const ce = {
         sex: "male",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -1720,6 +1725,7 @@ export const ce = {
         coordinates: [-84.3945506, 33.7676881],
       },
       properties: {
+        id: "bb0a64aa",
         "first name": "Margret",
         "last name": "Creamer",
         "street #": "108",
@@ -1728,7 +1734,6 @@ export const ce = {
         sex: "female",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -1738,6 +1743,7 @@ export const ce = {
         coordinates: [-84.4007338, 33.7451272],
       },
       properties: {
+        id: "4abdddc9",
         "first name": "A",
         "last name": "Cronheim",
         "street #": "348",
@@ -1746,7 +1752,6 @@ export const ce = {
         sex: "female",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -1756,6 +1761,7 @@ export const ce = {
         coordinates: [-84.3925421, 33.7296482],
       },
       properties: {
+        id: "a35640a7",
         "first name": "DW",
         "last name": "Daekery",
         "street #": "672",
@@ -1764,7 +1770,6 @@ export const ce = {
         sex: "male",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -1774,6 +1779,7 @@ export const ce = {
         coordinates: [-84.3947485, 33.7622149],
       },
       properties: {
+        id: "c9eb752e",
         "first name": "Jno",
         "last name": "Damino",
         "street #": "153",
@@ -1782,7 +1788,6 @@ export const ce = {
         sex: "male",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -1792,6 +1797,7 @@ export const ce = {
         coordinates: [-84.3947485, 33.7622149],
       },
       properties: {
+        id: "ea89bf9b",
         "first name": "Justina",
         "last name": "Damino",
         "street #": "153",
@@ -1800,7 +1806,6 @@ export const ce = {
         sex: "female",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -1810,6 +1815,7 @@ export const ce = {
         coordinates: [-84.3924992, 33.7421615],
       },
       properties: {
+        id: "29208f82",
         "first name": "E",
         "last name": "Danniel",
         "street #": "132",
@@ -1818,7 +1824,6 @@ export const ce = {
         sex: "female",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -1828,6 +1833,7 @@ export const ce = {
         coordinates: [-84.3907658, 33.7458204],
       },
       properties: {
+        id: "3780b87c",
         "first name": "William",
         "last name": "Decatur",
         "street #": "136",
@@ -1836,7 +1842,6 @@ export const ce = {
         sex: "male",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -1846,6 +1851,7 @@ export const ce = {
         coordinates: [-84.4046954, 33.736838],
       },
       properties: {
+        id: "e8ba5c5b",
         "first name": "J",
         "last name": "Deckme",
         "street #": "268",
@@ -1854,7 +1860,6 @@ export const ce = {
         sex: "male",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -1864,6 +1869,7 @@ export const ce = {
         coordinates: [-84.3960768, 33.7685257],
       },
       properties: {
+        id: "58e1cede",
         "first name": "Anna",
         "last name": "DeGroot",
         "street #": "394",
@@ -1872,7 +1878,6 @@ export const ce = {
         sex: "female",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -1882,6 +1887,7 @@ export const ce = {
         coordinates: [-84.3960768, 33.7685257],
       },
       properties: {
+        id: "5fbb48ed",
         "first name": "E",
         "last name": "DeGroot",
         "street #": "394",
@@ -1890,7 +1896,6 @@ export const ce = {
         sex: "male",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -1900,6 +1905,7 @@ export const ce = {
         coordinates: [-84.3822109, 33.7585955],
       },
       properties: {
+        id: "ab00735f",
         "first name": "P",
         "last name": "Deitz",
         "street #": "217",
@@ -1908,7 +1914,6 @@ export const ce = {
         sex: "male",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -1918,6 +1923,7 @@ export const ce = {
         coordinates: [-84.3761013, 33.7587646],
       },
       properties: {
+        id: "7f98be52",
         "first name": "Aygust",
         "last name": "Denk",
         "street #": "309",
@@ -1926,7 +1932,6 @@ export const ce = {
         sex: "male",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -1936,6 +1941,7 @@ export const ce = {
         coordinates: [-84.3761013, 33.7587646],
       },
       properties: {
+        id: "93e49402",
         "first name": "Annie",
         "last name": "Denk",
         "street #": "309",
@@ -1944,7 +1950,6 @@ export const ce = {
         sex: "female",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -1954,6 +1959,7 @@ export const ce = {
         coordinates: [-84.3930303, 33.7487632],
       },
       properties: {
+        id: "13791b04",
         "first name": "M",
         "last name": "Dent",
         "street #": "127",
@@ -1962,7 +1968,6 @@ export const ce = {
         sex: "male",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -1972,6 +1977,7 @@ export const ce = {
         coordinates: [-84.3765075, 33.7441848],
       },
       properties: {
+        id: "f993101f",
         "first name": "CF",
         "last name": "Dernell",
         "street #": "125",
@@ -1980,7 +1986,6 @@ export const ce = {
         sex: "male",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -1990,6 +1995,7 @@ export const ce = {
         coordinates: [-84.3982866, 33.7409624],
       },
       properties: {
+        id: "238b8866",
         "first name": "Herbert",
         "last name": "Deyfull",
         "street #": "183",
@@ -1998,7 +2004,6 @@ export const ce = {
         sex: "male",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -2008,6 +2013,7 @@ export const ce = {
         coordinates: [-84.3828546, 33.7538679],
       },
       properties: {
+        id: "ba1c2324",
         "first name": "JB",
         "last name": "Diamond",
         "street #": "72",
@@ -2016,7 +2022,6 @@ export const ce = {
         sex: "male",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -2026,6 +2031,7 @@ export const ce = {
         coordinates: [-84.3907765, 33.745187],
       },
       properties: {
+        id: "fcbe6eb6",
         "first name": "Albert",
         "last name": "Diarz",
         "street #": "164",
@@ -2034,7 +2040,6 @@ export const ce = {
         sex: "male",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -2044,6 +2049,7 @@ export const ce = {
         coordinates: [-84.3907765, 33.745187],
       },
       properties: {
+        id: "54ad79b4",
         "first name": "Mrs. A",
         "last name": "Diarz",
         "street #": "164",
@@ -2052,7 +2058,6 @@ export const ce = {
         sex: "female",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -2062,6 +2067,7 @@ export const ce = {
         coordinates: [-84.3876782, 33.7622327],
       },
       properties: {
+        id: "78169350",
         "first name": "A",
         "last name": "Dickerson",
         "street #": "12",
@@ -2070,7 +2076,6 @@ export const ce = {
         sex: "male",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -2080,6 +2085,7 @@ export const ce = {
         coordinates: [-84.3876782, 33.7622327],
       },
       properties: {
+        id: "5716fad0",
         "first name": "Jennie",
         "last name": "Dickerson",
         "street #": "12",
@@ -2088,7 +2094,6 @@ export const ce = {
         sex: "female",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -2098,6 +2103,7 @@ export const ce = {
         coordinates: [-84.3795326, 33.750029],
       },
       properties: {
+        id: "6c747ea0",
         "first name": "W",
         "last name": "Dismer",
         "street #": "29",
@@ -2106,7 +2112,6 @@ export const ce = {
         sex: "male",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -2116,6 +2121,7 @@ export const ce = {
         coordinates: [-84.3795326, 33.750029],
       },
       properties: {
+        id: "e362ebd1",
         "first name": "D",
         "last name": "Dismer",
         "street #": "29",
@@ -2124,7 +2130,6 @@ export const ce = {
         sex: "female",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -2134,6 +2139,7 @@ export const ce = {
         coordinates: [-84.3958565, 33.745664],
       },
       properties: {
+        id: "2658bc0b",
         "first name": "Alex",
         "last name": "Dixler",
         "street #": "48",
@@ -2142,7 +2148,6 @@ export const ce = {
         sex: "male",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -2152,6 +2157,7 @@ export const ce = {
         coordinates: [-84.3958565, 33.745664],
       },
       properties: {
+        id: "dca027b7",
         "first name": "Addie",
         "last name": "Dixler",
         "street #": "48",
@@ -2160,7 +2166,6 @@ export const ce = {
         sex: "female",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -2170,6 +2175,7 @@ export const ce = {
         coordinates: [-84.3862408, 33.7584107],
       },
       properties: {
+        id: "734a98c9",
         "first name": "Robt",
         "last name": "Dohme",
         "street #": "30",
@@ -2178,7 +2184,6 @@ export const ce = {
         sex: "male",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -2188,6 +2193,7 @@ export const ce = {
         coordinates: [-84.395645, 33.7609705],
       },
       properties: {
+        id: "8ad492b9",
         "first name": "Jno",
         "last name": "Domini",
         "street #": "299",
@@ -2196,7 +2202,6 @@ export const ce = {
         sex: "male",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -2206,6 +2211,7 @@ export const ce = {
         coordinates: [-84.3922182, 33.7578047],
       },
       properties: {
+        id: "316c0b3e",
         "first name": "Nannie",
         "last name": "Dominico",
         "street #": "99",
@@ -2214,7 +2220,6 @@ export const ce = {
         sex: "female",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -2224,6 +2229,7 @@ export const ce = {
         coordinates: [-84.3922182, 33.7578047],
       },
       properties: {
+        id: "05e3df0e",
         "first name": "T",
         "last name": "Dominico",
         "street #": "99",
@@ -2232,7 +2238,6 @@ export const ce = {
         sex: "male",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -2242,6 +2247,7 @@ export const ce = {
         coordinates: [-84.3893657, 33.74423],
       },
       properties: {
+        id: "90499873",
         "first name": "CB",
         "last name": "Donnally",
         "street #": "76",
@@ -2250,7 +2256,6 @@ export const ce = {
         sex: "female",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -2260,6 +2265,7 @@ export const ce = {
         coordinates: [-84.3852283, 33.7534249],
       },
       properties: {
+        id: "f4383a86",
         "first name": "CH",
         "last name": "Duhme",
         "street #": "36",
@@ -2268,7 +2274,6 @@ export const ce = {
         sex: "male",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -2278,6 +2283,7 @@ export const ce = {
         coordinates: [-84.3936231, 33.7645912],
       },
       properties: {
+        id: "9bcd4732",
         "first name": "Wm",
         "last name": "Edelman",
         "street #": "131",
@@ -2286,7 +2292,6 @@ export const ce = {
         sex: "female",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -2296,6 +2301,7 @@ export const ce = {
         coordinates: [-84.3974866, 33.7475124],
       },
       properties: {
+        id: "7c855487",
         "first name": "JT",
         "last name": "Eichberg",
         "street #": "210",
@@ -2304,7 +2310,6 @@ export const ce = {
         sex: "male",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -2314,6 +2319,7 @@ export const ce = {
         coordinates: [-84.3974866, 33.7475124],
       },
       properties: {
+        id: "8671a961",
         "first name": "Caroline",
         "last name": "Eichberg",
         "street #": "210",
@@ -2322,7 +2328,6 @@ export const ce = {
         sex: "female",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -2332,6 +2337,7 @@ export const ce = {
         coordinates: [-84.3808327, 33.7573017],
       },
       properties: {
+        id: "c3c5dd30",
         "first name": "T",
         "last name": "Eining",
         "street #": "148",
@@ -2340,7 +2346,6 @@ export const ce = {
         sex: "male",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -2350,6 +2355,7 @@ export const ce = {
         coordinates: [-84.3936655, 33.7580671],
       },
       properties: {
+        id: "e2254259",
         "first name": "Albert",
         "last name": "Eirschson",
         "street #": "143",
@@ -2358,7 +2364,6 @@ export const ce = {
         sex: "male",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -2368,6 +2373,7 @@ export const ce = {
         coordinates: [-84.383634, 33.7690862],
       },
       properties: {
+        id: "9d5dddac",
         "first name": "Jacob",
         "last name": "Eiseman",
         "street #": "30",
@@ -2376,7 +2382,6 @@ export const ce = {
         sex: "male",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -2386,6 +2391,7 @@ export const ce = {
         coordinates: [-84.383634, 33.7690862],
       },
       properties: {
+        id: "06ba92f7",
         "first name": "Lina",
         "last name": "Eiseman",
         "street #": "30",
@@ -2394,7 +2400,6 @@ export const ce = {
         sex: "female",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -2404,6 +2409,7 @@ export const ce = {
         coordinates: [-84.374866, 33.7508012],
       },
       properties: {
+        id: "6a136855",
         "first name": "I",
         "last name": "Eleas",
         "street #": "13",
@@ -2412,7 +2418,6 @@ export const ce = {
         sex: "male",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -2422,6 +2427,7 @@ export const ce = {
         coordinates: [-84.3950994, 33.7489107],
       },
       properties: {
+        id: "6afe1542",
         "first name": "Jacob",
         "last name": "Elsas",
         "street #": "60",
@@ -2430,7 +2436,6 @@ export const ce = {
         sex: "male",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -2440,6 +2445,7 @@ export const ce = {
         coordinates: [-84.3950994, 33.7489107],
       },
       properties: {
+        id: "6b23730b",
         "first name": "Mrs Jacob",
         "last name": "Elsas",
         "street #": "60",
@@ -2448,7 +2454,6 @@ export const ce = {
         sex: "female",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -2458,6 +2463,7 @@ export const ce = {
         coordinates: [-84.3748982, 33.7508949],
       },
       properties: {
+        id: "31b6d8a3",
         "first name": "Sallie",
         "last name": "Engesser",
         "street #": "16",
@@ -2466,7 +2472,6 @@ export const ce = {
         sex: "female",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -2476,6 +2481,7 @@ export const ce = {
         coordinates: [-84.3842185, 33.7582906],
       },
       properties: {
+        id: "cb115349",
         "first name": "Jos",
         "last name": "Erdmann",
         "street #": "202",
@@ -2484,7 +2490,6 @@ export const ce = {
         sex: "male",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -2494,6 +2499,7 @@ export const ce = {
         coordinates: [-84.3842185, 33.7582906],
       },
       properties: {
+        id: "820fbef8",
         "first name": "August",
         "last name": "Erdmann",
         "street #": "202",
@@ -2502,7 +2508,6 @@ export const ce = {
         sex: "male",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -2512,6 +2517,7 @@ export const ce = {
         coordinates: [-84.3842185, 33.7582906],
       },
       properties: {
+        id: "a8f9286c",
         "first name": "Clara",
         "last name": "Erdmann",
         "street #": "202",
@@ -2520,7 +2526,6 @@ export const ce = {
         sex: "female",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -2530,6 +2535,7 @@ export const ce = {
         coordinates: [-84.3687636, 33.7613313],
       },
       properties: {
+        id: "ef4d6390",
         "first name": "Mrs",
         "last name": "Erleck",
         "street #": "226",
@@ -2538,7 +2544,6 @@ export const ce = {
         sex: "female",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -2548,6 +2553,7 @@ export const ce = {
         coordinates: [-84.3687636, 33.7613313],
       },
       properties: {
+        id: "269864a0",
         "first name": "Leon",
         "last name": "Erleck",
         "street #": "226",
@@ -2556,7 +2562,6 @@ export const ce = {
         sex: "male",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -2566,6 +2571,7 @@ export const ce = {
         coordinates: [-84.3721414, 33.7511448],
       },
       properties: {
+        id: "ea61026c",
         "first name": "Albert",
         "last name": "Ernest",
         "street #": "482",
@@ -2574,7 +2580,6 @@ export const ce = {
         sex: "male",
         "birth country": "Switzerland",
         race: "W",
-        "": "",
       },
     },
     {
@@ -2584,6 +2589,7 @@ export const ce = {
         coordinates: [-84.3701897, 33.7593087],
       },
       properties: {
+        id: "1a50dfbd",
         "first name": "Margarita",
         "last name": "Faest",
         "street #": "389",
@@ -2592,7 +2598,6 @@ export const ce = {
         sex: "female",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -2602,6 +2607,7 @@ export const ce = {
         coordinates: [-84.3729635, 33.7696691],
       },
       properties: {
+        id: "e908161b",
         "first name": "Anne",
         "last name": "Faest",
         "street #": "480",
@@ -2610,7 +2616,6 @@ export const ce = {
         sex: "female",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -2620,6 +2625,7 @@ export const ce = {
         coordinates: [-84.3840075, 33.7504757],
       },
       properties: {
+        id: "64de0c6b",
         "first name": "JL",
         "last name": "Falto",
         "street #": "192 1/2",
@@ -2628,7 +2634,6 @@ export const ce = {
         sex: "male",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -2638,6 +2643,7 @@ export const ce = {
         coordinates: [-84.3934221, 33.7504307],
       },
       properties: {
+        id: "02c2dc6f",
         "first name": "JF",
         "last name": "Faust",
         "street #": "115.5",
@@ -2646,7 +2652,6 @@ export const ce = {
         sex: "male",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -2656,6 +2661,7 @@ export const ce = {
         coordinates: [-84.396809, 33.7368848],
       },
       properties: {
+        id: "b3c453de",
         "first name": "JN",
         "last name": "Faustmann",
         "street #": "35",
@@ -2664,7 +2670,6 @@ export const ce = {
         sex: "male",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -2674,6 +2679,7 @@ export const ce = {
         coordinates: [-84.396809, 33.7368848],
       },
       properties: {
+        id: "efabb87b",
         "first name": "Annie",
         "last name": "Faustmann",
         "street #": "35",
@@ -2682,7 +2688,6 @@ export const ce = {
         sex: "female",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -2692,6 +2697,7 @@ export const ce = {
         coordinates: [-84.4081748, 33.743303],
       },
       properties: {
+        id: "5574272d",
         "first name": "E",
         "last name": "Fechter",
         "street #": "409",
@@ -2700,7 +2706,6 @@ export const ce = {
         sex: "male",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -2710,6 +2715,7 @@ export const ce = {
         coordinates: [-84.3863962, 33.7485075],
       },
       properties: {
+        id: "44ed3ff3",
         "first name": "Ike",
         "last name": "Feinberg",
         "street #": "72",
@@ -2718,7 +2724,6 @@ export const ce = {
         sex: "male",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -2728,6 +2733,7 @@ export const ce = {
         coordinates: [-84.3943984, 33.7492175],
       },
       properties: {
+        id: "e45435a9",
         "first name": "Clara",
         "last name": "Fenchel",
         "street #": "169",
@@ -2736,7 +2742,6 @@ export const ce = {
         sex: "female",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -2746,6 +2751,7 @@ export const ce = {
         coordinates: [-84.3943984, 33.7492175],
       },
       properties: {
+        id: "0c07b3aa",
         "first name": "Sophia",
         "last name": "Fenchel",
         "street #": "169",
@@ -2754,7 +2760,6 @@ export const ce = {
         sex: "female",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -2764,6 +2769,7 @@ export const ce = {
         coordinates: [-84.3943984, 33.7492175],
       },
       properties: {
+        id: "042435ec",
         "first name": "Geannette",
         "last name": "Fenchel",
         "street #": "169",
@@ -2772,7 +2778,6 @@ export const ce = {
         sex: "female",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -2782,6 +2787,7 @@ export const ce = {
         coordinates: [-84.3943984, 33.7492175],
       },
       properties: {
+        id: "4af08d83",
         "first name": "Frances",
         "last name": "Fenchel",
         "street #": "169",
@@ -2790,7 +2796,6 @@ export const ce = {
         sex: "female",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -2800,6 +2805,7 @@ export const ce = {
         coordinates: [-84.3943763, 33.7283819],
       },
       properties: {
+        id: "6a0c2d74",
         "first name": "Frances",
         "last name": "Fervet",
         "street #": "30",
@@ -2808,7 +2814,6 @@ export const ce = {
         sex: "female",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -2818,6 +2823,7 @@ export const ce = {
         coordinates: [-84.3821733, 33.7599156],
       },
       properties: {
+        id: "ac062870",
         "first name": "Theo",
         "last name": "Fichter",
         "street #": "274",
@@ -2826,7 +2832,6 @@ export const ce = {
         sex: "male",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -2836,6 +2841,7 @@ export const ce = {
         coordinates: [-84.3808327, 33.7573017],
       },
       properties: {
+        id: "4dbf69e9",
         "first name": "John",
         "last name": "Ficken",
         "street #": "148",
@@ -2854,6 +2860,7 @@ export const ce = {
         coordinates: [-84.3960741, 33.7676316],
       },
       properties: {
+        id: "4efef323",
         "first name": "John",
         "last name": "Filss",
         "street #": "365",
@@ -2862,7 +2869,6 @@ export const ce = {
         sex: "male",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -2872,6 +2878,7 @@ export const ce = {
         coordinates: [-84.3967534, 33.7483193],
       },
       properties: {
+        id: "9e77db56",
         "first name": "HA",
         "last name": "Fischer",
         "street #": "47",
@@ -2880,7 +2887,6 @@ export const ce = {
         sex: "male",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -2890,6 +2896,7 @@ export const ce = {
         coordinates: [-84.4017615, 33.7592468],
       },
       properties: {
+        id: "3d010ac8",
         "first name": "George",
         "last name": "Fischer",
         "street #": "86",
@@ -2898,7 +2905,6 @@ export const ce = {
         sex: "male",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -2908,6 +2914,7 @@ export const ce = {
         coordinates: [-84.4017615, 33.7592468],
       },
       properties: {
+        id: "cb392da7",
         "first name": "Catherine",
         "last name": "Fischer",
         "street #": "86",
@@ -2916,7 +2923,6 @@ export const ce = {
         sex: "female",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -2926,6 +2932,7 @@ export const ce = {
         coordinates: [-84.3879665, 33.7533392],
       },
       properties: {
+        id: "0590d86b",
         "first name": "EM",
         "last name": "Fleermon",
         "street #": "48 1/2",
@@ -2934,7 +2941,6 @@ export const ce = {
         sex: "male",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -2944,6 +2950,7 @@ export const ce = {
         coordinates: [-84.3879665, 33.7533392],
       },
       properties: {
+        id: "8a7afd11",
         "first name": "J",
         "last name": "Fleermon",
         "street #": "48 1/2",
@@ -2952,7 +2959,6 @@ export const ce = {
         sex: "female",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -2962,6 +2968,7 @@ export const ce = {
         coordinates: [-84.3879665, 33.7533392],
       },
       properties: {
+        id: "02b7a302",
         "first name": "M",
         "last name": "Fleermon",
         "street #": "48 1/2",
@@ -2970,7 +2977,6 @@ export const ce = {
         sex: "male",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -2980,6 +2986,7 @@ export const ce = {
         coordinates: [-84.3879665, 33.7533392],
       },
       properties: {
+        id: "2c2601ba",
         "first name": "Bettie",
         "last name": "Fleermon",
         "street #": "48 1/2",
@@ -2988,7 +2995,6 @@ export const ce = {
         sex: "female",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -2998,6 +3004,7 @@ export const ce = {
         coordinates: [-84.3825316, 33.7468682],
       },
       properties: {
+        id: "223fcd14",
         "first name": "S",
         "last name": "Fleischman",
         "street #": "327",
@@ -3006,7 +3013,6 @@ export const ce = {
         sex: "male",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -3016,6 +3022,7 @@ export const ce = {
         coordinates: [-84.3869209, 33.7609718],
       },
       properties: {
+        id: "2ed75036",
         "first name": "F",
         "last name": "Flexner",
         "street #": "26",
@@ -3024,7 +3031,6 @@ export const ce = {
         sex: "male",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -3034,6 +3040,7 @@ export const ce = {
         coordinates: [-84.3849433, 33.7472918],
       },
       properties: {
+        id: "0d9232fe",
         "first name": "Robert",
         "last name": "Fogle",
         "street #": "50",
@@ -3042,7 +3049,6 @@ export const ce = {
         sex: "male",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -3052,6 +3058,7 @@ export const ce = {
         coordinates: [-84.3852431, 33.753554],
       },
       properties: {
+        id: "868fae08",
         "first name": "Flora",
         "last name": "Foote",
         "street #": "79",
@@ -3060,7 +3067,6 @@ export const ce = {
         sex: "female",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -3070,6 +3076,7 @@ export const ce = {
         coordinates: [-84.3944572, 33.746069],
       },
       properties: {
+        id: "cf9bffb9",
         "first name": "Michael",
         "last name": "Foote",
         "street #": "197",
@@ -3078,7 +3085,6 @@ export const ce = {
         sex: "male",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -3088,6 +3094,7 @@ export const ce = {
         coordinates: [-84.3956144, 33.7499723],
       },
       properties: {
+        id: "ea4a6695",
         "first name": "Louis",
         "last name": "Fortmeyer",
         "street #": "134",
@@ -3096,7 +3103,6 @@ export const ce = {
         sex: "male",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -3106,6 +3112,7 @@ export const ce = {
         coordinates: [-84.3920329, 33.7611102],
       },
       properties: {
+        id: "1aab4977",
         "first name": "Jacob",
         "last name": "Foster",
         "street #": "46",
@@ -3114,7 +3121,6 @@ export const ce = {
         sex: "male",
         "birth country": "Switzerland",
         race: "W",
-        "": "",
       },
     },
     {
@@ -3124,6 +3130,7 @@ export const ce = {
         coordinates: [-84.3920329, 33.7611102],
       },
       properties: {
+        id: "796d8bf7",
         "first name": "Pauline",
         "last name": "Foster",
         "street #": "46",
@@ -3132,7 +3139,6 @@ export const ce = {
         sex: "female",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -3142,6 +3148,7 @@ export const ce = {
         coordinates: [-84.3958461, 33.7469396],
       },
       properties: {
+        id: "7a46792e",
         "first name": "Louis",
         "last name": "Fox",
         "street #": "19",
@@ -3150,7 +3157,6 @@ export const ce = {
         sex: "male",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -3160,6 +3166,7 @@ export const ce = {
         coordinates: [-84.3958461, 33.7469396],
       },
       properties: {
+        id: "000a790b",
         "first name": "Jennie",
         "last name": "Fox",
         "street #": "19",
@@ -3168,7 +3175,6 @@ export const ce = {
         sex: "female",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -3178,6 +3184,7 @@ export const ce = {
         coordinates: [-84.3958461, 33.7469396],
       },
       properties: {
+        id: "a2d1f61b",
         "first name": "Albert",
         "last name": "Fox",
         "street #": "19",
@@ -3186,7 +3193,6 @@ export const ce = {
         sex: "male",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -3196,6 +3202,7 @@ export const ce = {
         coordinates: [-84.3998808, 33.7455287],
       },
       properties: {
+        id: "5240d40b",
         "first name": "T",
         "last name": "Fox",
         "street #": "306",
@@ -3204,7 +3211,6 @@ export const ce = {
         sex: "male",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -3214,6 +3220,7 @@ export const ce = {
         coordinates: [-84.3943655, 33.7295775],
       },
       properties: {
+        id: "6961f753",
         "first name": "Isaac",
         "last name": "Framisham",
         "street #": "8",
@@ -3222,7 +3229,6 @@ export const ce = {
         sex: "male",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -3232,6 +3238,7 @@ export const ce = {
         coordinates: [-84.3943655, 33.7295775],
       },
       properties: {
+        id: "dcf0d157",
         "first name": "Hattie",
         "last name": "Framisham",
         "street #": "8",
@@ -3240,7 +3247,6 @@ export const ce = {
         sex: "female",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -3250,6 +3256,7 @@ export const ce = {
         coordinates: [-84.3911306, 33.7388259],
       },
       properties: {
+        id: "2896fbe4",
         "first name": "M",
         "last name": "Frank",
         "street #": "341",
@@ -3258,7 +3265,6 @@ export const ce = {
         sex: "male",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -3268,6 +3274,7 @@ export const ce = {
         coordinates: [-84.4000042, 33.7454707],
       },
       properties: {
+        id: "90333236",
         "first name": "T",
         "last name": "Frank",
         "street #": "308",
@@ -3276,7 +3283,6 @@ export const ce = {
         sex: "female",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -3286,6 +3292,7 @@ export const ce = {
         coordinates: [-84.3970293, 33.7442867],
       },
       properties: {
+        id: "51667417",
         "first name": "Herman",
         "last name": "Franklin",
         "street #": "293",
@@ -3294,7 +3301,6 @@ export const ce = {
         sex: "male",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -3304,6 +3310,7 @@ export const ce = {
         coordinates: [-84.3975107, 33.7474945],
       },
       properties: {
+        id: "50caaa84",
         "first name": "Richard",
         "last name": "Franklin",
         "street #": "213",
@@ -3312,7 +3319,6 @@ export const ce = {
         sex: "male",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -3322,6 +3328,7 @@ export const ce = {
         coordinates: [-84.3945484, 33.7402567],
       },
       properties: {
+        id: "0b812365",
         "first name": "A",
         "last name": "Franklin",
         "street #": "373",
@@ -3330,7 +3337,6 @@ export const ce = {
         sex: "male",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -3340,6 +3346,7 @@ export const ce = {
         coordinates: [-84.3971942, 33.7479763],
       },
       properties: {
+        id: "61a31ab3",
         "first name": "Mrs. Leo",
         "last name": "Freisch",
         "street #": "197",
@@ -3348,7 +3355,6 @@ export const ce = {
         sex: "female",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -3358,6 +3364,7 @@ export const ce = {
         coordinates: [-84.3912379, 33.734588],
       },
       properties: {
+        id: "eb8ad257",
         "first name": "[Abraham]",
         "last name": "Freisleben",
         "street #": "456",
@@ -3376,6 +3383,7 @@ export const ce = {
         coordinates: [-84.3904708, 33.733495],
       },
       properties: {
+        id: "67377107",
         "first name": "Dora",
         "last name": "Fried",
         "street #": "",
@@ -3384,7 +3392,6 @@ export const ce = {
         sex: "female",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -3394,6 +3401,7 @@ export const ce = {
         coordinates: [-84.3904708, 33.733495],
       },
       properties: {
+        id: "2b898d9f",
         "first name": "Jacob",
         "last name": "Fried",
         "street #": "",
@@ -3402,7 +3410,6 @@ export const ce = {
         sex: "male",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -3412,6 +3419,7 @@ export const ce = {
         coordinates: [-84.3971942, 33.7479763],
       },
       properties: {
+        id: "005d279c",
         "first name": "Leo",
         "last name": "Friesch",
         "street #": "197",
@@ -3420,7 +3428,6 @@ export const ce = {
         sex: "male",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -3430,6 +3437,7 @@ export const ce = {
         coordinates: [-84.4004768, 33.748562],
       },
       properties: {
+        id: "90562a90",
         "first name": "Morris",
         "last name": "Froelich",
         "street #": "141",
@@ -3438,7 +3446,6 @@ export const ce = {
         sex: "male",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -3448,6 +3455,7 @@ export const ce = {
         coordinates: [-84.4005841, 33.7484594],
       },
       properties: {
+        id: "fb893370",
         "first name": "Morris",
         "last name": "Froetich",
         "street #": "155 1/2",
@@ -3456,7 +3464,6 @@ export const ce = {
         sex: "male",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -3466,6 +3473,7 @@ export const ce = {
         coordinates: [-84.3923919, 33.7410909],
       },
       properties: {
+        id: "7d1158d0",
         "first name": "J",
         "last name": "Frohsin",
         "street #": "165",
@@ -3474,7 +3482,6 @@ export const ce = {
         sex: "male",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -3484,6 +3491,7 @@ export const ce = {
         coordinates: [-84.3945001, 33.74358],
       },
       properties: {
+        id: "c065a71f",
         "first name": "Joe",
         "last name": "Fuld",
         "street #": "244",
@@ -3492,7 +3500,6 @@ export const ce = {
         sex: "male",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -3502,6 +3509,7 @@ export const ce = {
         coordinates: [-84.3904708, 33.733495],
       },
       properties: {
+        id: "5e988d02",
         "first name": "Veronica",
         "last name": "Fuller",
         "street #": "",
@@ -3510,7 +3518,6 @@ export const ce = {
         sex: "female",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -3520,6 +3527,7 @@ export const ce = {
         coordinates: [-84.3938264, 33.7582277],
       },
       properties: {
+        id: "241d0da1",
         "first name": "Fred",
         "last name": "Garraus",
         "street #": "149",
@@ -3528,7 +3536,6 @@ export const ce = {
         sex: "male",
         "birth country": "Switzerland",
         race: "W",
-        "": "",
       },
     },
     {
@@ -3538,6 +3545,7 @@ export const ce = {
         coordinates: [-84.3938264, 33.7582277],
       },
       properties: {
+        id: "54e36836",
         "first name": "Fred Jr.",
         "last name": "Garraus",
         "street #": "149",
@@ -3546,7 +3554,6 @@ export const ce = {
         sex: "male",
         "birth country": "Switzerland",
         race: "W",
-        "": "",
       },
     },
     {
@@ -3556,6 +3563,7 @@ export const ce = {
         coordinates: [-84.3832784, 33.7534798],
       },
       properties: {
+        id: "acf989bd",
         "first name": "Rachel",
         "last name": "Gaustock",
         "street #": "60",
@@ -3564,7 +3572,6 @@ export const ce = {
         sex: "female",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -3574,6 +3581,7 @@ export const ce = {
         coordinates: [-84.3832784, 33.7534798],
       },
       properties: {
+        id: "e83f9835",
         "first name": "Chas",
         "last name": "Gaustock",
         "street #": "60",
@@ -3582,7 +3590,6 @@ export const ce = {
         sex: "male",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -3592,6 +3599,7 @@ export const ce = {
         coordinates: [-84.3967534, 33.7483193],
       },
       properties: {
+        id: "347ee6f3",
         "first name": "Emil",
         "last name": "Geilad",
         "street #": "47",
@@ -3600,7 +3608,6 @@ export const ce = {
         sex: "male",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -3610,6 +3617,7 @@ export const ce = {
         coordinates: [-84.3967534, 33.7483193],
       },
       properties: {
+        id: "aeba40e0",
         "first name": "Mrs",
         "last name": "Geilad",
         "street #": "47",
@@ -3618,7 +3626,6 @@ export const ce = {
         sex: "female",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -3628,6 +3635,7 @@ export const ce = {
         coordinates: [-84.3901069, 33.7525206],
       },
       properties: {
+        id: "6cc8b7ef",
         "first name": "Anton",
         "last name": "Gerber",
         "street #": "",
@@ -3636,7 +3644,6 @@ export const ce = {
         sex: "male",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -3646,6 +3653,7 @@ export const ce = {
         coordinates: [-84.3834018, 33.7609272],
       },
       properties: {
+        id: "07f1870f",
         "first name": "John",
         "last name": "Gertie",
         "street #": "110",
@@ -3654,7 +3662,6 @@ export const ce = {
         sex: "male",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -3664,6 +3671,7 @@ export const ce = {
         coordinates: [-84.394577, 33.729817],
       },
       properties: {
+        id: "c9afff54",
         "first name": "May",
         "last name": "Gidish",
         "street #": "39",
@@ -3672,7 +3680,6 @@ export const ce = {
         sex: "female",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -3682,6 +3689,7 @@ export const ce = {
         coordinates: [-84.4065644, 33.750433],
       },
       properties: {
+        id: "4f0ef845",
         "first name": "John L",
         "last name": "Gidish",
         "street #": "31",
@@ -3690,7 +3698,6 @@ export const ce = {
         sex: "male",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -3700,6 +3707,7 @@ export const ce = {
         coordinates: [-84.3825078, 33.7350186],
       },
       properties: {
+        id: "4c689b80",
         "first name": "George",
         "last name": "Gieler",
         "street #": "52",
@@ -3708,7 +3716,6 @@ export const ce = {
         sex: "male",
         "birth country": "Switzerland",
         race: "W",
-        "": "",
       },
     },
     {
@@ -3718,6 +3725,7 @@ export const ce = {
         coordinates: [-84.3825078, 33.7350186],
       },
       properties: {
+        id: "9deb24b8",
         "first name": "E",
         "last name": "Gieler",
         "street #": "52",
@@ -3726,7 +3734,6 @@ export const ce = {
         sex: "female",
         "birth country": "Switzerland",
         race: "W",
-        "": "",
       },
     },
     {
@@ -3736,6 +3743,7 @@ export const ce = {
         coordinates: [-84.3815082, 33.747154],
       },
       properties: {
+        id: "0a861a9e",
         "first name": "Theo",
         "last name": "Gilbert",
         "street #": "12",
@@ -3744,7 +3752,6 @@ export const ce = {
         sex: "male",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -3754,6 +3761,7 @@ export const ce = {
         coordinates: [-84.4043746, 33.7600419],
       },
       properties: {
+        id: "6cf80aac",
         "first name": "Herman",
         "last name": "Glunder",
         "street #": "44",
@@ -3762,7 +3770,6 @@ export const ce = {
         sex: "male",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -3772,6 +3779,7 @@ export const ce = {
         coordinates: [-84.4015793, 33.7567198],
       },
       properties: {
+        id: "3742176d",
         "first name": "O",
         "last name": "Goettling",
         "street #": "207",
@@ -3780,7 +3788,6 @@ export const ce = {
         sex: "female",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -3790,6 +3797,7 @@ export const ce = {
         coordinates: [-84.3961787, 33.7469396],
       },
       properties: {
+        id: "d1860e92",
         "first name": "Bennard",
         "last name": "Goldberg",
         "street #": "17",
@@ -3798,7 +3806,6 @@ export const ce = {
         sex: "male",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -3808,6 +3815,7 @@ export const ce = {
         coordinates: [-84.3861703, 33.7439035],
       },
       properties: {
+        id: "bd7d2be0",
         "first name": "I",
         "last name": "Goldberg",
         "street #": "127",
@@ -3816,7 +3824,6 @@ export const ce = {
         sex: "male",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -3826,6 +3833,7 @@ export const ce = {
         coordinates: [-84.3832784, 33.7534798],
       },
       properties: {
+        id: "9df70fa8",
         "first name": "Marcus",
         "last name": "Goldberg",
         "street #": "60",
@@ -3834,7 +3842,6 @@ export const ce = {
         sex: "male",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -3844,6 +3851,7 @@ export const ce = {
         coordinates: [-84.3832784, 33.7534798],
       },
       properties: {
+        id: "1198fc25",
         "first name": "Lizzie",
         "last name": "Goldberg",
         "street #": "60",
@@ -3852,7 +3860,6 @@ export const ce = {
         sex: "female",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -3862,6 +3869,7 @@ export const ce = {
         coordinates: [-84.3981257, 33.7458067],
       },
       properties: {
+        id: "cbe0fa02",
         "first name": "Bernard",
         "last name": "Goldberg",
         "street #": "16",
@@ -3870,7 +3878,6 @@ export const ce = {
         sex: "male",
         "birth country": "Prussia",
         race: "W",
-        "": "",
       },
     },
     {
@@ -3880,6 +3887,7 @@ export const ce = {
         coordinates: [-84.3981257, 33.7458067],
       },
       properties: {
+        id: "04d25667",
         "first name": "Olga",
         "last name": "Goldberg",
         "street #": "16",
@@ -3888,7 +3896,6 @@ export const ce = {
         sex: "female",
         "birth country": "Prussia",
         race: "W",
-        "": "",
       },
     },
     {
@@ -3898,6 +3905,7 @@ export const ce = {
         coordinates: [-84.3946871, 33.7457131],
       },
       properties: {
+        id: "4e965a9a",
         "first name": "Mrs L",
         "last name": "Goldsmith",
         "street #": "69",
@@ -3916,6 +3924,7 @@ export const ce = {
         coordinates: [-84.3657587, 33.7594603],
       },
       properties: {
+        id: "0a869676",
         "first name": "Henry",
         "last name": "Goller",
         "street #": "482",
@@ -3924,7 +3933,6 @@ export const ce = {
         sex: "male",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -3934,6 +3942,7 @@ export const ce = {
         coordinates: [-84.40056, 33.7498868],
       },
       properties: {
+        id: "28f27979",
         "first name": "Louis",
         "last name": "Gordon",
         "street #": "20",
@@ -3942,7 +3951,6 @@ export const ce = {
         sex: "male",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -3952,6 +3960,7 @@ export const ce = {
         coordinates: [-84.40056, 33.7498868],
       },
       properties: {
+        id: "3b40c846",
         "first name": "Lizzie",
         "last name": "Gordon",
         "street #": "20",
@@ -3960,7 +3969,6 @@ export const ce = {
         sex: "female",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -3970,6 +3978,7 @@ export const ce = {
         coordinates: [-84.3815565, 33.7452182],
       },
       properties: {
+        id: "1ca120ff",
         "first name": "Ben",
         "last name": "Greel",
         "street #": "37",
@@ -3978,7 +3987,6 @@ export const ce = {
         sex: "male",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -3988,6 +3996,7 @@ export const ce = {
         coordinates: [-84.362146, 33.7523517],
       },
       properties: {
+        id: "b5d41e82",
         "first name": "Newman",
         "last name": "Green",
         "street #": "14",
@@ -3996,7 +4005,6 @@ export const ce = {
         sex: "male",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -4006,6 +4014,7 @@ export const ce = {
         coordinates: [-84.3929906, 33.758545],
       },
       properties: {
+        id: "0b60da85",
         "first name": "Jas",
         "last name": "Green",
         "street #": "110",
@@ -4014,7 +4023,6 @@ export const ce = {
         sex: "male",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -4024,6 +4032,7 @@ export const ce = {
         coordinates: [-84.3976046, 33.7469727],
       },
       properties: {
+        id: "aa66b0c0",
         "first name": "R",
         "last name": "Greenberg",
         "street #": "227",
@@ -4032,7 +4041,6 @@ export const ce = {
         sex: "male",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -4042,6 +4050,7 @@ export const ce = {
         coordinates: [-84.3976046, 33.7469727],
       },
       properties: {
+        id: "0718ffbd",
         "first name": "A",
         "last name": "Greenberg",
         "street #": "227",
@@ -4050,7 +4059,6 @@ export const ce = {
         sex: "female",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -4060,6 +4068,7 @@ export const ce = {
         coordinates: [-84.3969523, 33.744806],
       },
       properties: {
+        id: "25345e67",
         "first name": "E",
         "last name": "Gretcuer",
         "street #": "54",
@@ -4068,7 +4077,6 @@ export const ce = {
         sex: "female",
         "birth country": "Hungary",
         race: "W",
-        "": "",
       },
     },
     {
@@ -4078,6 +4086,7 @@ export const ce = {
         coordinates: [-84.3839661, 33.750867],
       },
       properties: {
+        id: "0f82910c",
         "first name": "Louis",
         "last name": "Grodzinky",
         "street #": "11",
@@ -4086,7 +4095,6 @@ export const ce = {
         sex: "male",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -4096,6 +4104,7 @@ export const ce = {
         coordinates: [-84.3839661, 33.750867],
       },
       properties: {
+        id: "19f362de",
         "first name": "Lena",
         "last name": "Grodzinky",
         "street #": "11",
@@ -4104,7 +4113,6 @@ export const ce = {
         sex: "female",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -4114,6 +4122,7 @@ export const ce = {
         coordinates: [-84.3839661, 33.750867],
       },
       properties: {
+        id: "9e88bd37",
         "first name": "Meyer",
         "last name": "Grodzinky",
         "street #": "11",
@@ -4122,7 +4131,6 @@ export const ce = {
         sex: "male",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -4132,6 +4140,7 @@ export const ce = {
         coordinates: [-84.3839661, 33.750867],
       },
       properties: {
+        id: "b46add4d",
         "first name": "Alex",
         "last name": "Grodzinky",
         "street #": "11",
@@ -4140,7 +4149,6 @@ export const ce = {
         sex: "male",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -4150,6 +4158,7 @@ export const ce = {
         coordinates: [-84.3747074, 33.7614027],
       },
       properties: {
+        id: "be839201",
         "first name": "CG",
         "last name": "Grosse",
         "street #": "71",
@@ -4158,7 +4167,6 @@ export const ce = {
         sex: "male",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -4168,6 +4176,7 @@ export const ce = {
         coordinates: [-84.3930325, 33.7368135],
       },
       properties: {
+        id: "b58c5aec",
         "first name": "Albert",
         "last name": "Grossman",
         "street #": "49",
@@ -4176,7 +4185,6 @@ export const ce = {
         sex: "male",
         "birth country": "Hungary",
         race: "W",
-        "": "",
       },
     },
     {
@@ -4186,6 +4194,7 @@ export const ce = {
         coordinates: [-84.3937148, 33.7592051],
       },
       properties: {
+        id: "09d2deb8",
         "first name": "Frank",
         "last name": "Gurraux",
         "street #": "137",
@@ -4194,7 +4203,6 @@ export const ce = {
         sex: "male",
         "birth country": "Switzerland",
         race: "W",
-        "": "",
       },
     },
     {
@@ -4204,6 +4212,7 @@ export const ce = {
         coordinates: [-84.3977968, 33.7476613],
       },
       properties: {
+        id: "97238f2e",
         "first name": "Julius",
         "last name": "Guthman",
         "street #": "13",
@@ -4212,7 +4221,6 @@ export const ce = {
         sex: "male",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -4222,6 +4230,7 @@ export const ce = {
         coordinates: [-84.3927713, 33.7536386],
       },
       properties: {
+        id: "468392e5",
         "first name": "Sig",
         "last name": "Guthman",
         "street #": "20",
@@ -4230,7 +4239,6 @@ export const ce = {
         sex: "male",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -4240,6 +4248,7 @@ export const ce = {
         coordinates: [-84.3974464, 33.7475971],
       },
       properties: {
+        id: "2d427d1f",
         "first name": "Isaac",
         "last name": "Guthman",
         "street #": "206",
@@ -4248,7 +4257,6 @@ export const ce = {
         sex: "male",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -4258,6 +4266,7 @@ export const ce = {
         coordinates: [-84.3945537, 33.7392084],
       },
       properties: {
+        id: "b5d7fddb",
         "first name": "LS",
         "last name": "Guthman",
         "street #": "401",
@@ -4266,7 +4275,6 @@ export const ce = {
         sex: "male",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -4276,6 +4284,7 @@ export const ce = {
         coordinates: [-84.3945537, 33.7392084],
       },
       properties: {
+        id: "c1828221",
         "first name": "Caroline",
         "last name": "Guthman",
         "street #": "401",
@@ -4284,7 +4293,6 @@ export const ce = {
         sex: "female",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -4294,6 +4302,7 @@ export const ce = {
         coordinates: [-84.3973847, 33.7477376],
       },
       properties: {
+        id: "b3092d16",
         "first name": "M",
         "last name": "Haas",
         "street #": "202",
@@ -4302,7 +4311,6 @@ export const ce = {
         sex: "female",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -4312,6 +4320,7 @@ export const ce = {
         coordinates: [-84.3973847, 33.7477376],
       },
       properties: {
+        id: "adca9e40",
         "first name": "Aaron",
         "last name": "Haas",
         "street #": "202",
@@ -4320,7 +4329,6 @@ export const ce = {
         sex: "male",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -4330,6 +4338,7 @@ export const ce = {
         coordinates: [-84.3973847, 33.7477376],
       },
       properties: {
+        id: "9a067884",
         "first name": "Fannie",
         "last name": "Haas",
         "street #": "202",
@@ -4338,7 +4347,6 @@ export const ce = {
         sex: "female",
         "birth country": "Hungary",
         race: "W",
-        "": "",
       },
     },
     {
@@ -4348,6 +4356,7 @@ export const ce = {
         coordinates: [-84.3973847, 33.7477376],
       },
       properties: {
+        id: "7930284a",
         "first name": "Edw",
         "last name": "Haas",
         "street #": "202",
@@ -4356,7 +4365,6 @@ export const ce = {
         sex: "male",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -4366,6 +4374,7 @@ export const ce = {
         coordinates: [-84.3973847, 33.7477376],
       },
       properties: {
+        id: "334f8ebb",
         "first name": "L",
         "last name": "Haas",
         "street #": "202",
@@ -4374,7 +4383,6 @@ export const ce = {
         sex: "male",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -4384,6 +4392,7 @@ export const ce = {
         coordinates: [-84.3973847, 33.7477376],
       },
       properties: {
+        id: "14107682",
         "first name": "Albert",
         "last name": "Haas",
         "street #": "202",
@@ -4392,7 +4401,6 @@ export const ce = {
         sex: "male",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -4402,6 +4410,7 @@ export const ce = {
         coordinates: [-84.3973847, 33.7477376],
       },
       properties: {
+        id: "8c5bfffe",
         "first name": "H",
         "last name": "Haas",
         "street #": "202",
@@ -4410,7 +4419,6 @@ export const ce = {
         sex: "male",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -4420,6 +4428,7 @@ export const ce = {
         coordinates: [-84.3911628, 33.7396557],
       },
       properties: {
+        id: "8829f714",
         "first name": "Jacob",
         "last name": "Haas",
         "street #": "321",
@@ -4428,7 +4437,6 @@ export const ce = {
         sex: "male",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -4438,6 +4446,7 @@ export const ce = {
         coordinates: [-84.3911628, 33.7396557],
       },
       properties: {
+        id: "544c4f6e",
         "first name": "L",
         "last name": "Haas",
         "street #": "321",
@@ -4446,7 +4455,6 @@ export const ce = {
         sex: "male",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -4456,6 +4464,7 @@ export const ce = {
         coordinates: [-84.3893764, 33.744511],
       },
       properties: {
+        id: "c51e08c4",
         "first name": "RL",
         "last name": "Haiman",
         "street #": "72",
@@ -4464,7 +4473,6 @@ export const ce = {
         sex: "female",
         "birth country": "Prussia",
         race: "W",
-        "": "",
       },
     },
     {
@@ -4474,6 +4482,7 @@ export const ce = {
         coordinates: [-84.397028, 33.7644205],
       },
       properties: {
+        id: "5d8d2518",
         "first name": "Julia",
         "last name": "Hanslier",
         "street #": "204",
@@ -4482,7 +4491,6 @@ export const ce = {
         sex: "female",
         "birth country": "Prussia",
         race: "W",
-        "": "",
       },
     },
     {
@@ -4492,6 +4500,7 @@ export const ce = {
         coordinates: [-84.3754888, 33.7503865],
       },
       properties: {
+        id: "8d5e8f94",
         "first name": "Robt",
         "last name": "Hardmeyer",
         "street #": "362",
@@ -4500,7 +4509,6 @@ export const ce = {
         sex: "male",
         "birth country": "Switzerland",
         race: "W",
-        "": "",
       },
     },
     {
@@ -4510,6 +4518,7 @@ export const ce = {
         coordinates: [-84.3886337, 33.7584336],
       },
       properties: {
+        id: "4d882966",
         "first name": "Pauline",
         "last name": "Hartrandt",
         "street #": "26",
@@ -4518,7 +4527,6 @@ export const ce = {
         sex: "female",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -4528,6 +4536,7 @@ export const ce = {
         coordinates: [-84.3886337, 33.7584336],
       },
       properties: {
+        id: "b79825b0",
         "first name": "Gus",
         "last name": "Hartrandt",
         "street #": "26",
@@ -4536,7 +4545,6 @@ export const ce = {
         sex: "male",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -4546,6 +4554,7 @@ export const ce = {
         coordinates: [-84.3886337, 33.7584336],
       },
       properties: {
+        id: "22ed2ff5",
         "first name": "Lizzie",
         "last name": "Hartrandt",
         "street #": "26",
@@ -4554,7 +4563,6 @@ export const ce = {
         sex: "female",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -4564,6 +4572,7 @@ export const ce = {
         coordinates: [-84.358374, 33.7502105],
       },
       properties: {
+        id: "669fdb59",
         "first name": "Henry",
         "last name": "Harwick",
         "street #": "175",
@@ -4572,7 +4581,6 @@ export const ce = {
         sex: "male",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -4582,6 +4590,7 @@ export const ce = {
         coordinates: [-84.3898045, 33.7575839],
       },
       properties: {
+        id: "6091ba49",
         "first name": "Matilda",
         "last name": "Haskell",
         "street #": "42",
@@ -4590,7 +4599,6 @@ export const ce = {
         sex: "female",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -4600,6 +4608,7 @@ export const ce = {
         coordinates: [-84.3913689, 33.7597308],
       },
       properties: {
+        id: "9c1ed273",
         "first name": "Lewis",
         "last name": "Hass",
         "street #": "97",
@@ -4608,7 +4617,6 @@ export const ce = {
         sex: "male",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -4618,6 +4626,7 @@ export const ce = {
         coordinates: [-84.3750377, 33.7513498],
       },
       properties: {
+        id: "7768f1ec",
         "first name": "BM",
         "last name": "Haubold",
         "street #": "25",
@@ -4626,7 +4635,6 @@ export const ce = {
         sex: "male",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -4636,6 +4644,7 @@ export const ce = {
         coordinates: [-84.3750377, 33.7513498],
       },
       properties: {
+        id: "a6d70d5b",
         "first name": "Marie",
         "last name": "Haubold",
         "street #": "25",
@@ -4644,7 +4653,6 @@ export const ce = {
         sex: "female",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -4654,6 +4662,7 @@ export const ce = {
         coordinates: [-84.3751879, 33.7518226],
       },
       properties: {
+        id: "8edbf22d",
         "first name": "FM",
         "last name": "Haubold",
         "street #": "35",
@@ -4662,7 +4671,6 @@ export const ce = {
         sex: "male",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -4672,6 +4680,7 @@ export const ce = {
         coordinates: [-84.3906802, 33.7394399],
       },
       properties: {
+        id: "65adfea4",
         "first name": "H",
         "last name": "Hein",
         "street #": "224",
@@ -4680,7 +4689,6 @@ export const ce = {
         sex: "male",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -4690,6 +4698,7 @@ export const ce = {
         coordinates: [-84.3906802, 33.7394399],
       },
       properties: {
+        id: "ec94c64b",
         "first name": "A",
         "last name": "Hein",
         "street #": "224",
@@ -4698,7 +4707,6 @@ export const ce = {
         sex: "female",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -4708,6 +4716,7 @@ export const ce = {
         coordinates: [-84.3906802, 33.7394399],
       },
       properties: {
+        id: "b7cf7faf",
         "first name": "Sallie",
         "last name": "Hein",
         "street #": "224",
@@ -4716,7 +4725,6 @@ export const ce = {
         sex: "female",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -4726,6 +4734,7 @@ export const ce = {
         coordinates: [-84.3906802, 33.7394399],
       },
       properties: {
+        id: "6785bea0",
         "first name": "L",
         "last name": "Hein",
         "street #": "224",
@@ -4734,7 +4743,6 @@ export const ce = {
         sex: "male",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -4744,6 +4752,7 @@ export const ce = {
         coordinates: [-84.395997, 33.7474512],
       },
       properties: {
+        id: "91271f6d",
         "first name": "Chas",
         "last name": "Heinz",
         "street #": "233",
@@ -4752,7 +4761,6 @@ export const ce = {
         sex: "male",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -4762,6 +4770,7 @@ export const ce = {
         coordinates: [-84.3843513, 33.7524317],
       },
       properties: {
+        id: "87b6cf90",
         "first name": "D",
         "last name": "Held",
         "street #": "38",
@@ -4770,7 +4779,6 @@ export const ce = {
         sex: "male",
         "birth country": "Austria",
         race: "W",
-        "": "",
       },
     },
     {
@@ -4780,6 +4788,7 @@ export const ce = {
         coordinates: [-84.3843513, 33.7524317],
       },
       properties: {
+        id: "4a9463ef",
         "first name": "M",
         "last name": "Held",
         "street #": "38",
@@ -4788,7 +4797,6 @@ export const ce = {
         sex: "female",
         "birth country": "Austria",
         race: "W",
-        "": "",
       },
     },
     {
@@ -4798,6 +4806,7 @@ export const ce = {
         coordinates: [-84.3843513, 33.7524317],
       },
       properties: {
+        id: "29527dd6",
         "first name": "Ben",
         "last name": "Held",
         "street #": "38",
@@ -4806,7 +4815,6 @@ export const ce = {
         sex: "male",
         "birth country": "Austria",
         race: "W",
-        "": "",
       },
     },
     {
@@ -4816,6 +4824,7 @@ export const ce = {
         coordinates: [-84.3843513, 33.7524317],
       },
       properties: {
+        id: "c00547be",
         "first name": "Sarah",
         "last name": "Held",
         "street #": "38",
@@ -4824,7 +4833,6 @@ export const ce = {
         sex: "female",
         "birth country": "Austria",
         race: "W",
-        "": "",
       },
     },
     {
@@ -4834,6 +4842,7 @@ export const ce = {
         coordinates: [-84.3868737, 33.7555764],
       },
       properties: {
+        id: "7457911d",
         "first name": "Mr",
         "last name": "Hentchiel",
         "street #": "37",
@@ -4852,6 +4861,7 @@ export const ce = {
         coordinates: [-84.3739772, 33.7519484],
       },
       properties: {
+        id: "ef7253dc",
         "first name": "Carl",
         "last name": "Hentschel",
         "street #": "24",
@@ -4860,7 +4870,6 @@ export const ce = {
         sex: "male",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -4870,6 +4879,7 @@ export const ce = {
         coordinates: [-84.3687634, 33.7558173],
       },
       properties: {
+        id: "cf1b2566",
         "first name": "G[ottleib]",
         "last name": "Hentschel",
         "street #": "441",
@@ -4878,7 +4888,6 @@ export const ce = {
         sex: "male",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -4888,6 +4897,7 @@ export const ce = {
         coordinates: [-84.3687634, 33.7558173],
       },
       properties: {
+        id: "41033b0b",
         "first name": "Annie",
         "last name": "Hentschel",
         "street #": "441",
@@ -4896,7 +4906,6 @@ export const ce = {
         sex: "female",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -4906,6 +4915,7 @@ export const ce = {
         coordinates: [-84.390418, 33.752699],
       },
       properties: {
+        id: "47a7187d",
         "first name": "Paul",
         "last name": "Hentschel",
         "street #": "61 1/2",
@@ -4914,7 +4924,6 @@ export const ce = {
         sex: "male",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -4924,6 +4933,7 @@ export const ce = {
         coordinates: [-84.3838082, 33.7441645],
       },
       properties: {
+        id: "29251533",
         "first name": "Minnie",
         "last name": "Herbers",
         "street #": "123",
@@ -4932,7 +4942,6 @@ export const ce = {
         sex: "female",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -4942,6 +4951,7 @@ export const ce = {
         coordinates: [-84.3838082, 33.7441645],
       },
       properties: {
+        id: "bc9fd1ae",
         "first name": "G",
         "last name": "Herbers",
         "street #": "123",
@@ -4950,7 +4960,6 @@ export const ce = {
         sex: "male",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -4960,6 +4969,7 @@ export const ce = {
         coordinates: [-84.3877716, 33.7433767],
       },
       properties: {
+        id: "1a41b80a",
         "first name": "Mary",
         "last name": "Herzel",
         "street #": "159",
@@ -4968,7 +4978,6 @@ export const ce = {
         sex: "female",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -4978,6 +4987,7 @@ export const ce = {
         coordinates: [-84.3840557, 33.7832202],
       },
       properties: {
+        id: "50abb15e",
         "first name": "Lena",
         "last name": "Hirsch",
         "street #": "95",
@@ -4986,7 +4996,6 @@ export const ce = {
         sex: "female",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -4996,6 +5005,7 @@ export const ce = {
         coordinates: [-84.3840557, 33.7832202],
       },
       properties: {
+        id: "8d57549b",
         "first name": "Charles",
         "last name": "Hirsch",
         "street #": "95",
@@ -5004,7 +5014,6 @@ export const ce = {
         sex: "male",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -5014,6 +5023,7 @@ export const ce = {
         coordinates: [-84.3970306, 33.7481837],
       },
       properties: {
+        id: "c72b6f03",
         "first name": "M",
         "last name": "Hirsch",
         "street #": "188",
@@ -5022,7 +5032,6 @@ export const ce = {
         sex: "male",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -5032,6 +5041,7 @@ export const ce = {
         coordinates: [-84.3971621, 33.7480253],
       },
       properties: {
+        id: "b8cf7e26",
         "first name": "Henry",
         "last name": "Hirsch",
         "street #": "192",
@@ -5040,7 +5050,6 @@ export const ce = {
         sex: "male",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -5050,6 +5059,7 @@ export const ce = {
         coordinates: [-84.3972157, 33.7479517],
       },
       properties: {
+        id: "d05a19a6",
         "first name": "Joseph",
         "last name": "Hirsch",
         "street #": "198",
@@ -5058,7 +5068,6 @@ export const ce = {
         sex: "male",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -5068,6 +5077,7 @@ export const ce = {
         coordinates: [-84.3890574, 33.7604776],
       },
       properties: {
+        id: "ddc1e3df",
         "first name": "B",
         "last name": "Hirsch",
         "street #": "143",
@@ -5076,7 +5086,6 @@ export const ce = {
         sex: "male",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -5086,6 +5095,7 @@ export const ce = {
         coordinates: [-84.3890574, 33.7604776],
       },
       properties: {
+        id: "2ea2e1a2",
         "first name": "Mrs",
         "last name": "Hirsch",
         "street #": "143",
@@ -5094,7 +5104,6 @@ export const ce = {
         sex: "female",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -5104,6 +5113,7 @@ export const ce = {
         coordinates: [-84.3936122, 33.7442153],
       },
       properties: {
+        id: "84051ecb",
         "first name": "J",
         "last name": "Hirschberg",
         "street #": "207",
@@ -5112,7 +5122,6 @@ export const ce = {
         sex: "male",
         "birth country": "Hungary",
         race: "W",
-        "": "",
       },
     },
     {
@@ -5122,6 +5131,7 @@ export const ce = {
         coordinates: [-84.3936122, 33.7442153],
       },
       properties: {
+        id: "00007c19",
         "first name": "Mrs",
         "last name": "Hirschberg",
         "street #": "207",
@@ -5130,7 +5140,6 @@ export const ce = {
         sex: "female",
         "birth country": "Hungary",
         race: "W",
-        "": "",
       },
     },
     {
@@ -5140,6 +5149,7 @@ export const ce = {
         coordinates: [-84.3936122, 33.7442153],
       },
       properties: {
+        id: "63fbdedf",
         "first name": "L",
         "last name": "Hirschberg",
         "street #": "207",
@@ -5148,7 +5158,6 @@ export const ce = {
         sex: "male",
         "birth country": "Hungary",
         race: "W",
-        "": "",
       },
     },
     {
@@ -5158,6 +5167,7 @@ export const ce = {
         coordinates: [-84.3936122, 33.7442153],
       },
       properties: {
+        id: "7761b327",
         "first name": "W",
         "last name": "Hirschberg",
         "street #": "207",
@@ -5166,7 +5176,6 @@ export const ce = {
         sex: "male",
         "birth country": "Hungary",
         race: "W",
-        "": "",
       },
     },
     {
@@ -5176,6 +5185,7 @@ export const ce = {
         coordinates: [-84.3988294, 33.7460595],
       },
       properties: {
+        id: "4a67b0f6",
         "first name": "JA",
         "last name": "Hirschberg",
         "street #": "276",
@@ -5184,7 +5194,6 @@ export const ce = {
         sex: "male",
         "birth country": "Hungary",
         race: "W",
-        "": "",
       },
     },
     {
@@ -5194,6 +5203,7 @@ export const ce = {
         coordinates: [-84.3959041, 33.7493657],
       },
       properties: {
+        id: "fa49b4ce",
         "first name": "Mrs JW",
         "last name": "Hirschfield",
         "street #": "48",
@@ -5202,7 +5212,6 @@ export const ce = {
         sex: "female",
         "birth country": "Prussia",
         race: "W",
-        "": "",
       },
     },
     {
@@ -5212,6 +5221,7 @@ export const ce = {
         coordinates: [-84.3908838, 33.7423589],
       },
       properties: {
+        id: "a0b83b12",
         "first name": "Pauline",
         "last name": "Hoch",
         "street #": "246",
@@ -5220,7 +5230,6 @@ export const ce = {
         sex: "female",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -5230,6 +5239,7 @@ export const ce = {
         coordinates: [-84.3837155, 33.752292],
       },
       properties: {
+        id: "34d891c3",
         "first name": "ME",
         "last name": "Holstheen",
         "street #": "82",
@@ -5238,7 +5248,6 @@ export const ce = {
         sex: "female",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -5248,6 +5257,7 @@ export const ce = {
         coordinates: [-84.408303, 33.7444437],
       },
       properties: {
+        id: "cceeba29",
         "first name": "Mrs. T",
         "last name": "Howell",
         "street #": "337",
@@ -5256,7 +5266,6 @@ export const ce = {
         sex: "female",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -5266,6 +5275,7 @@ export const ce = {
         coordinates: [-84.3982437, 33.7425326],
       },
       properties: {
+        id: "430c5e2c",
         "first name": "Wess",
         "last name": "Hugo",
         "street #": "97",
@@ -5274,7 +5284,6 @@ export const ce = {
         sex: "male",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -5284,6 +5293,7 @@ export const ce = {
         coordinates: [-84.3924241, 33.7414835],
       },
       properties: {
+        id: "b5c40b4b",
         "first name": "Esther",
         "last name": "Jacobs",
         "street #": "147",
@@ -5292,7 +5302,6 @@ export const ce = {
         sex: "female",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -5302,6 +5311,7 @@ export const ce = {
         coordinates: [-84.3945537, 33.740453],
       },
       properties: {
+        id: "fc8ea9cd",
         "first name": "Mrs Joseph",
         "last name": "Jacobs",
         "street #": "369",
@@ -5310,7 +5320,6 @@ export const ce = {
         sex: "female",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -5320,6 +5329,7 @@ export const ce = {
         coordinates: [-84.3879282, 33.7633086],
       },
       properties: {
+        id: "f2c009f3",
         "first name": "M",
         "last name": "Jacot",
         "street #": "18",
@@ -5328,7 +5338,6 @@ export const ce = {
         sex: "male",
         "birth country": "Switzerland",
         race: "W",
-        "": "",
       },
     },
     {
@@ -5338,6 +5347,7 @@ export const ce = {
         coordinates: [-84.3879282, 33.7633086],
       },
       properties: {
+        id: "55dcfff3",
         "first name": "M",
         "last name": "Jacot",
         "street #": "18",
@@ -5346,7 +5356,6 @@ export const ce = {
         sex: "female",
         "birth country": "Switzerland",
         race: "W",
-        "": "",
       },
     },
     {
@@ -5356,6 +5365,7 @@ export const ce = {
         coordinates: [-84.3879282, 33.7633086],
       },
       properties: {
+        id: "b479c400",
         "first name": "A",
         "last name": "Jacot",
         "street #": "18",
@@ -5364,7 +5374,6 @@ export const ce = {
         sex: "female",
         "birth country": "Switzerland",
         race: "W",
-        "": "",
       },
     },
     {
@@ -5374,6 +5383,7 @@ export const ce = {
         coordinates: [-84.3960741, 33.7676316],
       },
       properties: {
+        id: "524d7329",
         "first name": "PA",
         "last name": "Jansen",
         "street #": "365",
@@ -5382,7 +5392,6 @@ export const ce = {
         sex: "male",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -5392,6 +5401,7 @@ export const ce = {
         coordinates: [-84.4022144, 33.744418],
       },
       properties: {
+        id: "61b0d882",
         "first name": "Mrs. SY",
         "last name": "Joel",
         "street #": "391",
@@ -5400,7 +5410,6 @@ export const ce = {
         sex: "female",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -5410,6 +5419,7 @@ export const ce = {
         coordinates: [-84.3956724, 33.7467568],
       },
       properties: {
+        id: "949e6614",
         "first name": "SH",
         "last name": "Joseph",
         "street #": "17",
@@ -5418,7 +5428,6 @@ export const ce = {
         sex: "male",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -5428,6 +5437,7 @@ export const ce = {
         coordinates: [-84.3933614, 33.7479473],
       },
       properties: {
+        id: "c129b7d5",
         "first name": "Samuel",
         "last name": "Kahn",
         "street #": "116",
@@ -5436,7 +5446,6 @@ export const ce = {
         sex: "male",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -5446,6 +5455,7 @@ export const ce = {
         coordinates: [-84.3933614, 33.7479473],
       },
       properties: {
+        id: "326bb424",
         "first name": "Nathan",
         "last name": "Kahn",
         "street #": "116",
@@ -5454,7 +5464,6 @@ export const ce = {
         sex: "male",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -5464,6 +5473,7 @@ export const ce = {
         coordinates: [-84.3895651, 33.7537451],
       },
       properties: {
+        id: "5de648d7",
         "first name": "L",
         "last name": "Kahn",
         "street #": "",
@@ -5472,7 +5482,6 @@ export const ce = {
         sex: "male",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -5482,6 +5491,7 @@ export const ce = {
         coordinates: [-84.3832371, 33.769104],
       },
       properties: {
+        id: "4d9f0db9",
         "first name": "R",
         "last name": "Kahn",
         "street #": "34",
@@ -5490,7 +5500,6 @@ export const ce = {
         sex: "female",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -5500,6 +5509,7 @@ export const ce = {
         coordinates: [-84.3922953, 33.7459174],
       },
       properties: {
+        id: "bce98a60",
         "first name": "G",
         "last name": "Karlsruher",
         "street #": "11",
@@ -5508,7 +5518,6 @@ export const ce = {
         sex: "male",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -5518,6 +5527,7 @@ export const ce = {
         coordinates: [-84.3922953, 33.7459174],
       },
       properties: {
+        id: "bc310b40",
         "first name": "Rosa",
         "last name": "Karlsruher",
         "street #": "11",
@@ -5526,7 +5536,6 @@ export const ce = {
         sex: "female",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -5536,6 +5545,7 @@ export const ce = {
         coordinates: [-84.3885861, 33.7526737],
       },
       properties: {
+        id: "9f5921c0",
         "first name": "Henry",
         "last name": "Karstadt",
         "street #": "48 1/2",
@@ -5544,7 +5554,6 @@ export const ce = {
         sex: "male",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -5554,6 +5563,7 @@ export const ce = {
         coordinates: [-84.3981287, 33.7679096],
       },
       properties: {
+        id: "010e6ce6",
         "first name": "B",
         "last name": "Karwisch",
         "street #": "545",
@@ -5562,7 +5572,6 @@ export const ce = {
         sex: "male",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -5572,6 +5581,7 @@ export const ce = {
         coordinates: [-84.3855788, 33.7649412],
       },
       properties: {
+        id: "222950e6",
         "first name": "CE",
         "last name": "Kauffman",
         "street #": "368",
@@ -5580,7 +5590,6 @@ export const ce = {
         sex: "male",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -5590,6 +5599,7 @@ export const ce = {
         coordinates: [-84.3925567, 33.7475102],
       },
       properties: {
+        id: "8d247ef6",
         "first name": "F",
         "last name": "Kaufman",
         "street #": "166",
@@ -5598,7 +5608,6 @@ export const ce = {
         sex: "male",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -5608,6 +5617,7 @@ export const ce = {
         coordinates: [-84.3915168, 33.7329462],
       },
       properties: {
+        id: "af1f0384",
         "first name": "Ernestine",
         "last name": "Keller",
         "street #": "511",
@@ -5616,7 +5626,6 @@ export const ce = {
         sex: "female",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -5626,6 +5635,7 @@ export const ce = {
         coordinates: [-84.3860243, 33.7508863],
       },
       properties: {
+        id: "d9e8a16d",
         "first name": "Mrs. L",
         "last name": "Kellogg",
         "street #": "9",
@@ -5634,7 +5644,6 @@ export const ce = {
         sex: "female",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -5644,6 +5653,7 @@ export const ce = {
         coordinates: [-84.3667223, 33.7476007],
       },
       properties: {
+        id: "9466508e",
         "first name": "Jacob",
         "last name": "Kessler",
         "street #": "41",
@@ -5652,7 +5662,6 @@ export const ce = {
         sex: "male",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -5662,6 +5671,7 @@ export const ce = {
         coordinates: [-84.3818703, 33.7452605],
       },
       properties: {
+        id: "0c87fc99",
         "first name": "August",
         "last name": "Ketterer",
         "street #": "11",
@@ -5670,7 +5680,6 @@ export const ce = {
         sex: "male",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -5680,6 +5689,7 @@ export const ce = {
         coordinates: [-84.3818703, 33.7452605],
       },
       properties: {
+        id: "e61be56b",
         "first name": "Cath.",
         "last name": "Ketterer",
         "street #": "11",
@@ -5688,7 +5698,6 @@ export const ce = {
         sex: "female",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -5698,6 +5707,7 @@ export const ce = {
         coordinates: [-84.382243, 33.7561871],
       },
       properties: {
+        id: "2b407c47",
         "first name": "OR",
         "last name": "Kintzel",
         "street #": "147",
@@ -5706,7 +5716,6 @@ export const ce = {
         sex: "male",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -5716,6 +5725,7 @@ export const ce = {
         coordinates: [-84.382243, 33.7561871],
       },
       properties: {
+        id: "b36c22a6",
         "first name": "H",
         "last name": "Kintzel",
         "street #": "147",
@@ -5724,7 +5734,6 @@ export const ce = {
         sex: "female",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -5734,6 +5743,7 @@ export const ce = {
         coordinates: [-84.3667223, 33.7487247],
       },
       properties: {
+        id: "e0df495a",
         "first name": "Robt",
         "last name": "Kiser",
         "street #": "24",
@@ -5742,7 +5752,6 @@ export const ce = {
         sex: "male",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -5752,6 +5761,7 @@ export const ce = {
         coordinates: [-84.3667223, 33.7487247],
       },
       properties: {
+        id: "90634d50",
         "first name": "Mary",
         "last name": "Kiser",
         "street #": "24",
@@ -5760,7 +5770,6 @@ export const ce = {
         sex: "female",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -5770,6 +5779,7 @@ export const ce = {
         coordinates: [-84.3667223, 33.7487247],
       },
       properties: {
+        id: "e9ad35a5",
         "first name": "Fred",
         "last name": "Kiser",
         "street #": "24",
@@ -5778,7 +5788,6 @@ export const ce = {
         sex: "male",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -5788,6 +5797,7 @@ export const ce = {
         coordinates: [-84.3910939, 33.7532675],
       },
       properties: {
+        id: "ea168d6f",
         "first name": "Henry",
         "last name": "Kissel",
         "street #": "16 1/2",
@@ -5796,7 +5806,6 @@ export const ce = {
         sex: "M",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -5806,6 +5815,7 @@ export const ce = {
         coordinates: [-84.3979658, 33.7486758],
       },
       properties: {
+        id: "c811c650",
         "first name": "Wm",
         "last name": "Klaitz",
         "street #": "174",
@@ -5814,7 +5824,6 @@ export const ce = {
         sex: "male",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -5824,6 +5833,7 @@ export const ce = {
         coordinates: [-84.3979658, 33.7486758],
       },
       properties: {
+        id: "3a794420",
         "first name": "Mrs. Wm",
         "last name": "Klaitz",
         "street #": "174",
@@ -5832,7 +5842,6 @@ export const ce = {
         sex: "female",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -5842,6 +5851,7 @@ export const ce = {
         coordinates: [-84.399747, 33.7512072],
       },
       properties: {
+        id: "a6bdddc5",
         "first name": "Mrs. L",
         "last name": "Klasset",
         "street #": "102",
@@ -5850,7 +5860,6 @@ export const ce = {
         sex: "female",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -5860,6 +5869,7 @@ export const ce = {
         coordinates: [-84.3828472, 33.7596508],
       },
       properties: {
+        id: "e65f2891",
         "first name": "JC",
         "last name": "Klein",
         "street #": "90",
@@ -5868,7 +5878,6 @@ export const ce = {
         sex: "male",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -5878,6 +5887,7 @@ export const ce = {
         coordinates: [-84.3982772, 33.7516176],
       },
       properties: {
+        id: "0632f07f",
         "first name": "Annie",
         "last name": "Klockler",
         "street #": "68",
@@ -5886,7 +5896,6 @@ export const ce = {
         sex: "female",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -5896,6 +5905,7 @@ export const ce = {
         coordinates: [-84.3859773, 33.7638585],
       },
       properties: {
+        id: "98c62e52",
         "first name": "R",
         "last name": "Kloeckler",
         "street #": "373",
@@ -5904,7 +5914,6 @@ export const ce = {
         sex: "female",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -5914,6 +5923,7 @@ export const ce = {
         coordinates: [-84.3895651, 33.7537451],
       },
       properties: {
+        id: "daf28e48",
         "first name": "Charles",
         "last name": "Koch",
         "street #": "",
@@ -5922,7 +5932,6 @@ export const ce = {
         sex: "male",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -5932,6 +5941,7 @@ export const ce = {
         coordinates: [-84.3686348, 33.7613403],
       },
       properties: {
+        id: "369ab048",
         "first name": "Carl",
         "last name": "Koppe",
         "street #": "227",
@@ -5940,7 +5950,6 @@ export const ce = {
         sex: "male",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -5950,6 +5959,7 @@ export const ce = {
         coordinates: [-84.3686348, 33.7613403],
       },
       properties: {
+        id: "7cd4aaac",
         "first name": "Augusta",
         "last name": "Koppe",
         "street #": "227",
@@ -5958,7 +5968,6 @@ export const ce = {
         sex: "female",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -5968,6 +5977,7 @@ export const ce = {
         coordinates: [-84.3658767, 33.7594603],
       },
       properties: {
+        id: "c7c38f7c",
         "first name": "Paul",
         "last name": "Koppe",
         "street #": "472",
@@ -5976,7 +5986,6 @@ export const ce = {
         sex: "male",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -5986,6 +5995,7 @@ export const ce = {
         coordinates: [-84.3658767, 33.7594603],
       },
       properties: {
+        id: "0848c842",
         "first name": "Matilde",
         "last name": "Koppe",
         "street #": "472",
@@ -5994,7 +6004,6 @@ export const ce = {
         sex: "female",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -6004,6 +6013,7 @@ export const ce = {
         coordinates: [-84.3393319, 33.7635393],
       },
       properties: {
+        id: "7f59ae1c",
         "first name": "H",
         "last name": "Koppe",
         "street #": "24",
@@ -6012,7 +6022,6 @@ export const ce = {
         sex: "female",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -6022,6 +6031,7 @@ export const ce = {
         coordinates: [-84.3393319, 33.7635393],
       },
       properties: {
+        id: "c8e8dfba",
         "first name": "Albert",
         "last name": "Koppe",
         "street #": "24",
@@ -6030,7 +6040,6 @@ export const ce = {
         sex: "male",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -6040,6 +6049,7 @@ export const ce = {
         coordinates: [-84.3393319, 33.7635393],
       },
       properties: {
+        id: "e0087d7f",
         "first name": "M",
         "last name": "Koppe",
         "street #": "24",
@@ -6048,7 +6058,6 @@ export const ce = {
         sex: "female",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -6058,6 +6067,7 @@ export const ce = {
         coordinates: [-84.3393319, 33.7635393],
       },
       properties: {
+        id: "dcc0a5e8",
         "first name": "Eddie",
         "last name": "Koppe",
         "street #": "24",
@@ -6066,7 +6076,6 @@ export const ce = {
         sex: "male",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -6076,6 +6085,7 @@ export const ce = {
         coordinates: [-84.3393319, 33.7635393],
       },
       properties: {
+        id: "edc37b86",
         "first name": "Frida",
         "last name": "Koppe",
         "street #": "24",
@@ -6084,7 +6094,6 @@ export const ce = {
         sex: "female",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -6094,6 +6103,7 @@ export const ce = {
         coordinates: [-84.3991281, 33.7538376],
       },
       properties: {
+        id: "553c27e5",
         "first name": "L",
         "last name": "Kountz",
         "street #": "141",
@@ -6102,7 +6112,6 @@ export const ce = {
         sex: "female",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -6112,6 +6121,7 @@ export const ce = {
         coordinates: [-84.3995756, 33.7492712],
       },
       properties: {
+        id: "1c764963",
         "first name": "CA",
         "last name": "Kramer",
         "street #": "115",
@@ -6120,7 +6130,6 @@ export const ce = {
         sex: "male",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -6130,6 +6139,7 @@ export const ce = {
         coordinates: [-84.3943984, 33.7492175],
       },
       properties: {
+        id: "be83ec1c",
         "first name": "M",
         "last name": "Kreis",
         "street #": "169",
@@ -6138,7 +6148,6 @@ export const ce = {
         sex: "female",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -6148,6 +6157,7 @@ export const ce = {
         coordinates: [-84.3951035, 33.7442243],
       },
       properties: {
+        id: "a33e12ca",
         "first name": "Alex",
         "last name": "Kreisle",
         "street #": "259",
@@ -6166,6 +6176,7 @@ export const ce = {
         coordinates: [-84.3956144, 33.7499723],
       },
       properties: {
+        id: "033ede80",
         "first name": "A",
         "last name": "Kriegshaber",
         "street #": "134",
@@ -6174,7 +6185,6 @@ export const ce = {
         sex: "male",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -6184,6 +6194,7 @@ export const ce = {
         coordinates: [-84.3766377, 33.7586665],
       },
       properties: {
+        id: "87864c2d",
         "first name": "M",
         "last name": "Kries",
         "street #": "270",
@@ -6192,7 +6203,6 @@ export const ce = {
         sex: "male",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -6202,6 +6212,7 @@ export const ce = {
         coordinates: [-84.3875904, 33.7585013],
       },
       properties: {
+        id: "d0adfa59",
         "first name": "M",
         "last name": "Krischart",
         "street #": "183",
@@ -6210,7 +6221,6 @@ export const ce = {
         sex: "female",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -6220,6 +6230,7 @@ export const ce = {
         coordinates: [-84.3825059, 33.7541979],
       },
       properties: {
+        id: "101146b1",
         "first name": "PE",
         "last name": "Kruger",
         "street #": "91",
@@ -6228,7 +6239,6 @@ export const ce = {
         sex: "male",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -6238,6 +6248,7 @@ export const ce = {
         coordinates: [-84.3825059, 33.7541979],
       },
       properties: {
+        id: "90504823",
         "first name": "EH",
         "last name": "Kruger",
         "street #": "91",
@@ -6246,7 +6257,6 @@ export const ce = {
         sex: "female",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -6256,6 +6266,7 @@ export const ce = {
         coordinates: [-84.3875851, 33.7586396],
       },
       properties: {
+        id: "9371fd4b",
         "first name": "Minnie",
         "last name": "Kubler",
         "street #": "185",
@@ -6264,7 +6275,6 @@ export const ce = {
         sex: "female",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -6274,6 +6284,7 @@ export const ce = {
         coordinates: [-84.3822109, 33.7585955],
       },
       properties: {
+        id: "dc0f329d",
         "first name": "CA",
         "last name": "Kuebler",
         "street #": "217",
@@ -6282,7 +6293,6 @@ export const ce = {
         sex: "male",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -6292,6 +6302,7 @@ export const ce = {
         coordinates: [-84.3841326, 33.7622955],
       },
       properties: {
+        id: "89ee304b",
         "first name": "J",
         "last name": "Kuhn",
         "street #": "304",
@@ -6300,7 +6311,6 @@ export const ce = {
         sex: "male",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -6310,6 +6320,7 @@ export const ce = {
         coordinates: [-84.3841326, 33.7622955],
       },
       properties: {
+        id: "57a2c30b",
         "first name": "R",
         "last name": "Kuhn",
         "street #": "304",
@@ -6318,7 +6329,6 @@ export const ce = {
         sex: "female",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -6328,6 +6338,7 @@ export const ce = {
         coordinates: [-84.3840241, 33.7609451],
       },
       properties: {
+        id: "0455ee40",
         "first name": "AJ",
         "last name": "Kuhn",
         "street #": "87",
@@ -6336,7 +6347,6 @@ export const ce = {
         sex: "male",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -6346,6 +6356,7 @@ export const ce = {
         coordinates: [-84.3887453, 33.757084],
       },
       properties: {
+        id: "e64e88c1",
         "first name": "Mrs GC",
         "last name": "Ladd",
         "street #": "82",
@@ -6354,7 +6365,6 @@ export const ce = {
         sex: "female",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -6364,6 +6374,7 @@ export const ce = {
         coordinates: [-84.3974695, 33.7476613],
       },
       properties: {
+        id: "5f0fdf56",
         "first name": "Morris",
         "last name": "Lang",
         "street #": "5",
@@ -6372,7 +6383,6 @@ export const ce = {
         sex: "male",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -6382,6 +6392,7 @@ export const ce = {
         coordinates: [-84.4199045, 33.754743],
       },
       properties: {
+        id: "599341c4",
         "first name": "Conrad",
         "last name": "Leyh",
         "street #": "490",
@@ -6390,7 +6401,6 @@ export const ce = {
         sex: "male",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -6400,6 +6410,7 @@ export const ce = {
         coordinates: [-84.3910769, 33.739959],
       },
       properties: {
+        id: "34384c3f",
         "first name": "Isaac",
         "last name": "Liberman",
         "street #": "311",
@@ -6408,7 +6419,6 @@ export const ce = {
         sex: "male",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -6418,6 +6428,7 @@ export const ce = {
         coordinates: [-84.3965013, 33.7472103],
       },
       properties: {
+        id: "2c029947",
         "first name": "Isaac",
         "last name": "Liebmann",
         "street #": "245",
@@ -6426,7 +6437,6 @@ export const ce = {
         sex: "male",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -6436,6 +6446,7 @@ export const ce = {
         coordinates: [-84.3857257, 33.755572],
       },
       properties: {
+        id: "ab710755",
         "first name": "Chas",
         "last name": "Limke",
         "street #": "78",
@@ -6444,7 +6455,6 @@ export const ce = {
         sex: "male",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -6454,6 +6464,7 @@ export const ce = {
         coordinates: [-84.4014156, 33.7476922],
       },
       properties: {
+        id: "4e12274a",
         "first name": "W",
         "last name": "Lindenberg",
         "street #": "177",
@@ -6462,7 +6473,6 @@ export const ce = {
         sex: "male",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -6472,6 +6482,7 @@ export const ce = {
         coordinates: [-84.3885775, 33.7561465],
       },
       properties: {
+        id: "3859063d",
         "first name": "CA",
         "last name": "Lindoime",
         "street #": "99 1/2",
@@ -6480,7 +6491,6 @@ export const ce = {
         sex: "male",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -6490,6 +6500,7 @@ export const ce = {
         coordinates: [-84.3885775, 33.7561465],
       },
       properties: {
+        id: "988f7dd3",
         "first name": "AH",
         "last name": "Lindoime",
         "street #": "99 1/2",
@@ -6498,7 +6509,6 @@ export const ce = {
         sex: "female",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -6508,6 +6518,7 @@ export const ce = {
         coordinates: [-84.3885775, 33.7561465],
       },
       properties: {
+        id: "e81da692",
         "first name": "Annie",
         "last name": "Lindoime",
         "street #": "99 1/2",
@@ -6516,7 +6527,6 @@ export const ce = {
         sex: "female",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -6526,6 +6536,7 @@ export const ce = {
         coordinates: [-84.3885775, 33.7561465],
       },
       properties: {
+        id: "e8b2466f",
         "first name": "SF",
         "last name": "Lindoime",
         "street #": "99 1/2",
@@ -6534,7 +6545,6 @@ export const ce = {
         sex: "male",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -6544,6 +6554,7 @@ export const ce = {
         coordinates: [-84.3863962, 33.7485075],
       },
       properties: {
+        id: "ff943659",
         "first name": "Jake",
         "last name": "Livene",
         "street #": "72",
@@ -6552,7 +6563,6 @@ export const ce = {
         sex: "male",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -6562,6 +6572,7 @@ export const ce = {
         coordinates: [-84.3920329, 33.7620021],
       },
       properties: {
+        id: "44849216",
         "first name": "H",
         "last name": "Livingston",
         "street #": "67",
@@ -6570,7 +6581,6 @@ export const ce = {
         sex: "male",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -6580,6 +6590,7 @@ export const ce = {
         coordinates: [-84.3972278, 33.7442912],
       },
       properties: {
+        id: "609df1c8",
         "first name": "Jonas",
         "last name": "Loch",
         "street #": "295",
@@ -6588,7 +6599,6 @@ export const ce = {
         sex: "male",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -6598,6 +6608,7 @@ export const ce = {
         coordinates: [-84.3958984, 33.7735885],
       },
       properties: {
+        id: "59b4fae0",
         "first name": "CJ",
         "last name": "Loeffler",
         "street #": "187",
@@ -6606,7 +6617,6 @@ export const ce = {
         sex: "male",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -6616,6 +6626,7 @@ export const ce = {
         coordinates: [-84.3964566, 33.7489063],
       },
       properties: {
+        id: "2cbe2517",
         "first name": "GF",
         "last name": "Long",
         "street #": "168",
@@ -6624,7 +6635,6 @@ export const ce = {
         sex: "male",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -6634,6 +6644,7 @@ export const ce = {
         coordinates: [-84.394277, 33.7367778],
       },
       properties: {
+        id: "b97cf1f1",
         "first name": "L",
         "last name": "Loppert",
         "street #": "23",
@@ -6642,7 +6653,6 @@ export const ce = {
         sex: "male",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -6652,6 +6662,7 @@ export const ce = {
         coordinates: [-84.386909, 33.7469217],
       },
       properties: {
+        id: "578ed78c",
         "first name": "L",
         "last name": "Lorange",
         "street #": "222",
@@ -6660,7 +6671,6 @@ export const ce = {
         sex: "male",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -6670,6 +6680,7 @@ export const ce = {
         coordinates: [-84.399038, 33.7395202],
       },
       properties: {
+        id: "a8b436fd",
         "first name": "Harry",
         "last name": "Love",
         "street #": "62",
@@ -6678,7 +6689,6 @@ export const ce = {
         sex: "male",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -6688,6 +6698,7 @@ export const ce = {
         coordinates: [-84.399038, 33.7395202],
       },
       properties: {
+        id: "be2334f8",
         "first name": "Anna",
         "last name": "Love",
         "street #": "62",
@@ -6696,7 +6707,6 @@ export const ce = {
         sex: "female",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -6706,6 +6716,7 @@ export const ce = {
         coordinates: [-84.3921617, 33.7477387],
       },
       properties: {
+        id: "2a79e673",
         "first name": "Morris",
         "last name": "Loveman",
         "street #": "167",
@@ -6714,7 +6725,6 @@ export const ce = {
         sex: "male",
         "birth country": "Hungary",
         race: "W",
-        "": "",
       },
     },
     {
@@ -6724,6 +6734,7 @@ export const ce = {
         coordinates: [-84.3939851, 33.7475678],
       },
       properties: {
+        id: "3009f565",
         "first name": "Isaac",
         "last name": "Lowenstein",
         "street #": "166",
@@ -6732,7 +6743,6 @@ export const ce = {
         sex: "male",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -6742,6 +6752,7 @@ export const ce = {
         coordinates: [-84.3970421, 33.745499],
       },
       properties: {
+        id: "02773bef",
         "first name": "Louis",
         "last name": "Lowenthal",
         "street #": "18",
@@ -6750,7 +6761,6 @@ export const ce = {
         sex: "male",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -6760,6 +6770,7 @@ export const ce = {
         coordinates: [-84.3933222, 33.7576568],
       },
       properties: {
+        id: "104a62af",
         "first name": "Fred",
         "last name": "Ludd",
         "street #": "130",
@@ -6768,7 +6779,6 @@ export const ce = {
         sex: "male",
         "birth country": "Prussia",
         race: "W",
-        "": "",
       },
     },
     {
@@ -6778,6 +6788,7 @@ export const ce = {
         coordinates: [-84.3893764, 33.7451668],
       },
       properties: {
+        id: "6dade4d1",
         "first name": "Philip",
         "last name": "Maiers",
         "street #": "53",
@@ -6786,7 +6797,6 @@ export const ce = {
         sex: "male",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -6796,6 +6806,7 @@ export const ce = {
         coordinates: [-84.3829149, 33.7622063],
       },
       properties: {
+        id: "2c401197",
         "first name": "Leo",
         "last name": "Maile",
         "street #": "93",
@@ -6804,7 +6815,6 @@ export const ce = {
         sex: "male",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -6814,6 +6824,7 @@ export const ce = {
         coordinates: [-84.3829149, 33.7622063],
       },
       properties: {
+        id: "161b6e34",
         "first name": "Leo",
         "last name": "Maile",
         "street #": "93",
@@ -6822,7 +6833,6 @@ export const ce = {
         sex: "male",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -6832,6 +6842,7 @@ export const ce = {
         coordinates: [-84.3829149, 33.7622063],
       },
       properties: {
+        id: "26b161f8",
         "first name": "Dora",
         "last name": "Maile",
         "street #": "93",
@@ -6840,7 +6851,6 @@ export const ce = {
         sex: "female",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -6850,6 +6860,7 @@ export const ce = {
         coordinates: [-84.3979594, 33.7455257],
       },
       properties: {
+        id: "f4ee28f2",
         "first name": "M",
         "last name": "Manassee",
         "street #": "5",
@@ -6858,7 +6869,6 @@ export const ce = {
         sex: "male",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -6868,6 +6878,7 @@ export const ce = {
         coordinates: [-84.3979594, 33.7455257],
       },
       properties: {
+        id: "d3b461a3",
         "first name": "Mira",
         "last name": "Manassee",
         "street #": "5",
@@ -6876,7 +6887,6 @@ export const ce = {
         sex: "female",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -6886,6 +6896,7 @@ export const ce = {
         coordinates: [-84.3948527, 33.7488037],
       },
       properties: {
+        id: "6019147d",
         "first name": "George",
         "last name": "Mann",
         "street #": "69",
@@ -6894,7 +6905,6 @@ export const ce = {
         sex: "male",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -6904,6 +6914,7 @@ export const ce = {
         coordinates: [-84.3948527, 33.7488037],
       },
       properties: {
+        id: "67324081",
         "first name": "A",
         "last name": "Mann",
         "street #": "69",
@@ -6912,7 +6923,6 @@ export const ce = {
         sex: "female",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -6922,6 +6932,7 @@ export const ce = {
         coordinates: [-84.3948527, 33.7488037],
       },
       properties: {
+        id: "823db254",
         "first name": "Meta",
         "last name": "Mann",
         "street #": "69",
@@ -6930,7 +6941,6 @@ export const ce = {
         sex: "female",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -6940,6 +6950,7 @@ export const ce = {
         coordinates: [-84.4066135, 33.7627725],
       },
       properties: {
+        id: "4ad4130f",
         "first name": "Jno",
         "last name": "Marko",
         "street #": "170",
@@ -6948,7 +6959,6 @@ export const ce = {
         sex: "male",
         "birth country": "Austria",
         race: "W",
-        "": "",
       },
     },
     {
@@ -6958,6 +6968,7 @@ export const ce = {
         coordinates: [-84.4066135, 33.7627725],
       },
       properties: {
+        id: "f4e59fb2",
         "first name": "Fred",
         "last name": "Marko",
         "street #": "170",
@@ -6966,7 +6977,6 @@ export const ce = {
         sex: "male",
         "birth country": "Austria",
         race: "W",
-        "": "",
       },
     },
     {
@@ -6976,6 +6986,7 @@ export const ce = {
         coordinates: [-84.4066135, 33.7627725],
       },
       properties: {
+        id: "4b5d437e",
         "first name": "Mary",
         "last name": "Marko",
         "street #": "170",
@@ -6984,7 +6995,6 @@ export const ce = {
         sex: "female",
         "birth country": "Austria",
         race: "W",
-        "": "",
       },
     },
     {
@@ -6994,6 +7004,7 @@ export const ce = {
         coordinates: [-84.3961579, 33.7473798],
       },
       properties: {
+        id: "bcd4f252",
         "first name": "Mrs B",
         "last name": "Marshall",
         "street #": "234",
@@ -7002,7 +7013,6 @@ export const ce = {
         sex: "female",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -7012,6 +7022,7 @@ export const ce = {
         coordinates: [-84.3961579, 33.7473798],
       },
       properties: {
+        id: "8b8c39cc",
         "first name": "Hettie",
         "last name": "Marshall",
         "street #": "234",
@@ -7020,7 +7031,6 @@ export const ce = {
         sex: "female",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -7030,6 +7040,7 @@ export const ce = {
         coordinates: [-84.3937148, 33.7592051],
       },
       properties: {
+        id: "120c9186",
         "first name": "Wm",
         "last name": "Martin",
         "street #": "137",
@@ -7038,7 +7049,6 @@ export const ce = {
         sex: "male",
         "birth country": "Switzerland",
         race: "W",
-        "": "",
       },
     },
     {
@@ -7048,6 +7058,7 @@ export const ce = {
         coordinates: [-84.3918516, 33.7407251],
       },
       properties: {
+        id: "4c7cb3de",
         "first name": "Henry",
         "last name": "Mass",
         "street #": "233",
@@ -7056,7 +7067,6 @@ export const ce = {
         sex: "male",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -7066,6 +7076,7 @@ export const ce = {
         coordinates: [-84.3918516, 33.7407251],
       },
       properties: {
+        id: "da8827c3",
         "first name": "Mrs H",
         "last name": "Mass",
         "street #": "233",
@@ -7074,7 +7085,6 @@ export const ce = {
         sex: "female",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -7084,6 +7094,7 @@ export const ce = {
         coordinates: [-84.3996901, 33.7442778],
       },
       properties: {
+        id: "2530bbaf",
         "first name": "Louise",
         "last name": "Massling",
         "street #": "407",
@@ -7092,7 +7103,6 @@ export const ce = {
         sex: "female",
         "birth country": "Bavaria",
         race: "W",
-        "": "",
       },
     },
     {
@@ -7102,6 +7112,7 @@ export const ce = {
         coordinates: [-84.3975268, 33.7474499],
       },
       properties: {
+        id: "3f235d1a",
         "first name": "Mrs P",
         "last name": "May",
         "street #": "218",
@@ -7110,7 +7121,6 @@ export const ce = {
         sex: "female",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -7120,6 +7130,7 @@ export const ce = {
         coordinates: [-84.3950994, 33.7489107],
       },
       properties: {
+        id: "64b9f2fe",
         "first name": "Adolf",
         "last name": "Mayer",
         "street #": "60",
@@ -7128,7 +7139,6 @@ export const ce = {
         sex: "male",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -7138,6 +7148,7 @@ export const ce = {
         coordinates: [-84.3942589, 33.7493603],
       },
       properties: {
+        id: "4a6111ff",
         "first name": "Mrs EA",
         "last name": "Mayer",
         "street #": "159",
@@ -7146,7 +7157,6 @@ export const ce = {
         sex: "female",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -7156,6 +7166,7 @@ export const ce = {
         coordinates: [-84.3990685, 33.7719728],
       },
       properties: {
+        id: "6af4a7ab",
         "first name": "Chas",
         "last name": "Meckel",
         "street #": "184",
@@ -7164,7 +7175,6 @@ export const ce = {
         sex: "male",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -7174,6 +7184,7 @@ export const ce = {
         coordinates: [-84.3990685, 33.7719728],
       },
       properties: {
+        id: "f171aabf",
         "first name": "Emila",
         "last name": "Meckel",
         "street #": "184",
@@ -7182,7 +7193,6 @@ export const ce = {
         sex: "female",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -7192,6 +7202,7 @@ export const ce = {
         coordinates: [-84.4021017, 33.7444626],
       },
       properties: {
+        id: "f59ca831",
         "first name": "Caroline",
         "last name": "Menko",
         "street #": "389",
@@ -7200,7 +7211,6 @@ export const ce = {
         sex: "female",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -7210,6 +7220,7 @@ export const ce = {
         coordinates: [-84.3890574, 33.7604776],
       },
       properties: {
+        id: "a490056c",
         "first name": "Simon",
         "last name": "Metzgar",
         "street #": "143",
@@ -7218,7 +7229,6 @@ export const ce = {
         sex: "male",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -7228,6 +7238,7 @@ export const ce = {
         coordinates: [-84.3697594, 33.7549417],
       },
       properties: {
+        id: "17e4ec70",
         "first name": "JJ",
         "last name": "Meyer",
         "street #": "77",
@@ -7236,7 +7247,6 @@ export const ce = {
         sex: "male",
         "birth country": "Switzerland",
         race: "W",
-        "": "",
       },
     },
     {
@@ -7246,6 +7256,7 @@ export const ce = {
         coordinates: [-84.3867712, 33.7541092],
       },
       properties: {
+        id: "c483bc80",
         "first name": "Samuel",
         "last name": "Meyer",
         "street #": "25",
@@ -7254,7 +7265,6 @@ export const ce = {
         sex: "male",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -7264,6 +7274,7 @@ export const ce = {
         coordinates: [-84.3949845, 33.7620543],
       },
       properties: {
+        id: "98648924",
         "first name": "R",
         "last name": "Meyer",
         "street #": "156",
@@ -7272,7 +7283,6 @@ export const ce = {
         sex: "male",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -7282,6 +7292,7 @@ export const ce = {
         coordinates: [-84.3982527, 33.7476792],
       },
       properties: {
+        id: "ed76b97a",
         "first name": "EL",
         "last name": "Michael",
         "street #": "24",
@@ -7290,7 +7301,6 @@ export const ce = {
         sex: "male",
         "birth country": "Hungary",
         race: "W",
-        "": "",
       },
     },
     {
@@ -7300,6 +7310,7 @@ export const ce = {
         coordinates: [-84.3982527, 33.7476792],
       },
       properties: {
+        id: "7e0b7330",
         "first name": "Lena",
         "last name": "Michael",
         "street #": "24",
@@ -7308,7 +7319,6 @@ export const ce = {
         sex: "female",
         "birth country": "Hungary",
         race: "W",
-        "": "",
       },
     },
     {
@@ -7318,6 +7328,7 @@ export const ce = {
         coordinates: [-84.3841702, 33.7610691],
       },
       properties: {
+        id: "35624bcc",
         "first name": "George",
         "last name": "Miller",
         "street #": "273",
@@ -7326,7 +7337,6 @@ export const ce = {
         sex: "male",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -7336,6 +7346,7 @@ export const ce = {
         coordinates: [-84.3720863, 33.7590259],
       },
       properties: {
+        id: "4831dc69",
         "first name": "E",
         "last name": "Miller",
         "street #": "196",
@@ -7344,7 +7355,6 @@ export const ce = {
         sex: "female",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -7354,6 +7364,7 @@ export const ce = {
         coordinates: [-84.4017482, 33.7474],
       },
       properties: {
+        id: "f6fd9f9b",
         "first name": "S",
         "last name": "Miller",
         "street #": "197",
@@ -7362,7 +7373,6 @@ export const ce = {
         sex: "male",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -7372,6 +7382,7 @@ export const ce = {
         coordinates: [-84.4017482, 33.7474],
       },
       properties: {
+        id: "331b198d",
         "first name": "G",
         "last name": "Miller",
         "street #": "197",
@@ -7380,7 +7391,6 @@ export const ce = {
         sex: "female",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -7390,6 +7400,7 @@ export const ce = {
         coordinates: [-84.3908624, 33.7426712],
       },
       properties: {
+        id: "4b7c359e",
         "first name": "Minnie",
         "last name": "Miller",
         "street #": "236",
@@ -7398,7 +7409,6 @@ export const ce = {
         sex: "female",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -7408,6 +7418,7 @@ export const ce = {
         coordinates: [-84.3855154, 33.7609362],
       },
       properties: {
+        id: "7b84d1cc",
         "first name": "Christ",
         "last name": "Monninger",
         "street #": "54",
@@ -7416,7 +7427,6 @@ export const ce = {
         sex: "male",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -7426,6 +7436,7 @@ export const ce = {
         coordinates: [-84.3855154, 33.7609362],
       },
       properties: {
+        id: "45375db6",
         "first name": "Rosline",
         "last name": "Monninger",
         "street #": "54",
@@ -7434,7 +7445,6 @@ export const ce = {
         sex: "female",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -7444,6 +7454,7 @@ export const ce = {
         coordinates: [-84.3879256, 33.7577334],
       },
       properties: {
+        id: "97df2eee",
         "first name": "WA",
         "last name": "Monnish",
         "street #": "3",
@@ -7452,7 +7463,6 @@ export const ce = {
         sex: "male",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -7462,6 +7472,7 @@ export const ce = {
         coordinates: [-84.3879256, 33.7577334],
       },
       properties: {
+        id: "86970ba5",
         "first name": "Rosa",
         "last name": "Monnish",
         "street #": "3",
@@ -7470,7 +7481,6 @@ export const ce = {
         sex: "female",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -7480,6 +7490,7 @@ export const ce = {
         coordinates: [-84.3957797, 33.7392182],
       },
       properties: {
+        id: "624f5245",
         "first name": "S",
         "last name": "Montag",
         "street #": "227",
@@ -7488,7 +7499,6 @@ export const ce = {
         sex: "male",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -7498,6 +7508,7 @@ export const ce = {
         coordinates: [-84.3926279, 33.7427146],
       },
       properties: {
+        id: "ec0717fc",
         "first name": "Simon",
         "last name": "Montag",
         "street #": "112",
@@ -7506,7 +7517,6 @@ export const ce = {
         sex: "male",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -7516,6 +7526,7 @@ export const ce = {
         coordinates: [-84.3926279, 33.7427146],
       },
       properties: {
+        id: "ed5dfe02",
         "first name": "Susanne",
         "last name": "Montag",
         "street #": "112",
@@ -7524,7 +7535,6 @@ export const ce = {
         sex: "female",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -7534,6 +7544,7 @@ export const ce = {
         coordinates: [-84.3926279, 33.7427146],
       },
       properties: {
+        id: "dd94b98b",
         "first name": "Bertha",
         "last name": "Montag",
         "street #": "112",
@@ -7542,7 +7553,6 @@ export const ce = {
         sex: "female",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -7552,6 +7562,7 @@ export const ce = {
         coordinates: [-84.3926279, 33.7427146],
       },
       properties: {
+        id: "e1f85ad5",
         "first name": "Edward",
         "last name": "Montag",
         "street #": "112",
@@ -7560,7 +7571,6 @@ export const ce = {
         sex: "male",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -7570,6 +7580,7 @@ export const ce = {
         coordinates: [-84.3926279, 33.7427146],
       },
       properties: {
+        id: "62d79a8f",
         "first name": "Adolf",
         "last name": "Montag",
         "street #": "112",
@@ -7578,7 +7589,6 @@ export const ce = {
         sex: "male",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -7588,6 +7598,7 @@ export const ce = {
         coordinates: [-84.3926279, 33.7427146],
       },
       properties: {
+        id: "58da75e8",
         "first name": "William",
         "last name": "Montag",
         "street #": "112",
@@ -7596,7 +7607,6 @@ export const ce = {
         sex: "male",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -7606,6 +7616,7 @@ export const ce = {
         coordinates: [-84.3926279, 33.7427146],
       },
       properties: {
+        id: "094ebd73",
         "first name": "Ludwig",
         "last name": "Montag",
         "street #": "112",
@@ -7614,7 +7625,6 @@ export const ce = {
         sex: "male",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -7624,6 +7634,7 @@ export const ce = {
         coordinates: [-84.3895557, 33.7597085],
       },
       properties: {
+        id: "17a14abf",
         "first name": "Dave",
         "last name": "Moss",
         "street #": "45",
@@ -7632,7 +7643,6 @@ export const ce = {
         sex: "male",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -7642,6 +7652,7 @@ export const ce = {
         coordinates: [-84.3895557, 33.7597085],
       },
       properties: {
+        id: "ee8f01f8",
         "first name": "Rosa",
         "last name": "Moss",
         "street #": "45",
@@ -7650,7 +7661,6 @@ export const ce = {
         sex: "female",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -7660,6 +7670,7 @@ export const ce = {
         coordinates: [-84.3895651, 33.7537451],
       },
       properties: {
+        id: "6287cd13",
         "first name": "H",
         "last name": "Muhlbrecht",
         "street #": "",
@@ -7668,7 +7679,6 @@ export const ce = {
         sex: "male",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -7678,6 +7688,7 @@ export const ce = {
         coordinates: [-84.4099295, 33.7594062],
       },
       properties: {
+        id: "493718e6",
         "first name": "Wm",
         "last name": "Muller",
         "street #": "142",
@@ -7686,7 +7697,6 @@ export const ce = {
         sex: "male",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -7696,6 +7706,7 @@ export const ce = {
         coordinates: [-84.3957308, 33.7610418],
       },
       properties: {
+        id: "9c0019c9",
         "first name": "E",
         "last name": "Murphy",
         "street #": "302",
@@ -7704,7 +7715,6 @@ export const ce = {
         sex: "female",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -7714,6 +7724,7 @@ export const ce = {
         coordinates: [-84.3909375, 33.7421983],
       },
       properties: {
+        id: "be5bdb7c",
         "first name": "Asper",
         "last name": "Myers",
         "street #": "249",
@@ -7722,7 +7733,6 @@ export const ce = {
         sex: "male",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -7732,6 +7742,7 @@ export const ce = {
         coordinates: [-84.3909482, 33.7421359],
       },
       properties: {
+        id: "b4c3f7a0",
         "first name": "Ida",
         "last name": "Newelt",
         "street #": "250",
@@ -7740,7 +7751,6 @@ export const ce = {
         sex: "female",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -7750,6 +7760,7 @@ export const ce = {
         coordinates: [-84.3844666, 33.7528496],
       },
       properties: {
+        id: "aaccd729",
         "first name": "Katie",
         "last name": "Newriter",
         "street #": "56",
@@ -7758,7 +7769,6 @@ export const ce = {
         sex: "female",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -7768,6 +7778,7 @@ export const ce = {
         coordinates: [-84.3844666, 33.7528496],
       },
       properties: {
+        id: "0692ea78",
         "first name": "R",
         "last name": "Newriter",
         "street #": "56",
@@ -7776,7 +7787,6 @@ export const ce = {
         sex: "male",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -7786,6 +7796,7 @@ export const ce = {
         coordinates: [-84.3844666, 33.7528496],
       },
       properties: {
+        id: "8794f065",
         "first name": "Tom",
         "last name": "Newriter",
         "street #": "56",
@@ -7794,7 +7805,6 @@ export const ce = {
         sex: "male",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -7804,6 +7814,7 @@ export const ce = {
         coordinates: [-84.3830048, 33.7537118],
       },
       properties: {
+        id: "7fc5e49d",
         "first name": "D",
         "last name": "O'Sullivan",
         "street #": "69",
@@ -7812,7 +7823,6 @@ export const ce = {
         sex: "male",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -7822,6 +7832,7 @@ export const ce = {
         coordinates: [-84.3923689, 33.764655],
       },
       properties: {
+        id: "063019d6",
         "first name": "Mrs",
         "last name": "Oerchger",
         "street #": "104",
@@ -7830,7 +7841,6 @@ export const ce = {
         sex: "female",
         "birth country": "Switzerland",
         race: "W",
-        "": "",
       },
     },
     {
@@ -7840,6 +7850,7 @@ export const ce = {
         coordinates: [-84.3923689, 33.764655],
       },
       properties: {
+        id: "7f87e509",
         "first name": "J",
         "last name": "Oerchger",
         "street #": "104",
@@ -7848,7 +7859,6 @@ export const ce = {
         sex: "male",
         "birth country": "Switzerland",
         race: "W",
-        "": "",
       },
     },
     {
@@ -7858,6 +7868,7 @@ export const ce = {
         coordinates: [-84.3969254, 33.7459836],
       },
       properties: {
+        id: "f2dee961",
         "first name": "Ignatz",
         "last name": "Oestrucher",
         "street #": "28",
@@ -7866,7 +7877,6 @@ export const ce = {
         sex: "male",
         "birth country": "Austria",
         race: "W",
-        "": "",
       },
     },
     {
@@ -7876,6 +7886,7 @@ export const ce = {
         coordinates: [-84.3969254, 33.7459836],
       },
       properties: {
+        id: "3b3d834d",
         "first name": "Bertha",
         "last name": "Oestrucher",
         "street #": "28",
@@ -7884,7 +7895,6 @@ export const ce = {
         sex: "female",
         "birth country": "Austria",
         race: "W",
-        "": "",
       },
     },
     {
@@ -7894,6 +7904,7 @@ export const ce = {
         coordinates: [-84.3856525, 33.7712821],
       },
       properties: {
+        id: "259b2237",
         "first name": "J",
         "last name": "Ollinger",
         "street #": "30",
@@ -7902,7 +7913,6 @@ export const ce = {
         sex: "male",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -7912,6 +7922,7 @@ export const ce = {
         coordinates: [-84.3830864, 33.7555541],
       },
       properties: {
+        id: "b965e308",
         "first name": "Albert",
         "last name": "Orth",
         "street #": "131",
@@ -7920,7 +7931,6 @@ export const ce = {
         sex: "male",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -7930,6 +7940,7 @@ export const ce = {
         coordinates: [-84.3830864, 33.7555541],
       },
       properties: {
+        id: "c7a7a4d4",
         "first name": "Annie",
         "last name": "Orth",
         "street #": "131",
@@ -7938,7 +7949,6 @@ export const ce = {
         sex: "female",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -7948,6 +7958,7 @@ export const ce = {
         coordinates: [-84.3995756, 33.7492712],
       },
       properties: {
+        id: "bd85db01",
         "first name": "G",
         "last name": "Osterloth",
         "street #": "115",
@@ -7956,7 +7967,6 @@ export const ce = {
         sex: "male",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -7966,6 +7976,7 @@ export const ce = {
         coordinates: [-84.3821787, 33.7597149],
       },
       properties: {
+        id: "f2725f02",
         "first name": "H",
         "last name": "Papa",
         "street #": "272",
@@ -7974,7 +7985,6 @@ export const ce = {
         sex: "male",
         "birth country": "Switzerland",
         race: "W",
-        "": "",
       },
     },
     {
@@ -7984,6 +7994,7 @@ export const ce = {
         coordinates: [-84.3821787, 33.7597149],
       },
       properties: {
+        id: "77e2f356",
         "first name": "M",
         "last name": "Papa",
         "street #": "272",
@@ -7992,7 +8003,6 @@ export const ce = {
         sex: "female",
         "birth country": "Switzerland",
         race: "W",
-        "": "",
       },
     },
     {
@@ -8002,6 +8012,7 @@ export const ce = {
         coordinates: [-84.3908838, 33.7423589],
       },
       properties: {
+        id: "88ba034e",
         "first name": "O",
         "last name": "Pappenheimer",
         "street #": "246",
@@ -8010,7 +8021,6 @@ export const ce = {
         sex: "male",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -8020,6 +8030,7 @@ export const ce = {
         coordinates: [-84.3908838, 33.7423589],
       },
       properties: {
+        id: "04998471",
         "first name": "Mrs",
         "last name": "Pappenheimer",
         "street #": "246",
@@ -8028,7 +8039,6 @@ export const ce = {
         sex: "female",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -8038,6 +8048,7 @@ export const ce = {
         coordinates: [-84.3841809, 33.7606766],
       },
       properties: {
+        id: "ca0dc421",
         "first name": "O",
         "last name": "Pause",
         "street #": "265",
@@ -8046,7 +8057,6 @@ export const ce = {
         sex: "male",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -8056,6 +8066,7 @@ export const ce = {
         coordinates: [-84.3841809, 33.7606766],
       },
       properties: {
+        id: "82f0e4aa",
         "first name": "Mrs",
         "last name": "Pause",
         "street #": "265",
@@ -8064,7 +8075,6 @@ export const ce = {
         sex: "female",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -8074,6 +8084,7 @@ export const ce = {
         coordinates: [-84.3982527, 33.7476792],
       },
       properties: {
+        id: "1aeec209",
         "first name": "J",
         "last name": "Philips",
         "street #": "24",
@@ -8082,7 +8093,6 @@ export const ce = {
         sex: "male",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -8092,6 +8102,7 @@ export const ce = {
         coordinates: [-84.3982527, 33.7476792],
       },
       properties: {
+        id: "807b0d5e",
         "first name": "Mrs J",
         "last name": "Philips",
         "street #": "24",
@@ -8100,7 +8111,6 @@ export const ce = {
         sex: "female",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -8110,6 +8120,7 @@ export const ce = {
         coordinates: [-84.3681381, 33.7421123],
       },
       properties: {
+        id: "41319db5",
         "first name": "SF",
         "last name": "Pickert",
         "street #": "275",
@@ -8118,7 +8129,6 @@ export const ce = {
         sex: "male",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -8128,6 +8138,7 @@ export const ce = {
         coordinates: [-84.3822645, 33.755313],
       },
       properties: {
+        id: "87154360",
         "first name": "A",
         "last name": "Pincus",
         "street #": "123",
@@ -8136,7 +8147,6 @@ export const ce = {
         sex: "female",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -8146,6 +8156,7 @@ export const ce = {
         coordinates: [-84.3982759, 33.7449771],
       },
       properties: {
+        id: "bcf61064",
         "first name": "Jane",
         "last name": "Pinkns",
         "street #": "26",
@@ -8154,7 +8165,6 @@ export const ce = {
         sex: "female",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -8164,6 +8174,7 @@ export const ce = {
         coordinates: [-84.3982759, 33.7449771],
       },
       properties: {
+        id: "124e41fc",
         "first name": "Pauline",
         "last name": "Pinkns",
         "street #": "26",
@@ -8172,7 +8183,6 @@ export const ce = {
         sex: "female",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -8182,6 +8192,7 @@ export const ce = {
         coordinates: [-84.3962225, 33.7580641],
       },
       properties: {
+        id: "60193c10",
         "first name": "FF",
         "last name": "Plantinberg",
         "street #": "62",
@@ -8190,7 +8201,6 @@ export const ce = {
         sex: "male",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -8200,6 +8210,7 @@ export const ce = {
         coordinates: [-84.387718, 33.7559913],
       },
       properties: {
+        id: "35cb6d00",
         "first name": "LS",
         "last name": "Plitt",
         "street #": "86",
@@ -8208,7 +8219,6 @@ export const ce = {
         sex: "male",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -8218,6 +8228,7 @@ export const ce = {
         coordinates: [-84.3975107, 33.7474945],
       },
       properties: {
+        id: "ae5e26c3",
         "first name": "Adolphus",
         "last name": "Pollock",
         "street #": "213",
@@ -8226,7 +8237,6 @@ export const ce = {
         sex: "male",
         "birth country": "Hungary",
         race: "W",
-        "": "",
       },
     },
     {
@@ -8236,6 +8246,7 @@ export const ce = {
         coordinates: [-84.3920013, 33.7565376],
       },
       properties: {
+        id: "38d49704",
         "first name": "GA",
         "last name": "Preuss",
         "street #": "11",
@@ -8244,7 +8255,6 @@ export const ce = {
         sex: "male",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -8254,6 +8264,7 @@ export const ce = {
         coordinates: [-84.3930303, 33.7487632],
       },
       properties: {
+        id: "bd32c86a",
         "first name": "JW",
         "last name": "Preyseytz",
         "street #": "127",
@@ -8262,7 +8273,6 @@ export const ce = {
         sex: "male",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -8272,6 +8282,7 @@ export const ce = {
         coordinates: [-84.3844498, 33.7485408],
       },
       properties: {
+        id: "da1219ff",
         "first name": "Alfred",
         "last name": "Quart",
         "street #": "16",
@@ -8280,7 +8291,6 @@ export const ce = {
         sex: "male",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -8290,6 +8300,7 @@ export const ce = {
         coordinates: [-84.3927567, 33.7276316],
       },
       properties: {
+        id: "3a36cd8b",
         "first name": "Richard",
         "last name": "Radell",
         "street #": "693",
@@ -8298,7 +8309,6 @@ export const ce = {
         sex: "male",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -8308,6 +8318,7 @@ export const ce = {
         coordinates: [-84.4109722, 33.7439011],
       },
       properties: {
+        id: "c524dd0b",
         "first name": "Nick",
         "last name": "Randolph",
         "street #": "38",
@@ -8316,7 +8327,6 @@ export const ce = {
         sex: "male",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -8326,6 +8336,7 @@ export const ce = {
         coordinates: [-84.4002547, 33.7538376],
       },
       properties: {
+        id: "1a49b239",
         "first name": "Emily",
         "last name": "Rapp",
         "street #": "161",
@@ -8334,7 +8345,6 @@ export const ce = {
         sex: "female",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -8344,6 +8354,7 @@ export const ce = {
         coordinates: [-84.3678724, 33.7586734],
       },
       properties: {
+        id: "b6eb117d",
         "first name": "A",
         "last name": "Rauschenberg",
         "street #": "112",
@@ -8352,7 +8363,6 @@ export const ce = {
         sex: "male",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -8362,6 +8372,7 @@ export const ce = {
         coordinates: [-84.3678724, 33.7586734],
       },
       properties: {
+        id: "31e11f53",
         "first name": "AE",
         "last name": "Rauschenberg",
         "street #": "112",
@@ -8370,7 +8381,6 @@ export const ce = {
         sex: "female",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -8380,6 +8390,7 @@ export const ce = {
         coordinates: [-84.3678724, 33.7586734],
       },
       properties: {
+        id: "812411f8",
         "first name": "Rosa",
         "last name": "Rauschenberg",
         "street #": "112",
@@ -8388,7 +8399,6 @@ export const ce = {
         sex: "female",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -8398,6 +8408,7 @@ export const ce = {
         coordinates: [-84.3985692, 33.7476881],
       },
       properties: {
+        id: "f90cd565",
         "first name": "Gabriel",
         "last name": "Regenstein",
         "street #": "27",
@@ -8406,7 +8417,6 @@ export const ce = {
         sex: "male",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -8416,6 +8426,7 @@ export const ce = {
         coordinates: [-84.3985692, 33.7476881],
       },
       properties: {
+        id: "4a41096c",
         "first name": "Divnetta",
         "last name": "Regenstein",
         "street #": "27",
@@ -8424,7 +8435,6 @@ export const ce = {
         sex: "female",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -8434,6 +8444,7 @@ export const ce = {
         coordinates: [-84.3923763, 33.7474889],
       },
       properties: {
+        id: "fdb5c5cd",
         "first name": "Moses",
         "last name": "Regenstein",
         "street #": "169",
@@ -8442,7 +8453,6 @@ export const ce = {
         sex: "male",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -8452,6 +8462,7 @@ export const ce = {
         coordinates: [-84.3969931, 33.7482283],
       },
       properties: {
+        id: "ed8cda53",
         "first name": "Rosa",
         "last name": "Reich",
         "street #": "187",
@@ -8470,6 +8481,7 @@ export const ce = {
         coordinates: [-84.3795219, 33.7509389],
       },
       properties: {
+        id: "26f7fac6",
         "first name": "FW",
         "last name": "Reiman",
         "street #": "60",
@@ -8478,7 +8490,6 @@ export const ce = {
         sex: "male",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -8488,6 +8499,7 @@ export const ce = {
         coordinates: [-84.3977029, 33.7466215],
       },
       properties: {
+        id: "d22e0a83",
         "first name": "J",
         "last name": "Rejenstein",
         "street #": "262",
@@ -8496,7 +8508,6 @@ export const ce = {
         sex: "male",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -8506,6 +8517,7 @@ export const ce = {
         coordinates: [-84.3943763, 33.7280428],
       },
       properties: {
+        id: "9b9cbebb",
         "first name": "Wm",
         "last name": "Rex",
         "street #": "42",
@@ -8514,7 +8526,6 @@ export const ce = {
         sex: "male",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -8524,6 +8535,7 @@ export const ce = {
         coordinates: [-84.3943763, 33.7280428],
       },
       properties: {
+        id: "dcc21b7f",
         "first name": "Helen",
         "last name": "Rex",
         "street #": "42",
@@ -8532,7 +8544,6 @@ export const ce = {
         sex: "female",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -8542,6 +8553,7 @@ export const ce = {
         coordinates: [-84.3961392, 33.7723578],
       },
       properties: {
+        id: "d42d1ac3",
         "first name": "John",
         "last name": "Rhinebery",
         "street #": "199",
@@ -8550,7 +8562,6 @@ export const ce = {
         sex: "male",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -8560,6 +8571,7 @@ export const ce = {
         coordinates: [-84.3961392, 33.7723578],
       },
       properties: {
+        id: "5bc16409",
         "first name": "Kathrine",
         "last name": "Rhinebery",
         "street #": "199",
@@ -8568,7 +8580,6 @@ export const ce = {
         sex: "female",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -8578,6 +8589,7 @@ export const ce = {
         coordinates: [-84.3961392, 33.7723578],
       },
       properties: {
+        id: "f4109378",
         "first name": "Annie",
         "last name": "Rhinebery",
         "street #": "199",
@@ -8586,7 +8598,6 @@ export const ce = {
         sex: "female",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -8596,6 +8607,7 @@ export const ce = {
         coordinates: [-84.3961392, 33.7723578],
       },
       properties: {
+        id: "1de449cd",
         "first name": "John Jr",
         "last name": "Rhinebery",
         "street #": "199",
@@ -8604,7 +8616,6 @@ export const ce = {
         sex: "male",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -8614,6 +8625,7 @@ export const ce = {
         coordinates: [-84.3961392, 33.7723578],
       },
       properties: {
+        id: "6a643ea8",
         "first name": "Carl",
         "last name": "Rhinebery",
         "street #": "199",
@@ -8622,7 +8634,6 @@ export const ce = {
         sex: "male",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -8632,6 +8643,7 @@ export const ce = {
         coordinates: [-84.3961392, 33.7723578],
       },
       properties: {
+        id: "ee1f9ce2",
         "first name": "Wm",
         "last name": "Rhinebery",
         "street #": "199",
@@ -8640,7 +8652,6 @@ export const ce = {
         sex: "male",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -8650,6 +8661,7 @@ export const ce = {
         coordinates: [-84.3945216, 33.7418269],
       },
       properties: {
+        id: "94221f76",
         "first name": "Emanuel",
         "last name": "Rich",
         "street #": "324",
@@ -8658,7 +8670,6 @@ export const ce = {
         sex: "male",
         "birth country": "Hungary",
         race: "W",
-        "": "",
       },
     },
     {
@@ -8668,6 +8679,7 @@ export const ce = {
         coordinates: [-84.3945216, 33.7418269],
       },
       properties: {
+        id: "07a1f84f",
         "first name": "Bertha",
         "last name": "Rich",
         "street #": "324",
@@ -8676,7 +8688,6 @@ export const ce = {
         sex: "female",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -8686,6 +8697,7 @@ export const ce = {
         coordinates: [-84.3945216, 33.7416128],
       },
       properties: {
+        id: "0e86a4d3",
         "first name": "Daniel",
         "last name": "Rich",
         "street #": "330",
@@ -8694,7 +8706,6 @@ export const ce = {
         sex: "male",
         "birth country": "Austria",
         race: "W",
-        "": "",
       },
     },
     {
@@ -8704,6 +8715,7 @@ export const ce = {
         coordinates: [-84.3945216, 33.7416128],
       },
       properties: {
+        id: "11c01fe1",
         "first name": "Mrs D",
         "last name": "Rich",
         "street #": "330",
@@ -8712,7 +8724,6 @@ export const ce = {
         sex: "female",
         "birth country": "Austria",
         race: "W",
-        "": "",
       },
     },
     {
@@ -8722,6 +8733,7 @@ export const ce = {
         coordinates: [-84.3945162, 33.7414835],
       },
       properties: {
+        id: "adb57e9e",
         "first name": "M",
         "last name": "Rich",
         "street #": "336",
@@ -8730,7 +8742,6 @@ export const ce = {
         sex: "male",
         "birth country": "Hungary",
         race: "W",
-        "": "",
       },
     },
     {
@@ -8740,6 +8751,7 @@ export const ce = {
         coordinates: [-84.3983165, 33.7683778],
       },
       properties: {
+        id: "2417d46a",
         "first name": "Annie",
         "last name": "Rickter",
         "street #": "564",
@@ -8748,7 +8760,6 @@ export const ce = {
         sex: "female",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -8758,6 +8769,7 @@ export const ce = {
         coordinates: [-84.3917558, 33.7560779],
       },
       properties: {
+        id: "420ff2e8",
         "first name": "Adolph",
         "last name": "Rigutti",
         "street #": "72",
@@ -8766,7 +8778,6 @@ export const ce = {
         sex: "male",
         "birth country": "Austria",
         race: "W",
-        "": "",
       },
     },
     {
@@ -8776,6 +8787,7 @@ export const ce = {
         coordinates: [-84.4077714, 33.7512537],
       },
       properties: {
+        id: "a558c86a",
         "first name": "Fred",
         "last name": "Risse",
         "street #": "27",
@@ -8784,7 +8796,6 @@ export const ce = {
         sex: "male",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -8794,6 +8805,7 @@ export const ce = {
         coordinates: [-84.3895238, 33.7505949],
       },
       properties: {
+        id: "80adf111",
         "first name": "M",
         "last name": "Roarick",
         "street #": "79",
@@ -8802,7 +8814,6 @@ export const ce = {
         sex: "male",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -8812,6 +8823,7 @@ export const ce = {
         coordinates: [-84.3904002, 33.7558687],
       },
       properties: {
+        id: "9b523b65",
         "first name": "TL",
         "last name": "Roemer",
         "street #": "40 1/2",
@@ -8820,7 +8832,6 @@ export const ce = {
         sex: "male",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -8830,6 +8841,7 @@ export const ce = {
         coordinates: [-84.4027282, 33.7438419],
       },
       properties: {
+        id: "5278e7e2",
         "first name": "George",
         "last name": "Roerig",
         "street #": "15",
@@ -8838,7 +8850,6 @@ export const ce = {
         sex: "male",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -8848,6 +8859,7 @@ export const ce = {
         coordinates: [-84.3900803, 33.7503971],
       },
       properties: {
+        id: "2a51d6c8",
         "first name": "Agusta",
         "last name": "Rogan",
         "street #": "87",
@@ -8856,7 +8868,6 @@ export const ce = {
         sex: "female",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -8866,6 +8877,7 @@ export const ce = {
         coordinates: [-84.3900803, 33.7503971],
       },
       properties: {
+        id: "d83d3d33",
         "first name": "John",
         "last name": "Rogan",
         "street #": "87",
@@ -8874,7 +8886,6 @@ export const ce = {
         sex: "male",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -8884,6 +8895,7 @@ export const ce = {
         coordinates: [-84.3977968, 33.7476613],
       },
       properties: {
+        id: "f6d884cc",
         "first name": "Henry",
         "last name": "Rosenbaum",
         "street #": "13",
@@ -8892,7 +8904,6 @@ export const ce = {
         sex: "male",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -8902,6 +8913,7 @@ export const ce = {
         coordinates: [-84.3977968, 33.7476613],
       },
       properties: {
+        id: "37e1d02f",
         "first name": "Mrs H",
         "last name": "Rosenbaum",
         "street #": "13",
@@ -8910,7 +8922,6 @@ export const ce = {
         sex: "female",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -8920,6 +8931,7 @@ export const ce = {
         coordinates: [-84.401914, 33.7445474],
       },
       properties: {
+        id: "5b97bdea",
         "first name": "Harriet",
         "last name": "Rosenbaum",
         "street #": "382",
@@ -8928,7 +8940,6 @@ export const ce = {
         sex: "female",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -8938,6 +8949,7 @@ export const ce = {
         coordinates: [-84.3955082, 33.7395113],
       },
       properties: {
+        id: "37d4d784",
         "first name": "R",
         "last name": "Rosenberger",
         "street #": "142",
@@ -8946,7 +8958,6 @@ export const ce = {
         sex: "female",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -8956,6 +8967,7 @@ export const ce = {
         coordinates: [-84.39658, 33.7487591],
       },
       properties: {
+        id: "c65edaed",
         "first name": "L",
         "last name": "Rosenfeld",
         "street #": "172",
@@ -8964,7 +8976,6 @@ export const ce = {
         sex: "male",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -8974,6 +8985,7 @@ export const ce = {
         coordinates: [-84.39658, 33.7487591],
       },
       properties: {
+        id: "cb97581b",
         "first name": "S",
         "last name": "Rosenfeld",
         "street #": "172",
@@ -8982,7 +8994,6 @@ export const ce = {
         sex: "female",
         "birth country": "Austria",
         race: "W",
-        "": "",
       },
     },
     {
@@ -8992,6 +9003,7 @@ export const ce = {
         coordinates: [-84.3979711, 33.7464877],
       },
       properties: {
+        id: "09eabe68",
         "first name": "Abram",
         "last name": "Rosenfeld",
         "street #": "270",
@@ -9000,7 +9012,6 @@ export const ce = {
         sex: "male",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -9010,6 +9021,7 @@ export const ce = {
         coordinates: [-84.3979711, 33.7464877],
       },
       properties: {
+        id: "303787ca",
         "first name": "Sigmond",
         "last name": "Rosenfeld",
         "street #": "270",
@@ -9018,7 +9030,6 @@ export const ce = {
         sex: "male",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -9028,6 +9039,7 @@ export const ce = {
         coordinates: [-84.3979711, 33.7464877],
       },
       properties: {
+        id: "53ae90f6",
         "first name": "Emilie",
         "last name": "Rosenfeld",
         "street #": "270",
@@ -9036,7 +9048,6 @@ export const ce = {
         sex: "female",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -9046,6 +9057,7 @@ export const ce = {
         coordinates: [-84.3721414, 33.7511448],
       },
       properties: {
+        id: "2508b2b5",
         "first name": "GC",
         "last name": "Sahli",
         "street #": "482",
@@ -9054,7 +9066,6 @@ export const ce = {
         sex: "female",
         "birth country": "Switzerland",
         race: "W",
-        "": "",
       },
     },
     {
@@ -9064,6 +9075,7 @@ export const ce = {
         coordinates: [-84.3721414, 33.7511448],
       },
       properties: {
+        id: "0fb34e2d",
         "first name": "Anna",
         "last name": "Sahli",
         "street #": "482",
@@ -9072,7 +9084,6 @@ export const ce = {
         sex: "female",
         "birth country": "Switzerland",
         race: "W",
-        "": "",
       },
     },
     {
@@ -9082,6 +9093,7 @@ export const ce = {
         coordinates: [-84.3721414, 33.7511448],
       },
       properties: {
+        id: "9baa0d2d",
         "first name": "Frank",
         "last name": "Sahli",
         "street #": "482",
@@ -9090,7 +9102,6 @@ export const ce = {
         sex: "male",
         "birth country": "Switzerland",
         race: "W",
-        "": "",
       },
     },
     {
@@ -9100,6 +9111,7 @@ export const ce = {
         coordinates: [-84.3949814, 33.7488394],
       },
       properties: {
+        id: "6c706985",
         "first name": "Gustav",
         "last name": "Saloshin",
         "street #": "67",
@@ -9108,7 +9120,6 @@ export const ce = {
         sex: "male",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -9118,6 +9129,7 @@ export const ce = {
         coordinates: [-84.3949814, 33.7488394],
       },
       properties: {
+        id: "4cef2eb3",
         "first name": "Rosalie",
         "last name": "Saloshin",
         "street #": "67",
@@ -9126,7 +9138,6 @@ export const ce = {
         sex: "female",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -9136,6 +9147,7 @@ export const ce = {
         coordinates: [-84.3933973, 33.7577549],
       },
       properties: {
+        id: "d2dfb42a",
         "first name": "Gustus",
         "last name": "Saloshin",
         "street #": "130 1/2",
@@ -9144,7 +9156,6 @@ export const ce = {
         sex: "male",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -9154,6 +9165,7 @@ export const ce = {
         coordinates: [-84.3944786, 33.7444097],
       },
       properties: {
+        id: "78117ea6",
         "first name": "Johanna",
         "last name": "Samuels",
         "street #": "219",
@@ -9162,7 +9174,6 @@ export const ce = {
         sex: "male",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -9172,6 +9183,7 @@ export const ce = {
         coordinates: [-84.3944786, 33.7444097],
       },
       properties: {
+        id: "0716fa77",
         "first name": "Sig",
         "last name": "Samuels",
         "street #": "219",
@@ -9180,7 +9192,6 @@ export const ce = {
         sex: "male",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -9190,6 +9201,7 @@ export const ce = {
         coordinates: [-84.3944786, 33.7444097],
       },
       properties: {
+        id: "732ef3ee",
         "first name": "Sol",
         "last name": "Samuels",
         "street #": "219",
@@ -9198,7 +9210,6 @@ export const ce = {
         sex: "male",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -9208,6 +9219,7 @@ export const ce = {
         coordinates: [-84.4099939, 33.7640265],
       },
       properties: {
+        id: "651ec2a5",
         "first name": "Louisa",
         "last name": "Schelbert",
         "street #": "276",
@@ -9216,7 +9228,6 @@ export const ce = {
         sex: "female",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -9226,6 +9237,7 @@ export const ce = {
         coordinates: [-84.3863635, 33.734027],
       },
       properties: {
+        id: "620bbfcf",
         "first name": "Henry",
         "last name": "Schlapback",
         "street #": "395",
@@ -9234,7 +9246,6 @@ export const ce = {
         sex: "male",
         "birth country": "Switzerland",
         race: "W",
-        "": "",
       },
     },
     {
@@ -9244,6 +9255,7 @@ export const ce = {
         coordinates: [-84.3863635, 33.734027],
       },
       properties: {
+        id: "41acf79d",
         "first name": "Margaret",
         "last name": "Schlapback",
         "street #": "395",
@@ -9252,7 +9264,6 @@ export const ce = {
         sex: "female",
         "birth country": "Switzerland",
         race: "W",
-        "": "",
       },
     },
     {
@@ -9262,6 +9273,7 @@ export const ce = {
         coordinates: [-84.3890574, 33.7604776],
       },
       properties: {
+        id: "cf994f7b",
         "first name": "Morris",
         "last name": "Schlesinger",
         "street #": "143",
@@ -9270,7 +9282,6 @@ export const ce = {
         sex: "male",
         "birth country": "Austria",
         race: "W",
-        "": "",
       },
     },
     {
@@ -9280,6 +9291,7 @@ export const ce = {
         coordinates: [-84.3875072, 33.7660344],
       },
       properties: {
+        id: "f70d5a01",
         "first name": "HC",
         "last name": "Schlesinger",
         "street #": "109",
@@ -9288,7 +9300,6 @@ export const ce = {
         sex: "male",
         "birth country": "Austria",
         race: "W",
-        "": "",
       },
     },
     {
@@ -9298,6 +9309,7 @@ export const ce = {
         coordinates: [-84.3970306, 33.7499812],
       },
       properties: {
+        id: "8678695c",
         "first name": "E",
         "last name": "Schlinder",
         "street #": "11",
@@ -9306,7 +9318,6 @@ export const ce = {
         sex: "female",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -9316,6 +9327,7 @@ export const ce = {
         coordinates: [-84.3713368, 33.7513945],
       },
       properties: {
+        id: "e47691a0",
         "first name": "Mrs",
         "last name": "Schmeltzer",
         "street #": "500",
@@ -9324,7 +9336,6 @@ export const ce = {
         sex: "female",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -9334,6 +9345,7 @@ export const ce = {
         coordinates: [-84.3713368, 33.7513945],
       },
       properties: {
+        id: "3107c16d",
         "first name": "Fred",
         "last name": "Schmeltzer",
         "street #": "500",
@@ -9342,7 +9354,6 @@ export const ce = {
         sex: "male",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -9352,6 +9363,7 @@ export const ce = {
         coordinates: [-84.376102, 33.747428],
       },
       properties: {
+        id: "5466ca65",
         "first name": "Geo",
         "last name": "Schmid",
         "street #": "388",
@@ -9360,7 +9372,6 @@ export const ce = {
         sex: "male",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -9370,6 +9381,7 @@ export const ce = {
         coordinates: [-84.376102, 33.747428],
       },
       properties: {
+        id: "a7768c18",
         "first name": "Rosa",
         "last name": "Schmid",
         "street #": "388",
@@ -9378,7 +9390,6 @@ export const ce = {
         sex: "female",
         "birth country": "Hungary",
         race: "W",
-        "": "",
       },
     },
     {
@@ -9388,6 +9399,7 @@ export const ce = {
         coordinates: [-84.3963116, 33.7713668],
       },
       properties: {
+        id: "77d47ff4",
         "first name": "JH",
         "last name": "Schmid",
         "street #": "208",
@@ -9396,7 +9408,6 @@ export const ce = {
         sex: "male",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -9406,6 +9417,7 @@ export const ce = {
         coordinates: [-84.3963116, 33.7713668],
       },
       properties: {
+        id: "488f6f5d",
         "first name": "Annie",
         "last name": "Schmid",
         "street #": "208",
@@ -9414,7 +9426,6 @@ export const ce = {
         sex: "female",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -9424,6 +9435,7 @@ export const ce = {
         coordinates: [-84.3963116, 33.7713668],
       },
       properties: {
+        id: "7b4085bb",
         "first name": "Bertha",
         "last name": "Schmid",
         "street #": "208",
@@ -9432,7 +9444,6 @@ export const ce = {
         sex: "female",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -9442,6 +9453,7 @@ export const ce = {
         coordinates: [-84.3963116, 33.7713668],
       },
       properties: {
+        id: "64ea44e1",
         "first name": "Harry",
         "last name": "Schmid",
         "street #": "208",
@@ -9450,7 +9462,6 @@ export const ce = {
         sex: "male",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -9460,6 +9471,7 @@ export const ce = {
         coordinates: [-84.3963116, 33.7713668],
       },
       properties: {
+        id: "81b95bf6",
         "first name": "Josie",
         "last name": "Schmid",
         "street #": "208",
@@ -9468,7 +9480,6 @@ export const ce = {
         sex: "female",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -9478,6 +9489,7 @@ export const ce = {
         coordinates: [-84.3896304, 33.7564396],
       },
       properties: {
+        id: "ed1a978e",
         "first name": "Jno",
         "last name": "Schmidt",
         "street #": "57",
@@ -9486,7 +9498,6 @@ export const ce = {
         sex: "male",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -9496,6 +9507,7 @@ export const ce = {
         coordinates: [-84.4021607, 33.7444359],
       },
       properties: {
+        id: "3fbbf5a0",
         "first name": "Robt",
         "last name": "Schmidt",
         "street #": "390",
@@ -9504,7 +9516,6 @@ export const ce = {
         sex: "male",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -9514,6 +9525,7 @@ export const ce = {
         coordinates: [-84.3694821, 33.7442064],
       },
       properties: {
+        id: "f640f286",
         "first name": "Wm F",
         "last name": "Schmitz",
         "street #": "67",
@@ -9522,7 +9534,6 @@ export const ce = {
         sex: "male",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -9532,6 +9543,7 @@ export const ce = {
         coordinates: [-84.3938135, 33.7478086],
       },
       properties: {
+        id: "198672b8",
         "first name": "Mrs V",
         "last name": "Schmitz",
         "street #": "161",
@@ -9540,7 +9552,6 @@ export const ce = {
         sex: "female",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -9550,6 +9561,7 @@ export const ce = {
         coordinates: [-84.40589083, 33.7677792],
       },
       properties: {
+        id: "c7db244b",
         "first name": "Ewald",
         "last name": "Schneider",
         "street #": "58",
@@ -9568,6 +9580,7 @@ export const ce = {
         coordinates: [-84.40589083, 33.7677792],
       },
       properties: {
+        id: "985236ba",
         "first name": "Elis",
         "last name": "Schneider",
         "street #": "58",
@@ -9576,7 +9589,6 @@ export const ce = {
         sex: "female",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -9586,6 +9598,7 @@ export const ce = {
         coordinates: [-84.3905559, 33.7605606],
       },
       properties: {
+        id: "4ce475f7",
         "first name": "Jos T",
         "last name": "Schneider",
         "street #": "24",
@@ -9594,7 +9607,6 @@ export const ce = {
         sex: "male",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -9604,6 +9616,7 @@ export const ce = {
         coordinates: [-84.3905559, 33.7605606],
       },
       properties: {
+        id: "a3168fd6",
         "first name": "Minnie",
         "last name": "Schneider",
         "street #": "24",
@@ -9612,7 +9625,6 @@ export const ce = {
         sex: "female",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -9622,6 +9634,7 @@ export const ce = {
         coordinates: [-84.3876682, 33.7712252],
       },
       properties: {
+        id: "f4429efc",
         "first name": "Johannah",
         "last name": "Schranck",
         "street #": "19",
@@ -9630,7 +9643,6 @@ export const ce = {
         sex: "female",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -9640,6 +9652,7 @@ export const ce = {
         coordinates: [-84.3924938, 33.7494501],
       },
       properties: {
+        id: "52c6bddc",
         "first name": "Bertha",
         "last name": "Schrank",
         "street #": "112",
@@ -9648,7 +9661,6 @@ export const ce = {
         sex: "female",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -9658,6 +9670,7 @@ export const ce = {
         coordinates: [-84.3621514, 33.7515622],
       },
       properties: {
+        id: "ea884eeb",
         "first name": "??",
         "last name": "Schrimper",
         "street #": "125",
@@ -9666,7 +9679,6 @@ export const ce = {
         sex: "female",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -9676,6 +9688,7 @@ export const ce = {
         coordinates: [-84.4101353, 33.7470325],
       },
       properties: {
+        id: "0ef1706c",
         "first name": "Herman",
         "last name": "Schroder",
         "street #": "133",
@@ -9684,7 +9697,6 @@ export const ce = {
         sex: "male",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -9694,6 +9706,7 @@ export const ce = {
         coordinates: [-84.3974152, 33.7658181],
       },
       properties: {
+        id: "99f3cc84",
         "first name": "John",
         "last name": "Schroth",
         "street #": "475",
@@ -9702,7 +9715,6 @@ export const ce = {
         sex: "male",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -9712,6 +9724,7 @@ export const ce = {
         coordinates: [-84.3899496, 33.7562166],
       },
       properties: {
+        id: "1cf34b6c",
         "first name": "Fred",
         "last name": "Schulster",
         "street #": "54",
@@ -9720,7 +9733,6 @@ export const ce = {
         sex: "male",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -9730,6 +9742,7 @@ export const ce = {
         coordinates: [-84.37005081, 33.76860378],
       },
       properties: {
+        id: "80966b35",
         "first name": "Bruno",
         "last name": "Seidell",
         "street #": "26",
@@ -9748,6 +9761,7 @@ export const ce = {
         coordinates: [-84.3944357, 33.7465419],
       },
       properties: {
+        id: "a60e3e94",
         "first name": "Emil",
         "last name": "Selig",
         "street #": "187",
@@ -9756,7 +9770,6 @@ export const ce = {
         sex: "male",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -9766,6 +9779,7 @@ export const ce = {
         coordinates: [-84.3944947, 33.7434239],
       },
       properties: {
+        id: "68bd97cc",
         "first name": "Sig",
         "last name": "Selig",
         "street #": "250",
@@ -9774,7 +9788,6 @@ export const ce = {
         sex: "male",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -9784,6 +9797,7 @@ export const ce = {
         coordinates: [-84.373886, 33.7516674],
       },
       properties: {
+        id: "8feb567c",
         "first name": "August",
         "last name": "Senkbeil",
         "street #": "19",
@@ -9792,7 +9806,6 @@ export const ce = {
         sex: "male",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -9802,6 +9815,7 @@ export const ce = {
         coordinates: [-84.373886, 33.7516674],
       },
       properties: {
+        id: "6e7c3137",
         "first name": "Teresia",
         "last name": "Senkbeil",
         "street #": "19",
@@ -9810,7 +9824,6 @@ export const ce = {
         sex: "female",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -9820,6 +9833,7 @@ export const ce = {
         coordinates: [-84.3842775, 33.7551195],
       },
       properties: {
+        id: "634c2ff0",
         "first name": "JH",
         "last name": "Sheffield",
         "street #": "116",
@@ -9828,7 +9842,6 @@ export const ce = {
         sex: "male",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -9838,6 +9851,7 @@ export const ce = {
         coordinates: [-84.3842775, 33.7551195],
       },
       properties: {
+        id: "98264f90",
         "first name": "Mrs",
         "last name": "Sheffield",
         "street #": "116",
@@ -9846,7 +9860,6 @@ export const ce = {
         sex: "female",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -9856,6 +9869,7 @@ export const ce = {
         coordinates: [-84.3862133, 33.7458127],
       },
       properties: {
+        id: "c6b11f57",
         "first name": "Mike",
         "last name": "Sherman",
         "street #": "76",
@@ -9864,7 +9878,6 @@ export const ce = {
         sex: "male",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -9874,6 +9887,7 @@ export const ce = {
         coordinates: [-84.3862133, 33.7458127],
       },
       properties: {
+        id: "ce9367aa",
         "first name": "Lizzie",
         "last name": "Sherman",
         "street #": "76",
@@ -9882,7 +9896,6 @@ export const ce = {
         sex: "female",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -9892,6 +9905,7 @@ export const ce = {
         coordinates: [-84.3862133, 33.7458127],
       },
       properties: {
+        id: "ecbde3fa",
         "first name": "Abe",
         "last name": "Sherman",
         "street #": "76",
@@ -9900,7 +9914,6 @@ export const ce = {
         sex: "male",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -9910,6 +9923,7 @@ export const ce = {
         coordinates: [-84.3822645, 33.755313],
       },
       properties: {
+        id: "9c4e0e34",
         "first name": "Annie",
         "last name": "Shieff",
         "street #": "123",
@@ -9918,7 +9932,6 @@ export const ce = {
         sex: "female",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -9928,6 +9941,7 @@ export const ce = {
         coordinates: [-84.3944947, 33.743357],
       },
       properties: {
+        id: "7ad7de7b",
         "first name": "C",
         "last name": "Shoen",
         "street #": "252",
@@ -9936,7 +9950,6 @@ export const ce = {
         sex: "male",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -9946,6 +9959,7 @@ export const ce = {
         coordinates: [-84.3944947, 33.743357],
       },
       properties: {
+        id: "ec15c11f",
         "first name": "Mrs",
         "last name": "Shoen",
         "street #": "252",
@@ -9954,7 +9968,6 @@ export const ce = {
         sex: "female",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -9964,6 +9977,7 @@ export const ce = {
         coordinates: [-84.3923919, 33.7409214],
       },
       properties: {
+        id: "01bdce4f",
         "first name": "Emilia",
         "last name": "Shrank",
         "street #": "167",
@@ -9972,7 +9986,6 @@ export const ce = {
         sex: "female",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -9982,6 +9995,7 @@ export const ce = {
         coordinates: [-84.4022563, 33.7430857],
       },
       properties: {
+        id: "29a1970c",
         "first name": "CH",
         "last name": "Simmons",
         "street #": "3",
@@ -9990,7 +10004,6 @@ export const ce = {
         sex: "male",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -10000,6 +10013,7 @@ export const ce = {
         coordinates: [-84.4022563, 33.7430857],
       },
       properties: {
+        id: "4a1bdda6",
         "first name": "Rosa",
         "last name": "Simmons",
         "street #": "3",
@@ -10008,7 +10022,6 @@ export const ce = {
         sex: "female",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -10018,6 +10031,7 @@ export const ce = {
         coordinates: [-84.3886365, 33.7560261],
       },
       properties: {
+        id: "67ced8b6",
         "first name": "PA",
         "last name": "Simon",
         "street #": "91",
@@ -10026,7 +10040,6 @@ export const ce = {
         sex: "male",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -10036,6 +10049,7 @@ export const ce = {
         coordinates: [-84.3886365, 33.7560261],
       },
       properties: {
+        id: "4dea67a2",
         "first name": "R",
         "last name": "Simon",
         "street #": "91",
@@ -10044,7 +10058,6 @@ export const ce = {
         sex: "female",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -10054,6 +10067,7 @@ export const ce = {
         coordinates: [-84.3839661, 33.750867],
       },
       properties: {
+        id: "93fee5e9",
         "first name": "Aaron",
         "last name": "Sinkovitz",
         "street #": "11",
@@ -10062,7 +10076,6 @@ export const ce = {
         sex: "male",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -10072,6 +10085,7 @@ export const ce = {
         coordinates: [-84.3839661, 33.750867],
       },
       properties: {
+        id: "9b108b91",
         "first name": "Ida",
         "last name": "Sinkovitz",
         "street #": "11",
@@ -10080,7 +10094,6 @@ export const ce = {
         sex: "female",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -10090,6 +10103,7 @@ export const ce = {
         coordinates: [-84.3826561, 33.7540418],
       },
       properties: {
+        id: "88a29061",
         "first name": "Jennie",
         "last name": "Skein",
         "street #": "81",
@@ -10098,7 +10112,6 @@ export const ce = {
         sex: "female",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -10108,6 +10121,7 @@ export const ce = {
         coordinates: [-84.3826561, 33.7540418],
       },
       properties: {
+        id: "65d94ed2",
         "first name": "J",
         "last name": "Skein",
         "street #": "81",
@@ -10116,7 +10130,6 @@ export const ce = {
         sex: "male",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -10126,6 +10139,7 @@ export const ce = {
         coordinates: [-84.3826561, 33.7540418],
       },
       properties: {
+        id: "c04e39a1",
         "first name": "Dora",
         "last name": "Skein",
         "street #": "81",
@@ -10134,7 +10148,6 @@ export const ce = {
         sex: "female",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -10144,6 +10157,7 @@ export const ce = {
         coordinates: [-84.3826561, 33.7540418],
       },
       properties: {
+        id: "af3cc3b3",
         "first name": "Davie",
         "last name": "Skein",
         "street #": "81",
@@ -10152,7 +10166,6 @@ export const ce = {
         sex: "male",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -10162,6 +10175,7 @@ export const ce = {
         coordinates: [-84.3826561, 33.7540418],
       },
       properties: {
+        id: "6c94c2b2",
         "first name": "Albert",
         "last name": "Skein",
         "street #": "81",
@@ -10170,7 +10184,6 @@ export const ce = {
         sex: "male",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -10180,6 +10193,7 @@ export const ce = {
         coordinates: [-84.3826561, 33.7540418],
       },
       properties: {
+        id: "90321483",
         "first name": "Beckie",
         "last name": "Skein",
         "street #": "81",
@@ -10188,7 +10202,6 @@ export const ce = {
         sex: "female",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -10198,6 +10211,7 @@ export const ce = {
         coordinates: [-84.3826561, 33.7540418],
       },
       properties: {
+        id: "c04421d9",
         "first name": "Bennie",
         "last name": "Skein",
         "street #": "81",
@@ -10206,7 +10220,6 @@ export const ce = {
         sex: "male",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -10216,6 +10229,7 @@ export const ce = {
         coordinates: [-84.374453, 33.7528396],
       },
       properties: {
+        id: "420c87b9",
         "first name": "Wm",
         "last name": "Snyder",
         "street #": "18",
@@ -10224,7 +10238,6 @@ export const ce = {
         sex: "male",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -10234,6 +10247,7 @@ export const ce = {
         coordinates: [-84.3937148, 33.7592051],
       },
       properties: {
+        id: "ed7515a6",
         "first name": "M",
         "last name": "Sofge",
         "street #": "137",
@@ -10242,7 +10256,6 @@ export const ce = {
         sex: "male",
         "birth country": "Switzerland",
         race: "W",
-        "": "",
       },
     },
     {
@@ -10252,6 +10265,7 @@ export const ce = {
         coordinates: [-84.3937148, 33.7592051],
       },
       properties: {
+        id: "b17c35b0",
         "first name": "Clara",
         "last name": "Sofge",
         "street #": "137",
@@ -10260,7 +10274,6 @@ export const ce = {
         sex: "female",
         "birth country": "Switzerland",
         race: "W",
-        "": "",
       },
     },
     {
@@ -10270,6 +10283,7 @@ export const ce = {
         coordinates: [-84.3937148, 33.7592051],
       },
       properties: {
+        id: "f5a11736",
         "first name": "Winchester",
         "last name": "Sofge",
         "street #": "137",
@@ -10278,7 +10292,6 @@ export const ce = {
         sex: "male",
         "birth country": "Switzerland",
         race: "W",
-        "": "",
       },
     },
     {
@@ -10288,6 +10301,7 @@ export const ce = {
         coordinates: [-84.3929041, 33.7441886],
       },
       properties: {
+        id: "f2fa3845",
         "first name": "Herman",
         "last name": "Sommer",
         "street #": "202",
@@ -10296,7 +10310,6 @@ export const ce = {
         sex: "male",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -10306,6 +10319,7 @@ export const ce = {
         coordinates: [-84.3904708, 33.733495],
       },
       properties: {
+        id: "87ab7442",
         "first name": "RA",
         "last name": "Sonn",
         "street #": "",
@@ -10324,6 +10338,7 @@ export const ce = {
         coordinates: [-84.3972559, 33.7500972],
       },
       properties: {
+        id: "10c11b83",
         "first name": "Otto",
         "last name": "Spahr",
         "street #": "9",
@@ -10332,7 +10347,6 @@ export const ce = {
         sex: "male",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -10342,6 +10356,7 @@ export const ce = {
         coordinates: [-84.3877073, 33.7472931],
       },
       properties: {
+        id: "e0e7c6ec",
         "first name": "R",
         "last name": "Sperling",
         "street #": "66",
@@ -10350,7 +10365,6 @@ export const ce = {
         sex: "female",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -10360,6 +10374,7 @@ export const ce = {
         coordinates: [-84.3866683, 33.7524472],
       },
       properties: {
+        id: "12a7a8ec",
         "first name": "Jacob",
         "last name": "Spilberg",
         "street #": "103 1/2",
@@ -10368,7 +10383,6 @@ export const ce = {
         sex: "male",
         "birth country": "Hungary",
         race: "W",
-        "": "",
       },
     },
     {
@@ -10378,6 +10392,7 @@ export const ce = {
         coordinates: [-84.3866683, 33.7524472],
       },
       properties: {
+        id: "00e1717e",
         "first name": "Wm",
         "last name": "Spilberg",
         "street #": "103 1/2",
@@ -10386,7 +10401,6 @@ export const ce = {
         sex: "male",
         "birth country": "Hungary",
         race: "W",
-        "": "",
       },
     },
     {
@@ -10396,6 +10410,7 @@ export const ce = {
         coordinates: [-84.3866683, 33.7524472],
       },
       properties: {
+        id: "1311ff70",
         "first name": "Julia",
         "last name": "Spilberg",
         "street #": "103 1/2",
@@ -10404,7 +10419,6 @@ export const ce = {
         sex: "female",
         "birth country": "Hungary",
         race: "W",
-        "": "",
       },
     },
     {
@@ -10414,6 +10428,7 @@ export const ce = {
         coordinates: [-84.3922164, 33.740734],
       },
       properties: {
+        id: "6b78450e",
         "first name": "Albert",
         "last name": "Spitz",
         "street #": "229",
@@ -10422,7 +10437,6 @@ export const ce = {
         sex: "male",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -10432,6 +10446,7 @@ export const ce = {
         coordinates: [-84.3879665, 33.7533392],
       },
       properties: {
+        id: "9ddfc933",
         "first name": "A",
         "last name": "Springer",
         "street #": "48 1/2",
@@ -10440,7 +10455,6 @@ export const ce = {
         sex: "male",
         "birth country": "Austria",
         race: "W",
-        "": "",
       },
     },
     {
@@ -10450,6 +10464,7 @@ export const ce = {
         coordinates: [-84.3879665, 33.7533392],
       },
       properties: {
+        id: "39860649",
         "first name": "CH",
         "last name": "Springer",
         "street #": "48 1/2",
@@ -10458,7 +10473,6 @@ export const ce = {
         sex: "male",
         "birth country": "Austria",
         race: "W",
-        "": "",
       },
     },
     {
@@ -10468,6 +10482,7 @@ export const ce = {
         coordinates: [-84.3879665, 33.7533392],
       },
       properties: {
+        id: "128228f1",
         "first name": "M",
         "last name": "Springer",
         "street #": "48 1/2",
@@ -10476,7 +10491,6 @@ export const ce = {
         sex: "male",
         "birth country": "Austria",
         race: "W",
-        "": "",
       },
     },
     {
@@ -10486,6 +10500,7 @@ export const ce = {
         coordinates: [-84.3879665, 33.7533392],
       },
       properties: {
+        id: "87b1531c",
         "first name": "B",
         "last name": "Springer",
         "street #": "48 1/2",
@@ -10494,7 +10509,6 @@ export const ce = {
         sex: "male",
         "birth country": "Austria",
         race: "W",
-        "": "",
       },
     },
     {
@@ -10504,6 +10518,7 @@ export const ce = {
         coordinates: [-84.3879665, 33.7533392],
       },
       properties: {
+        id: "51460f23",
         "first name": "V",
         "last name": "Springer",
         "street #": "48 1/2",
@@ -10512,7 +10527,6 @@ export const ce = {
         sex: "male",
         "birth country": "Austria",
         race: "W",
-        "": "",
       },
     },
     {
@@ -10522,6 +10536,7 @@ export const ce = {
         coordinates: [-84.384598, 33.7521908],
       },
       properties: {
+        id: "6922b452",
         "first name": "W",
         "last name": "Springer",
         "street #": "34",
@@ -10530,7 +10545,6 @@ export const ce = {
         sex: "male",
         "birth country": "Austria",
         race: "W",
-        "": "",
       },
     },
     {
@@ -10540,6 +10554,7 @@ export const ce = {
         coordinates: [-84.384598, 33.7521908],
       },
       properties: {
+        id: "b7eb9b4b",
         "first name": "Rosie",
         "last name": "Springer",
         "street #": "34",
@@ -10548,7 +10563,6 @@ export const ce = {
         sex: "male",
         "birth country": "Austria",
         race: "W",
-        "": "",
       },
     },
     {
@@ -10558,6 +10572,7 @@ export const ce = {
         coordinates: [-84.384598, 33.7521908],
       },
       properties: {
+        id: "9a7a0a61",
         "first name": "Sam",
         "last name": "Springer",
         "street #": "34",
@@ -10566,7 +10581,6 @@ export const ce = {
         sex: "male",
         "birth country": "Austria",
         race: "W",
-        "": "",
       },
     },
     {
@@ -10576,6 +10590,7 @@ export const ce = {
         coordinates: [-84.384598, 33.7521908],
       },
       properties: {
+        id: "8c2b8b48",
         "first name": "Carrie",
         "last name": "Springer",
         "street #": "34",
@@ -10584,7 +10599,6 @@ export const ce = {
         sex: "male",
         "birth country": "Austria",
         race: "W",
-        "": "",
       },
     },
     {
@@ -10594,6 +10608,7 @@ export const ce = {
         coordinates: [-84.384598, 33.7521908],
       },
       properties: {
+        id: "4b577fee",
         "first name": "Annie",
         "last name": "Springer",
         "street #": "34",
@@ -10602,7 +10617,6 @@ export const ce = {
         sex: "male",
         "birth country": "Austria",
         race: "W",
-        "": "",
       },
     },
     {
@@ -10612,6 +10626,7 @@ export const ce = {
         coordinates: [-84.403041, 33.7462202],
       },
       properties: {
+        id: "b0a8e504",
         "first name": "Norris",
         "last name": "Sroche",
         "street #": "244",
@@ -10620,7 +10635,6 @@ export const ce = {
         sex: "male",
         "birth country": "Austria",
         race: "W",
-        "": "",
       },
     },
     {
@@ -10630,6 +10644,7 @@ export const ce = {
         coordinates: [-84.403041, 33.7462202],
       },
       properties: {
+        id: "ee01c1d3",
         "first name": "Dolly",
         "last name": "Sroche",
         "street #": "244",
@@ -10638,7 +10653,6 @@ export const ce = {
         sex: "female",
         "birth country": "Austria",
         race: "W",
-        "": "",
       },
     },
     {
@@ -10648,6 +10662,7 @@ export const ce = {
         coordinates: [-84.3754372, 33.7538326],
       },
       properties: {
+        id: "b23ad537",
         "first name": "B",
         "last name": "Stahl",
         "street #": "5",
@@ -10656,7 +10671,6 @@ export const ce = {
         sex: "male",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -10666,6 +10680,7 @@ export const ce = {
         coordinates: [-84.3754372, 33.7538326],
       },
       properties: {
+        id: "92ecc7e6",
         "first name": "R",
         "last name": "Stahl",
         "street #": "5",
@@ -10674,7 +10689,6 @@ export const ce = {
         sex: "female",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -10684,6 +10698,7 @@ export const ce = {
         coordinates: [-84.3754372, 33.7538326],
       },
       properties: {
+        id: "eee5d34e",
         "first name": "A",
         "last name": "Stahl",
         "street #": "5",
@@ -10692,7 +10707,6 @@ export const ce = {
         sex: "male",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -10702,6 +10716,7 @@ export const ce = {
         coordinates: [-84.3754372, 33.7538326],
       },
       properties: {
+        id: "ec5434e6",
         "first name": "L",
         "last name": "Stahl",
         "street #": "5",
@@ -10710,7 +10725,6 @@ export const ce = {
         sex: "male",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -10720,6 +10734,7 @@ export const ce = {
         coordinates: [-84.3754372, 33.7538326],
       },
       properties: {
+        id: "5bc41d19",
         "first name": "Eda",
         "last name": "Stahl",
         "street #": "5",
@@ -10728,7 +10743,6 @@ export const ce = {
         sex: "female",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -10738,6 +10752,7 @@ export const ce = {
         coordinates: [-84.3754372, 33.7538326],
       },
       properties: {
+        id: "0eefd515",
         "first name": "Eugene",
         "last name": "Stahl",
         "street #": "5",
@@ -10746,7 +10761,6 @@ export const ce = {
         sex: "male",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -10756,6 +10770,7 @@ export const ce = {
         coordinates: [-84.3921451, 33.7466757],
       },
       properties: {
+        id: "1aec863c",
         "first name": "DR",
         "last name": "Stauffacher",
         "street #": "3",
@@ -10764,7 +10779,6 @@ export const ce = {
         sex: "male",
         "birth country": "Switzerland",
         race: "W",
-        "": "",
       },
     },
     {
@@ -10774,6 +10788,7 @@ export const ce = {
         coordinates: [-84.3852998, 33.7683483],
       },
       properties: {
+        id: "cc91648c",
         "first name": "Adolph",
         "last name": "Stein",
         "street #": "459",
@@ -10782,7 +10797,6 @@ export const ce = {
         sex: "male",
         "birth country": "Switzerland",
         race: "W",
-        "": "",
       },
     },
     {
@@ -10792,6 +10806,7 @@ export const ce = {
         coordinates: [-84.3945537, 33.740337],
       },
       properties: {
+        id: "56bac44f",
         "first name": "Simm",
         "last name": "Stein",
         "street #": "371",
@@ -10800,7 +10815,6 @@ export const ce = {
         sex: "male",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -10810,6 +10824,7 @@ export const ce = {
         coordinates: [-84.3945537, 33.740337],
       },
       properties: {
+        id: "1c55188a",
         "first name": "Mary",
         "last name": "Stein",
         "street #": "371",
@@ -10818,7 +10833,6 @@ export const ce = {
         sex: "female",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -10828,6 +10842,7 @@ export const ce = {
         coordinates: [-84.3973059, 33.7468267],
       },
       properties: {
+        id: "b80c60d0",
         "first name": "Albert",
         "last name": "Steiner",
         "street #": "256",
@@ -10836,7 +10851,6 @@ export const ce = {
         sex: "male",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -10846,6 +10860,7 @@ export const ce = {
         coordinates: [-84.3863742, 33.734259],
       },
       properties: {
+        id: "abb1f9b0",
         "first name": "A",
         "last name": "Steinheimer",
         "street #": "389",
@@ -10854,7 +10869,6 @@ export const ce = {
         sex: "male",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -10864,6 +10878,7 @@ export const ce = {
         coordinates: [-84.3975671, 33.7471756],
       },
       properties: {
+        id: "da9dc5c9",
         "first name": "E",
         "last name": "Steinheimer",
         "street #": "222",
@@ -10872,7 +10887,6 @@ export const ce = {
         sex: "male",
         "birth country": "Bavaria",
         race: "W",
-        "": "",
       },
     },
     {
@@ -10882,6 +10896,7 @@ export const ce = {
         coordinates: [-84.3953211, 33.74804],
       },
       properties: {
+        id: "5c9de53d",
         "first name": "J",
         "last name": "Steinheimer",
         "street #": "203",
@@ -10890,7 +10905,6 @@ export const ce = {
         sex: "male",
         "birth country": "Bavaria",
         race: "W",
-        "": "",
       },
     },
     {
@@ -10900,6 +10914,7 @@ export const ce = {
         coordinates: [-84.3997038, 33.7456224],
       },
       properties: {
+        id: "64ce7ad9",
         "first name": "I",
         "last name": "Steinheimer",
         "street #": "301",
@@ -10908,7 +10923,6 @@ export const ce = {
         sex: "male",
         "birth country": "Bavaria",
         race: "W",
-        "": "",
       },
     },
     {
@@ -10918,6 +10932,7 @@ export const ce = {
         coordinates: [-84.4128175, 33.7471752],
       },
       properties: {
+        id: "75e82ea5",
         "first name": "George",
         "last name": "Steint",
         "street #": "10",
@@ -10926,7 +10941,6 @@ export const ce = {
         sex: "male",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -10936,6 +10950,7 @@ export const ce = {
         coordinates: [-84.3998559, 33.7427443],
       },
       properties: {
+        id: "96778705",
         "first name": "E",
         "last name": "Sterchi",
         "street #": "99",
@@ -10944,7 +10959,6 @@ export const ce = {
         sex: "female",
         "birth country": "Switzerland",
         race: "W",
-        "": "",
       },
     },
     {
@@ -10954,6 +10968,7 @@ export const ce = {
         coordinates: [-84.3998559, 33.7427443],
       },
       properties: {
+        id: "8cbcc3f8",
         "first name": "JH",
         "last name": "Sterchi",
         "street #": "99",
@@ -10962,7 +10977,6 @@ export const ce = {
         sex: "male",
         "birth country": "Switzerland",
         race: "W",
-        "": "",
       },
     },
     {
@@ -10972,6 +10986,7 @@ export const ce = {
         coordinates: [-84.3876011, 33.7581579],
       },
       properties: {
+        id: "0f6eb659",
         "first name": "Lorenza",
         "last name": "Strack",
         "street #": "173",
@@ -10980,7 +10995,6 @@ export const ce = {
         sex: "male",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -10990,6 +11004,7 @@ export const ce = {
         coordinates: [-84.4012465, 33.7592468],
       },
       properties: {
+        id: "c3344a1a",
         "first name": "A",
         "last name": "Straub",
         "street #": "79",
@@ -10998,7 +11013,6 @@ export const ce = {
         sex: "male",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -11008,6 +11022,7 @@ export const ce = {
         coordinates: [-84.3923763, 33.7474889],
       },
       properties: {
+        id: "a9587771",
         "first name": "David",
         "last name": "Straus",
         "street #": "169",
@@ -11016,7 +11031,6 @@ export const ce = {
         sex: "male",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -11026,6 +11040,7 @@ export const ce = {
         coordinates: [-84.3923763, 33.7474889],
       },
       properties: {
+        id: "8f547348",
         "first name": "Oscar",
         "last name": "Straus",
         "street #": "169",
@@ -11034,7 +11049,6 @@ export const ce = {
         sex: "male",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -11044,6 +11058,7 @@ export const ce = {
         coordinates: [-84.3922953, 33.7459174],
       },
       properties: {
+        id: "60ae9781",
         "first name": "G",
         "last name": "Strauss",
         "street #": "11",
@@ -11052,7 +11067,6 @@ export const ce = {
         sex: "male",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -11062,6 +11076,7 @@ export const ce = {
         coordinates: [-84.3968321, 33.7484245],
       },
       properties: {
+        id: "3dff4a19",
         "first name": "D",
         "last name": "Strauss",
         "street #": "182",
@@ -11070,7 +11085,6 @@ export const ce = {
         sex: "male",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -11080,6 +11094,7 @@ export const ce = {
         coordinates: [-84.3991268, 33.7442778],
       },
       properties: {
+        id: "d9b74b6e",
         "first name": "H",
         "last name": "Streglitz",
         "street #": "395",
@@ -11088,7 +11103,6 @@ export const ce = {
         sex: "male",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -11098,6 +11112,7 @@ export const ce = {
         coordinates: [-84.3991268, 33.7442778],
       },
       properties: {
+        id: "a6a45c72",
         "first name": "Mary",
         "last name": "Streglitz",
         "street #": "395",
@@ -11106,7 +11121,6 @@ export const ce = {
         sex: "female",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -11116,6 +11130,7 @@ export const ce = {
         coordinates: [-84.3982772, 33.7516176],
       },
       properties: {
+        id: "98e2dec8",
         "first name": "JW",
         "last name": "Stuchlik",
         "street #": "68",
@@ -11124,7 +11139,6 @@ export const ce = {
         sex: "male",
         "birth country": "Austria",
         race: "W",
-        "": "",
       },
     },
     {
@@ -11134,6 +11148,7 @@ export const ce = {
         coordinates: [-84.3979336, 33.7482387],
       },
       properties: {
+        id: "b436064d",
         "first name": "L",
         "last name": "Sugarman",
         "street #": "192",
@@ -11142,7 +11157,6 @@ export const ce = {
         sex: "male",
         "birth country": "Hungary",
         race: "W",
-        "": "",
       },
     },
     {
@@ -11152,6 +11166,7 @@ export const ce = {
         coordinates: [-84.3821679, 33.7602813],
       },
       properties: {
+        id: "311f1330",
         "first name": "M",
         "last name": "Swatz",
         "street #": "278",
@@ -11160,7 +11175,6 @@ export const ce = {
         sex: "female",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -11170,6 +11184,7 @@ export const ce = {
         coordinates: [-84.3821679, 33.7602813],
       },
       properties: {
+        id: "8d9ba816",
         "first name": "Fred",
         "last name": "Swatz",
         "street #": "278",
@@ -11178,7 +11193,6 @@ export const ce = {
         sex: "male",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -11188,6 +11202,7 @@ export const ce = {
         coordinates: [-84.3821679, 33.7602813],
       },
       properties: {
+        id: "cabd1ad5",
         "first name": "Fred",
         "last name": "Swatz",
         "street #": "278",
@@ -11196,7 +11211,6 @@ export const ce = {
         sex: "male",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -11206,6 +11220,7 @@ export const ce = {
         coordinates: [-84.3933614, 33.7479473],
       },
       properties: {
+        id: "36a1f53b",
         "first name": "Herman",
         "last name": "Teitlebaum",
         "street #": "116",
@@ -11214,7 +11229,6 @@ export const ce = {
         sex: "male",
         "birth country": "Hungary",
         race: "W",
-        "": "",
       },
     },
     {
@@ -11224,6 +11238,7 @@ export const ce = {
         coordinates: [-84.3933614, 33.7479473],
       },
       properties: {
+        id: "817fda42",
         "first name": "Jake",
         "last name": "Teitlebaum",
         "street #": "116",
@@ -11232,7 +11247,6 @@ export const ce = {
         sex: "male",
         "birth country": "Hungary",
         race: "W",
-        "": "",
       },
     },
     {
@@ -11242,6 +11256,7 @@ export const ce = {
         coordinates: [-84.3923919, 33.7409214],
       },
       properties: {
+        id: "87f9c044",
         "first name": "M",
         "last name": "Teitlebaum",
         "street #": "167",
@@ -11250,7 +11265,6 @@ export const ce = {
         sex: "male",
         "birth country": "Hungary",
         race: "W",
-        "": "",
       },
     },
     {
@@ -11260,6 +11274,7 @@ export const ce = {
         coordinates: [-84.3923919, 33.7409214],
       },
       properties: {
+        id: "d87c9bb8",
         "first name": "Mrs M",
         "last name": "Teitlebaum",
         "street #": "167",
@@ -11268,7 +11283,6 @@ export const ce = {
         sex: "female",
         "birth country": "Hungary",
         race: "W",
-        "": "",
       },
     },
     {
@@ -11278,6 +11292,7 @@ export const ce = {
         coordinates: [-84.3923919, 33.7409214],
       },
       properties: {
+        id: "8ac611b5",
         "first name": "Louis",
         "last name": "Teitlebaum",
         "street #": "167",
@@ -11286,7 +11301,6 @@ export const ce = {
         sex: "male",
         "birth country": "Hungary",
         race: "W",
-        "": "",
       },
     },
     {
@@ -11296,6 +11310,7 @@ export const ce = {
         coordinates: [-84.3923919, 33.7409214],
       },
       properties: {
+        id: "f0b2ad32",
         "first name": "Sigmand",
         "last name": "Teitlebaum",
         "street #": "167",
@@ -11304,7 +11319,6 @@ export const ce = {
         sex: "male",
         "birth country": "Hungary",
         race: "W",
-        "": "",
       },
     },
     {
@@ -11314,6 +11328,7 @@ export const ce = {
         coordinates: [-84.3976761, 33.7497195],
       },
       properties: {
+        id: "9a8adc56",
         "first name": "PF",
         "last name": "Tendick",
         "street #": "152",
@@ -11322,7 +11337,6 @@ export const ce = {
         sex: "male",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -11332,6 +11346,7 @@ export const ce = {
         coordinates: [-84.3911413, 33.7386029],
       },
       properties: {
+        id: "26c3708c",
         "first name": "Samuel",
         "last name": "Thanhauser",
         "street #": "349",
@@ -11340,7 +11355,6 @@ export const ce = {
         sex: "male",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -11350,6 +11364,7 @@ export const ce = {
         coordinates: [-84.3911413, 33.7386029],
       },
       properties: {
+        id: "851e1b9d",
         "first name": "Julia",
         "last name": "Thanhouser",
         "street #": "349",
@@ -11358,7 +11373,6 @@ export const ce = {
         sex: "female",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -11368,6 +11382,7 @@ export const ce = {
         coordinates: [-84.4023187, 33.7557125],
       },
       properties: {
+        id: "f03c151d",
         "first name": "Gus",
         "last name": "Thomas",
         "street #": "91",
@@ -11376,7 +11391,6 @@ export const ce = {
         sex: "male",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -11386,6 +11400,7 @@ export const ce = {
         coordinates: [-84.3890574, 33.7604776],
       },
       properties: {
+        id: "92214385",
         "first name": "Adolph",
         "last name": "Tietlebaum",
         "street #": "143",
@@ -11394,7 +11409,6 @@ export const ce = {
         sex: "male",
         "birth country": "Hungary",
         race: "W",
-        "": "",
       },
     },
     {
@@ -11404,6 +11418,7 @@ export const ce = {
         coordinates: [-84.3878575, 33.7370868],
       },
       properties: {
+        id: "d5948f58",
         "first name": "Birdie",
         "last name": "Trautwein",
         "street #": "342",
@@ -11412,7 +11427,6 @@ export const ce = {
         sex: "female",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -11422,6 +11436,7 @@ export const ce = {
         coordinates: [-84.3799014, 33.7508915],
       },
       properties: {
+        id: "b5466671",
         "first name": "L",
         "last name": "Troxie",
         "street #": "168",
@@ -11430,7 +11445,6 @@ export const ce = {
         sex: "male",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -11440,6 +11454,7 @@ export const ce = {
         coordinates: [-84.3892556, 33.7575898],
       },
       properties: {
+        id: "91c8c8e4",
         "first name": "Frank",
         "last name": "Tubesing",
         "street #": "63",
@@ -11448,7 +11463,6 @@ export const ce = {
         sex: "male",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -11458,6 +11472,7 @@ export const ce = {
         coordinates: [-84.402349, 33.7468335],
       },
       properties: {
+        id: "2650fc4e",
         "first name": "F",
         "last name": "Tweed",
         "street #": "227.5",
@@ -11466,7 +11481,6 @@ export const ce = {
         sex: "male",
         "birth country": "Switzerland",
         race: "W",
-        "": "",
       },
     },
     {
@@ -11476,6 +11490,7 @@ export const ce = {
         coordinates: [-84.402349, 33.7468335],
       },
       properties: {
+        id: "a1cdcae3",
         "first name": "E",
         "last name": "Tweed",
         "street #": "227.5",
@@ -11484,7 +11499,6 @@ export const ce = {
         sex: "female",
         "birth country": "Switzerland",
         race: "W",
-        "": "",
       },
     },
     {
@@ -11494,6 +11508,7 @@ export const ce = {
         coordinates: [-84.402349, 33.7468335],
       },
       properties: {
+        id: "17eba3f0",
         "first name": "AM",
         "last name": "Tweed",
         "street #": "227.5",
@@ -11502,7 +11517,6 @@ export const ce = {
         sex: "female",
         "birth country": "Switzerland",
         race: "W",
-        "": "",
       },
     },
     {
@@ -11512,6 +11526,7 @@ export const ce = {
         coordinates: [-84.3944444, 33.7597759],
       },
       properties: {
+        id: "74106199",
         "first name": "CF",
         "last name": "Tyler",
         "street #": "157",
@@ -11520,7 +11535,6 @@ export const ce = {
         sex: "male",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -11530,6 +11544,7 @@ export const ce = {
         coordinates: [-84.3969469, 33.7439005],
       },
       properties: {
+        id: "f5605fdd",
         "first name": "Mrs A",
         "last name": "Urbanowicz",
         "street #": "64",
@@ -11538,7 +11553,6 @@ export const ce = {
         sex: "female",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -11548,6 +11562,7 @@ export const ce = {
         coordinates: [-84.3909375, 33.7413686],
       },
       properties: {
+        id: "adc6be8e",
         "first name": "H",
         "last name": "Utitz",
         "street #": "273",
@@ -11556,7 +11571,6 @@ export const ce = {
         sex: "male",
         "birth country": "Austria",
         race: "W",
-        "": "",
       },
     },
     {
@@ -11566,6 +11580,7 @@ export const ce = {
         coordinates: [-84.3909375, 33.7413686],
       },
       properties: {
+        id: "e73aa0b7",
         "first name": "R",
         "last name": "Utitz",
         "street #": "273",
@@ -11574,7 +11589,6 @@ export const ce = {
         sex: "female",
         "birth country": "Austria",
         race: "W",
-        "": "",
       },
     },
     {
@@ -11584,6 +11598,7 @@ export const ce = {
         coordinates: [-84.3909375, 33.7413686],
       },
       properties: {
+        id: "9d7e6e9f",
         "first name": "A",
         "last name": "Utitz",
         "street #": "273",
@@ -11592,7 +11607,6 @@ export const ce = {
         sex: "female",
         "birth country": "Austria",
         race: "W",
-        "": "",
       },
     },
     {
@@ -11602,6 +11616,7 @@ export const ce = {
         coordinates: [-84.3909375, 33.7413686],
       },
       properties: {
+        id: "66343ef9",
         "first name": "AL",
         "last name": "Utitz",
         "street #": "273",
@@ -11610,7 +11625,6 @@ export const ce = {
         sex: "male",
         "birth country": "Austria",
         race: "W",
-        "": "",
       },
     },
     {
@@ -11620,6 +11634,7 @@ export const ce = {
         coordinates: [-84.3985173, 33.7445176],
       },
       properties: {
+        id: "ed18e73f",
         "first name": "Jos",
         "last name": "Vittur",
         "street #": "95",
@@ -11628,7 +11643,6 @@ export const ce = {
         sex: "female",
         "birth country": "Bohemia",
         race: "W",
-        "": "",
       },
     },
     {
@@ -11638,6 +11652,7 @@ export const ce = {
         coordinates: [-84.3821787, 33.7597149],
       },
       properties: {
+        id: "259548a4",
         "first name": "Victor",
         "last name": "Vivis",
         "street #": "272",
@@ -11646,7 +11661,6 @@ export const ce = {
         sex: "male",
         "birth country": "Switzerland",
         race: "W",
-        "": "",
       },
     },
     {
@@ -11656,6 +11670,7 @@ export const ce = {
         coordinates: [-84.3943018, 33.7493246],
       },
       properties: {
+        id: "baf3a420",
         "first name": "Martha",
         "last name": "Voell",
         "street #": "161",
@@ -11664,7 +11679,6 @@ export const ce = {
         sex: "female",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -11674,6 +11688,7 @@ export const ce = {
         coordinates: [-84.3895651, 33.7537451],
       },
       properties: {
+        id: "38a63a37",
         "first name": "Jacob",
         "last name": "Voelpel",
         "street #": "",
@@ -11682,7 +11697,6 @@ export const ce = {
         sex: "male",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -11692,6 +11706,7 @@ export const ce = {
         coordinates: [-84.3755945, 33.7595973],
       },
       properties: {
+        id: "c3ba0ca2",
         "first name": "J",
         "last name": "Vogt",
         "street #": "250",
@@ -11700,7 +11715,6 @@ export const ce = {
         sex: "male",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -11710,6 +11724,7 @@ export const ce = {
         coordinates: [-84.400442, 33.7497798],
       },
       properties: {
+        id: "712a54ed",
         "first name": "FL",
         "last name": "Volberg",
         "street #": "19",
@@ -11718,7 +11733,6 @@ export const ce = {
         sex: "male",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -11728,6 +11742,7 @@ export const ce = {
         coordinates: [-84.400442, 33.7497798],
       },
       properties: {
+        id: "db1c56a1",
         "first name": "Mrs",
         "last name": "Volberg",
         "street #": "19",
@@ -11736,7 +11751,6 @@ export const ce = {
         sex: "female",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -11746,6 +11760,7 @@ export const ce = {
         coordinates: [-84.400442, 33.7497798],
       },
       properties: {
+        id: "732261a5",
         "first name": "Cecile",
         "last name": "Volberg",
         "street #": "19",
@@ -11754,7 +11769,6 @@ export const ce = {
         sex: "female",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -11764,6 +11778,7 @@ export const ce = {
         coordinates: [-84.400442, 33.7497798],
       },
       properties: {
+        id: "baf08ddd",
         "first name": "Johanna",
         "last name": "Volberg",
         "street #": "19",
@@ -11772,7 +11787,6 @@ export const ce = {
         sex: "female",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -11782,6 +11796,7 @@ export const ce = {
         coordinates: [-84.400442, 33.7497798],
       },
       properties: {
+        id: "1964d381",
         "first name": "Fred",
         "last name": "Volberg",
         "street #": "19",
@@ -11790,7 +11805,6 @@ export const ce = {
         sex: "male",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -11800,6 +11814,7 @@ export const ce = {
         coordinates: [-84.400442, 33.7497798],
       },
       properties: {
+        id: "d5de5151",
         "first name": "Elizabeth",
         "last name": "Volberg",
         "street #": "19",
@@ -11808,7 +11823,6 @@ export const ce = {
         sex: "female",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -11818,6 +11832,7 @@ export const ce = {
         coordinates: [-84.3840629, 33.7699302],
       },
       properties: {
+        id: "e7c46d09",
         "first name": "Elise",
         "last name": "Vonow",
         "street #": "500",
@@ -11826,7 +11841,6 @@ export const ce = {
         sex: "female",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -11836,6 +11850,7 @@ export const ce = {
         coordinates: [-84.4048743, 33.7632685],
       },
       properties: {
+        id: "065ada77",
         "first name": "Edward",
         "last name": "Wachendorf",
         "street #": "502",
@@ -11844,7 +11859,6 @@ export const ce = {
         sex: "male",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -11854,6 +11868,7 @@ export const ce = {
         coordinates: [-84.4048743, 33.7632685],
       },
       properties: {
+        id: "f4a41b83",
         "first name": "Bertha",
         "last name": "Wachendorf",
         "street #": "502",
@@ -11862,7 +11877,6 @@ export const ce = {
         sex: "female",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -11872,6 +11886,7 @@ export const ce = {
         coordinates: [-84.4024206, 33.7588612],
       },
       properties: {
+        id: "14d5e742",
         "first name": "FA",
         "last name": "Walters",
         "street #": "175",
@@ -11880,7 +11895,6 @@ export const ce = {
         sex: "male",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -11890,6 +11904,7 @@ export const ce = {
         coordinates: [-84.3926065, 33.74267],
       },
       properties: {
+        id: "a267d4b2",
         "first name": "A",
         "last name": "Wasser",
         "street #": "113",
@@ -11898,7 +11913,6 @@ export const ce = {
         sex: "male",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -11908,6 +11922,7 @@ export const ce = {
         coordinates: [-84.3841671, 33.7288373],
       },
       properties: {
+        id: "f5fe07e4",
         "first name": "John H",
         "last name": "Webber",
         "street #": "78",
@@ -11916,7 +11931,6 @@ export const ce = {
         sex: "male",
         "birth country": "Switzerland",
         race: "W",
-        "": "",
       },
     },
     {
@@ -11926,6 +11940,7 @@ export const ce = {
         coordinates: [-84.3841671, 33.7288373],
       },
       properties: {
+        id: "79d6325f",
         "first name": "Rosa",
         "last name": "Webber",
         "street #": "78",
@@ -11934,7 +11949,6 @@ export const ce = {
         sex: "female",
         "birth country": "Switzerland",
         race: "W",
-        "": "",
       },
     },
     {
@@ -11944,6 +11958,7 @@ export const ce = {
         coordinates: [-84.4019425, 33.7432597],
       },
       properties: {
+        id: "1e745b3b",
         "first name": "F",
         "last name": "Wedmeyer",
         "street #": "11",
@@ -11952,7 +11967,6 @@ export const ce = {
         sex: "male",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -11962,6 +11976,7 @@ export const ce = {
         coordinates: [-84.3830547, 33.7691129],
       },
       properties: {
+        id: "e163fed5",
         "first name": "S",
         "last name": "Weil",
         "street #": "36",
@@ -11970,7 +11985,6 @@ export const ce = {
         sex: "male",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -11980,6 +11994,7 @@ export const ce = {
         coordinates: [-84.3989852, 33.7557271],
       },
       properties: {
+        id: "ffcf5c21",
         "first name": "Fredrica",
         "last name": "Weimer",
         "street #": "164",
@@ -11988,7 +12003,6 @@ export const ce = {
         sex: "female",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -11998,6 +12012,7 @@ export const ce = {
         coordinates: [-84.3989852, 33.7557271],
       },
       properties: {
+        id: "730941d0",
         "first name": "Conrad",
         "last name": "Weimer",
         "street #": "164",
@@ -12006,7 +12021,6 @@ export const ce = {
         sex: "male",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -12016,6 +12030,7 @@ export const ce = {
         coordinates: [-84.3886748, 33.7352519],
       },
       properties: {
+        id: "f5bb352e",
         "first name": "W",
         "last name": "Weinholtz",
         "street #": "209",
@@ -12024,7 +12039,6 @@ export const ce = {
         sex: "female",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -12034,6 +12048,7 @@ export const ce = {
         coordinates: [-84.3906707, 33.7556852],
       },
       properties: {
+        id: "32959b24",
         "first name": "CJ",
         "last name": "Weinmeister",
         "street #": "34",
@@ -12042,7 +12057,6 @@ export const ce = {
         sex: "male",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -12052,6 +12066,7 @@ export const ce = {
         coordinates: [-84.3893979, 33.74667],
       },
       properties: {
+        id: "0d9aee8a",
         "first name": "EA",
         "last name": "Weisenfield",
         "street #": "11",
@@ -12060,7 +12075,6 @@ export const ce = {
         sex: "male",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -12070,6 +12084,7 @@ export const ce = {
         coordinates: [-84.3998051, 33.7471269],
       },
       properties: {
+        id: "49ac74ee",
         "first name": "Wm",
         "last name": "Weiss",
         "street #": "48",
@@ -12078,7 +12093,6 @@ export const ce = {
         sex: "male",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -12088,6 +12102,7 @@ export const ce = {
         coordinates: [-84.3998051, 33.7471269],
       },
       properties: {
+        id: "a31f08aa",
         "first name": "Jenny",
         "last name": "Weiss",
         "street #": "48",
@@ -12096,7 +12111,6 @@ export const ce = {
         sex: "male",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -12106,6 +12120,7 @@ export const ce = {
         coordinates: [-84.3998051, 33.7471269],
       },
       properties: {
+        id: "544e2bd6",
         "first name": "Sadie",
         "last name": "Weiss",
         "street #": "48",
@@ -12114,7 +12129,6 @@ export const ce = {
         sex: "male",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -12124,6 +12138,7 @@ export const ce = {
         coordinates: [-84.3998051, 33.7471269],
       },
       properties: {
+        id: "0b7b1abd",
         "first name": "Martha",
         "last name": "Weiss",
         "street #": "48",
@@ -12132,7 +12147,6 @@ export const ce = {
         sex: "male",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -12142,6 +12156,7 @@ export const ce = {
         coordinates: [-84.3998051, 33.7471269],
       },
       properties: {
+        id: "4a425a1d",
         "first name": "Hugo",
         "last name": "Weiss",
         "street #": "48",
@@ -12150,7 +12165,6 @@ export const ce = {
         sex: "male",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -12160,6 +12174,7 @@ export const ce = {
         coordinates: [-84.3838524, 33.760954],
       },
       properties: {
+        id: "49e2c4de",
         "first name": "Chas",
         "last name": "Weitnauer",
         "street #": "91",
@@ -12168,7 +12183,6 @@ export const ce = {
         sex: "male",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -12178,6 +12192,7 @@ export const ce = {
         coordinates: [-84.383634, 33.7690862],
       },
       properties: {
+        id: "2cdf2582",
         "first name": "Samuel",
         "last name": "Well",
         "street #": "30",
@@ -12186,7 +12201,6 @@ export const ce = {
         sex: "male",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -12196,6 +12210,7 @@ export const ce = {
         coordinates: [-84.4001115, 33.7454306],
       },
       properties: {
+        id: "dd952114",
         "first name": "Fannie",
         "last name": "Wellhouse",
         "street #": "311",
@@ -12204,7 +12219,6 @@ export const ce = {
         sex: "female",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -12214,6 +12228,7 @@ export const ce = {
         coordinates: [-84.392645, 33.7443286],
       },
       properties: {
+        id: "49ddbed0",
         "first name": "Carl",
         "last name": "Werber",
         "street #": "67",
@@ -12222,7 +12237,6 @@ export const ce = {
         sex: "male",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -12232,6 +12246,7 @@ export const ce = {
         coordinates: [-84.392645, 33.7443286],
       },
       properties: {
+        id: "3772adea",
         "first name": "Caroline",
         "last name": "Werber",
         "street #": "67",
@@ -12240,7 +12255,6 @@ export const ce = {
         sex: "female",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -12250,6 +12264,7 @@ export const ce = {
         coordinates: [-84.3830288, 33.7642294],
       },
       properties: {
+        id: "d9e27065",
         "first name": "Anna",
         "last name": "Werner",
         "street #": "66",
@@ -12258,7 +12273,6 @@ export const ce = {
         sex: "female",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -12268,6 +12282,7 @@ export const ce = {
         coordinates: [-84.3943763, 33.7286674],
       },
       properties: {
+        id: "d3f14453",
         "first name": "Jno",
         "last name": "White",
         "street #": "21",
@@ -12276,7 +12291,6 @@ export const ce = {
         sex: "male",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -12286,6 +12300,7 @@ export const ce = {
         coordinates: [-84.4030704, 33.7591933],
       },
       properties: {
+        id: "3ed73a98",
         "first name": "CJ",
         "last name": "Widdershim",
         "street #": "100",
@@ -12294,7 +12309,6 @@ export const ce = {
         sex: "male",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -12304,6 +12318,7 @@ export const ce = {
         coordinates: [-84.4030704, 33.7591933],
       },
       properties: {
+        id: "712d600b",
         "first name": "LA",
         "last name": "Widdershim",
         "street #": "100",
@@ -12312,7 +12327,6 @@ export const ce = {
         sex: "female",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -12322,6 +12336,7 @@ export const ce = {
         coordinates: [-84.3821787, 33.7597149],
       },
       properties: {
+        id: "e545bb18",
         "first name": "TW",
         "last name": "Wieking",
         "street #": "272",
@@ -12330,7 +12345,6 @@ export const ce = {
         sex: "male",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -12340,6 +12354,7 @@ export const ce = {
         coordinates: [-84.3821787, 33.7597149],
       },
       properties: {
+        id: "64bf1f48",
         "first name": "CW",
         "last name": "Wieking",
         "street #": "272",
@@ -12348,7 +12363,6 @@ export const ce = {
         sex: "male",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -12358,6 +12372,7 @@ export const ce = {
         coordinates: [-84.3932498, 33.7469663],
       },
       properties: {
+        id: "79815952",
         "first name": "AF",
         "last name": "Willatowsky",
         "street #": "72",
@@ -12366,7 +12381,6 @@ export const ce = {
         sex: "male",
         "birth country": "Prussia",
         race: "W",
-        "": "",
       },
     },
     {
@@ -12376,6 +12390,7 @@ export const ce = {
         coordinates: [-84.3685853, 33.7492758],
       },
       properties: {
+        id: "050b618f",
         "first name": "AV",
         "last name": "Williams",
         "street #": "16",
@@ -12384,7 +12399,6 @@ export const ce = {
         sex: "male",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -12394,6 +12408,7 @@ export const ce = {
         coordinates: [-84.379538, 33.7498506],
       },
       properties: {
+        id: "3033ac1a",
         "first name": "H",
         "last name": "Winkler",
         "street #": "27",
@@ -12402,7 +12417,6 @@ export const ce = {
         sex: "male",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -12412,6 +12426,7 @@ export const ce = {
         coordinates: [-84.379538, 33.7498506],
       },
       properties: {
+        id: "91289c12",
         "first name": "Annie",
         "last name": "Winkler",
         "street #": "27",
@@ -12420,7 +12435,6 @@ export const ce = {
         sex: "female",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -12430,6 +12444,7 @@ export const ce = {
         coordinates: [-84.379538, 33.7498506],
       },
       properties: {
+        id: "3376404f",
         "first name": "Ugo",
         "last name": "Winkler",
         "street #": "27",
@@ -12438,7 +12453,6 @@ export const ce = {
         sex: "male",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -12448,6 +12462,7 @@ export const ce = {
         coordinates: [-84.379538, 33.7498506],
       },
       properties: {
+        id: "d153dd59",
         "first name": "Mollie",
         "last name": "Winkler",
         "street #": "27",
@@ -12456,7 +12471,6 @@ export const ce = {
         sex: "female",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -12466,6 +12480,7 @@ export const ce = {
         coordinates: [-84.3969254, 33.7459836],
       },
       properties: {
+        id: "47a7c101",
         "first name": "JH",
         "last name": "Winkler",
         "street #": "28",
@@ -12474,7 +12489,6 @@ export const ce = {
         sex: "male",
         "birth country": "Austria",
         race: "W",
-        "": "",
       },
     },
     {
@@ -12484,6 +12498,7 @@ export const ce = {
         coordinates: [-84.3969254, 33.7459836],
       },
       properties: {
+        id: "697bdd88",
         "first name": "Leo",
         "last name": "Winkler",
         "street #": "28",
@@ -12492,7 +12507,6 @@ export const ce = {
         sex: "male",
         "birth country": "Austria",
         race: "W",
-        "": "",
       },
     },
     {
@@ -12502,6 +12516,7 @@ export const ce = {
         coordinates: [-84.3923919, 33.7409214],
       },
       properties: {
+        id: "d7efbd5b",
         "first name": "Annie",
         "last name": "Wise",
         "street #": "167",
@@ -12510,7 +12525,6 @@ export const ce = {
         sex: "female",
         "birth country": "Hungary",
         race: "W",
-        "": "",
       },
     },
     {
@@ -12520,6 +12534,7 @@ export const ce = {
         coordinates: [-84.3835975, 33.7522117],
       },
       properties: {
+        id: "f24d2dec",
         "first name": "A",
         "last name": "Wolf",
         "street #": "87",
@@ -12528,7 +12543,6 @@ export const ce = {
         sex: "male",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -12538,6 +12552,7 @@ export const ce = {
         coordinates: [-84.3835975, 33.7522117],
       },
       properties: {
+        id: "bb543526",
         "first name": "Emma",
         "last name": "Wolf",
         "street #": "87",
@@ -12546,7 +12561,6 @@ export const ce = {
         sex: "female",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -12556,6 +12570,7 @@ export const ce = {
         coordinates: [-84.3627819, 33.7541537],
       },
       properties: {
+        id: "bb43afd7",
         "first name": "John",
         "last name": "Wolf",
         "street #": "52",
@@ -12564,7 +12579,6 @@ export const ce = {
         sex: "male",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -12574,6 +12588,7 @@ export const ce = {
         coordinates: [-84.3627819, 33.7541537],
       },
       properties: {
+        id: "b35f9a89",
         "first name": "L",
         "last name": "Wolf",
         "street #": "52",
@@ -12582,7 +12597,6 @@ export const ce = {
         sex: "female",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -12592,6 +12606,7 @@ export const ce = {
         coordinates: [-84.396285, 33.7491471],
       },
       properties: {
+        id: "4f1d0b09",
         "first name": "H. [Henry]",
         "last name": "Wolfe",
         "street #": "161",
@@ -12610,6 +12625,7 @@ export const ce = {
         coordinates: [-84.396285, 33.7491471],
       },
       properties: {
+        id: "f68192ed",
         "first name": "Mrs. H. [Mary]",
         "last name": "Wolfe",
         "street #": "161",
@@ -12628,6 +12644,7 @@ export const ce = {
         coordinates: [-84.3904211, 33.7560653],
       },
       properties: {
+        id: "95a26e00",
         "first name": "Adolf",
         "last name": "Wolff",
         "street #": "37",
@@ -12636,7 +12653,6 @@ export const ce = {
         sex: "male",
         "birth country": "Austria",
         race: "W",
-        "": "",
       },
     },
     {
@@ -12646,6 +12662,7 @@ export const ce = {
         coordinates: [-84.3965264, 33.7497136],
       },
       properties: {
+        id: "d59a6a73",
         "first name": "C",
         "last name": "Wolfsheimer",
         "street #": "24",
@@ -12654,7 +12671,6 @@ export const ce = {
         sex: "male",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -12664,6 +12680,7 @@ export const ce = {
         coordinates: [-84.3965264, 33.7497136],
       },
       properties: {
+        id: "fed5165f",
         "first name": "L",
         "last name": "Wolfsheimer",
         "street #": "24",
@@ -12672,7 +12689,6 @@ export const ce = {
         sex: "male",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -12682,6 +12698,7 @@ export const ce = {
         coordinates: [-84.3818765, 33.7544465],
       },
       properties: {
+        id: "56c172e9",
         "first name": "Louise",
         "last name": "Wurm",
         "street #": "174",
@@ -12690,7 +12707,6 @@ export const ce = {
         sex: "female",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -12700,6 +12716,7 @@ export const ce = {
         coordinates: [-84.3810351, 33.7515301],
       },
       properties: {
+        id: "a08ec1fd",
         "first name": "Sam",
         "last name": "Yalowitz",
         "street #": "46",
@@ -12708,7 +12725,6 @@ export const ce = {
         sex: "male",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -12718,6 +12734,7 @@ export const ce = {
         coordinates: [-84.3810351, 33.7515301],
       },
       properties: {
+        id: "877b93fc",
         "first name": "Annie",
         "last name": "Yalowitz",
         "street #": "46",
@@ -12726,7 +12743,6 @@ export const ce = {
         sex: "female",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -12736,6 +12752,7 @@ export const ce = {
         coordinates: [-84.3815672, 33.7450085],
       },
       properties: {
+        id: "030e462f",
         "first name": "Henry",
         "last name": "Yeker",
         "street #": "58",
@@ -12744,7 +12761,6 @@ export const ce = {
         sex: "male",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -12754,6 +12770,7 @@ export const ce = {
         coordinates: [-84.4122763, 33.7546894],
       },
       properties: {
+        id: "22c1581b",
         "first name": "NW",
         "last name": "Yose",
         "street #": "388",
@@ -12762,7 +12779,6 @@ export const ce = {
         sex: "male",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -12772,6 +12788,7 @@ export const ce = {
         coordinates: [-84.3926279, 33.742786],
       },
       properties: {
+        id: "bfbe321f",
         "first name": "SD",
         "last name": "Zacharias",
         "street #": "101",
@@ -12780,7 +12797,6 @@ export const ce = {
         sex: "male",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -12790,6 +12806,7 @@ export const ce = {
         coordinates: [-84.3966137, 33.7573158],
       },
       properties: {
+        id: "fbced096",
         "first name": "Mrs M",
         "last name": "Zahn",
         "street #": "22",
@@ -12798,7 +12815,6 @@ export const ce = {
         sex: "female",
         "birth country": "Bavaria",
         race: "W",
-        "": "",
       },
     },
     {
@@ -12808,6 +12824,7 @@ export const ce = {
         coordinates: [-84.382593, 33.7621885],
       },
       properties: {
+        id: "88366ce1",
         "first name": "Albert",
         "last name": "Zilling",
         "street #": "102",
@@ -12816,7 +12833,6 @@ export const ce = {
         sex: "male",
         "birth country": "Switzerland",
         race: "W",
-        "": "",
       },
     },
     {
@@ -12826,6 +12842,7 @@ export const ce = {
         coordinates: [-84.3892601, 33.7584732],
       },
       properties: {
+        id: "6308cf91",
         "first name": "Fred",
         "last name": "Zimmer",
         "street #": "69",
@@ -12834,7 +12851,6 @@ export const ce = {
         sex: "female",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -12844,6 +12860,7 @@ export const ce = {
         coordinates: [-84.40049, 33.7506981],
       },
       properties: {
+        id: "7b088a65",
         "first name": "John",
         "last name": "Zuber",
         "street #": "16",
@@ -12852,7 +12869,6 @@ export const ce = {
         sex: "male",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
     {
@@ -12862,6 +12878,7 @@ export const ce = {
         coordinates: [-84.40049, 33.7506981],
       },
       properties: {
+        id: "9ee77aaf",
         "first name": "Mrs. M",
         "last name": "Zuber",
         "street #": "16",
@@ -12870,7 +12887,6 @@ export const ce = {
         sex: "female",
         "birth country": "Germany",
         race: "W",
-        "": "",
       },
     },
   ],

@@ -10,6 +10,7 @@ export const car_lat_am = {
         coordinates: [-84.3944679, 33.7455962],
       },
       properties: {
+        id: "e7c7063f",
         "first name": "Elloise",
         "last name": "Gay",
         "street #": "210",
@@ -18,7 +19,6 @@ export const car_lat_am = {
         sex: "female",
         "birth country": '"South America" [Brazil]',
         race: "W",
-        notes: "",
       },
     },
     {
@@ -28,6 +28,7 @@ export const car_lat_am = {
         coordinates: [-84.4056422, 33.7429371],
       },
       properties: {
+        id: "bb6b8c78",
         "first name": "ER",
         "last name": "Alamilla",
         "street #": "490",
@@ -36,7 +37,6 @@ export const car_lat_am = {
         sex: "male",
         "birth country": "Cuba",
         race: "W",
-        notes: "",
       },
     },
     {
@@ -46,6 +46,7 @@ export const car_lat_am = {
         coordinates: [-84.4056422, 33.7429371],
       },
       properties: {
+        id: "7ef8ad86",
         "first name": "S",
         "last name": "Alamilla",
         "street #": "490",
@@ -54,7 +55,6 @@ export const car_lat_am = {
         sex: "male",
         "birth country": "Cuba",
         race: "W",
-        notes: "",
       },
     },
     {
@@ -64,6 +64,7 @@ export const car_lat_am = {
         coordinates: [-84.4056422, 33.7429371],
       },
       properties: {
+        id: "2d168299",
         "first name": "Emili",
         "last name": "Alamilla",
         "street #": "490",
@@ -72,7 +73,6 @@ export const car_lat_am = {
         sex: "male",
         "birth country": "Cuba",
         race: "W",
-        notes: "",
       },
     },
     {
@@ -82,6 +82,7 @@ export const car_lat_am = {
         coordinates: [-84.4056422, 33.7429371],
       },
       properties: {
+        id: "af779606",
         "first name": "Carmen",
         "last name": "Alamilla",
         "street #": "490",
@@ -90,7 +91,6 @@ export const car_lat_am = {
         sex: "female",
         "birth country": "Cuba",
         race: "W",
-        notes: "",
       },
     },
     {
@@ -100,6 +100,7 @@ export const car_lat_am = {
         coordinates: [-84.3890253, 33.7619137],
       },
       properties: {
+        id: "387c48bc",
         "first name": "JD",
         "last name": "Albertine",
         "street #": "180",
@@ -108,7 +109,6 @@ export const car_lat_am = {
         sex: "male",
         "birth country": "Cuba",
         race: "W",
-        notes: "",
       },
     },
     {
@@ -118,6 +118,7 @@ export const car_lat_am = {
         coordinates: [-84.3890253, 33.7619137],
       },
       properties: {
+        id: "84da2696",
         "first name": "L",
         "last name": "Altuzarra",
         "street #": "180",
@@ -126,7 +127,6 @@ export const car_lat_am = {
         sex: "female",
         "birth country": "Cuba",
         race: "W",
-        notes: "",
       },
     },
     {
@@ -136,6 +136,7 @@ export const car_lat_am = {
         coordinates: [-84.3983617, 33.7444686],
       },
       properties: {
+        id: "517c5040",
         "first name": "Rafael",
         "last name": "Anido",
         "street #": "42",
@@ -144,7 +145,6 @@ export const car_lat_am = {
         sex: "male",
         "birth country": "Cuba",
         race: "W",
-        notes: "",
       },
     },
     {
@@ -154,6 +154,7 @@ export const car_lat_am = {
         coordinates: [-84.3983617, 33.7444686],
       },
       properties: {
+        id: "61bc40de",
         "first name": "D",
         "last name": "Cardenas",
         "street #": "42",
@@ -162,7 +163,6 @@ export const car_lat_am = {
         sex: "female",
         "birth country": "Cuba",
         race: "W",
-        notes: "",
       },
     },
     {
@@ -172,6 +172,7 @@ export const car_lat_am = {
         coordinates: [-84.3963447, 33.7455971],
       },
       properties: {
+        id: "72ff5aa6",
         "first name": "Antonio",
         "last name": "Cardenas",
         "street #": "42",
@@ -180,7 +181,6 @@ export const car_lat_am = {
         sex: "male",
         "birth country": "Cuba",
         race: "W",
-        notes: "",
       },
     },
     {
@@ -190,6 +190,7 @@ export const car_lat_am = {
         coordinates: [-84.3963447, 33.7455971],
       },
       properties: {
+        id: "f7086787",
         "first name": "FC",
         "last name": "Cardenas",
         "street #": "42",
@@ -198,7 +199,6 @@ export const car_lat_am = {
         sex: "female",
         "birth country": "Cuba",
         race: "W",
-        notes: "",
       },
     },
     {
@@ -208,6 +208,7 @@ export const car_lat_am = {
         coordinates: [-84.3963447, 33.7455971],
       },
       properties: {
+        id: "d94f3a22",
         "first name": "MC",
         "last name": "Cardenas",
         "street #": "42",
@@ -216,7 +217,6 @@ export const car_lat_am = {
         sex: "male",
         "birth country": "Cuba",
         race: "W",
-        notes: "",
       },
     },
     {
@@ -226,6 +226,7 @@ export const car_lat_am = {
         coordinates: [-84.395524, 33.7456685],
       },
       properties: {
+        id: "ccce4ab3",
         "first name": "Eugenio",
         "last name": "Crabb",
         "street #": "50",
@@ -234,7 +235,6 @@ export const car_lat_am = {
         sex: "male",
         "birth country": "Cuba",
         race: "W",
-        notes: "",
       },
     },
     {
@@ -244,6 +244,7 @@ export const car_lat_am = {
         coordinates: [-84.395524, 33.7456685],
       },
       properties: {
+        id: "558f905e",
         "first name": "Mary",
         "last name": "Crabb",
         "street #": "50",
@@ -252,7 +253,6 @@ export const car_lat_am = {
         sex: "female",
         "birth country": "Cuba",
         race: "W",
-        notes: "",
       },
     },
     {
@@ -262,6 +262,7 @@ export const car_lat_am = {
         coordinates: [-84.395524, 33.7456685],
       },
       properties: {
+        id: "6204106b",
         "first name": "Eugenia Jr",
         "last name": "Crabb",
         "street #": "50",
@@ -270,7 +271,6 @@ export const car_lat_am = {
         sex: "male",
         "birth country": "Cuba",
         race: "W",
-        notes: "",
       },
     },
     {
@@ -280,6 +280,7 @@ export const car_lat_am = {
         coordinates: [-84.395524, 33.7456685],
       },
       properties: {
+        id: "41e2ed05",
         "first name": "Oscar",
         "last name": "Crabb",
         "street #": "50",
@@ -288,7 +289,6 @@ export const car_lat_am = {
         sex: "male",
         "birth country": "Cuba",
         race: "W",
-        notes: "",
       },
     },
     {
@@ -298,6 +298,7 @@ export const car_lat_am = {
         coordinates: [-84.395524, 33.7456685],
       },
       properties: {
+        id: "dbc1df85",
         "first name": "Violeta",
         "last name": "Crabb",
         "street #": "50",
@@ -306,7 +307,6 @@ export const car_lat_am = {
         sex: "female",
         "birth country": "Cuba",
         race: "W",
-        notes: "",
       },
     },
     {
@@ -316,6 +316,7 @@ export const car_lat_am = {
         coordinates: [-84.395524, 33.7456685],
       },
       properties: {
+        id: "bb2232d8",
         "first name": "Edgar",
         "last name": "Crabb",
         "street #": "50",
@@ -324,7 +325,6 @@ export const car_lat_am = {
         sex: "male",
         "birth country": "Cuba",
         race: "W",
-        notes: "",
       },
     },
     {
@@ -334,6 +334,7 @@ export const car_lat_am = {
         coordinates: [-84.395524, 33.7456685],
       },
       properties: {
+        id: "871332f9",
         "first name": "Maurigue",
         "last name": "Crabb",
         "street #": "50",
@@ -342,7 +343,6 @@ export const car_lat_am = {
         sex: "male",
         "birth country": "Cuba",
         race: "W",
-        notes: "",
       },
     },
     {
@@ -352,6 +352,7 @@ export const car_lat_am = {
         coordinates: [-84.395524, 33.7456685],
       },
       properties: {
+        id: "3d84c27d",
         "first name": "Mary",
         "last name": "Crabb",
         "street #": "50",
@@ -360,7 +361,6 @@ export const car_lat_am = {
         sex: "female",
         "birth country": "Cuba",
         race: "W",
-        notes: "",
       },
     },
     {
@@ -370,6 +370,7 @@ export const car_lat_am = {
         coordinates: [-84.3702493, 33.755456],
       },
       properties: {
+        id: "35008338",
         "first name": "P",
         "last name": "DeCastroverde",
         "street #": "406",
@@ -378,7 +379,6 @@ export const car_lat_am = {
         sex: "male",
         "birth country": "Cuba",
         race: "W",
-        notes: "",
       },
     },
     {
@@ -388,6 +388,7 @@ export const car_lat_am = {
         coordinates: [-84.3702493, 33.755456],
       },
       properties: {
+        id: "98eb71c5",
         "first name": "Mrs",
         "last name": "DeCastroverde",
         "street #": "406",
@@ -396,7 +397,6 @@ export const car_lat_am = {
         sex: "female",
         "birth country": "Cuba",
         race: "W",
-        notes: "",
       },
     },
     {
@@ -406,6 +406,7 @@ export const car_lat_am = {
         coordinates: [-84.3702493, 33.755456],
       },
       properties: {
+        id: "2ccfe3e3",
         "first name": "A",
         "last name": "DeCastroverde",
         "street #": "406",
@@ -414,7 +415,6 @@ export const car_lat_am = {
         sex: "male",
         "birth country": "Cuba",
         race: "W",
-        notes: "",
       },
     },
     {
@@ -424,6 +424,7 @@ export const car_lat_am = {
         coordinates: [-84.3702493, 33.755456],
       },
       properties: {
+        id: "e88890fe",
         "first name": "E",
         "last name": "DeCastroverde",
         "street #": "406",
@@ -432,7 +433,6 @@ export const car_lat_am = {
         sex: "female",
         "birth country": "Cuba",
         race: "W",
-        notes: "",
       },
     },
     {
@@ -442,6 +442,7 @@ export const car_lat_am = {
         coordinates: [-84.4056422, 33.7429371],
       },
       properties: {
+        id: "0f54d57b",
         "first name": "Rila",
         "last name": "Diar",
         "street #": "490",
@@ -450,7 +451,6 @@ export const car_lat_am = {
         sex: "female",
         "birth country": "Cuba",
         race: "W",
-        notes: "",
       },
     },
     {
@@ -460,6 +460,7 @@ export const car_lat_am = {
         coordinates: [-84.3907765, 33.745187],
       },
       properties: {
+        id: "7383e867",
         "first name": "Estelle",
         "last name": "Diarz",
         "street #": "164",
@@ -468,7 +469,6 @@ export const car_lat_am = {
         sex: "female",
         "birth country": "Cuba",
         race: "W",
-        notes: "",
       },
     },
     {
@@ -478,6 +478,7 @@ export const car_lat_am = {
         coordinates: [-84.3907765, 33.745187],
       },
       properties: {
+        id: "93d09a3d",
         "first name": "Optena",
         "last name": "Diarz",
         "street #": "164",
@@ -486,7 +487,6 @@ export const car_lat_am = {
         sex: "female",
         "birth country": "Cuba",
         race: "W",
-        notes: "",
       },
     },
     {
@@ -496,6 +496,7 @@ export const car_lat_am = {
         coordinates: [-84.3981857, 33.7463807],
       },
       properties: {
+        id: "6409afee",
         "first name": "Ysabel",
         "last name": "Ebra",
         "street #": "274",
@@ -504,7 +505,6 @@ export const car_lat_am = {
         sex: "female",
         "birth country": "Cuba",
         race: "W",
-        notes: "",
       },
     },
     {
@@ -514,6 +514,7 @@ export const car_lat_am = {
         coordinates: [-84.3981857, 33.7463807],
       },
       properties: {
+        id: "ab945f38",
         "first name": "Maria",
         "last name": "Ebra",
         "street #": "274",
@@ -522,7 +523,6 @@ export const car_lat_am = {
         sex: "female",
         "birth country": "Cuba",
         race: "W",
-        notes: "",
       },
     },
     {
@@ -532,6 +532,7 @@ export const car_lat_am = {
         coordinates: [-84.3981857, 33.7463807],
       },
       properties: {
+        id: "ae075f5e",
         "first name": "Carmen",
         "last name": "Ebra",
         "street #": "274",
@@ -540,7 +541,6 @@ export const car_lat_am = {
         sex: "female",
         "birth country": "Cuba",
         race: "W",
-        notes: "",
       },
     },
     {
@@ -550,6 +550,7 @@ export const car_lat_am = {
         coordinates: [-84.3981857, 33.7463807],
       },
       properties: {
+        id: "a643fd47",
         "first name": "Dolores",
         "last name": "Ebra",
         "street #": "274",
@@ -558,7 +559,6 @@ export const car_lat_am = {
         sex: "female",
         "birth country": "Cuba",
         race: "W",
-        notes: "",
       },
     },
     {
@@ -568,6 +568,7 @@ export const car_lat_am = {
         coordinates: [-84.3981857, 33.7463807],
       },
       properties: {
+        id: "73cb95da",
         "first name": "Ramon",
         "last name": "Escots",
         "street #": "274",
@@ -576,7 +577,6 @@ export const car_lat_am = {
         sex: "male",
         "birth country": "Cuba",
         race: "W",
-        notes: "",
       },
     },
     {
@@ -586,6 +586,7 @@ export const car_lat_am = {
         coordinates: [-84.3910202, 33.7597263],
       },
       properties: {
+        id: "174a5308",
         "first name": "Raymond",
         "last name": "Forbes",
         "street #": "90",
@@ -594,7 +595,6 @@ export const car_lat_am = {
         sex: "male",
         "birth country": "Cuba",
         race: "W",
-        notes: "",
       },
     },
     {
@@ -604,6 +604,7 @@ export const car_lat_am = {
         coordinates: [-84.3910202, 33.7597263],
       },
       properties: {
+        id: "9f0db9bd",
         "first name": "Mrs",
         "last name": "Forbes",
         "street #": "90",
@@ -612,7 +613,6 @@ export const car_lat_am = {
         sex: "female",
         "birth country": "Cuba",
         race: "W",
-        notes: "",
       },
     },
     {
@@ -622,6 +622,7 @@ export const car_lat_am = {
         coordinates: [-84.3910202, 33.7597263],
       },
       properties: {
+        id: "297a717b",
         "first name": "Levi",
         "last name": "Forbes",
         "street #": "90",
@@ -630,7 +631,6 @@ export const car_lat_am = {
         sex: "male",
         "birth country": "Cuba",
         race: "W",
-        notes: "",
       },
     },
     {
@@ -640,6 +640,7 @@ export const car_lat_am = {
         coordinates: [-84.3961734, 33.7637139],
       },
       properties: {
+        id: "87903d53",
         "first name": "C",
         "last name": "Gonzales",
         "street #": "269",
@@ -648,7 +649,6 @@ export const car_lat_am = {
         sex: "male",
         "birth country": "Cuba",
         race: "W",
-        notes: "",
       },
     },
     {
@@ -658,6 +658,7 @@ export const car_lat_am = {
         coordinates: [-84.3961734, 33.7637139],
       },
       properties: {
+        id: "cdc2d869",
         "first name": "M",
         "last name": "Gonzales",
         "street #": "269",
@@ -666,7 +667,6 @@ export const car_lat_am = {
         sex: "female",
         "birth country": "Cuba",
         race: "W",
-        notes: "",
       },
     },
     {
@@ -676,6 +676,7 @@ export const car_lat_am = {
         coordinates: [-84.3956832, 33.746516],
       },
       properties: {
+        id: "89102ce1",
         "first name": "Eraldo",
         "last name": "Guterez",
         "street #": "22",
@@ -684,7 +685,6 @@ export const car_lat_am = {
         sex: "male",
         "birth country": "Cuba",
         race: "W",
-        notes: "",
       },
     },
     {
@@ -694,6 +694,7 @@ export const car_lat_am = {
         coordinates: [-84.4056422, 33.7429371],
       },
       properties: {
+        id: "1723ff48",
         "first name": "Maria",
         "last name": "Guterrez",
         "street #": "490",
@@ -702,7 +703,6 @@ export const car_lat_am = {
         sex: "female",
         "birth country": "Cuba",
         race: "W",
-        notes: "",
       },
     },
     {
@@ -712,6 +712,7 @@ export const car_lat_am = {
         coordinates: [-84.3491644, 33.7577664],
       },
       properties: {
+        id: "26be10ae",
         "first name": "Nicholas",
         "last name": "Henora",
         "street #": "90",
@@ -720,7 +721,6 @@ export const car_lat_am = {
         sex: "male",
         "birth country": "Cuba",
         race: "W",
-        notes: "",
       },
     },
     {
@@ -730,6 +730,7 @@ export const car_lat_am = {
         coordinates: [-84.3976784, 33.7442644],
       },
       properties: {
+        id: "de14666d",
         "first name": "L",
         "last name": "Huischeck",
         "street #": "308",
@@ -738,7 +739,6 @@ export const car_lat_am = {
         sex: "male",
         "birth country": "Cuba",
         race: "W",
-        notes: "",
       },
     },
     {
@@ -748,6 +748,7 @@ export const car_lat_am = {
         coordinates: [-84.394425, 33.7468095],
       },
       properties: {
+        id: "f2243496",
         "first name": "Silva",
         "last name": "Joaginna",
         "street #": "181",
@@ -756,7 +757,6 @@ export const car_lat_am = {
         sex: "female",
         "birth country": "Cuba",
         race: "W",
-        notes: "",
       },
     },
     {
@@ -766,6 +766,7 @@ export const car_lat_am = {
         coordinates: [-84.3899182, 33.7481666],
       },
       properties: {
+        id: "361b404d",
         "first name": "Rufino",
         "last name": "Lapluna",
         "street #": "81",
@@ -774,7 +775,6 @@ export const car_lat_am = {
         sex: "male",
         "birth country": "Cuba",
         race: "W",
-        notes: "",
       },
     },
     {
@@ -784,6 +784,7 @@ export const car_lat_am = {
         coordinates: [-84.3919751, 33.7597263],
       },
       properties: {
+        id: "21a6ad76",
         "first name": "Jas",
         "last name": "Lawrence",
         "street #": "117",
@@ -792,7 +793,6 @@ export const car_lat_am = {
         sex: "male",
         "birth country": "Cuba",
         race: "W",
-        notes: "",
       },
     },
     {
@@ -802,6 +802,7 @@ export const car_lat_am = {
         coordinates: [-84.3919751, 33.7597263],
       },
       properties: {
+        id: "c247e8ff",
         "first name": "Julia",
         "last name": "Lawrence",
         "street #": "117",
@@ -810,7 +811,6 @@ export const car_lat_am = {
         sex: "female",
         "birth country": "Cuba",
         race: "W",
-        notes: "",
       },
     },
     {
@@ -820,6 +820,7 @@ export const car_lat_am = {
         coordinates: [-84.4122351, 33.7402874],
       },
       properties: {
+        id: "dd09086b",
         "first name": "Bernado",
         "last name": "Llorens",
         "street #": "564",
@@ -828,8 +829,6 @@ export const car_lat_am = {
         sex: "male",
         "birth country": "Cuba",
         race: "W",
-        notes:
-          "1897CD: Llorens, Pacetti & Co  -- proprietors La Paloma Cubana Cigar Factory, 8 1/2 W Alabama",
       },
     },
     {
@@ -839,6 +838,7 @@ export const car_lat_am = {
         coordinates: [-84.3896304, 33.7564396],
       },
       properties: {
+        id: "1cb50093",
         "first name": "JV",
         "last name": "Loaster",
         "street #": "57",
@@ -847,7 +847,6 @@ export const car_lat_am = {
         sex: "female",
         "birth country": "Cuba",
         race: "W",
-        notes: "",
       },
     },
     {
@@ -857,6 +856,7 @@ export const car_lat_am = {
         coordinates: [-84.3899182, 33.7481666],
       },
       properties: {
+        id: "9259e2a0",
         "first name": "Daniel",
         "last name": "Lombardo",
         "street #": "81",
@@ -865,7 +865,6 @@ export const car_lat_am = {
         sex: "male",
         "birth country": "Cuba",
         race: "W",
-        notes: "",
       },
     },
     {
@@ -875,6 +874,7 @@ export const car_lat_am = {
         coordinates: [-84.3937046, 33.7497],
       },
       properties: {
+        id: "e97d38f4",
         "first name": "Antonis",
         "last name": "Marteliz",
         "street #": "33",
@@ -883,7 +883,6 @@ export const car_lat_am = {
         sex: "male",
         "birth country": "Cuba",
         race: "W",
-        notes: "",
       },
     },
     {
@@ -893,6 +892,7 @@ export const car_lat_am = {
         coordinates: [-84.3956832, 33.746516],
       },
       properties: {
+        id: "d7172504",
         "first name": "Micharlas",
         "last name": "Mavarro",
         "street #": "22",
@@ -901,7 +901,6 @@ export const car_lat_am = {
         sex: "male",
         "birth country": "Cuba",
         race: "W",
-        notes: "",
       },
     },
     {
@@ -911,6 +910,7 @@ export const car_lat_am = {
         coordinates: [-84.4012672, 33.7388197],
       },
       properties: {
+        id: "74e8a4c5",
         "first name": "Jno",
         "last name": "Mayo",
         "street #": "169",
@@ -919,7 +919,6 @@ export const car_lat_am = {
         sex: "male",
         "birth country": "Cuba",
         race: "W",
-        notes: "",
       },
     },
     {
@@ -929,6 +928,7 @@ export const car_lat_am = {
         coordinates: [-84.3899182, 33.7481666],
       },
       properties: {
+        id: "966a7787",
         "first name": "Aubonia",
         "last name": "McArena",
         "street #": "81",
@@ -937,7 +937,6 @@ export const car_lat_am = {
         sex: "female",
         "birth country": "Cuba",
         race: "W",
-        notes: "",
       },
     },
     {
@@ -947,6 +946,7 @@ export const car_lat_am = {
         coordinates: [-84.3926211, 33.7507109],
       },
       properties: {
+        id: "1a80cc4a",
         "first name": "M",
         "last name": "Minsis",
         "street #": "15",
@@ -955,7 +955,6 @@ export const car_lat_am = {
         sex: "male",
         "birth country": "Cuba",
         race: "W",
-        notes: "",
       },
     },
     {
@@ -965,6 +964,7 @@ export const car_lat_am = {
         coordinates: [-84.3491644, 33.7577664],
       },
       properties: {
+        id: "b7d474b7",
         "first name": "AS",
         "last name": "Navarro",
         "street #": "90",
@@ -973,7 +973,6 @@ export const car_lat_am = {
         sex: "male",
         "birth country": "Cuba",
         race: "W",
-        notes: "",
       },
     },
     {
@@ -983,6 +982,7 @@ export const car_lat_am = {
         coordinates: [-84.3491644, 33.7577664],
       },
       properties: {
+        id: "f7d6a85a",
         "first name": "JS",
         "last name": "Navarro",
         "street #": "90",
@@ -991,7 +991,6 @@ export const car_lat_am = {
         sex: "male",
         "birth country": "Cuba",
         race: "W",
-        notes: "",
       },
     },
     {
@@ -1001,6 +1000,7 @@ export const car_lat_am = {
         coordinates: [-84.3923851, 33.7505771],
       },
       properties: {
+        id: "aed5f7a5",
         "first name": "Nicholas",
         "last name": "Navarto",
         "street #": "19",
@@ -1009,7 +1009,6 @@ export const car_lat_am = {
         sex: "male",
         "birth country": "Cuba",
         race: "W",
-        notes: "",
       },
     },
     {
@@ -1019,6 +1018,7 @@ export const car_lat_am = {
         coordinates: [-84.3956832, 33.746516],
       },
       properties: {
+        id: "513b2ff4",
         "first name": "Lewis",
         "last name": "Ortege",
         "street #": "22",
@@ -1027,7 +1027,6 @@ export const car_lat_am = {
         sex: "male",
         "birth country": "Cuba",
         race: "W",
-        notes: "",
       },
     },
     {
@@ -1037,6 +1036,7 @@ export const car_lat_am = {
         coordinates: [-84.4056422, 33.7429371],
       },
       properties: {
+        id: "de48ba98",
         "first name": "Rose",
         "last name": "Paceo",
         "street #": "490",
@@ -1045,7 +1045,6 @@ export const car_lat_am = {
         sex: "female",
         "birth country": "Cuba",
         race: "W",
-        notes: "",
       },
     },
     {
@@ -1055,6 +1054,7 @@ export const car_lat_am = {
         coordinates: [-84.3819017, 33.7534325],
       },
       properties: {
+        id: "5cba60d4",
         "first name": "O",
         "last name": "Pacette",
         "street #": "",
@@ -1063,7 +1063,6 @@ export const car_lat_am = {
         sex: "male",
         "birth country": "Cuba",
         race: "W",
-        notes: "",
       },
     },
     {
@@ -1073,6 +1072,7 @@ export const car_lat_am = {
         coordinates: [-84.3976784, 33.7442644],
       },
       properties: {
+        id: "75c70170",
         "first name": "M",
         "last name": "Pacetti",
         "street #": "308",
@@ -1081,7 +1081,6 @@ export const car_lat_am = {
         sex: "female",
         "birth country": "Cuba",
         race: "W",
-        notes: "",
       },
     },
     {
@@ -1091,6 +1090,7 @@ export const car_lat_am = {
         coordinates: [-84.3976784, 33.7442644],
       },
       properties: {
+        id: "a746a4e6",
         "first name": "O",
         "last name": "Pacetti",
         "street #": "308",
@@ -1099,7 +1099,6 @@ export const car_lat_am = {
         sex: "male",
         "birth country": "Cuba",
         race: "W",
-        notes: "",
       },
     },
     {
@@ -1109,6 +1108,7 @@ export const car_lat_am = {
         coordinates: [-84.3976784, 33.7442644],
       },
       properties: {
+        id: "b469feed",
         "first name": "AT",
         "last name": "Pacetti",
         "street #": "308",
@@ -1117,8 +1117,6 @@ export const car_lat_am = {
         sex: "male",
         "birth country": "Cuba",
         race: "W",
-        notes:
-          "1897CD: Llorens, Pacetti & Co  -- proprietors La Paloma Cubana Cigar Factory, 8 1/2 W Alabama",
       },
     },
     {
@@ -1128,6 +1126,7 @@ export const car_lat_am = {
         coordinates: [-84.3976784, 33.7442644],
       },
       properties: {
+        id: "9b973ff6",
         "first name": "J",
         "last name": "Pacetti",
         "street #": "308",
@@ -1136,7 +1135,6 @@ export const car_lat_am = {
         sex: "female",
         "birth country": "Cuba",
         race: "W",
-        notes: "",
       },
     },
     {
@@ -1146,6 +1144,7 @@ export const car_lat_am = {
         coordinates: [-84.3976784, 33.7442644],
       },
       properties: {
+        id: "da011f93",
         "first name": "MC",
         "last name": "Pacetti",
         "street #": "308",
@@ -1154,7 +1153,6 @@ export const car_lat_am = {
         sex: "female",
         "birth country": "Cuba",
         race: "W",
-        notes: "",
       },
     },
     {
@@ -1164,6 +1162,7 @@ export const car_lat_am = {
         coordinates: [-84.3976784, 33.7442644],
       },
       properties: {
+        id: "fa5182b9",
         "first name": "OH",
         "last name": "Pacetti",
         "street #": "308",
@@ -1172,7 +1171,6 @@ export const car_lat_am = {
         sex: "male",
         "birth country": "Cuba",
         race: "W",
-        notes: "",
       },
     },
     {
@@ -1182,6 +1180,7 @@ export const car_lat_am = {
         coordinates: [-84.3976784, 33.7442644],
       },
       properties: {
+        id: "f1abd1d2",
         "first name": "A",
         "last name": "Pacetti",
         "street #": "308",
@@ -1190,7 +1189,6 @@ export const car_lat_am = {
         sex: "female",
         "birth country": "Cuba",
         race: "W",
-        notes: "",
       },
     },
     {
@@ -1200,6 +1198,7 @@ export const car_lat_am = {
         coordinates: [-84.3976784, 33.7442644],
       },
       properties: {
+        id: "7d192e2e",
         "first name": "C",
         "last name": "Pacetti",
         "street #": "308",
@@ -1208,7 +1207,6 @@ export const car_lat_am = {
         sex: "female",
         "birth country": "Cuba",
         race: "W",
-        notes: "",
       },
     },
     {
@@ -1218,6 +1216,7 @@ export const car_lat_am = {
         coordinates: [-84.3888453, 33.7495315],
       },
       properties: {
+        id: "c7a7a311",
         "first name": "De Z Linsa",
         "last name": "Perez",
         "street #": "31",
@@ -1226,7 +1225,6 @@ export const car_lat_am = {
         sex: "female",
         "birth country": "Cuba",
         race: "W",
-        notes: "",
       },
     },
     {
@@ -1236,6 +1234,7 @@ export const car_lat_am = {
         coordinates: [-84.3899182, 33.7481666],
       },
       properties: {
+        id: "7a2d194c",
         "first name": "Casimira",
         "last name": "Perez",
         "street #": "81",
@@ -1244,7 +1243,6 @@ export const car_lat_am = {
         sex: "male",
         "birth country": "Cuba",
         race: "W",
-        notes: "",
       },
     },
     {
@@ -1254,6 +1252,7 @@ export const car_lat_am = {
         coordinates: [-84.3908932, 33.7565068],
       },
       properties: {
+        id: "56d3fbf2",
         "first name": "Marie",
         "last name": "Poujaud",
         "street #": "46",
@@ -1262,7 +1261,6 @@ export const car_lat_am = {
         sex: "female",
         "birth country": "Cuba",
         race: "W",
-        notes: "",
       },
     },
     {
@@ -1272,6 +1270,7 @@ export const car_lat_am = {
         coordinates: [-84.3908932, 33.7565068],
       },
       properties: {
+        id: "828be38a",
         "first name": "Marie",
         "last name": "Poujaud",
         "street #": "46",
@@ -1280,7 +1279,6 @@ export const car_lat_am = {
         sex: "female",
         "birth country": "Cuba",
         race: "W",
-        notes: "",
       },
     },
     {
@@ -1290,6 +1288,7 @@ export const car_lat_am = {
         coordinates: [-84.3976784, 33.7442644],
       },
       properties: {
+        id: "d822cedc",
         "first name": "GF",
         "last name": "Praig",
         "street #": "308",
@@ -1298,7 +1297,6 @@ export const car_lat_am = {
         sex: "male",
         "birth country": "Cuba",
         race: "W",
-        notes: "",
       },
     },
     {
@@ -1308,6 +1306,7 @@ export const car_lat_am = {
         coordinates: [-84.3976784, 33.7442644],
       },
       properties: {
+        id: "dbde363c",
         "first name": "Mrs GF",
         "last name": "Praig",
         "street #": "308",
@@ -1316,7 +1315,6 @@ export const car_lat_am = {
         sex: "female",
         "birth country": "Cuba",
         race: "W",
-        notes: "",
       },
     },
     {
@@ -1326,6 +1324,7 @@ export const car_lat_am = {
         coordinates: [-84.3976784, 33.7442644],
       },
       properties: {
+        id: "b1b802c0",
         "first name": "Eddie",
         "last name": "Praig",
         "street #": "308",
@@ -1334,7 +1333,6 @@ export const car_lat_am = {
         sex: "male",
         "birth country": "Cuba",
         race: "W",
-        notes: "",
       },
     },
     {
@@ -1344,6 +1342,7 @@ export const car_lat_am = {
         coordinates: [-84.3976784, 33.7442644],
       },
       properties: {
+        id: "cb6ac468",
         "first name": "L",
         "last name": "Praig",
         "street #": "308",
@@ -1352,7 +1351,6 @@ export const car_lat_am = {
         sex: "female",
         "birth country": "Cuba",
         race: "W",
-        notes: "",
       },
     },
     {
@@ -1362,6 +1360,7 @@ export const car_lat_am = {
         coordinates: [-84.3976784, 33.7442644],
       },
       properties: {
+        id: "acfd6dc6",
         "first name": "Eugine",
         "last name": "Praig",
         "street #": "308",
@@ -1370,7 +1369,6 @@ export const car_lat_am = {
         sex: "male",
         "birth country": "Cuba",
         race: "W",
-        notes: "",
       },
     },
     {
@@ -1380,6 +1378,7 @@ export const car_lat_am = {
         coordinates: [-84.3897565, 33.7529317],
       },
       properties: {
+        id: "3a95a9c0",
         "first name": "Florenci[o]",
         "last name": "Rabello",
         "street #": "19",
@@ -1388,7 +1387,6 @@ export const car_lat_am = {
         sex: "male",
         "birth country": "Cuba",
         race: "C",
-        notes: "",
       },
     },
     {
@@ -1398,6 +1396,7 @@ export const car_lat_am = {
         coordinates: [-84.385066, 33.7537146],
       },
       properties: {
+        id: "cc505ca9",
         "first name": "Frank",
         "last name": "Ramos",
         "street #": "85",
@@ -1406,7 +1405,6 @@ export const car_lat_am = {
         sex: "male",
         "birth country": "Cuba",
         race: "W",
-        notes: "",
       },
     },
     {
@@ -1416,6 +1414,7 @@ export const car_lat_am = {
         coordinates: [-84.4056422, 33.7429371],
       },
       properties: {
+        id: "462eecb2",
         "first name": "Emilia",
         "last name": "Reguivda",
         "street #": "490",
@@ -1424,7 +1423,6 @@ export const car_lat_am = {
         sex: "female",
         "birth country": "Cuba",
         race: "W",
-        notes: "",
       },
     },
     {
@@ -1434,6 +1432,7 @@ export const car_lat_am = {
         coordinates: [-84.4056422, 33.7429371],
       },
       properties: {
+        id: "e73a36c1",
         "first name": "Auroa",
         "last name": "Reguivda",
         "street #": "490",
@@ -1442,7 +1441,6 @@ export const car_lat_am = {
         sex: "female",
         "birth country": "Cuba",
         race: "W",
-        notes: "",
       },
     },
     {
@@ -1452,6 +1450,7 @@ export const car_lat_am = {
         coordinates: [-84.3998666, 33.7428335],
       },
       properties: {
+        id: "091580de",
         "first name": "L",
         "last name": "Rodeignez",
         "street #": "90",
@@ -1460,7 +1459,6 @@ export const car_lat_am = {
         sex: "male",
         "birth country": "Cuba",
         race: "W",
-        notes: "",
       },
     },
     {
@@ -1470,6 +1468,7 @@ export const car_lat_am = {
         coordinates: [-84.3981857, 33.7463807],
       },
       properties: {
+        id: "5a2419fa",
         "first name": "ER",
         "last name": "Santoc",
         "street #": "274",
@@ -1478,7 +1477,6 @@ export const car_lat_am = {
         sex: "male",
         "birth country": "Cuba",
         race: "W",
-        notes: "",
       },
     },
     {
@@ -1488,6 +1486,7 @@ export const car_lat_am = {
         coordinates: [-84.3981857, 33.7463807],
       },
       properties: {
+        id: "cefb3e2d",
         "first name": "E",
         "last name": "Santoc",
         "street #": "274",
@@ -1496,7 +1495,6 @@ export const car_lat_am = {
         sex: "male",
         "birth country": "Cuba",
         race: "W",
-        notes: "",
       },
     },
     {
@@ -1506,6 +1504,7 @@ export const car_lat_am = {
         coordinates: [-84.3981857, 33.7463807],
       },
       properties: {
+        id: "86f9b930",
         "first name": "EE",
         "last name": "Santoc",
         "street #": "274",
@@ -1514,7 +1513,6 @@ export const car_lat_am = {
         sex: "male",
         "birth country": "Cuba",
         race: "W",
-        notes: "",
       },
     },
     {
@@ -1524,6 +1522,7 @@ export const car_lat_am = {
         coordinates: [-84.4043923, 33.7433921],
       },
       properties: {
+        id: "886ec72d",
         "first name": "JC",
         "last name": "Soler",
         "street #": "464",
@@ -1532,7 +1531,6 @@ export const car_lat_am = {
         sex: "male",
         "birth country": "Cuba",
         race: "W",
-        notes: "",
       },
     },
     {
@@ -1542,6 +1540,7 @@ export const car_lat_am = {
         coordinates: [-84.3983617, 33.7444686],
       },
       properties: {
+        id: "6040e269",
         "first name": "M",
         "last name": "Tryaille",
         "street #": "42",
@@ -1550,7 +1549,6 @@ export const car_lat_am = {
         sex: "male",
         "birth country": "Cuba",
         race: "W",
-        notes: "",
       },
     },
     {
@@ -1560,6 +1558,7 @@ export const car_lat_am = {
         coordinates: [-84.3899182, 33.7481666],
       },
       properties: {
+        id: "3247e09c",
         "first name": "Josefa",
         "last name": "Vidal",
         "street #": "81",
@@ -1568,7 +1567,6 @@ export const car_lat_am = {
         sex: "female",
         "birth country": "Cuba",
         race: "W",
-        notes: "",
       },
     },
     {
@@ -1578,6 +1576,7 @@ export const car_lat_am = {
         coordinates: [-84.3899182, 33.7481666],
       },
       properties: {
+        id: "1a1aa85e",
         "first name": "BL",
         "last name": "Zuazo",
         "street #": "81",
@@ -1586,7 +1585,6 @@ export const car_lat_am = {
         sex: "female",
         "birth country": "Cuba",
         race: "W",
-        notes: "",
       },
     },
     {
@@ -1596,6 +1594,7 @@ export const car_lat_am = {
         coordinates: [-84.3899182, 33.7481666],
       },
       properties: {
+        id: "69424d56",
         "first name": "RJ",
         "last name": "Zuazo",
         "street #": "81",
@@ -1604,7 +1603,6 @@ export const car_lat_am = {
         sex: "male",
         "birth country": "Cuba",
         race: "W",
-        notes: "",
       },
     },
     {
@@ -1614,6 +1612,7 @@ export const car_lat_am = {
         coordinates: [-84.3899182, 33.7481666],
       },
       properties: {
+        id: "6da609f5",
         "first name": "De Camps M",
         "last name": "Zuazo",
         "street #": "81",
@@ -1622,7 +1621,6 @@ export const car_lat_am = {
         sex: "female",
         "birth country": "Cuba",
         race: "W",
-        notes: "",
       },
     },
     {
@@ -1632,6 +1630,7 @@ export const car_lat_am = {
         coordinates: [-84.3899182, 33.7481666],
       },
       properties: {
+        id: "1c7fa65d",
         "first name": "Gabriel",
         "last name": "Zuazo",
         "street #": "81",
@@ -1640,7 +1639,6 @@ export const car_lat_am = {
         sex: "male",
         "birth country": "Cuba",
         race: "W",
-        notes: "",
       },
     },
     {
@@ -1650,6 +1648,7 @@ export const car_lat_am = {
         coordinates: [-84.3899182, 33.7481666],
       },
       properties: {
+        id: "19037319",
         "first name": "PE",
         "last name": "Zuazo",
         "street #": "81",
@@ -1658,7 +1657,6 @@ export const car_lat_am = {
         sex: "female",
         "birth country": "Cuba",
         race: "W",
-        notes: "",
       },
     },
     {
@@ -1668,6 +1666,7 @@ export const car_lat_am = {
         coordinates: [-84.3899182, 33.7481666],
       },
       properties: {
+        id: "80528cb5",
         "first name": "F Camps",
         "last name": "Zuazo",
         "street #": "81",
@@ -1676,7 +1675,6 @@ export const car_lat_am = {
         sex: "male",
         "birth country": "Cuba",
         race: "W",
-        notes: "",
       },
     },
     {
@@ -1686,6 +1684,7 @@ export const car_lat_am = {
         coordinates: [-84.3899182, 33.7481666],
       },
       properties: {
+        id: "f9975a91",
         "first name": "PC",
         "last name": "Zuazo",
         "street #": "81",
@@ -1694,7 +1693,6 @@ export const car_lat_am = {
         sex: "male",
         "birth country": "Cuba",
         race: "W",
-        notes: "",
       },
     },
     {
@@ -1704,6 +1702,7 @@ export const car_lat_am = {
         coordinates: [-84.3899182, 33.7481666],
       },
       properties: {
+        id: "9b772d6e",
         "first name": "Ockavis",
         "last name": "Zuazo",
         "street #": "81",
@@ -1712,7 +1711,6 @@ export const car_lat_am = {
         sex: "male",
         "birth country": "Cuba",
         race: "W",
-        notes: "",
       },
     },
     {
@@ -1722,6 +1720,7 @@ export const car_lat_am = {
         coordinates: [-84.35419, 33.757882],
       },
       properties: {
+        id: "4e3c8a89",
         "first name": "Beatrice",
         "last name": "Fourcant",
         "street #": "25",
@@ -1730,7 +1729,6 @@ export const car_lat_am = {
         sex: "female",
         "birth country": "Mexico",
         race: "W",
-        notes: "",
       },
     },
     {
@@ -1740,6 +1738,7 @@ export const car_lat_am = {
         coordinates: [-84.3860416, 33.7607367],
       },
       properties: {
+        id: "acb267e7",
         "first name": "WS",
         "last name": "Rose",
         "street #": "207",
@@ -1748,7 +1747,6 @@ export const car_lat_am = {
         sex: "male",
         "birth country": "Mexico",
         race: "W",
-        notes: "",
       },
     },
     {
@@ -1758,6 +1756,7 @@ export const car_lat_am = {
         coordinates: [-84.35419, 33.757882],
       },
       properties: {
+        id: "3064af0b",
         "first name": "Theresa",
         "last name": "Sitra",
         "street #": "25",
@@ -1766,7 +1765,6 @@ export const car_lat_am = {
         sex: "female",
         "birth country": "Mexico",
         race: "W",
-        notes: "",
       },
     },
     {
@@ -1776,6 +1774,7 @@ export const car_lat_am = {
         coordinates: [-84.3860953, 33.7566782],
       },
       properties: {
+        id: "9427c399",
         "first name": "D Rios",
         "last name": "Zertucker",
         "street #": "102",
@@ -1784,7 +1783,6 @@ export const car_lat_am = {
         sex: "male",
         "birth country": "Mexico",
         race: "W",
-        notes: "",
       },
     },
     {
@@ -1794,6 +1792,7 @@ export const car_lat_am = {
         coordinates: [-84.3888643, 33.7707256],
       },
       properties: {
+        id: "907c76e6",
         "first name": "Camilla",
         "last name": "Leftwich",
         "street #": "519",
@@ -1802,8 +1801,6 @@ export const car_lat_am = {
         sex: "female",
         "birth country": "Sandwich Isl.",
         race: "W",
-        notes:
-          "divorced husband (Thomas James Leftwich) in big scandal, moved to DC",
       },
     },
     {
@@ -1813,6 +1810,7 @@ export const car_lat_am = {
         coordinates: [-84.412293, 33.74636],
       },
       properties: {
+        id: "5cdfe9df",
         "first name": "ME",
         "last name": "Atherton",
         "street #": "",
@@ -1821,7 +1819,6 @@ export const car_lat_am = {
         sex: "female",
         "birth country": "West Indies",
         race: "C",
-        notes: "",
       },
     },
     {
@@ -1831,6 +1828,7 @@ export const car_lat_am = {
         coordinates: [-84.3757961, 33.7555006],
       },
       properties: {
+        id: "8014ffda",
         "first name": "W[illiam] A",
         "last name": "Greene",
         "street #": "271",
@@ -1839,7 +1837,6 @@ export const car_lat_am = {
         sex: "male",
         "birth country": "West Indies",
         race: "C",
-        notes: "",
       },
     },
     {
@@ -1849,6 +1846,7 @@ export const car_lat_am = {
         coordinates: [-84.3757961, 33.7555006],
       },
       properties: {
+        id: "6d2334fe",
         "first name": "Mary",
         "last name": "Greene",
         "street #": "271",
@@ -1857,7 +1855,6 @@ export const car_lat_am = {
         sex: "female",
         "birth country": "West Indies",
         race: "C",
-        notes: "",
       },
     },
     {
@@ -1867,6 +1864,7 @@ export const car_lat_am = {
         coordinates: [-84.3924026, 33.7393601],
       },
       properties: {
+        id: "8a349714",
         "first name": "F[annie] B",
         "last name": "Murray",
         "street #": "214",
@@ -1875,7 +1873,6 @@ export const car_lat_am = {
         sex: "female",
         "birth country": "West Indies",
         race: "W",
-        notes: "1900cen: Fannie -- b.Trinidad?",
       },
     },
   ],

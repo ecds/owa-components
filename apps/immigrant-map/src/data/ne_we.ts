@@ -10,6 +10,7 @@ export const ne_we = {
         coordinates: [-84.3885132, 33.7682685],
       },
       properties: {
+        id: "b3bfab61-b963",
         "first name": "Harry",
         "last name": "Wilcox",
         "street #": "27",
@@ -27,6 +28,7 @@ export const ne_we = {
         coordinates: [-84.3667223, 33.7474133],
       },
       properties: {
+        id: "812261de-80a5",
         "first name": "Gertrude",
         "last name": "Croughs",
         "street #": "59",
@@ -44,6 +46,7 @@ export const ne_we = {
         coordinates: [-84.3667223, 33.7474133],
       },
       properties: {
+        id: "e164ce9a-24ed",
         "first name": "Jane",
         "last name": "Croughs",
         "street #": "59",
@@ -61,6 +64,7 @@ export const ne_we = {
         coordinates: [-84.3667223, 33.7474133],
       },
       properties: {
+        id: "39e45a67-b49b",
         "first name": "J",
         "last name": "Croughs",
         "street #": "59",
@@ -78,6 +82,7 @@ export const ne_we = {
         coordinates: [-84.3878682, 33.736498],
       },
       properties: {
+        id: "e1dda67b-1c63",
         "first name": "Mrs L",
         "last name": "Horine",
         "street #": "346",
@@ -95,6 +100,7 @@ export const ne_we = {
         coordinates: [-84.3874177, 33.7596954],
       },
       properties: {
+        id: "da7a5aae-52a8",
         "first name": "JP",
         "last name": "Borgerhoff",
         "street #": "15",
@@ -112,6 +118,7 @@ export const ne_we = {
         coordinates: [-84.4029432, 33.7632863],
       },
       properties: {
+        id: "c2cbc59a-fb74",
         "first name": "JW",
         "last name": "Lambert",
         "street #": "402",
@@ -129,6 +136,7 @@ export const ne_we = {
         coordinates: [-84.3875943, 33.7580969],
       },
       properties: {
+        id: "0fff3168-a185",
         "first name": "P",
         "last name": "DeGive",
         "street #": "",
@@ -146,6 +154,7 @@ export const ne_we = {
         coordinates: [-84.3875943, 33.7580969],
       },
       properties: {
+        id: "db5656c2-076b",
         "first name": "L[aurent]",
         "last name": "DeGive",
         "street #": "",
@@ -163,6 +172,7 @@ export const ne_we = {
         coordinates: [-84.3905298, 33.7473994],
       },
       properties: {
+        id: "8b6aab0b-f3c2",
         "first name": "Evan",
         "last name": "Goidtsnoven",
         "street #": "111",
@@ -180,6 +190,7 @@ export const ne_we = {
         coordinates: [-84.3667019, 33.752804],
       },
       properties: {
+        id: "9dfaefca-a394",
         "first name": "V",
         "last name": "Corput",
         "street #": "930",
@@ -197,6 +208,7 @@ export const ne_we = {
         coordinates: [-84.3667019, 33.752804],
       },
       properties: {
+        id: "6856c5b2-0519",
         "first name": "Felix",
         "last name": "Corput",
         "street #": "930",
@@ -214,6 +226,7 @@ export const ne_we = {
         coordinates: [-84.3667019, 33.752804],
       },
       properties: {
+        id: "10f8bdbd-f828",
         "first name": "Rex",
         "last name": "Corput",
         "street #": "930",
@@ -231,6 +244,7 @@ export const ne_we = {
         coordinates: [-84.3667019, 33.752804],
       },
       properties: {
+        id: "ef6a1658-f169",
         "first name": "E",
         "last name": "Corput",
         "street #": "930",
@@ -248,6 +262,7 @@ export const ne_we = {
         coordinates: [-84.3667019, 33.752804],
       },
       properties: {
+        id: "3905793d-21ff",
         "first name": "GM",
         "last name": "Corput",
         "street #": "930",
@@ -265,6 +280,7 @@ export const ne_we = {
         coordinates: [-84.3667019, 33.752804],
       },
       properties: {
+        id: "4a1d2b39-ecd7",
         "first name": "Mrs",
         "last name": "Corput",
         "street #": "930",
@@ -282,6 +298,7 @@ export const ne_we = {
         coordinates: [-84.3667019, 33.752804],
       },
       properties: {
+        id: "69bbf388-543f",
         "first name": "Mattie",
         "last name": "Corput",
         "street #": "930",
@@ -299,6 +316,7 @@ export const ne_we = {
         coordinates: [-84.3667019, 33.752804],
       },
       properties: {
+        id: "655ddf3b-7bcc",
         "first name": "MD",
         "last name": "Corput",
         "street #": "930",
@@ -316,6 +334,7 @@ export const ne_we = {
         coordinates: [-84.3709331, 33.7542681],
       },
       properties: {
+        id: "6ac6bfdf-2f07",
         "first name": "Jas",
         "last name": "Christian",
         "street #": "414",
@@ -333,6 +352,7 @@ export const ne_we = {
         coordinates: [-84.3803821, 33.7573731],
       },
       properties: {
+        id: "08c7225a-6beb",
         "first name": "L",
         "last name": "Drasbeck",
         "street #": "165",
@@ -350,6 +370,7 @@ export const ne_we = {
         coordinates: [-84.3803821, 33.7573731],
       },
       properties: {
+        id: "8600a08f-9cc7",
         "first name": "HC",
         "last name": "Drasbeck",
         "street #": "165",
@@ -367,6 +388,7 @@ export const ne_we = {
         coordinates: [-84.3803821, 33.7573731],
       },
       properties: {
+        id: "ecc3da4f-9eba",
         "first name": "Geo",
         "last name": "Hansen",
         "street #": "165",
@@ -384,6 +406,7 @@ export const ne_we = {
         coordinates: [-84.3803821, 33.7573731],
       },
       properties: {
+        id: "22dad8b1-28e0",
         "first name": "HG",
         "last name": "Hansen",
         "street #": "165",
@@ -401,6 +424,7 @@ export const ne_we = {
         coordinates: [-84.3968563, 33.7588535],
       },
       properties: {
+        id: "f5661570-a36b",
         "first name": "Chas",
         "last name": "Hoffman",
         "street #": "71",
@@ -418,6 +442,7 @@ export const ne_we = {
         coordinates: [-84.3822645, 33.755313],
       },
       properties: {
+        id: "ed12b2aa-1361",
         "first name": "A",
         "last name": "Pauli",
         "street #": "123",
@@ -435,6 +460,7 @@ export const ne_we = {
         coordinates: [-84.3822645, 33.755313],
       },
       properties: {
+        id: "41849093-47ea",
         "first name": "A",
         "last name": "Pauli",
         "street #": "123",
@@ -452,6 +478,7 @@ export const ne_we = {
         coordinates: [-84.3910769, 33.739959],
       },
       properties: {
+        id: "f5e0736b-9b1e",
         "first name": "MM",
         "last name": "Lynne",
         "street #": "311",
@@ -469,6 +496,7 @@ export const ne_we = {
         coordinates: [-84.3904465, 33.751139],
       },
       properties: {
+        id: "3655d3ad-72ac",
         "first name": "TS",
         "last name": "Crapp",
         "street #": "46",
@@ -486,6 +514,7 @@ export const ne_we = {
         coordinates: [-84.3843164, 33.7527336],
       },
       properties: {
+        id: "31b1ca84-7682",
         "first name": "A",
         "last name": "Harris",
         "street #": "62",
@@ -503,6 +532,7 @@ export const ne_we = {
         coordinates: [-84.3836033, 33.7712732],
       },
       properties: {
+        id: "fd24ab11-467d",
         "first name": "JD",
         "last name": "Polak",
         "street #": "90",
@@ -520,6 +550,7 @@ export const ne_we = {
         coordinates: [-84.4056686, 33.7686342],
       },
       properties: {
+        id: "9510bead-90f9",
         "first name": "H",
         "last name": "Lindberg",
         "street #": "43",
@@ -537,6 +568,7 @@ export const ne_we = {
         coordinates: [-84.3904441, 33.763322],
       },
       properties: {
+        id: "d9e68e59-c40d",
         "first name": "FC",
         "last name": "Johnson",
         "street #": "56",
@@ -554,6 +586,7 @@ export const ne_we = {
         coordinates: [-84.3750083, 33.7664769],
       },
       properties: {
+        id: "e8585fee-1dd1",
         "first name": "Isabelle",
         "last name": "Fitch",
         "street #": "85",
@@ -571,6 +604,7 @@ export const ne_we = {
         coordinates: [-84.3750083, 33.7664769],
       },
       properties: {
+        id: "28833a40-bfbb",
         "first name": "JC",
         "last name": "Fitch",
         "street #": "85",
@@ -588,6 +622,7 @@ export const ne_we = {
         coordinates: [-84.3877716, 33.7445989],
       },
       properties: {
+        id: "83baf500-39b5",
         "first name": "MA",
         "last name": "Karsten",
         "street #": "132",
@@ -605,6 +640,7 @@ export const ne_we = {
         coordinates: [-84.3877824, 33.742993],
       },
       properties: {
+        id: "1ab74db9-c60a",
         "first name": "WO",
         "last name": "Roberts",
         "street #": "172",
@@ -622,6 +658,7 @@ export const ne_we = {
         coordinates: [-84.4124045, 33.7753832],
       },
       properties: {
+        id: "a3349140-7ffd",
         "first name": "Math",
         "last name": "Schultz",
         "street #": "572",
@@ -639,6 +676,7 @@ export const ne_we = {
         coordinates: [-84.4124045, 33.7753832],
       },
       properties: {
+        id: "5f6c4024-8eff",
         "first name": "Aug",
         "last name": "Schultz",
         "street #": "572",
@@ -656,6 +694,7 @@ export const ne_we = {
         coordinates: [-84.4123991, 33.7760967],
       },
       properties: {
+        id: "580a481f-7055",
         "first name": "Selma",
         "last name": "Faust",
         "street #": "580",
@@ -673,6 +712,7 @@ export const ne_we = {
         coordinates: [-84.4123991, 33.7760967],
       },
       properties: {
+        id: "370c0bc3-23aa",
         "first name": "GA",
         "last name": "Faust",
         "street #": "580",
@@ -690,6 +730,7 @@ export const ne_we = {
         coordinates: [-84.3842828, 33.7554094],
       },
       properties: {
+        id: "99f392dc-2402",
         "first name": "Ed",
         "last name": "Bergstrom",
         "street #": "124",
@@ -707,6 +748,7 @@ export const ne_we = {
         coordinates: [-84.4109722, 33.7439011],
       },
       properties: {
+        id: "d30db246-79a8",
         "first name": "Mrs. Alice",
         "last name": "Randolph",
         "street #": "38",
@@ -724,6 +766,7 @@ export const ne_we = {
         coordinates: [-84.412721, 33.7461671],
       },
       properties: {
+        id: "913d27bd-ee6b",
         "first name": "Mrs",
         "last name": "Oldstone",
         "street #": "78",
@@ -741,6 +784,7 @@ export const ne_we = {
         coordinates: [-84.3904465, 33.751139],
       },
       properties: {
+        id: "6b2d8a1e-edb8",
         "first name": "Mrs H",
         "last name": "Rice",
         "street #": "46",
@@ -758,6 +802,7 @@ export const ne_we = {
         coordinates: [-84.387121, 33.7712965],
       },
       properties: {
+        id: "a4c93136-4084",
         "first name": "Paul",
         "last name": "Romare",
         "street #": "11",
@@ -775,6 +820,7 @@ export const ne_we = {
         coordinates: [-84.3706756, 33.754286],
       },
       properties: {
+        id: "53fd6d2e-9108",
         "first name": "JC",
         "last name": "Willberger",
         "street #": "416",
@@ -792,6 +838,7 @@ export const ne_we = {
         coordinates: [-84.3957905, 33.7384331],
       },
       properties: {
+        id: "a21e82f9-4d1c",
         "first name": "Erica",
         "last name": "Tenning",
         "street #": "251",
@@ -809,6 +856,7 @@ export const ne_we = {
         coordinates: [-84.3904002, 33.7558687],
       },
       properties: {
+        id: "1dd17153-c328",
         "first name": "FO",
         "last name": "Gustafson",
         "street #": "40 1/2",
@@ -826,6 +874,7 @@ export const ne_we = {
         coordinates: [-84.3687636, 33.7613313],
       },
       properties: {
+        id: "8487f9a6-ab84",
         "first name": "Mrs",
         "last name": "Newnen",
         "street #": "226",
@@ -843,6 +892,7 @@ export const ne_we = {
         coordinates: [-84.4027504, 33.7681526],
       },
       properties: {
+        id: "a77b3a24-3b67",
         "first name": "TS",
         "last name": "Hestrum",
         "street #": "50",
@@ -860,6 +910,7 @@ export const ne_we = {
         coordinates: [-84.3895651, 33.7537451],
       },
       properties: {
+        id: "2e483c0a-07c3",
         "first name": "Annie",
         "last name": "Strom",
         "street #": "",
@@ -877,6 +928,7 @@ export const ne_we = {
         coordinates: [-84.3895651, 33.7537451],
       },
       properties: {
+        id: "5f543848-28ae",
         "first name": "GL",
         "last name": "Norrman",
         "street #": "",
@@ -894,6 +946,7 @@ export const ne_we = {
         coordinates: [-84.3909187, 33.7546155],
       },
       properties: {
+        id: "0506d82a-7105",
         "first name": "LE",
         "last name": "Wallinder",
         "street #": "16 1/2",
@@ -911,6 +964,7 @@ export const ne_we = {
         coordinates: [-84.3876322, 33.7565711],
       },
       properties: {
+        id: "504b7d49-4dc2",
         "first name": "Marie",
         "last name": "Larsson",
         "street #": "94",
@@ -928,6 +982,7 @@ export const ne_we = {
         coordinates: [-84.3842386, 33.7525387],
       },
       properties: {
+        id: "9f863d34-02ff",
         "first name": "IS",
         "last name": "Palmer",
         "street #": "40",
@@ -945,6 +1000,7 @@ export const ne_we = {
         coordinates: [-84.4038725, 33.7455199],
       },
       properties: {
+        id: "d3fc8bac-e1b0",
         "first name": "John",
         "last name": "Johnson",
         "street #": "259",
@@ -962,6 +1018,7 @@ export const ne_we = {
         coordinates: [-84.4038725, 33.7455199],
       },
       properties: {
+        id: "02d5dd92-9ccf",
         "first name": "Carl",
         "last name": "Johnson",
         "street #": "259",
@@ -979,6 +1036,7 @@ export const ne_we = {
         coordinates: [-84.4045768, 33.7634122],
       },
       properties: {
+        id: "ef168ba2-bb37",
         "first name": "Judith",
         "last name": "Burke",
         "street #": "528",
@@ -996,6 +1054,7 @@ export const ne_we = {
         coordinates: [-84.4045768, 33.7634122],
       },
       properties: {
+        id: "30e3c0b2-9023",
         "first name": "Mrs",
         "last name": "Carlsen",
         "street #": "528",
@@ -1013,6 +1072,7 @@ export const ne_we = {
         coordinates: [-84.4045768, 33.7634122],
       },
       properties: {
+        id: "bf28c4bd-fa85",
         "first name": "A",
         "last name": "Carlsen",
         "street #": "528",
@@ -1030,6 +1090,7 @@ export const ne_we = {
         coordinates: [-84.393347, 33.7505289],
       },
       properties: {
+        id: "7c698b04-9766",
         "first name": "CG",
         "last name": "Stenfelt",
         "street #": "113.5",
@@ -1047,6 +1108,7 @@ export const ne_we = {
         coordinates: [-84.3959512, 33.7646536],
       },
       properties: {
+        id: "9f05fd52-61dd",
         "first name": "Mrs",
         "last name": "Deladelas",
         "street #": "188",
@@ -1064,6 +1126,7 @@ export const ne_we = {
         coordinates: [-84.3874498, 33.7486847],
       },
       properties: {
+        id: "f732dfd3-caca",
         "first name": "C",
         "last name": "Martin",
         "street #": "17",
@@ -1081,6 +1144,7 @@ export const ne_we = {
         coordinates: [-84.3874498, 33.7486847],
       },
       properties: {
+        id: "62eac290-392b",
         "first name": "Mary",
         "last name": "Martin",
         "street #": "17",
@@ -1098,6 +1162,7 @@ export const ne_we = {
         coordinates: [-84.3815565, 33.7457177],
       },
       properties: {
+        id: "d144ff8b-d3ed",
         "first name": "Lena",
         "last name": "Agricolla",
         "street #": "27",
@@ -1115,6 +1180,7 @@ export const ne_we = {
         coordinates: [-84.3675113, 33.7531174],
       },
       properties: {
+        id: "acc68e00-19e0",
         "first name": "Mary",
         "last name": "George",
         "street #": "18",
@@ -1132,6 +1198,7 @@ export const ne_we = {
         coordinates: [-84.3675113, 33.7531174],
       },
       properties: {
+        id: "fcc97c83-7bb9",
         "first name": "Eugene",
         "last name": "George",
         "street #": "18",
@@ -1149,6 +1216,7 @@ export const ne_we = {
         coordinates: [-84.3675113, 33.7531174],
       },
       properties: {
+        id: "ef5b5724-ed1e",
         "first name": "Mattie",
         "last name": "George",
         "street #": "18",
@@ -1166,6 +1234,7 @@ export const ne_we = {
         coordinates: [-84.3841219, 33.7625898],
       },
       properties: {
+        id: "d8c1fab1-77ed",
         "first name": "Caroline",
         "last name": "Tuchscherer",
         "street #": "316",
@@ -1183,6 +1252,7 @@ export const ne_we = {
         coordinates: [-84.3841219, 33.7625898],
       },
       properties: {
+        id: "f4f315d9-f804",
         "first name": "John",
         "last name": "Fuhrer",
         "street #": "316",
@@ -1200,6 +1270,7 @@ export const ne_we = {
         coordinates: [-84.3965113, 33.7469574],
       },
       properties: {
+        id: "6b85621f-ba2b",
         "first name": "L",
         "last name": "Meyer",
         "street #": "15",
@@ -1217,6 +1288,7 @@ export const ne_we = {
         coordinates: [-84.3852031, 33.7468861],
       },
       properties: {
+        id: "d30d22d8-434d",
         "first name": "B[ernard]",
         "last name": "Vignaux",
         "street #": "267",
@@ -1234,6 +1306,7 @@ export const ne_we = {
         coordinates: [-84.3895238, 33.7505949],
       },
       properties: {
+        id: "e224506e-d105",
         "first name": "F",
         "last name": "Bozin",
         "street #": "79",
@@ -1251,6 +1324,7 @@ export const ne_we = {
         coordinates: [-84.39638, 33.7633498],
       },
       properties: {
+        id: "a99d7959-1b25",
         "first name": "W",
         "last name": "Brenner",
         "street #": "210",
@@ -1268,6 +1342,7 @@ export const ne_we = {
         coordinates: [-84.3820821, 33.7433556],
       },
       properties: {
+        id: "77cc71e0-fdad",
         "first name": "CM",
         "last name": "Keisten",
         "street #": "150",
@@ -1285,6 +1360,7 @@ export const ne_we = {
         coordinates: [-84.3876011, 33.7580866],
       },
       properties: {
+        id: "7f518c66-6dbf",
         "first name": "Gabrielle",
         "last name": "Visby",
         "street #": "",
@@ -1302,6 +1378,7 @@ export const ne_we = {
         coordinates: [-84.35419, 33.757882],
       },
       properties: {
+        id: "fd4d3348-1a51",
         "first name": "Augustine",
         "last name": "Fourcant",
         "street #": "25",
@@ -1319,6 +1396,7 @@ export const ne_we = {
         coordinates: [-84.386106, 33.7569101],
       },
       properties: {
+        id: "222bd202-8c35",
         "first name": "E",
         "last name": "Porter",
         "street #": "107",
@@ -1336,6 +1414,7 @@ export const ne_we = {
         coordinates: [-84.386106, 33.7569101],
       },
       properties: {
+        id: "432b0961-9b27",
         "first name": "M",
         "last name": "Porter",
         "street #": "107",
@@ -1353,6 +1432,7 @@ export const ne_we = {
         coordinates: [-84.386106, 33.7569101],
       },
       properties: {
+        id: "34236f97-90e0",
         "first name": "E",
         "last name": "Porter",
         "street #": "107",
@@ -1370,6 +1450,7 @@ export const ne_we = {
         coordinates: [-84.3614915, 33.7490689],
       },
       properties: {
+        id: "184ecead-9a6b",
         "first name": "Leon",
         "last name": "Bowzyes",
         "street #": "19",
@@ -1387,6 +1468,7 @@ export const ne_we = {
         coordinates: [-84.3851247, 33.7454768],
       },
       properties: {
+        id: "437b76a7-5c32",
         "first name": "Sarah",
         "last name": "Cokolo",
         "street #": "5",
@@ -1404,6 +1486,7 @@ export const ne_we = {
         coordinates: [-84.3851247, 33.7454768],
       },
       properties: {
+        id: "82fc2beb-1ea5",
         "first name": "CV",
         "last name": "Cokolo",
         "street #": "5",
@@ -1421,6 +1504,7 @@ export const ne_we = {
         coordinates: [-84.3979336, 33.7482387],
       },
       properties: {
+        id: "b780c7c1-afd2",
         "first name": "Mrs",
         "last name": "Sugarman",
         "street #": "192",
@@ -1438,6 +1522,7 @@ export const ne_we = {
         coordinates: [-84.3917558, 33.7560779],
       },
       properties: {
+        id: "0ab02325-493f",
         "first name": "Leona",
         "last name": "Rigutti",
         "street #": "72",
@@ -1455,6 +1540,7 @@ export const ne_we = {
         coordinates: [-84.3917558, 33.7560779],
       },
       properties: {
+        id: "d8de519b-b9b3",
         "first name": "D",
         "last name": "Cator",
         "street #": "72",
@@ -1472,6 +1558,7 @@ export const ne_we = {
         coordinates: [-84.3875529, 33.7611773],
       },
       properties: {
+        id: "973d3c5d-f595",
         "first name": "E",
         "last name": "Riordan",
         "street #": "258",
@@ -1489,6 +1576,7 @@ export const ne_we = {
         coordinates: [-84.3875529, 33.7611773],
       },
       properties: {
+        id: "2f43f934-4075",
         "first name": "C",
         "last name": "Riordan",
         "street #": "258",
@@ -1506,6 +1594,7 @@ export const ne_we = {
         coordinates: [-84.3875529, 33.7611773],
       },
       properties: {
+        id: "90bb07bc-14f0",
         "first name": "V",
         "last name": "Riordan",
         "street #": "258",
@@ -1523,6 +1612,7 @@ export const ne_we = {
         coordinates: [-84.3875529, 33.7611773],
       },
       properties: {
+        id: "bd47c0b3-418c",
         "first name": "Mr",
         "last name": "Joegersom",
         "street #": "258",
@@ -1540,6 +1630,7 @@ export const ne_we = {
         coordinates: [-84.3875529, 33.7611773],
       },
       properties: {
+        id: "f5b0e469-74f0",
         "first name": "Mrs",
         "last name": "Riordan",
         "street #": "258",
@@ -1557,6 +1648,7 @@ export const ne_we = {
         coordinates: [-84.3853856, 33.767278],
       },
       properties: {
+        id: "189e59bb-04fa",
         "first name": "B",
         "last name": "Devinew",
         "street #": "428",
@@ -1574,6 +1666,7 @@ export const ne_we = {
         coordinates: [-84.3853856, 33.767278],
       },
       properties: {
+        id: "06b8204a-1365",
         "first name": "Mrs",
         "last name": "Devinew",
         "street #": "428",
@@ -1591,6 +1684,7 @@ export const ne_we = {
         coordinates: [-84.3853856, 33.767278],
       },
       properties: {
+        id: "c18fdbca-04e6",
         "first name": "L",
         "last name": "Devinew",
         "street #": "428",
@@ -1608,6 +1702,7 @@ export const ne_we = {
         coordinates: [-84.3929041, 33.7441886],
       },
       properties: {
+        id: "f6c43ac8-476c",
         "first name": "Mrs S",
         "last name": "Dreyfus",
         "street #": "202",
@@ -1625,6 +1720,7 @@ export const ne_we = {
         coordinates: [-84.398306, 33.7442689],
       },
       properties: {
+        id: "519c6554-561b",
         "first name": "Carol",
         "last name": "O'Neal",
         "street #": "335",
@@ -1642,6 +1738,7 @@ export const ne_we = {
         coordinates: [-84.3975268, 33.7474499],
       },
       properties: {
+        id: "9dc37c13-8e8f",
         "first name": "A",
         "last name": "May",
         "street #": "218",
@@ -1659,6 +1756,7 @@ export const ne_we = {
         coordinates: [-84.3975268, 33.7474499],
       },
       properties: {
+        id: "20ef136b-7347",
         "first name": "Jennie",
         "last name": "May",
         "street #": "218",
@@ -1676,6 +1774,7 @@ export const ne_we = {
         coordinates: [-84.3975268, 33.7474499],
       },
       properties: {
+        id: "bc24e886-50e1",
         "first name": "Malvina",
         "last name": "May",
         "street #": "218",
@@ -1693,6 +1792,7 @@ export const ne_we = {
         coordinates: [-84.3879282, 33.7633086],
       },
       properties: {
+        id: "01f94b68-1a29",
         "first name": "F",
         "last name": "Sudan",
         "street #": "18",
@@ -1710,6 +1810,7 @@ export const ne_we = {
         coordinates: [-84.4041019, 33.7632685],
       },
       properties: {
+        id: "22be3398-55be",
         "first name": "Mrs E",
         "last name": "Jackson",
         "street #": "454",
@@ -1727,6 +1828,7 @@ export const ne_we = {
         coordinates: [-84.4041019, 33.7632685],
       },
       properties: {
+        id: "59c325d9-6555",
         "first name": "John",
         "last name": "Houe",
         "street #": "454",
@@ -1744,6 +1846,7 @@ export const ne_we = {
         coordinates: [-84.4041019, 33.7632685],
       },
       properties: {
+        id: "112795cd-7397",
         "first name": "Rosa",
         "last name": "Houe",
         "street #": "454",
@@ -1761,6 +1864,7 @@ export const ne_we = {
         coordinates: [-84.4026746, 33.743775],
       },
       properties: {
+        id: "54c4d010-b3fd",
         "first name": "Louis",
         "last name": "Devineau",
         "street #": "16",
@@ -1778,6 +1882,7 @@ export const ne_we = {
         coordinates: [-84.3875943, 33.7580969],
       },
       properties: {
+        id: "d7e1f7c6-0e42",
         "first name": "Augustus",
         "last name": "Bizen",
         "street #": "",
@@ -1795,6 +1900,7 @@ export const ne_we = {
         coordinates: [-84.3875943, 33.7580969],
       },
       properties: {
+        id: "f563abf1-91af",
         "first name": "Marie",
         "last name": "Bizen",
         "street #": "",
@@ -1812,6 +1918,7 @@ export const ne_we = {
         coordinates: [-84.3943913, 33.7501282],
       },
       properties: {
+        id: "f386ed3e-1216",
         "first name": "Jemmie",
         "last name": "Kries",
         "street #": "18",
@@ -1829,6 +1936,7 @@ export const ne_we = {
         coordinates: [-84.3953018, 33.7677241],
       },
       properties: {
+        id: "2a242b4d-433e",
         "first name": "Arthur",
         "last name": "Rochez",
         "street #": "101",
@@ -1846,6 +1954,7 @@ export const ne_we = {
         coordinates: [-84.4001484, 33.7473009],
       },
       properties: {
+        id: "e8df944f-680f",
         "first name": "Chas",
         "last name": "Simmons",
         "street #": "52",
@@ -1863,6 +1972,7 @@ export const ne_we = {
         coordinates: [-84.3942406, 33.7596243],
       },
       properties: {
+        id: "51dea476-fb0a",
         "first name": "Mrs",
         "last name": "Symmes",
         "street #": "153",
@@ -1880,6 +1990,7 @@ export const ne_we = {
         coordinates: [-84.3910939, 33.7532675],
       },
       properties: {
+        id: "a0b7ad76-b627",
         "first name": "Marie",
         "last name": "Mazade",
         "street #": "16 1/2",
@@ -1897,6 +2008,7 @@ export const ne_we = {
         coordinates: [-84.3910939, 33.7532675],
       },
       properties: {
+        id: "99b3d55a-6435",
         "first name": "Louis",
         "last name": "Mazade",
         "street #": "16 1/2",
@@ -1914,6 +2026,7 @@ export const ne_we = {
         coordinates: [-84.3943984, 33.7492175],
       },
       properties: {
+        id: "9d142f0c-d104",
         "first name": "J",
         "last name": "Kreis",
         "street #": "169",
@@ -1931,6 +2044,7 @@ export const ne_we = {
         coordinates: [-84.4056422, 33.7429371],
       },
       properties: {
+        id: "412118dd-d12c",
         "first name": "Anna",
         "last name": "Etchart",
         "street #": "490",
@@ -1948,6 +2062,7 @@ export const ne_we = {
         coordinates: [-84.3983403, 33.7354219],
       },
       properties: {
+        id: "acae207b-de07",
         "first name": "CJ",
         "last name": "Jeffrey",
         "street #": "304",
@@ -1965,6 +2080,7 @@ export const ne_we = {
         coordinates: [-84.3673125, 33.7454588],
       },
       properties: {
+        id: "bc3d480d-89f2",
         "first name": "Jos",
         "last name": "Hinks",
         "street #": "658",
@@ -1982,6 +2098,7 @@ export const ne_we = {
         coordinates: [-84.374866, 33.7508012],
       },
       properties: {
+        id: "0abd2c64-a691",
         "first name": "Sarah",
         "last name": "Eleas",
         "street #": "13",
