@@ -1,9 +1,13 @@
-import { useEffect, useRef, useState } from "react";
+import "maplibre-gl/dist/maplibre-gl.css";
+
 import { WarpedMapLayer } from "@allmaps/maplibre";
 import { filterByDate } from "@openhistoricalmap/maplibre-gl-dates";
-import "maplibre-gl/dist/maplibre-gl.css";
-import maplibregl, { LngLatBounds, Map } from "maplibre-gl";
+import maplibregl, { LngLatBounds } from "maplibre-gl";
+import { useEffect, useRef, useState } from "react";
+
 import { ohm } from "@owa-components/utils";
+
+import type { Map } from "maplibre-gl";
 
 const SHEETS = [
   1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22,

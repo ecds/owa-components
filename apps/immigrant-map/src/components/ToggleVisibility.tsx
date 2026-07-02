@@ -1,5 +1,7 @@
-import type { Map } from "maplibre-gl";
+import { MapMinus, MapPlus } from "lucide-react";
 import { useEffect, useState } from "react";
+
+import type { Map } from "maplibre-gl";
 
 interface Props {
   map: Map | undefined;
@@ -19,7 +21,16 @@ const ToggleVisibility = ({ map, layerId, label }: Props) => {
       className={`w-[calc(100%-2rem)] text-left flex gap-2 ms-4 border border-black/60 cursor-pointer p-1 hover:opacity-100`}
       onClick={() => setVisible(!visible)}
     >
-      {visible ? "Hide" : "Show"} {label}
+      {visible ? (
+        <>
+          <MapMinus size={16} /> Hide
+        </>
+      ) : (
+        <>
+          <MapPlus size={16} /> Show
+        </>
+      )}{" "}
+      {label}
     </button>
   );
 };

@@ -1,10 +1,13 @@
-import { LngLat, LngLatBounds, Marker } from "maplibre-gl";
-import { useEffect, useRef, useState } from "react";
-import { baseMap } from "@owa-components/utils";
-import { maskLayer, maskSource, wpfGeoJson } from "./geojson/mask";
-import type { Map } from "maplibre-gl";
-
 import "maplibre-gl/dist/maplibre-gl.css";
+
+import { LngLat, Marker } from "maplibre-gl";
+import { useEffect, useRef, useState } from "react";
+
+import { baseMap } from "@owa-components/utils";
+
+import { maskLayer, maskSource, wpfGeoJson } from "./geojson/mask";
+
+import type { Map } from "maplibre-gl";
 
 const App = () => {
   const [mapLoaded, setMapLoaded] = useState<boolean>(false);

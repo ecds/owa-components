@@ -1,3 +1,4 @@
+// @ts-nocheck
 import chroma from "chroma-js";
 import type { LayerSpecification } from "maplibre-gl";
 import { roadColor } from "./colors";

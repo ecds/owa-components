@@ -19,6 +19,7 @@
     "@owa-components/vite-config": "workspace:*",
     "@types/react": "^19.1.2",
     "@types/react-dom": "^19.1.2",
+    "eslint": "^10.6.0",
     "maplibre-gl": "^5.4.0",
     "typescript": "~5.8.3",
     "vite": "^6.3.5"

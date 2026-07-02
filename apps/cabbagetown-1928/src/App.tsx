@@ -1,10 +1,14 @@
-import { useEffect, useRef, useState } from "react";
-import { baseMap } from "@owa-components/utils";
+import "maplibre-gl/dist/maplibre-gl.css";
+
 import { LngLat } from "maplibre-gl";
+import { useEffect, useRef, useState } from "react";
+
+import { baseMap } from "@owa-components/utils";
 import { atl1928 } from "@owa-components/utils";
+
 import { buildingStyle } from "./buildings";
 import { model } from "./model";
-import "maplibre-gl/dist/maplibre-gl.css";
+
 import type { Map } from "maplibre-gl";
 
 const App = () => {

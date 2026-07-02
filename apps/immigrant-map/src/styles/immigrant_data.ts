@@ -1,6 +1,7 @@
-import type { StyleSpecification } from "maplibre-gl";
 import { immigrants } from "../data";
 import { immigrantGroups } from "../data/groups";
+
+import type { StyleSpecification } from "maplibre-gl";
 
 export const immigrantData = {
   version: 8,
@@ -25,10 +26,10 @@ export const immigrantData = {
           10,
           5,
           // At zoom level 16, the circle is 50 pixels
-          16,
-          8,
+          20,
+          2,
         ],
-        "circle-stroke-color": "lightgray",
+        "circle-stroke-color": "darkgray",
         "circle-stroke-width": 1,
         "circle-color": [
           "match",

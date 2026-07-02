@@ -1,6 +1,9 @@
-import { useEffect, useRef, useState } from "react";
-import { atlas, baseMap } from "@owa-components/utils";
 import "maplibre-gl/dist/maplibre-gl.css";
+
+import { useEffect, useRef, useState } from "react";
+
+import { atlas, baseMap } from "@owa-components/utils";
+
 import type { Map } from "maplibre-gl";
 
 const App = () => {

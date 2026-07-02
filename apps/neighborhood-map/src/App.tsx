@@ -1,8 +1,11 @@
-import { useEffect, useRef, useState } from "react";
-import { baseMap, query } from "@owa-components/utils";
-import { MapTooltip } from "@owa-components/ui";
-import { FilterSpecification, MapGeoJSONFeature } from "maplibre-gl";
 import "maplibre-gl/dist/maplibre-gl.css";
+
+import { useEffect, useRef, useState } from "react";
+
+import { MapTooltip } from "@owa-components/ui";
+import { baseMap, query } from "@owa-components/utils";
+
+import type { FilterSpecification, MapGeoJSONFeature } from "maplibre-gl";
 import type { Map, MapLayerMouseEvent } from "maplibre-gl";
 
 const source = "atl-neighborhoods";

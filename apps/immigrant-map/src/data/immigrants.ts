@@ -1,4 +1,3 @@
-import type { FeatureCollection } from "geojson";
 import { afr } from "./afr";
 import { car_lat_am } from "./car_lat_am";
 import { ce } from "./ce";
@@ -8,6 +7,8 @@ import { gbe } from "./gbe";
 import { irl } from "./irl";
 import { med_meast } from "./med_meast";
 import { ne_we } from "./ne_we";
+
+import type { FeatureCollection } from "geojson";
 
 const sources = [
   { group: "afr", data: afr },

@@ -1,5 +1,5 @@
 import type { FeatureCollection } from "geojson";
-import { AddLayerObject, SourceSpecification, StyleSpecification } from "maplibre-gl";
+import type { AddLayerObject, SourceSpecification, StyleSpecification } from "maplibre-gl";
 export declare const mask: FeatureCollection;
 export declare const wpfGeoJson: () => Promise<FeatureCollection<import("geojson").Geometry, import("geojson").GeoJsonProperties>>;
 export declare const maskSource: SourceSpecification;

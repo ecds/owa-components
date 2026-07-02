@@ -1,11 +1,12 @@
 import {
-  Map,
-  MercatorCoordinate,
   type CustomRenderMethodInput,
+  MercatorCoordinate,
 } from "maplibre-gl";
 import * as THREE from "three";
 import { GLTFLoader } from "three/addons/loaders/GLTFLoader.js";
-import type { CustomLayerInterface } from "maplibre-gl";
+
+import type { CustomLayerInterface ,
+  Map} from "maplibre-gl";
 
 // parameters to ensure the model is georeferenced correctly on the map
 const modelOrigin = [-84.366290048728, 33.7491] as [number, number];

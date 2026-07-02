@@ -1,8 +1,10 @@
 import { useEffect, useState } from "react";
+
 import { immigrantGroups } from "../data/groups";
-import type { Map } from "maplibre-gl";
-import type { ImmigrantGroupKey } from "../data/groups";
 import LegendButton from "./LegendButton";
+
+import type { ImmigrantGroupKey } from "../data/groups";
+import type { Map } from "maplibre-gl";
 
 const Legend = ({ map }: { map: Map | undefined }) => {
   const [selectedGroup, setSelectedGroup] = useState<

@@ -1,6 +1,7 @@
 import { backgroundColor } from "@owa-components/utils/mapStyles/colors";
+
 import type { FeatureCollection } from "geojson";
-import {
+import type {
   AddLayerObject,
   SourceSpecification,
   StyleSpecification,

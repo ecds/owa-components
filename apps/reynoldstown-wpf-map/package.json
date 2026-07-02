@@ -20,6 +20,7 @@
     "@types/geojson": "^7946.0.16",
     "@types/react": "^19.1.2",
     "@types/react-dom": "^19.1.2",
+    "eslint": "^10.6.0",
     "maplibre-gl": "^5.5.0",
     "typescript": "~5.8.3",
     "vite": "^6.3.5"

@@ -1,5 +1,7 @@
 import { useEffect, useState } from "react";
+
 import { immigrantGroups } from "../data/groups";
+
 import type { ImmigrantGroupKey } from "../data/groups";
 import type { Dispatch, SetStateAction } from "react";
 

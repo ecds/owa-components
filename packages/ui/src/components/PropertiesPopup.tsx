@@ -78,7 +78,13 @@ export const OWAPopup = ({ map, coordinates, children, onClose }: Props) => {
 
     if (onClose) popupRef.current.on("close", onClose);
 
+    const handleKeyDown = (e: KeyboardEvent) => {
+      if (e.key === "Escape") popupRef.current?.remove();
+    };
+    document.addEventListener("keydown", handleKeyDown);
+
     return () => {
+      document.removeEventListener("keydown", handleKeyDown);
       if (onClose) popupRef.current?.off("close", onClose);
       popupRef.current?.remove();
       popupRef.current = null;

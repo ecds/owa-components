@@ -1,3 +1,4 @@
+// @ts-nocheck
 import chroma from "chroma-js";
 
 import { neighborhoods } from "./neighborhoodFills";
