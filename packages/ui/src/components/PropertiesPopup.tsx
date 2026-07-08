@@ -1,7 +1,8 @@
-import { Popup, type Map } from "maplibre-gl";
+import { Popup } from "maplibre-gl";
 import { useEffect, useRef } from "react";
 import { createPortal } from "react-dom";
 import "./PropertiesPopup.css";
+import type { Map } from "maplibre-gl";
 import type { CSSProperties, ReactNode } from "react";
 
 interface Props {
@@ -37,7 +38,7 @@ export const PropertiesTable = ({
         {entries.map(([key, value]) => {
           if (key !== "id" && key !== "group") {
             return (
-              <tr key={key}>
+              <tr key={`${key}-${properties.id}`}>
                 <td
                   className=""
                   style={{
@@ -56,7 +57,7 @@ export const PropertiesTable = ({
               </tr>
             );
           }
-          return <></>;
+          return null;
         })}
       </tbody>
     </table>
@@ -68,9 +69,10 @@ export const OWAPopup = ({ map, coordinates, children, onClose }: Props) => {
     document.createElement("div"),
   );
   const popupRef = useRef<Popup | null>(null);
+
   useEffect(() => {
     if (!map || !coordinates) return;
-    popupRef.current = new Popup({ className: "owa-popup" })
+    popupRef.current = new Popup({ className: "owa-popup z-100" })
       .setLngLat(coordinates)
       .setDOMContent(popupContainerRef.current);
 

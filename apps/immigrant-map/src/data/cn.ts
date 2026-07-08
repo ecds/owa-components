@@ -37,8 +37,6 @@ export const cn = {
         sex: "male",
         "birth country": "China",
         race: "Chi",
-        notes:
-          "1896cd: location is Hop Lee; 1900cen: Woo Fousan is laundry, r344 Fair, and location is Lun King, laundry",
       },
     },
     {
@@ -147,8 +145,6 @@ export const cn = {
         sex: "male",
         "birth country": "China",
         race: "Mong",
-        notes:
-          "1896cd: (listed as CK Lung); 1900cen: laundryman, r at this address",
       },
     },
     {
@@ -275,8 +271,6 @@ export const cn = {
         sex: "male",
         "birth country": "China",
         race: "Chi",
-        notes:
-          "1900 cen: C for race, laundryman -- name is Leung Chung so I'm guessing a bit here",
       },
     },
     {
@@ -295,8 +289,6 @@ export const cn = {
         sex: "male",
         "birth country": "China",
         race: "Mong",
-        notes:
-          '1896cd: "laundry, 25 1/2 Washington, r same" (name listed as Qung Lung)',
       },
     },
     {

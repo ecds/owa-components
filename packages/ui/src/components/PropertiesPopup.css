@@ -2,7 +2,7 @@
   filter: drop-shadow(0 10px 8px rgb(0 0 0 / 0.04)) drop-shadow(0 4px 3px rgb(0 0 0 / 0.1));
 }
 
-.owa-popup .maplibregl-popup-content {
+.owa-popup {
   width: 280px;
-  z-index: 99999999999;
+  z-index: 100;
 }

@@ -33,3 +33,7 @@
     --accent: #c084fc;
   }
 }
+
+body {
+  margin: 0;
+}
