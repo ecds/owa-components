@@ -28,12 +28,14 @@ const LegendButton = ({ group, selectedGroup, setSelectedGroup }: Props) => {
   return (
     <button
       key={group}
-      className={`w-[calc(100%-2rem)] text-left hidden md:flex gap-2 ms-4 border border-black/60 cursor-pointer p-1 ${group === "car_lat_am" || group === "irl" || group === "afr" ? "text-black" : "text-white"} ${selectedGroup && !isSelected ? "opacity-60" : "opacity-80"} ${isSelected ? "opacity-100" : ""} hover:opacity-100`}
-      style={{
-        backgroundColor: immigrantGroups[group].color,
-      }}
+      className={`flex items-center gap-2 px-2 py-1 text-left text-sm font-medium text-black whitespace-nowrap ${selectedGroup && !isSelected ? "opacity-60" : "opacity-80"} ${isSelected ? "opacity-100" : ""} hover:opacity-100 disabled:font-bold disabled:text-black`}
+      disabled={isSelected}
       onClick={() => handleClick(group)}
     >
+      <span
+        className="inline-block w-3 h-3 shrink-0 rounded-sm"
+        style={{ backgroundColor: immigrantGroups[group].color }}
+      />
       {immigrantGroups[group].label}
     </button>
   );

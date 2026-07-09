@@ -9,7 +9,12 @@ import { immigrantGroups } from "../data/groups";
 import { immigrantData } from "../styles/immigrant_data";
 
 import type { ImmigrantGroupKey } from "../data/groups";
-import type { Map, MapLayerMouseEvent, StyleSpecification } from "maplibre-gl";
+import type {
+  FilterSpecification,
+  Map,
+  MapLayerMouseEvent,
+  StyleSpecification,
+} from "maplibre-gl";
 
 export const useImmigrantMap = () => {
   const containerRef = useRef<HTMLDivElement>(null);
@@ -35,17 +40,7 @@ export const useImmigrantMap = () => {
         map.once("styledata", () => {
           console.log("make bigger");
           if (!map.getLayer(layer.id)) return;
-          map.setPaintProperty(layer.id, "circle-radius", [
-            "interpolate",
-            ["linear"],
-            ["zoom"],
-            // At zoom level 10, the circle is 5 pixels
-            10,
-            7,
-            // At zoom level 16, the circle is 50 pixels
-            20,
-            4,
-          ]);
+          map.setPaintProperty(layer.id, "circle-radius", 7);
         });
       }
     }
@@ -132,10 +127,11 @@ export const useImmigrantMap = () => {
       }
       // re-apply any active group filter after the layer is (re-)added
       const group = selectedGroupRef.current;
-      map.setFilter(
-        "immigrants",
-        group ? ["==", ["get", "group"], group] : null,
-      );
+      const groupFilter = group ? ["==", ["get", "group"], group] : null;
+      map.setFilter("immigrants", groupFilter as FilterSpecification);
+      if (map.getLayer("immigrants-shadow")) {
+        map.setFilter("immigrants-shadow", groupFilter as FilterSpecification);
+      }
     };
 
     addDataLayers();
@@ -152,10 +148,14 @@ export const useImmigrantMap = () => {
   }, [map]);
 
   useEffect(() => {
-    if (!map || map.getStyle().name === currentStyle.name) return;
-    if (currentStyle.name === "ohm-modern") {
+    if (!map) return;
+
+    if (currentStyle === ohmModern) {
       map.once("styledata", () => filterByDate(map, "1895-01-01"));
     }
+
+    if (map.getStyle().name === currentStyle.name) return;
+
     map.setStyle(currentStyle, { diff: false });
     map.on("styledata", sizeCircles);
 
@@ -169,10 +169,14 @@ export const useImmigrantMap = () => {
       selectedGroupRef.current = group;
       setSelectedGroupState(group);
       if (map?.getLayer("immigrants")) {
-        map.setFilter(
-          "immigrants",
-          group ? ["==", ["get", "group"], group] : null,
-        );
+        const groupFilter = group ? ["==", ["get", "group"], group] : null;
+        map.setFilter("immigrants", groupFilter as FilterSpecification);
+        if (map.getLayer("immigrants-shadow")) {
+          map.setFilter(
+            "immigrants-shadow",
+            groupFilter as FilterSpecification,
+          );
+        }
       }
     },
     [map],

@@ -19,9 +19,9 @@ const Legend = ({ selectedGroup, setSelectedGroup }: Props) => {
   };
 
   return (
-    <>
+    <div className="flex flex-col">
       <button
-        className={`hidden md:flex w-[calc(100%-2rem)] text-left gap-2 ms-4 border border-black/60 text-black p-1 ${selectedGroup ? "cursor-pointer" : "cursor-default"}`}
+        className="px-2 py-1 text-left text-xs font-medium text-black/80 whitespace-nowrap disabled:opacity-40"
         onClick={() => handleSelect(undefined)}
         disabled={selectedGroup ? false : true}
       >
@@ -37,7 +37,7 @@ const Legend = ({ selectedGroup, setSelectedGroup }: Props) => {
           />
         );
       })}
-    </>
+    </div>
   );
 };
 

@@ -25,10 +25,11 @@ export const PropertiesTable = ({
 
   return (
     <table
+      className="w-full"
       style={{
+        width: "220px",
         borderCollapse: "collapse",
         fontSize: "0.75rem",
-        width: "280px",
         marginLeft: "1rem",
         marginRight: "1rem",
         ...style,

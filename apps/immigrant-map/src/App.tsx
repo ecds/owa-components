@@ -2,7 +2,7 @@ import "maplibre-gl/dist/maplibre-gl.css";
 
 import chroma from "chroma-js";
 import { Carousel } from "nuka-carousel";
-import { useRef, useState } from "react";
+import { useState } from "react";
 
 import { OWAPopup, PropertiesTable } from "@owa-components/ui";
 import { atl1895, atl1904, modern, ohmModern } from "@owa-components/utils";
@@ -12,14 +12,13 @@ import CarouselButtons from "./components/CarouselButtons";
 import Legend from "./components/Legend";
 import LegendControl from "./components/LegendControl";
 import { immigrantGroups } from "./data/groups";
+import { useCarouselWheel } from "./hooks/useCarouselWheel";
 import { useImmigrantMap } from "./hooks/useImmigrantMap";
 
 import type { ImmigrantGroupKey } from "./data/groups";
-import type { SlideHandle } from "nuka-carousel";
 
 const App = () => {
   const [baseControlOpen, setBaseControlOpen] = useState<boolean>(false);
-  const carouselRef = useRef<SlideHandle>(null);
   const {
     containerRef,
     currentStyle,
@@ -30,6 +29,8 @@ const App = () => {
     selectedGroup,
     setSelectedGroup,
   } = useImmigrantMap();
+
+  const { carouselRef, wrapperRef: carouselWrapperRef, afterSlide } = useCarouselWheel([selectedProperties]);
 
   const handlePopupClose = () => {
     carouselRef.current?.goToPage(0);
@@ -50,13 +51,13 @@ const App = () => {
                 key={style.name}
                 htmlFor={style.name}
                 className="cursor-pointer text-black/80 text-sm"
-                onClick={() => setCurrentStyle(style)}
               >
                 <input
                   id={style.name}
                   type="radio"
                   name="base-map"
                   checked={currentStyle.name === style.name}
+                  onChange={() => setCurrentStyle(style)}
                 />
                 {style.name}
               </label>
@@ -101,22 +102,20 @@ const App = () => {
               coordinates={selectedCoordinates}
               onClose={handlePopupClose}
             >
+              <div ref={carouselWrapperRef}>
               <Carousel
                 ref={carouselRef}
-                scrollDistance="screen"
                 wrapMode="wrap"
                 showArrows
                 arrows={<CarouselButtons />}
                 initialPage={0}
+                afterSlide={afterSlide}
               >
                 {selectedProperties.map((personProps) => {
                   const group = personProps.group as ImmigrantGroupKey;
                   const color = immigrantGroups[group].color;
                   return (
-                    <div
-                      key={personProps.id as string}
-                      style={{ width: "280px" }}
-                    >
+                    <div key={personProps.id as string}>
                       <PropertiesTable
                         properties={personProps}
                         style={{
@@ -133,6 +132,7 @@ const App = () => {
                   );
                 })}
               </Carousel>
+              </div>
             </OWAPopup>
           )}
         </div>

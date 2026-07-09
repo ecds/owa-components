@@ -12,6 +12,27 @@ export const immigrantData = {
     },
   },
   layers: [
+    // Shadow layer gives circles a sense of depth
+    {
+      id: "immigrants-shadow",
+      source: "immigrants",
+      type: "circle",
+      layout: { visibility: "visible" },
+      paint: {
+        "circle-radius": [
+          "interpolate",
+          ["linear"],
+          ["zoom"],
+          10,
+          9,
+          20,
+          6,
+        ],
+        "circle-blur": 0.6,
+        "circle-color": "rgba(0,0,0,0.35)",
+        "circle-translate": [1, 2],
+      },
+    },
     {
       id: "immigrants",
       source: "immigrants",
@@ -24,13 +45,13 @@ export const immigrantData = {
           ["zoom"],
           // At zoom level 10, the circle is 5 pixels
           10,
-          5,
+          7,
           // At zoom level 16, the circle is 50 pixels
           20,
-          2,
+          4,
         ],
-        "circle-stroke-color": "darkgray",
-        "circle-stroke-width": 1,
+        "circle-stroke-color": "rgba(255,255,255,0.85)",
+        "circle-stroke-width": 1.5,
         "circle-color": [
           "match",
           ["get", "group"],

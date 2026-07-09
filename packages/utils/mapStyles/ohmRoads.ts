@@ -792,7 +792,7 @@ export const ohmRoadLayers = (sourceName = "ohm"): LayerSpecification[] => [
       "line-join": ["step", ["zoom"], "miter", 14, "round"],
     },
     paint: {
-      "line-opacity": ["interpolate", ["linear"], ["zoom"], 10, 0.2, 20, 1],
+      "line-opacity": ["interpolate", ["linear"], ["zoom"], 10, 0.2, 16, 1],
       "line-color": [
         "interpolate",
         ["linear"],
