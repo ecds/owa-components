@@ -19,7 +19,6 @@ export const afr = {
         sex: "male",
         "birth country": '"Africa"',
         race: "C",
-        noes: "from Congo Free State (AtlBapColl 1898)",
       },
     },
     {

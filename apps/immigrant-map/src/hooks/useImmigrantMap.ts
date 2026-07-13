@@ -70,7 +70,7 @@ export const useImmigrantMap = () => {
     _map.on("zoomend", () => console.log(_map.getZoom()));
 
     _map.once("styledata", () => {
-      filterByDate(_map, "1895-01-01");
+      filterByDate(_map, "1905-01-01");
       _map.fitBounds(dataBounds, { padding: 50 });
       mapRef.current = _map;
       setMap(_map);
@@ -151,7 +151,7 @@ export const useImmigrantMap = () => {
     if (!map) return;
 
     if (currentStyle === ohmModern) {
-      map.once("styledata", () => filterByDate(map, "1895-01-01"));
+      map.once("styledata", () => filterByDate(map, "1905-01-01"));
     }
 
     if (map.getStyle().name === currentStyle.name) return;
