@@ -76,7 +76,11 @@ export const useImmigrantMap = () => {
       setMap(_map);
     });
 
+    const ro = new ResizeObserver(() => _map.resize());
+    ro.observe(containerRef.current);
+
     return () => {
+      ro.disconnect();
       _map.remove();
     };
   }, []);

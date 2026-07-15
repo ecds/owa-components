@@ -31,7 +31,7 @@ export const immigrantGroups = {
     color: "rgb(247, 129, 191)",
   },
   car_lat_am: {
-    label: "Caribbean and Latin American",
+    label: "Caribbean and Latin America",
     color: "rgb(255, 255, 51)",
   },
   ce: {
