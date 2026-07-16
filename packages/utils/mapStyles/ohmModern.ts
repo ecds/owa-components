@@ -994,6 +994,39 @@ export const ohmModern: StyleSpecification = {
       },
     },
 
+    // ── Buildings ───────────────────────────────────────────────────────────
+    {
+      id: "building",
+      type: "fill",
+      source: "ohm",
+      "source-layer": "buildings",
+      minzoom: 11,
+      maxzoom: 16,
+      paint: {
+        "fill-color": "hsl(35, 8%, 85%)",
+        "fill-outline-color": "hsl(35, 6%, 79%)",
+      },
+    },
+    {
+      id: "building-3d",
+      type: "fill-extrusion",
+      source: "ohm",
+      "source-layer": "buildings",
+      minzoom: 16,
+      paint: {
+        "fill-extrusion-color": "hsl(35, 8%, 85%)",
+        "fill-extrusion-height": {
+          property: "render_height",
+          type: "identity",
+        },
+        "fill-extrusion-base": {
+          property: "render_min_height",
+          type: "identity",
+        },
+        "fill-extrusion-opacity": 0.8,
+      },
+    },
+
     // ── Road labels ───────────────────────────────────────────────────────────
 
     ...ohmRoadLabelLayers(),

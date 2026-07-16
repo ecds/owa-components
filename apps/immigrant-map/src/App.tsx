@@ -28,12 +28,18 @@ const App = () => {
     setCurrentStyle,
     selectedGroup,
     setSelectedGroup,
+    setSelectedProperties,
   } = useImmigrantMap();
 
-  const { carouselRef, wrapperRef: carouselWrapperRef, afterSlide } = useCarouselWheel([selectedProperties]);
+  const {
+    carouselRef,
+    wrapperRef: carouselWrapperRef,
+    afterSlide,
+  } = useCarouselWheel([selectedProperties]);
 
   const handlePopupClose = () => {
     carouselRef.current?.goToPage(0);
+    setSelectedProperties(null);
   };
 
   return (
@@ -103,35 +109,35 @@ const App = () => {
               onClose={handlePopupClose}
             >
               <div ref={carouselWrapperRef}>
-              <Carousel
-                ref={carouselRef}
-                wrapMode="wrap"
-                showArrows
-                arrows={<CarouselButtons />}
-                initialPage={0}
-                afterSlide={afterSlide}
-              >
-                {selectedProperties.map((personProps) => {
-                  const group = personProps.group as ImmigrantGroupKey;
-                  const color = immigrantGroups[group].color;
-                  return (
-                    <div key={personProps.id as string}>
-                      <PropertiesTable
-                        properties={personProps}
-                        style={{
-                          backgroundColor: chroma(color).alpha(0.15).css(),
-                          borderColor: color,
-                          borderWidth: "2px",
-                          borderCollapse: undefined,
-                          borderStyle: "solid",
-                          marginLeft: "auto",
-                          marginRight: "auto",
-                        }}
-                      />
-                    </div>
-                  );
-                })}
-              </Carousel>
+                <Carousel
+                  ref={carouselRef}
+                  wrapMode="wrap"
+                  showArrows
+                  arrows={<CarouselButtons />}
+                  initialPage={0}
+                  afterSlide={afterSlide}
+                >
+                  {selectedProperties.map((personProps) => {
+                    const group = personProps.group as ImmigrantGroupKey;
+                    const color = immigrantGroups[group].color;
+                    return (
+                      <div key={personProps.id as string}>
+                        <PropertiesTable
+                          properties={personProps}
+                          style={{
+                            backgroundColor: chroma(color).alpha(0.15).css(),
+                            borderColor: color,
+                            borderWidth: "2px",
+                            borderCollapse: undefined,
+                            borderStyle: "solid",
+                            marginLeft: "auto",
+                            marginRight: "auto",
+                          }}
+                        />
+                      </div>
+                    );
+                  })}
+                </Carousel>
               </div>
             </OWAPopup>
           )}
