@@ -60,6 +60,7 @@ export const useImmigrantMap = () => {
       ),
       container: containerRef.current,
       style: ohmModern,
+      cooperativeGestures: true,
     });
 
     _map.on("error", ({ error }) => {
