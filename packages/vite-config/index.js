@@ -1,6 +1,22 @@
+import { createRequire } from "module";
 import { defineConfig } from "vite";
 import react from "@vitejs/plugin-react";
 import tailwindcss from "@tailwindcss/vite";
+
+const require = createRequire(import.meta.url);
+const baseCssPath = require.resolve("./base.css");
+
+function injectTailwindBase() {
+  return {
+    name: "owa-inject-tailwind-base",
+    enforce: "pre",
+    transform(code, id) {
+      if (!id.endsWith(".css") || id.includes("node_modules")) return;
+      if (code.includes("tailwindcss") || code.includes(baseCssPath)) return;
+      return `@import "${baseCssPath}";\n${code}`;
+    },
+  };
+}
 
 /**
  * Base Vite config for WordPress shortcode components.
@@ -19,7 +35,7 @@ export function createWordPressConfig(options = {}) {
 
   return defineConfig({
     base: resolvedBase,
-    plugins: [...(reactless ? [] : [react()]), tailwindcss(), ...extraPlugins],
+    plugins: [...(reactless ? [] : [react()]), tailwindcss(), injectTailwindBase(), ...extraPlugins],
     server: { hmr: true },
     build: {
       target,

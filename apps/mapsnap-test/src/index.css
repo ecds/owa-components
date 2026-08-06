@@ -1,0 +1,5 @@
+@import "@owa-components/vite-config/base.css";
+
+body {
+  margin: 0;
+}

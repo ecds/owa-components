@@ -994,6 +994,91 @@ export const ohmModern: StyleSpecification = {
       },
     },
 
+    // ── Streetcars ───────────────────────────────────────────────────────────
+    {
+      id: "ohm-transit-rail",
+      type: "line",
+      source: "ohm",
+      "source-layer": "transport_lines",
+      minzoom: 13,
+      filter: [
+        "all",
+        [
+          "match",
+          ["get", "type"],
+          ["tram", "subway", "light_rail", "monorail", "funicular"],
+          true,
+          false,
+        ],
+        ["!=", ["get", "usage"], "main"],
+        ["!=", ["coalesce", ["get", "bridge"], 0], 1],
+        ["!=", ["coalesce", ["get", "tunnel"], 0], 1],
+      ],
+      paint: {
+        "line-color": [
+          "interpolate",
+          ["linear"],
+          ["zoom"],
+          13,
+          "white",
+          16,
+          "white",
+        ],
+        "line-width": [
+          "interpolate",
+          ["exponential", 1.5],
+          ["zoom"],
+          10,
+          0.15,
+          20,
+          0.25,
+        ],
+      },
+    },
+
+    {
+      id: "ohm-rail-transit-rails",
+      type: "line",
+      source: "ohm",
+      "source-layer": "transport_lines",
+      minzoom: 13,
+      filter: [
+        "all",
+        [
+          "match",
+          ["get", "type"],
+          ["tram", "subway", "light_rail", "monorail", "funicular"],
+          true,
+          false,
+        ],
+        ["!=", ["get", "usage"], "main"],
+        ["!=", ["coalesce", ["get", "bridge"], 0], 1],
+        ["!=", ["coalesce", ["get", "tunnel"], 0], 1],
+      ],
+      paint: {
+        "line-color": [
+          "interpolate",
+          ["linear"],
+          ["zoom"],
+          13,
+          "white",
+          16,
+          "white",
+        ],
+        "line-dasharray": [0.2, 1],
+        "line-opacity": ["interpolate", ["linear"], ["zoom"], 13.75, 0, 14, 1],
+        "line-width": [
+          "interpolate",
+          ["exponential", 1.5],
+          ["zoom"],
+          9.5,
+          3,
+          20,
+          6,
+        ],
+      },
+    },
+
     // ── Buildings ───────────────────────────────────────────────────────────
     {
       id: "building",

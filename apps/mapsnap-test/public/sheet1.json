@@ -1,0 +1,79 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/georef/1/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://example.org/annotations/Atlanta1928-Sheet1-georef",
+  "type": "AnnotationPage",
+  "items": [
+    {
+      "id": "https://example.org/annotations/Atlanta1928-Sheet1-georef/1",
+      "type": "Annotation",
+      "motivation": "georeferencing",
+      "target": {
+        "type": "SpecificResource",
+        "source": {
+          "id": "https://iiif.ecds.io/iiif/3/Atlanta_1928_Sheet1.tif",
+          "type": "Canvas",
+          "width": 5941,
+          "height": 5874
+        },
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg width=\"5941\" height=\"5874\"><polygon points=\"338,433 5324,433 5324,5415 338,5415\" /></svg>"
+        }
+      },
+      "body": {
+        "type": "FeatureCollection",
+        "transformation": {
+          "type": "polynomial",
+          "options": {
+            "order": 1
+          }
+        },
+        "features": [
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [338, 433]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [-84.416665791546, 33.783335143983]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [5324, 433]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [-84.406654583977, 33.78333044544]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [5324, 5415]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [-84.406675989089, 33.773336447758]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [338, 5415]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [-84.416669979118, 33.773316266527]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}
