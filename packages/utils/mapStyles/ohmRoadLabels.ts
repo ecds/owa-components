@@ -45,7 +45,8 @@ export const ohmRoadLabelLayers = (
       ],
     ],
     layout: {
-      "symbol-placement": "line",
+      "symbol-placement": "line-center",
+      "symbol-spacing": 500,
       "text-field": ["coalesce", ["get", "name:en"], ["get", "name"]],
       "text-font": ["PT Sans Narrow Regular,Inter Regular"],
       "text-letter-spacing": 0.05,
